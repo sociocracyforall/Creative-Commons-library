@@ -8,7 +8,7 @@ We imagine that you might use this source markup to share these books with membe
 Governance and communication
 ----------------------------
 
-The Creative Commons Circle is a helping circle that SoFA created to facilitate this project.  The current members of this helping circle are CJ O'Reilly and John L. Clark.  We invite you to join us in discussing this project on `the Creative Commons Helping Circle Google Group <https://groups.google.com/a/sociocracyforall.org/g/creative.commons.helping.circle>`_.  We also welcome you to use the GitHub tools here (such as `issues <https://github.com/sociocracyforall/Creative-Commons-library/issues>`_ and `pull requests <https://github.com/sociocracyforall/Creative-Commons-library/pulls>`_) to communicate with us and the community about your vision for the future of this library.
+The Creative Commons Circle is a helping circle that SoFA created to facilitate this project.  The current members of this helping circle are CJ O'Reilly and John L. Clark.  We welcome you to use the GitHub tools here (such as `issues <https://github.com/sociocracyforall/Creative-Commons-library/issues>`_ and `pull requests <https://github.com/sociocracyforall/Creative-Commons-library/pulls>`_) to communicate with us and the community about your vision for the future of this library.
 
 The books and other materials
 -----------------------------
@@ -19,10 +19,10 @@ The Creative Commons Circle is focusing first on setting up this project to prov
 
 Diagrams and examples from MVOS are available in `the MVOS Google photo folder <https://photos.app.goo.gl/iH1Qc3yA3eJBTQ1q2>`_.  Examples and templates from WDWD are available on `the WDWD resource page <https://www.sociocracyforall.org/who-decides-who-decides-resource-page/>`_.
 
-Ideas for how to use this project
----------------------------------
+Ideas and guidance for using this project
+-----------------------------------------
 
-We currently imagine using this project in some of the following ways, and we look forward to ideas you and others might add to this list:
+Some ways that you might contribute to this project involve effort that is essentially consistent with the intent of the original author or authors.  We will be able to respond to these types of changes and pull requests quickly.  We maintain the books with this original intent on the main branch of the repository, and we imagine the following types of work to be in this category:
 
 * Feedback and edits with regards to grammar, spelling, and wording
 
@@ -31,3 +31,5 @@ We currently imagine using this project in some of the following ways, and we lo
 * Audiobooks
 
 * New ways to format and present the content of the books
+
+You might make changes or additions to the book that lead to it being a substantially different book, including changes that might describe a different type of Sociocracy.  We look forward to new ideas and directions that you and others might invision for these books, but we might take longer to evaluate pull requests arounds changes like this, and those changes would start off in a separate branch.  Of course, we would still want to stay in communication with you and others affected by your work about how to move forward with incorporating that work.
