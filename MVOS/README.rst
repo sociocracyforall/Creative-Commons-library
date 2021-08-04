@@ -3,7 +3,7 @@
 Many Voices One Song
 ====================
 
-This directory contains materials related to the book "Many Voices One Song" by Ted J. Rau and Jerry Koch-Gonzales.
+This directory contains materials related to the book "Many Voices One Song" by Ted J. Rau and Jerry Koch-Gonzales.  This book is part of the Sociocracy for All (SoFA) `Creative Commons library <https://github.com/sociocracyforall/Creative-Commons-library>`_, which aims to support others in accessing and contributing to SoFA open source texts.  This document describes the process we used to make the markup for this book available and provides information on how you can use these files.
 
 First steps in this process
 ---------------------------
