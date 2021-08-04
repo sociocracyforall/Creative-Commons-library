@@ -8,7 +8,7 @@ We imagine that you might use this source markup to share these books with membe
 Governance and communication
 ----------------------------
 
-The Creative Commons Circle is a helping circle that SoFA created to facilitate this project.  The current members of this helping circle are CJ O'Reilly and John L. Clark.  We welcome you to use the GitHub tools here (such as `issues <https://github.com/sociocracyforall/Creative-Commons-library/issues>`_ and `pull requests <https://github.com/sociocracyforall/Creative-Commons-library/pulls>`_) to communicate with us and the community about your vision for the future of this library.
+The Creative Commons Circle is a helping circle that SoFA created to facilitate this project.  The current members of this helping circle are CJ O'Reilly and John L. Clark.  We invite you to join us in discussing this project on `the Sociocracy For All discussion forum (in the Creative Commons Library category) <https://forums.sociocracyforall.org/c/sociocracy-discussion/sofa-creative-commons-library/37>`_.  We also welcome you to use the GitHub tools here (such as `issues <https://github.com/sociocracyforall/Creative-Commons-library/issues>`_ and `pull requests <https://github.com/sociocracyforall/Creative-Commons-library/pulls>`_) to communicate with us and the community about your vision for the future of this library.
 
 The books and other materials
 -----------------------------
