@@ -80,7 +80,7 @@ based on mutual giving from the heart.</literallayout>
     </epigraph>
   </dedication>
 
-  <preface>
+  <preface xml:id="preface">
     <title>Preface</title>
 
     <para>We all know what deep connection<indexterm>
@@ -247,7 +247,7 @@ based on mutual giving from the heart.</literallayout>
     world!</para>
   </acknowledgements>
 
-  <glossary>
+  <glossary xml:id="glossary">
     <title>Glossary</title>
 
     <glosslist>
@@ -560,7 +560,7 @@ based on mutual giving from the heart.</literallayout>
     </figure>
   </glossary>
 
-  <chapter>
+  <chapter xml:id="overview">
     <title>Sociocracy: Why, What and Who?</title>
 
     <para>Sociocracy is a set of tools and principles that ensure shared
@@ -636,7 +636,7 @@ based on mutual giving from the heart.</literallayout>
     the design principles for distributing power in a way that flows with
     life.</para>
 
-    <section>
+    <section xml:id="values">
       <title>The values under sociocracy</title>
 
       <indexterm>
@@ -1100,7 +1100,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="paradox">
       <title>The paradox of teaching self-governance</title>
 
       <indexterm>
@@ -1220,8 +1220,8 @@ based on mutual giving from the heart.</literallayout>
             <primary>double-linking</primary>
 
             <see>linking</see>
-          </indexterm> (see section <xref linkend="doublelinking"/> on page
-        <xref linkend="doublelinking"/>) makes a circle structure<indexterm>
+          </indexterm> (see section <xref linkend="double-linking"/> on page
+        <xref linkend="double-linking"/>) makes a circle structure<indexterm>
             <primary>circle</primary>
 
             <secondary>circle structure</secondary>
@@ -1308,7 +1308,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="context">
       <title>Sociocracy in context</title>
 
       <section>
@@ -1580,7 +1580,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="using-this-manual">
       <title>How to use this manual</title>
 
       <para>Governance is tricky to teach. The biggest challenge is that one
@@ -1635,7 +1635,7 @@ based on mutual giving from the heart.</literallayout>
       sense once one has first-hand experience. If this does not correspond to
       how you prefer to learn, we can work with you in finding different ways
       to learn, or we can refer you to a coach. (See links to resources in
-      section <xref linkend="contactsofa"/> in the appendix.)</para>
+      section <xref linkend="contact-SoFA"/> in the appendix.)</para>
 
       <section>
         <title>Online resources</title>
@@ -1717,7 +1717,7 @@ based on mutual giving from the heart.</literallayout>
     </section>
   </chapter>
 
-  <chapter>
+  <chapter xml:id="organizational-structure">
     <title>Organizational Structure</title>
 
     <para>In every organization, we need to integrate effectiveness<indexterm>
@@ -1785,7 +1785,7 @@ based on mutual giving from the heart.</literallayout>
     place when the right time comes. Growth (and de-growth) is smooth and
     follows the demand and intention of the organization.</para>
 
-    <section>
+    <section xml:id="circles">
       <title>The circle</title>
 
       <indexterm>
@@ -3324,8 +3324,9 @@ based on mutual giving from the heart.</literallayout>
               <secondary>town government</secondary>
             </indexterm>, we would not expect every resident to be part of the
           administration. (See more thoughts in section <xref
-          linkend="fewandmany"/> on page <xref linkend="fewandmany"/><remark>
-          @@TODO@@: Figure out page references.</remark>.)</para>
+          linkend="few-and-many"/> on page <xref
+          linkend="few-and-many"/><remark> @@TODO@@: Figure out page
+          references.</remark>.)</para>
 
           <para>The tricky point here is that we have to be aware that
           sociocracy was not designed for cases of many members that are not
@@ -3437,7 +3438,7 @@ based on mutual giving from the heart.</literallayout>
           understand what their self-conception looks like and find good
           balance on how much time your circle is willing to devote. (See some
           more comments on “firing” volunteers from only one circle on page
-          <xref linkend="firevolunteers"/><remark> @@TODO@@: Figure out page
+          <xref linkend="volunteers"/><remark> @@TODO@@: Figure out page
           references.</remark>, and more on how to give feedback in chapter
           <xref linkend="feedback"/>.)</para>
         </section>
@@ -3521,8 +3522,8 @@ based on mutual giving from the heart.</literallayout>
           <secondary>double-linking</secondary>
         </indexterm> requires the leader and delegate to be two separate
       individuals. Readers not familiar with double-linking are referred to
-      section <xref linkend="doublelinking"/> on page <xref
-      linkend="doublelinking"/>.</para>
+      section <xref linkend="double-linking"/> on page <xref
+      linkend="double-linking"/>.</para>
 
       <section>
         <title>Circle roles</title>
@@ -3611,7 +3612,7 @@ based on mutual giving from the heart.</literallayout>
                   <primary>delegate</primary>
                 </indexterm> carry information into the circle and out of the
               circle, a feature we call <emphasis>double-linking</emphasis>.
-              (See section <xref linkend="doublelinking"/>.)</para>
+              (See section <xref linkend="double-linking"/>.)</para>
             </listitem>
           </itemizedlist></para>
 
@@ -3786,10 +3787,10 @@ based on mutual giving from the heart.</literallayout>
                 <secondary>parent circle</secondary>
               </indexterm>. Traditionally, the leader is the top-down link
             while the delegate is the bottom-up link (see section <xref
-            linkend="doublelinking"/> on double-linking). In a more horizontal
-            organization, the leader can be proposed by the circle. Either
-            way, the <emphasis role="from-text">receiving</emphasis> circle
-            has to give consent to the selection<indexterm>
+            linkend="double-linking"/> on double-linking). In a more
+            horizontal organization, the leader can be proposed by the circle.
+            Either way, the <emphasis role="from-text">receiving</emphasis>
+            circle has to give consent to the selection<indexterm>
                 <primary>selection</primary>
               </indexterm>.</para>
 
@@ -3997,8 +3998,8 @@ based on mutual giving from the heart.</literallayout>
           role of the secretary (also called the circle administrator) might
           also involve announcing circle meetings, preparing the agenda in
           consultation with other circle members (see section <xref
-          linkend="whomakesagenda"/> on page <xref
-          linkend="whomakesagenda"/><remark> @@TODO@@: Figure out page
+          linkend="meeting-documents"/> on page <xref
+          linkend="meeting-documents"/><remark> @@TODO@@: Figure out page
           references.</remark> on your options of who prepares the meeting
           agenda), and distributing study materials and proposals. The
           secretary also tracks what needs to be on meeting agendas<indexterm>
@@ -4530,7 +4531,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section xml:id="doublelinking">
+    <section xml:id="double-linking">
       <title>Double-linking</title>
 
       <indexterm>
@@ -4903,7 +4904,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="circle-types">
       <title>Types of circles</title>
 
       <indexterm>
@@ -4921,7 +4922,7 @@ based on mutual giving from the heart.</literallayout>
         need to be more differentiated and/or the organization grows, we grow
         into a more complex structure. We will describe the generic set-up
         here. There are some comments on tiny organizations in section <xref
-        linkend="tinyorgs"/>.</para>
+        linkend="tiny-organizations"/>.</para>
 
         <figure xml:id="basicstructure">
           <title>A basic implementation</title>
@@ -5967,7 +5968,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="structure-changes">
       <title>Transitions and variations</title>
 
       <indexterm>
@@ -6959,7 +6960,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="operations">
       <title>Operations – doing the work</title>
 
       <indexterm>
@@ -7011,8 +7012,8 @@ based on mutual giving from the heart.</literallayout>
         </indexterm> is a decision about how they do work in general, which
       makes it policy<indexterm>
           <primary>policy</primary>
-        </indexterm> (see chapter <xref linkend="chapterdecisionmaking"/> on
-      policy making for creating workflow).</para>
+        </indexterm> (see chapter <xref linkend="decision-making"/> on policy
+      making for creating workflow).</para>
 
       <section>
         <title>Coordinating operational work</title>
@@ -7031,9 +7032,9 @@ based on mutual giving from the heart.</literallayout>
         1 can have the tool at 8.30am and member 2 will pick it up at 11.45am
         to bring it to the second construction site unless this is a decision
         we make often (in which case we might want to make policy as a “bulk”
-        decision, see section <xref linkend="chapterdecisionmaking"/> on page
-        <xref linkend="chapterdecisionmaking"/><remark> @@TODO@@: Figure out
-        page references.</remark>).</para>
+        decision, see section <xref linkend="decision-making"/> on page <xref
+        linkend="decision-making"/><remark> @@TODO@@: Figure out page
+        references.</remark>).</para>
 
         <para>Any members who are directly affected by a decision in their
         work will be part of an operational decision<indexterm>
@@ -7222,7 +7223,7 @@ based on mutual giving from the heart.</literallayout>
     </section>
   </chapter>
 
-  <chapter xml:id="chapterdecisionmaking">
+  <chapter xml:id="decision-making">
     <title>Making Policy Decisions</title>
 
     <indexterm>
@@ -7280,7 +7281,7 @@ based on mutual giving from the heart.</literallayout>
       </mediaobject>
     </figure>
 
-    <section>
+    <section xml:id="policy-reasons">
       <title>Why make policy?</title>
 
       <indexterm>
@@ -7509,7 +7510,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="methods-for-deciding">
       <title>Decision-making methods</title>
 
       <section xml:id="decisionmakingmethods">
@@ -8033,7 +8034,7 @@ based on mutual giving from the heart.</literallayout>
               <primary>proposal</primary>
             </indexterm>proposal is not off the table. Having options of how
           to move forward by incorporating the objection (see section <xref
-          linkend="objectionshowto"/>) is a core strength of sociocracy. With
+          linkend="objections-howto"/>) is a core strength of sociocracy. With
           new information and clearer focus, it will be easier to make
           realistic and sustainable decisions.</para>
 
@@ -8495,7 +8496,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section xml:id="decisionmakingsection">
+    <section xml:id="decision-making-steps">
       <title>Making policy – step by step</title>
 
       <indexterm>
@@ -10562,7 +10563,7 @@ based on mutual giving from the heart.</literallayout>
             through the objection<indexterm>
                 <primary>objection</primary>
               </indexterm> process (see section <xref
-            linkend="objectionshowto"/>).<informalfigure role="process">
+            linkend="objections-howto"/>).<informalfigure role="process">
                 <para><emphasis role="bold">Intention:</emphasis> Assess and
                 acknowledge consent/objections.</para>
 
@@ -10812,7 +10813,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="measurement-and-feedback">
       <title>Improving the policy roll-out</title>
 
       <para>We can improve the quality of policy and make
@@ -10929,7 +10930,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section xml:id="objectionshowto">
+    <section xml:id="objections-howto">
       <title>Integrating objections: process</title>
 
       <indexterm>
@@ -11462,7 +11463,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="selection">
       <title>Creating and filling roles (selection process)</title>
 
       <indexterm>
@@ -11547,7 +11548,7 @@ based on mutual giving from the heart.</literallayout>
           <title>Understand phase</title>
 
           <para>The policy-generating process, as described in section <xref
-          linkend="decisionmakingsection"/>, encourages circles to make sure
+          linkend="decision-making-steps"/>, encourages circles to make sure
           the need is fully understood before creating policy. The circle
           might understand the issue and underlying needs well enough and feel
           confident that a role might be the strategy that would meet their
@@ -13498,7 +13499,7 @@ based on mutual giving from the heart.</literallayout>
       <primary>feedback</primary>
     </indexterm>
 
-    <section>
+    <section xml:id="feedback-basics">
       <title>Basic concepts</title>
 
       <indexterm>
@@ -13788,7 +13789,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="feedback-and-change">
       <title>Creating change</title>
 
       <para>Change comes from evaluating past actions and experimenting with
@@ -14107,7 +14108,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="compassion-and-governance">
       <title>Compassionate governance is effective</title>
 
       <indexterm>
@@ -14340,7 +14341,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="feedback-suggestions">
       <title>Increasing feedback</title>
 
       <section>
@@ -14774,7 +14775,7 @@ based on mutual giving from the heart.</literallayout>
         inputs and outputs. If the policy is more in the realm of “code of
         conduct”, we can count complaints, survey happiness and so on. We have
         already talked about metrics in section <xref
-        linkend="objectionshowto"/> on <emphasis role="from-text">measure the
+        linkend="objections-howto"/> on <emphasis role="from-text">measure the
         concern</emphasis> around objections.</para>
 
         <section>
@@ -14974,7 +14975,7 @@ based on mutual giving from the heart.</literallayout>
           a direction: <emphasis role="from-text">“How could we
           amend/change/test the policy to be sure your need can be
           met?”</emphasis> Here are a few examples, similar to the ones
-          already mentioned in section <xref linkend="objectionshowto"/> on
+          already mentioned in section <xref linkend="objections-howto"/> on
           objections<itemizedlist>
               <listitem>
                 <para><emphasis role="from-text">“I am concerned that if we
@@ -15011,7 +15012,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section xml:id="meetingevaluationchapter">
+    <section xml:id="feedback-on-meetings">
       <title>Meeting evaluations</title>
 
       <para>How satisfied are we with the product of the meeting? With the
@@ -15167,7 +15168,7 @@ based on mutual giving from the heart.</literallayout>
       the next meeting.</para>
     </section>
 
-    <section>
+    <section xml:id="performance-reviews">
       <title>Performance reviews</title>
 
       <indexterm>
@@ -15697,7 +15698,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="feedback-and-repair">
       <title>Self-repairing organizations</title>
 
       <indexterm>
@@ -15782,7 +15783,7 @@ based on mutual giving from the heart.</literallayout>
     </section>
   </chapter>
 
-  <chapter>
+  <chapter xml:id="meetings">
     <title>How To Run A Sociocratic Meeting</title>
 
     <indexterm>
@@ -15849,7 +15850,7 @@ based on mutual giving from the heart.</literallayout>
       </mediaobject>
     </figure>
 
-    <section>
+    <section xml:id="meeting-opening">
       <title>Opening</title>
 
       <para>The aim of the opening round is to enter the meeting and be ready
@@ -16263,7 +16264,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="meeting-content">
       <title>Content</title>
 
       <para>We are ready to jump into the content of our meeting! Now we will
@@ -16308,7 +16309,7 @@ based on mutual giving from the heart.</literallayout>
         <para>The decision of what we are going to talk about in a meeting is
         significant. The agenda proposal may have been prepared by someone in
         the circle, for example the facilitator (see section <xref
-        linkend="whomakesagenda"/>), or it might be created in the
+        linkend="meeting-documents"/>), or it might be created in the
         moment.</para>
 
         <para>Before we start talking about agenda items, we consent to the
@@ -16787,7 +16788,7 @@ based on mutual giving from the heart.</literallayout>
         </figure>
 
         <para>Remember that a typical policy decision-making process (as
-        described in section <xref linkend="decisionmakingsection"/>) goes
+        described in section <xref linkend="decision-making-steps"/>) goes
         through different phases: (1) understanding the issue, (2) generating
         a proposal, (3) making a decision. How a group spreads out those
         phases into meetings is entirely up to the circle. One can go through
@@ -16906,7 +16907,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="meeting-evaluation">
       <title>Closing: meeting evaluation</title>
 
       <indexterm>
@@ -16954,8 +16955,8 @@ based on mutual giving from the heart.</literallayout>
       There are many ways to address behavior, but the meeting evaluation can
       be the first and easiest one. More examples of things to say during
       meeting evaluations can be found in section <xref
-      linkend="meetingevaluationchapter"/> on page <xref
-      linkend="meetingevaluationchapter"/>.</para>
+      linkend="feedback-on-meetings"/> on page <xref
+      linkend="feedback-on-meetings"/>.</para>
 
       <para>If something needs attention, the circle will set some time aside
       in a <emphasis role="from-text">future</emphasis> meeting to address it;
@@ -17038,7 +17039,7 @@ based on mutual giving from the heart.</literallayout>
         </informalfigure></para>
     </section>
 
-    <section xml:id="whomakesagenda">
+    <section xml:id="meeting-documents">
       <title>Supporting documents: backlog, agenda, minutes</title>
 
       <indexterm>
@@ -17617,7 +17618,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="facilitation">
       <title>Facilitation formats</title>
 
       <indexterm>
@@ -19088,7 +19089,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="virtual-meetings">
       <title>Virtual meetings</title>
 
       <indexterm>
@@ -19291,7 +19292,7 @@ based on mutual giving from the heart.</literallayout>
     requires an organization to be equally willing to step into power and to
     give up power on every level of the organization.</para>
 
-    <section>
+    <section xml:id="sharing-sociocracy">
       <title>Thoughts about introducing sociocracy</title>
 
       <section>
@@ -19418,7 +19419,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section xml:id="introducingsociocracy">
+    <section xml:id="introducing-sociocracy">
       <title>How to introduce sociocracy</title>
 
       <indexterm>
@@ -19700,7 +19701,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="starting-to-organize">
       <title>Starting a new organization</title>
 
       <para>An organization begins with an idea. Begin with the aim<indexterm>
@@ -19753,7 +19754,7 @@ based on mutual giving from the heart.</literallayout>
       start.</para>
     </section>
 
-    <section xml:id="neworgs">
+    <section xml:id="new-organizations">
       <title>Implementing sociocracy in start-up organizations</title>
 
       <indexterm>
@@ -20014,8 +20015,8 @@ based on mutual giving from the heart.</literallayout>
         proposal<indexterm>
             <primary>proposal</primary>
           </indexterm> generation process (see chapter <xref
-        linkend="chapterdecisionmaking"/> on page <xref
-        linkend="chapterdecisionmaking"/><remark> @@TODO@@: Figure out page
+        linkend="decision-making"/> on page <xref
+        linkend="decision-making"/><remark> @@TODO@@: Figure out page
         references.</remark>). Understand what the needs are for your
         particular organization and then what the dimensions are. What are the
         considerations for a circle structure<indexterm>
@@ -20315,8 +20316,8 @@ based on mutual giving from the heart.</literallayout>
         </figure>
 
         <para>Find more information on implementation in new organizations in
-        section <xref linkend="neworgs"/> on page <xref
-        linkend="neworgs"/>.</para>
+        section <xref linkend="new-organizations"/> on page <xref
+        linkend="new-organizations"/>.</para>
       </section>
 
       <section xml:id="incremental">
@@ -20450,7 +20451,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section xml:id="firevolunteers">
+    <section xml:id="volunteers">
       <title>Volunteer organizations</title>
 
       <indexterm>
@@ -20551,7 +20552,7 @@ based on mutual giving from the heart.</literallayout>
       organization.</para>
     </section>
 
-    <section xml:id="tinyorgs">
+    <section xml:id="tiny-organizations">
       <title>Sociocracy in tiny groups</title>
 
       <indexterm>
@@ -20729,7 +20730,7 @@ based on mutual giving from the heart.</literallayout>
       identity.</para>
     </section>
 
-    <section xml:id="fewandmany">
+    <section xml:id="few-and-many">
       <title>Organizations with few workers and many members</title>
 
       <para>Sociocratic circle structures scale very easily. It is easy to
@@ -20846,7 +20847,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="legal-issues">
       <title>Legal issues</title>
 
       <indexterm>
@@ -20915,7 +20916,7 @@ based on mutual giving from the heart.</literallayout>
         </itemizedlist></para>
     </section>
 
-    <section>
+    <section xml:id="ownership-and-control">
       <title>Sociocracy, ownership and control</title>
 
       <indexterm>
@@ -20991,7 +20992,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="common-problems">
       <title>Typical pitfalls in implementations</title>
 
       <indexterm>
@@ -21792,7 +21793,7 @@ based on mutual giving from the heart.</literallayout>
           governance structure, can we reach equality.</para>
 
           <para>Education has to be available over time (see section <xref
-          linkend="continuingeducation"/> for continuous education), and it
+          linkend="continuing-education"/> for continuous education), and it
           has to include not only <emphasis role="from-text">how</emphasis> we
           do things but also <emphasis role="from-text">why</emphasis> we do
           things. People are busy doing their work, and it is the aim, not the
@@ -22276,7 +22277,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section xml:id="continuingeducation">
+    <section xml:id="continuing-education">
       <title>Continuing education</title>
 
       <indexterm>
@@ -22285,8 +22286,8 @@ based on mutual giving from the heart.</literallayout>
         <secondary>continuing education</secondary>
       </indexterm>
 
-      <para>Governance is not something one learns in one day or in
-      one-weekend workshop. Neither is it something one can learn <emphasis
+      <para>Governance is not something one learns in one day or in one
+      weekend workshop. Neither is it something one can learn <emphasis
       role="from-text">just</emphasis> by doing it. We need some shared
       language and some explicit training so we can make good choices and
       discuss them.</para>
@@ -22321,7 +22322,7 @@ based on mutual giving from the heart.</literallayout>
             only when we know why we do something, we will honor the process
             and be able to adjust it and make it better.</para>
           </listitem>
-        </itemizedlist>See section <xref linkend="beyondthisbook"/> for more
+        </itemizedlist>See section <xref linkend="beyond-this-book"/> for more
       resources.</para>
 
       <section>
@@ -22522,7 +22523,7 @@ based on mutual giving from the heart.</literallayout>
   <appendix xml:id="appendix">
     <title>Appendix</title>
 
-    <section xml:id="contactsofa">
+    <section xml:id="contact-SoFA">
       <title>About Sociocracy For All (SoFA)</title>
 
       <indexterm>
@@ -22694,7 +22695,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section>
+    <section xml:id="authors">
       <title>About the authors</title>
 
       <section>
@@ -22777,7 +22778,7 @@ based on mutual giving from the heart.</literallayout>
       </section>
     </section>
 
-    <section xml:id="beyondthisbook">
+    <section xml:id="beyond-this-book">
       <title>Resources</title>
 
       <section xml:id="literature">

@@ -51,6 +51,8 @@ One easy thing you can do with the book in DocBook format is to convert it to HT
      --stringparam section.label.includes.component.label 1 \
      --stringparam img.src.path images/ \
      --stringparam base.dir html/ \
+     --stringparam use.id.as.filename 1 \
+     --stringparam html.stylesheet style.css \
      $DOCBOOK_XSL_DIR/html/chunkfast.xsl MVOS.en.dbk
 
 Work still to be done
