@@ -1,0 +1,75 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #dce6f7 url(images/MVOS-spine.png) center left / auto 60% fixed no-repeat;
+  font-family: Georgia, serif;
+}
+
+body > div {
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+  background-color: #f3f3f3;
+  background-color: white;
+  border-left: 1px solid #f6b26b;
+  border-right: 1px solid #f6b26b;
+}
+
+div.section > p,
+div.chapter > p,
+div.book > p,
+div.acknowledgements > p,
+div.preface > p {
+  text-indent: 0.25in;
+  margin-bottom: 0em;
+  margin-top: 0em;
+}
+
+div > p:first-of-type {
+  text-indent: 0px;
+}
+
+li p {
+  margin-bottom: 0.25em;
+  margin-top: 0.25em;
+}
+
+div.titlepage div.mediaobject {
+  text-align: center;
+}
+
+div.nav {
+  width: auto;
+  border: 0px;
+  padding: 0.5em;
+  background-color: #324a70;
+  color: white;
+}
+
+div.navheader {
+  border-bottom: 3px solid #5c8bd6;
+}
+
+div.navfooter {
+  border-top: 3px solid #5c8bd6;
+}
+
+div.nav table {
+  color: inherit;
+}
+
+td.navbutton a:link,
+td.navbutton a:visited {
+  font-size: 24pt;
+  text-decoration: none;
+}
+
+div.nav a:link,
+div.nav a:visited {
+  color: white;
+}
+
+td.orglogo img {
+  height: 35px;
+}

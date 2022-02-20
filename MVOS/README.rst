@@ -42,18 +42,36 @@ XMLmind XML Editor
 Converting to HTML
 ------------------
 
-One easy thing you can do with the book in DocBook format is to convert it to HTML, particularly with the `DocBook XSL stylesheets project <https://github.com/docbook/xslt10-stylesheets>`_.  Here's one command line with these scripts that we've been playing with:
+One easy thing you can do with the book in DocBook format is to convert it to HTML, particularly with the `DocBook XSL stylesheets project <https://github.com/docbook/xslt10-stylesheets>`_.  The XSLT script `docbook2html.xsl` contains the various parameters and customizations that we've been using for converting the book to HTML:
 
 .. code:: shell
 
-   xsltproc \
-     --stringparam section.autolabel 1 \
-     --stringparam section.label.includes.component.label 1 \
-     --stringparam img.src.path images/ \
-     --stringparam base.dir html/ \
-     --stringparam use.id.as.filename 1 \
-     --stringparam html.stylesheet style.css \
-     $DOCBOOK_XSL_DIR/html/chunkfast.xsl MVOS.en.dbk
+   XML_CATALOG_FILES=/path/to/docbook-xsl/catalog.xml xsltproc \
+    docbook2html.xsl MVOS.en.dbk
+
+Integration with Discourse
+``````````````````````````
+
+We've also begun work to integrate the book with Discourse, where each page displays comments from a Discourse topic corresponding to that page.  In order to `embed the comments on the various pages <https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963>`_, you need to pass to the XSLT script the URL for the instance of Discourse that you'll be using.  Adding to the example above, this looks like:
+
+.. code:: shell
+
+   XML_CATALOG_FILES=/path/to/docbook-xsl/catalog.xml xsltproc \
+     --stringparam discourse-URL https://discourse.example.org/ \
+     docbook2html.xsl MVOS.en.dbk
+
+The approach we take involves pre-populating a Discourse category with placeholder entries for each page.  After you've installed any prerequisite JavaScript Node modules that you don't already have installed, you can stub out these topics in Discourse with the `discourse-stub.js` script:
+
+.. code:: shell
+
+   find html/ -maxdepth 1 -name "*.html" -print0 | xargs -0 -n 1 \
+   node discourse-stub.js -b https://book-server.example.org/ \
+     -e https://discourse.example.org/posts \
+     -k your-Api-Key -u your-Api-Username -c Discourse-category-ID \
+     --prefix "A prefix for the title of every topic: " \
+     --description "A generic description for every topic: "
+
+Okay, yeah, maybe the `discourse-stub.js` script could really just be a nice (if long) line of `curl`.  Perhaps I got carried away.  In any case, this is a strategy that you could apply to other books written in DocBook, if you wanted to publish them this way.
 
 Work still to be done
 ---------------------
@@ -61,8 +79,6 @@ Work still to be done
 * Figure out how to handle the `informalexample` tag when it is nested in a `para` tag (and probably other contexts) when generating HTML using the DocBook XSL stylesheets.
 
 * Format interal cross-references better in HTML, including figuring out how to generate page references only in print.
-
-* Play around with options for adding attractive style to the HTML version of the book.
 
 * Explore generating an index for the HTML version of the book.
 

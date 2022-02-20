@@ -4,6 +4,16 @@
   <info>
     <title>Many Voices One Song</title>
 
+    <cover>
+      <informalfigure>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="book_cover_front.jpg"/>
+          </imageobject>
+        </mediaobject>
+      </informalfigure>
+    </cover>
+
     <subtitle>Shared power with sociocracy</subtitle>
 
     <author>
