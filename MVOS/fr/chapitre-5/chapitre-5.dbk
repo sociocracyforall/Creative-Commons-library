@@ -1,0 +1,3106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/2000/svg"
+         xmlns:ns3="http://www.w3.org/1999/xhtml"
+         xmlns:ns="http://docbook.org/ns/docbook">
+  <info>
+    <title>La conduite d’une réunion sociocratique</title>
+  </info>
+
+  <para>Les cercles se réunissent afin d’amener de la clarté dans leur
+  travail. Les décisions opérationnelles peuvent être prises par toute
+  personne autorisée dans les limites définies par les politiques, le domaine
+  et les buts ; les décisions de politique sont prises, par consentement, par
+  le cercle qui dispose de la responsabilité de son domaine. Les deux types de
+  décisions peuvent survenir durant une réunion : coordination opérationnelle
+  et définition de politique.</para>
+
+  <para>Chaque réunion de cercle sociocratique se déroule selon le même schéma
+  qui permet d’aller de l’avant tout en assurant l’équivalence pour la prise
+  de parole dans toutes les décisions du cercle. Toutes les réunions se
+  composent de trois parties : Ouverture, contenu et clôture. De même que les
+  étapes de génération d’une proposition, chaque phase de la réunion suit une
+  boucle “orientation-exécution-mesure”. Il est utile de connaître quelle est
+  l’intention de chaque phase, quels sont les outils appropriés et comment
+  identifier son aboutissement.</para>
+
+  <para>La figure 159 présente un diagramme schématique d’une réunion type.
+  L’efficacité de nos réunions sera améliorée si la personne en charge de la
+  facilitation partage visuellement le diagramme de la réunion avec son
+  cercle, car la progression est ainsi plus facile à suivre pour tout le
+  monde, développant le sentiment de confiance et de pouvoir personnel de
+  chaque membre.</para>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata fileref="Pictures/10000201000003C00000028B19AB40045609D35C.png"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para><emphasis>159 : Un modèle de réunion simple avec un exemple d’ordre du
+  jour</emphasis></para>
+
+  <para>Partager la fiche de facilitation sociocratique avec le cercle est une
+  bonne façon d’obtenir une compréhension partagée du processus. (Illustration
+  199)</para>
+
+  <section>
+    <title>Ouverture</title>
+
+    <para>Le but du tour d’ouverture est d’entrer dans la réunion et de se
+    préparer au contenu de la réunion. Il est composé de deux parties car nous
+    voulons nous présenter à la fois comme des <emphasis>êtres
+    humains</emphasis> et comme des <emphasis>membres du cercle</emphasis>.
+    Bien que nous soyons toujours à la fois humains et détenteurs de nos
+    rôles, il est plus facile de se concentrer sur chacun séparément.</para>
+
+    <section>
+      <title>Accueil</title>
+
+      <para>L’objectif de l’accueil est de faire une transition mentale et
+      émotionnelle vers la réunion. Chaque personne arrive en réunion après
+      avoir quitté une autre activité ou un autre espace mental. Quelques
+      formes d’accueil possibles :</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>(le plus neutre)<emphasis> “Comment arrivez-vous à cette
+          réunion ?”</emphasis></para>
+        </listitem>
+
+        <listitem>
+          <para><emphasis>“Que souhaitez-vous dire afin d’être présent avec
+          nous et que nous soyons présents avec vous ?”</emphasis></para>
+        </listitem>
+
+        <listitem>
+          <para>(nouveau groupe)<emphasis> “Que voudriez-vous que nous
+          sachions à votre sujet?”</emphasis></para>
+        </listitem>
+      </itemizedlist>
+
+      <tip condition="highlight">
+        <para><emphasis role="strong">Intention :</emphasis> Transition vers
+        la réunion et se préparer à la réunion</para>
+
+        <para><emphasis role="strong">Outil :</emphasis> Un tour
+        d’ouverture</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>La durée de l’accueil peut s’étendre de deux à dix minutes
+            <emphasis>au total</emphasis>, selon la fréquence des rencontres
+            entre les membres du groupe. (Par exemple, un groupe de directeurs
+            d’une jeune organisation qui ne se voient que 6 fois par an
+            peuvent souhaiter un accueil plus long afin de fournir davantage
+            d’éléments lors de leur présentation. Dans un cercle qui travaille
+            ensemble dans le même espace et se retrouve chaque semaine, un
+            long accueil ne sera pas nécessaire.)</para>
+          </listitem>
+
+          <listitem>
+            <para>Même si cela peut être tentant, ne sautons pas l’accueil !
+            L’étape d’accueil est essentielle pour intégrer la réunion. Quel
+            que soit l’objet de votre réunion, la connexion humaine passe en
+            premier. Cette connexion va faciliter le déroulement du
+            travail.</para>
+          </listitem>
+
+          <listitem>
+            <para>Un accueil formel marque une transition intentionnelle entre
+            un espace de conversations et un espace de réunion.</para>
+          </listitem>
+
+          <listitem>
+            <para>Une alternative est un tour en mode “popcorn” ;
+            assurons-nous alors que tout le monde ait pris la parole avant de
+            passer à la partie administration.</para>
+          </listitem>
+
+          <listitem>
+            <para>Nous pouvons ajouter un “Deux par deux” (tout le monde parle
+            avec son voisin durant quelques minutes) avant une réunion,
+            particulièrement si nous souhaitons que les personnes fassent
+            connaissance ou si le groupe est important.</para>
+          </listitem>
+
+          <listitem>
+            <para>Nous déconseillons de remplacer l'accueil, où chacun entend
+            chaque membre du cercle, dans une réunion régulière car (a) nous
+            voulons avoir une vision d’ensemble avant de poursuivre et (b)
+            chaque personne qui y prend la parole réaffirme l’équivalence -
+            tout le monde compte.</para>
+          </listitem>
+
+          <listitem>
+            <para>L'accueil peut être minuté ! En minutant l’accueil nous
+            rassurons les personnes inquiètes de perdre du temps de réunion et
+            qui écoutent à moitié.</para>
+          </listitem>
+
+          <listitem>
+            <para>Une réunion ne doit pas être piratée par la vie personnelle
+            de quelqu’un. Si une personne partage quelque chose de grave, ne
+            commencez pas à donner des conseils ou chercher des solutions. Ce
+            n’est pas le moment approprié.</para>
+          </listitem>
+        </itemizedlist>
+
+        <para><emphasis role="strong">Terminé quand :</emphasis> Chaque membre
+        s’est exprimé et plus rien n’empêche de débuter la réunion.</para>
+      </tip>
+
+      <para>Le contexte dans lequel se trouvent les membres du cercle peut
+      affecter la qualité de leur présence, la générosité avec laquelle ils
+      donneront leur temps et leur énergie et leur capacité à prendre des
+      risques. A mesure que nous apprenons à nous connaître mutuellement, nous
+      sommes capables de nous situer les uns les autres, de faire preuve
+      d’attention et de compassion.</para>
+
+      <para>Les accueils autour d’une thématique (les personnes contribuent à
+      l’accueil en répondant à une question, un sujet, une invitation) peuvent
+      être utilisés, mais laissons <emphasis>toujours</emphasis> de l’espace
+      pour que les personnes puissent partager leur réalité. Par exemple,
+      quelqu’un dans le groupe peut s’occuper d’une mère âgée et pourrait être
+      inquiet de son état de santé – restreindre cette personne par une
+      question précise, pourtant bien intentionnée, pourrait l’empêcher d’être
+      incluse telle qu’elle se sent à ce moment-là. Il pourrait y avoir une
+      tension entre des membres du cercle. Quelqu’un pourrait être dans une
+      crise relationnelle. Toutes ces situations, comme une infinité d’autres,
+      sont significatives à partager <emphasis>si nous choisissons de le
+      faire</emphasis>.</para>
+
+      <para>Si la tension interpersonnelle ou l’anxiété est liée au cercle,
+      nous pouvons choisir de la placer à l’ordre du jour ou dans le panier.
+      Ou nous pouvons inviter un membre à partager davantage après la réunion.
+      Si quelqu’un semble en souffrance, désignons une personne pour parler
+      avec lui ou elle après la réunion. Nous avons participé à des réunions à
+      l’occasion desquelles nous avons gentiment renvoyé une personne chez
+      elle après l’accueil (avec son consentement bien sûr) car, vu son état
+      émotionnel, c’était la meilleure chose à faire pour prendre soin
+      d’elle.</para>
+
+      <para>Souvenons-nous, toute collaboration humaine débute par une
+      connexion, et une connexion ne peut se produire que lorsque nous sommes
+      authentiques et que nous montrons ce que nous sommes et comment nous
+      sommes.</para>
+    </section>
+
+    <section>
+      <title>Administratif : “ADMIN”</title>
+
+      <para>Dans la section administrative, nous parlons de tout ce qui
+      concerne l’auto-administration du groupe. Non seulement les
+      <emphasis>personnes</emphasis> mais aussi <emphasis>le cercle</emphasis>
+      en tant que tel doivent être prêts à entrer dans la réunion. Tous les
+      petits pas qui doivent être faits et qui sont faciles à oublier forment
+      l’acronyme ADMIN<indexterm>
+          <primary>ADMIN</primary>
+        </indexterm> <emphasis role="strong">en anglais</emphasis>
+      (<emphasis><emphasis role="strong">a</emphasis>ttendance, <emphasis
+      role="strong">d</emphasis>uration, <emphasis
+      role="strong">m</emphasis>inutes, <emphasis
+      role="strong">i</emphasis>nformation, <emphasis
+      role="strong">n</emphasis>ext meeting</emphasis>) pour que nous
+      puissions les mémoriser plus facilement <emphasis role="strong">(en
+      français : présence, durée, compte-rendu, information, prochaine
+      réunion). </emphasis></para>
+
+      <blockquote>
+        <para><emphasis role="strong">Intention : </emphasis>Se préparer pour
+        la réunion. Au total, la phase ADMIN s’assure que nous pouvons nous
+        concentrer entièrement sur le contenu et que rien ne nous retient ou
+        ne nous distrait.</para>
+      </blockquote>
+
+      <blockquote>
+        <para><emphasis role="strong">Outils : </emphasis>Passer par tous les
+        éléments “ADMIN” (voir ci-dessous).</para>
+      </blockquote>
+
+      <blockquote>
+        <para><emphasis role="strong">Terminé quand : </emphasis>Rien ne nous
+        empêche d’entrer dans la réunion.</para>
+      </blockquote>
+
+      <section>
+        <title>Présence<indexterm>
+            <primary>ADMIN</primary>
+
+            <secondary>présence</secondary>
+          </indexterm> (A pour “Attendance” en anglais)</title>
+
+        <para>Vérifions la présence de tous les membres du cercle. Accueillons
+        les visiteurs et la fonction dans laquelle ils sont présents.
+        Assurons-nous que le cercle est conscient de qui a quel rôle. Le plus
+        important dans ce moment est de s’assurer que le secrétaire est
+        présent et prend des notes, en commençant par la prise de note de la
+        présence dans le compte-rendu de la réunion. Assurons-nous de repérer
+        qui est absent et les implications que cela a pour la réunion.</para>
+
+        <para>Quand tous les rôles sont assurés ou que l’on sait comment
+        pallier une absence, la réunion peut continuer.</para>
+
+        <blockquote>
+          <para><emphasis role="strong">Intention : </emphasis>Vérifier qui
+          est présent et qui est absent.</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Outils : </emphasis>Cela dépend du
+          contexte du cercle. Le facilitateur pourrait présenter les visiteurs
+          et résumer (ou demander à quelqu’un de résumer) qui est absent et si
+          les rôles sont assurés.</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Terminé quand : </emphasis>Tous les
+          rôles sont remplis.</para>
+        </blockquote>
+
+        <para>La figure 160 présente une astuce minuscule mais utile qui
+        facilite grandement cette étape dans le compte-rendu.</para>
+
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BE000000C0E088B828207611EC.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+
+        <para><emphasis>160: Exemple pour noter la présence dans les notes de
+        la réunion. Faites un modèle d’ordre du jour qui inclut une liste de
+        tous les membres du cercle, y compris leur rôle. Ensuite barrez (mais
+        gardez visible) les noms des absents. Dans cet exemple, le secrétaire
+        est absent.</emphasis></para>
+      </section>
+
+      <section>
+        <title>Durée<indexterm>
+            <primary>ADMIN</primary>
+
+            <secondary>durée de la réunion</secondary>
+          </indexterm> (D pour “Duration” en anglais)</title>
+
+        <para>Avez-vous jamais été à une réunion où certaines personnes
+        pensaient qu’elle durerait une heure, et d’autres 1 heure et demie ?
+        Avez-vous jamais été à une réunion où le groupe était incapable de
+        prendre des décisions parce que trop de membres devaient partir en
+        avance ? Parler de la durée d’une réunion permet d’éviter ces
+        situations.</para>
+
+        <blockquote>
+          <para><emphasis role="strong">Intention : </emphasis>Confirmation de
+          la durée de la réunion.</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Outils : </emphasis>Dites pour quelle
+          durée la réunion est programmée. Nous pouvons demander si tout le
+          monde peut rester pendant toute la durée de la réunion. Il sera
+          rappelé aux personnes qui doivent partir en avance de le dire. Cette
+          information sera utile pour planifier/ajuster l’ordre du
+          jour.</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Terminé quand : </emphasis>Il y a de
+          la clarté sur la durée pendant laquelle les membres peuvent rester à
+          la réunion en cours.</para>
+        </blockquote>
+      </section>
+
+      <section>
+        <title>Compte-rendu<indexterm>
+            <primary>ADMIN</primary>
+
+            <secondary>compte-rendu de la réunion précédente</secondary>
+          </indexterm> (M pour “Minutes” en anglais)</title>
+
+        <para>Assurons-nous que le compte-rendu de la réunion précédente du
+        cercle est connu et qu’il a fait l’objet d’un consentement. Nous ne
+        sommes prêts à avancer que quand nous sommes d’accord sur où nous en
+        sommes. Le consentement sur le compte-rendu peut être donné entre les
+        réunions – voir la section 5.4.6 en page xxx. A l’intérieur de la
+        séquence administrative, nous ne faisons que reconnaître si le
+        consentement a été donné ou pas, et si des actions supplémentaires
+        doivent être réalisées pendant la réunion.</para>
+
+        <blockquote>
+          <para><emphasis role="strong">Intention : </emphasis>Reconnaître le
+          consentement/manque de consentement sur le compte-rendu de la
+          réunion.</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Outils : </emphasis>Le facilitateur ou
+          la facilitatrice peut avoir à vérifier avec le secrétaire le statut
+          du compte-rendu de la dernière réunion. S’il y a eu une objection au
+          compte-rendu ou si le consentement n’a pas encore été donné, cela
+          fait partie de l’ordre du jour de la réunion en tant que point à
+          l’ordre du jour.</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Terminé quand : </emphasis>Il y a de
+          la clarté sur le statut du compte-rendu de la réunion
+          précédente.</para>
+        </blockquote>
+      </section>
+
+      <section>
+        <title>Information<indexterm>
+            <primary>ADMIN</primary>
+
+            <secondary>information</secondary>
+          </indexterm> (I pour “Information” en anglais)</title>
+
+        <para>Puisque tous les membres d’un cercle font partie du même
+        contexte de l’organisation ou de plusieurs organisations connexes, il
+        peut y avoir des annonces au sujet de leur organisation ou réseau.
+        Cela inclut des réunions spéciales, des décisions, des événements, des
+        célébrations de succès ou des demandes qui peuvent être partagées dans
+        cette partie de la réunion. Bien que ce soit une partie intégrale de
+        la vie organisationnelle, faites court pour cette partie, avec
+        seulement du partage d’informations concises.</para>
+
+        <para>Tout rapport qui se trouve <emphasis>à l’intérieur du domaine du
+        cercle</emphasis> devrait être donné pendant la réunion habituelle
+        comme un point de l’ordre du jour ! Les questions de clarification et,
+        s’il y a lieu, le feedback sur le rapport vont au-delà du périmètre de
+        la phase ADMIN.</para>
+
+        <blockquote>
+          <para><emphasis role="strong">Intention : </emphasis>Entendre les
+          annonces pertinentes pour la communauté plus large dans le contexte
+          de l’organisation.</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Outils : </emphasis>Le facilitateur
+          demande s’il y a des annonces ou toute autre information à partager
+          avec le cercle. Faites un tour ou permettez à toute personne ayant
+          une annonce de parler.</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Terminé quand : </emphasis>Personne
+          n’a plus d’information à partager.</para>
+        </blockquote>
+
+        <para>Les annonces qui génèrent des discussions devraient être
+        interrompues ou déplacées dans l’ordre du jour pour que nous puissions
+        utiliser le temps de la réunion de façon consciente.</para>
+      </section>
+
+      <section>
+        <title>Prochaine réunion<indexterm>
+            <primary>ADMIN</primary>
+
+            <secondary>prochaine réunion</secondary>
+          </indexterm> (N pour “Next meeting” en anglais)</title>
+
+        <para>Quand est la prochaine réunion du cercle ? Beaucoup de cercles
+        et même des organisations entières disparaissent pour avoir raté cette
+        étape ! Ce point de l’ordre du jour sert à rappeler aux groupes de
+        faire attention au fait de savoir quand se trouve leur prochain temps
+        de réunion. Faisons-le maintenant pour que nous n’arrivions pas à la
+        fin de la réunion sans une date pour la prochaine réunion – quand tout
+        le monde est trop fatigué ou distrait pour la programmer (et que
+        certains risquent de partir en avance).</para>
+
+        <blockquote>
+          <para><emphasis role="strong">Intention : </emphasis>Avoir de la
+          clarté sur le moment de la prochaine réunion</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Outils : </emphasis>Si votre cercle a
+          un calendrier habituel de réunion, énoncez l’horaire de la prochaine
+          réunion et encouragez tout le monde à vérifier leurs agendas. S’il
+          s’avère qu’il y a une incompatibilité, prenez une autre date, ou
+          prenez acte qu’un membre sera absent, ou prévoyez quelque chose
+          (nommer quelqu’un pour s’occuper de la programmation).</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Si l’horaire de la prochaine réunion dépend d’une décision
+              pendant la réunion, nous devrons peut-être reparler de ce sujet
+              pendant la réunion, auquel cas nous devons l’inscrire à l’ordre
+              du jour.</para>
+            </listitem>
+
+            <listitem>
+              <para>Si nous n’avons pas de politique sur le moment auquel ont
+              lieu les réunions (par ex. nous décidons au cas par cas, par une
+              décision opérationnelle), programmons un horaire maintenant ou
+              prévoyons quelque chose. Un cercle peut envisager de faire une
+              politique sur le créneau des réunions (<emphasis>“les réunions
+              se tiennent une semaine sur deux le mercredi à
+              14h30”,</emphasis> par exemple) pour gagner du temps à
+              l’avenir.</para>
+            </listitem>
+          </itemizedlist>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Terminé quand : </emphasis>Il y a de
+          la clarté sur l’horaire de la prochaine réunion.</para>
+        </blockquote>
+
+        <para>Parcourir la section administrative étape par étape est beaucoup
+        plus efficace en temps que de ne <emphasis>pas</emphasis> le faire. La
+        confusion et la rectification que nous devons faire si nous manquons
+        ces étapes simples nous coûtera beaucoup plus de temps à long terme.
+        Cela dit, cette phase ne doit pas prendre longtemps. Cela pourrait
+        ressembler à l’exemple 161. L’acronyme (ADMIN) nous aide à être
+        cohérents, même sans fiche de réunion.</para>
+
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BE000001A26D7A731B159322FE.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+
+        <para><emphasis>161: <indexterm>
+            <primary>ADMIN</primary>
+
+            <secondary>exemple: phase ADMIN</secondary>
+          </indexterm>Parcourir brièvement toutes les étapes de la phase
+        ADMIN. </emphasis></para>
+      </section>
+    </section>
+  </section>
+
+  <section>
+    <title>Contenu</title>
+
+    <para>Nous sommes prêts à sauter dans le contenu de notre réunion !
+    Maintenant nous allons écouter les rapports, recueillir des commentaires,
+    prendre des décisions opérationnelles, des décisions de politique, tenir
+    des élections et prendre d’autres décisions qui nous aideront à faire
+    notre travail ensemble avec autant de clarté, d’efficacité et de dynamisme
+    que possible.</para>
+
+    <para>La partie contenu de la réunion se décompose aussi en 3 phases.
+    D’abord nous établissons et donnons notre consentement sur l’ordre du jour
+    – en décidant de quels points du panier nous avons l’intention de parler.
+    Ensuite nous parcourons chaque point de l’ordre du jour. La troisième
+    phase a lieu quand nous passons en revue brièvement quels points de
+    l’ordre du jour nous avons traités, quels points restent à traiter et ce
+    que nous reportons à la prochaine réunion, ce que nous résumons par
+    “mettre à jour le panier”.</para>
+
+    <section>
+      <title>Le consentement sur l’ordre du jour</title>
+
+      <para>Décider ce dont nous allons parler pendant une réunion est
+      important. La proposition d’ordre du jour peut avoir été préparée par
+      quelqu’un du cercle, par exemple le facilitateur (voir section 5.4), ou
+      elle peut être élaborée sur le moment.</para>
+
+      <para>Avant de commencer à parler des points de l’ordre du jour, nous
+      consentons à l’ordre du jour. C’est utile parce qu’il y a un pouvoir à
+      décider ce qui se trouve dans l’ordre du jour et ce qui ne s’y trouve
+      pas. Est-ce que le cercle va traiter un sujet délicat, ou va-t-il
+      reprendre cet autre sujet encore et encore ? Si le temps de la réunion
+      est limité, quels points de l’ordre du jour ont la priorité sur les
+      autres ? Combien de temps le cercle va-t-il donner à chaque point de
+      l’ordre du jour ? Nous prenons ces décisions par consentement, et ce
+      faisant, la responsabilité de l’ordre du jour est transférée de la
+      personne qui a préparé l’ordre du jour au cercle. Même pendant la
+      réunion, <emphasis>tout changement significatif dans l’ordre du jour
+      nécessite le consentement ! </emphasis>Tout le monde dans le cercle est
+      responsable de l’ordre du jour de manière égale.</para>
+
+      <para>Le <emphasis>comment</emphasis> de la prise de parole, par
+      exemple, quand nous faisons des tours ou par quelles étapes un groupe
+      aborde un sujet est du domaine du facilitateur. Les suggestions et
+      commentaires au facilitateur peuvent être bienvenus, mais le
+      facilitateur décide comment mener la réunion.</para>
+
+      <para>L’ordre du jour nomme tous les points de l’ordre du jour, donne
+      une idée du temps pour chacun d’eux et identifie quel résultat est
+      recherché (compréhension, exploration, décision – voir la section 5.2.2.
+      ci-dessous). Une check-list pour des ordres du jour complets est donnée
+      en schéma 162.</para>
+
+      <blockquote>
+        <para><emphasis role="strong">Intention : </emphasis>Décider de quoi
+        il sera question pendant la réunion, et combien de temps sera dédié à
+        chaque point de l’ordre du jour.</para>
+      </blockquote>
+
+      <blockquote>
+        <para><emphasis role="strong">Outils : </emphasis>Présenter la
+        proposition d’ordre du jour, répondre aux questions et tour de
+        consentement.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Comprendre : présenter l’ordre du jour et répondre aux
+            questions. (Ne consentons jamais à un ordre du jour que nous ne
+            comprenons pas totalement !)</para>
+          </listitem>
+
+          <listitem>
+            <para>Explorer : y a-t-il des changements dans l’ordre du jour
+            proposé ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Décider : demander le consentement et intégrer les
+            objections.</para>
+          </listitem>
+        </itemizedlist>
+      </blockquote>
+
+      <blockquote>
+        <para><emphasis role="strong">Terminé quand : </emphasis>Il y a
+        consentement à l’ordre du jour.</para>
+      </blockquote>
+
+      <blockquote>
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BC0000010E801294271A4B8E5D.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+      </blockquote>
+
+      <para><emphasis>162: Check-list pour un ordre du jour complet
+      </emphasis></para>
+
+      <para>A quoi ressembleraient des objections à l’ordre du jour proposé ?
+      Par exemple, nous pourrions décider de retirer un sujet parce qu’un
+      membre du cercle dont la présence est essentielle pour parler de ce
+      sujet, est absent. Nous pourrions décider de reporter un point de
+      l’ordre du jour parce que nous n’avons pas assez d’informations, ou
+      parce que nous donnons la priorité à d’autres points de l’ordre du jour.
+      L’exemple en 163 montre que cela peut ne pas être un processus compliqué
+      et que l’intelligence collective du groupe va y aider.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BF000002F9D7FEF6717ACEC1FF.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>163: Consentement sur l’ordre du jour </emphasis></para>
+
+      <para>Une remarque sur les ordres du jour co-construits : certains
+      cercles se réunissent et font leur ordre du jour ensemble, au début de
+      la réunion et sans utiliser un panier. Tandis que cela fonctionne assez
+      bien dans certains groupes, tous les groupes bénéficieraient d’une
+      proposition d’ordre du jour réfléchie à l’avance. On peut trop
+      facilement laisser des points de l’ordre du jour passer entre les
+      mailles du filet, et perdre en clarté d’intention et en dynamisme. Dans
+      une situation où nous démarrons sans une proposition d’ordre du jour
+      préparée, nous pouvons faire un ordre du jour “sur le vif”. Les étapes
+      pour co-construire un ordre du jour :</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>Comprendre : Se faire une idée des points de l’ordre du jour
+          qui demandent à être abordés (dans un tour de parole).</para>
+        </listitem>
+
+        <listitem>
+          <para>Explorer : Des contraintes sur l’ordre, la durée et la
+          priorité ?</para>
+        </listitem>
+
+        <listitem>
+          <para>Synthétiser : Soit le facilitateur transforme les idées
+          d’ordre du jour en proposition d’ordre du jour, soit il demande à
+          quelqu’un de le faire. Le facilitateur présente l’agenda et continue
+          dès qu’il y a consentement.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+
+    <section>
+      <title>Élément de contenu : 3 résultats souhaités</title>
+
+      <para>Pour chaque point de l’ordre du jour, il y a exactement trois
+      résultats possibles comme montré dans le schéma 164 de la page xxxx :
+      <emphasis>comprendre un rapport, explorer une question </emphasis>ou
+      <emphasis>prendre une décision.</emphasis> Cela signifie que tout point
+      de l’ordre du jour conduit à l’un de ces trois résultats, et il est
+      préférable que le groupe soit capable de nommer lequel avant de parler
+      du sujet.</para>
+
+      <para>Comme on peut le voir dans le diagramme 164, les résultats
+      souhaités se renforcent mutuellement. Chaque point de l’ordre du jour
+      commence par <emphasis>comprendre</emphasis>, et pour un rapport nous ne
+      faisons rien d’autre. Si le résultat souhaité est de demander du
+      feedback, la phase de <emphasis>compréhension</emphasis> est suivie par
+      une phase d’exploration. Si nous voulons prendre une décision, nous
+      passons par <emphasis>comprendre</emphasis> et
+      <emphasis>explorer</emphasis> et ensuite nous allons vers une
+      décision.</para>
+
+      <para>Voici quelques exemples montrant en quoi il est utile de connaître
+      le résultat souhaité :</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>Si un point de l’ordre du jour est de
+          <emphasis>rapporter</emphasis>au groupe une décision qui a été prise
+          ailleurs, alors il n’y a pas besoin d’entrer dans une discussion. Si
+          les membres du cercle sont conscients de cela, ce point de l’ordre
+          du jour ne va pas devenir incontrôlable.</para>
+        </listitem>
+
+        <listitem>
+          <para>Si le résultat souhaité est d'entendre les réactions et
+          d'explorer le sujet, nous serons clairs sur la portée de ce point de
+          l'ordre du jour - personne n'attendra de décision et nous ne
+          perdrons pas de temps à essayer de parvenir à une convergence si ce
+          n'est pas ce qui nous a été demandé.</para>
+        </listitem>
+      </itemizedlist>
+
+      <para>Le résultat souhaité peut changer pendant que nous en parlons. Par
+      exemple, nous pouvons remarquer que nous ne pouvons pas prendre une
+      décision pendant la réunion. Dans ce cas, nous devons soit formellement
+      abandonner le résultat souhaité (ce qui demande un consentement puisque
+      tout le monde a consenti à l’ordre du jour) ou nous devons prévoir quand
+      et comment prendre la décision. Par exemple, faire un tour de feedback
+      et ensuite déléguer à un cercle de soutien de faire plus de recherches
+      et de revenir avec une proposition à la réunion suivante.</para>
+
+      <para>Être conscients du type de point de l’ordre du jour que nous
+      traitons nous donne aussi une compréhension plus claire des types
+      d’<emphasis>outils</emphasis> qu’il peut être utile d’utiliser pour
+      atteindre ce résultat. Les plus importants sont mentionnés dans le
+      schéma 164. Ces étapes s’alignent avec les différents types de tours de
+      parole que nous utilisons mais il n’y a pas de correspondance 1:1 – il y
+      a différentes façons de considérer ces points de l’ordre du jour.</para>
+
+      <para>On peut gagner davantage de clarté si, pour chaque point de
+      l’ordre du jour, nous terminons en mesurant si nous avons atteint le
+      résultat souhaité. Les facilitateurs peuvent prendre l’habitude de faire
+      une pause avant de passer à un nouveau point de l’ordre du jour en
+      appréciant si le résultat souhaité a été atteint, et en demandant au
+      secrétaire de lire à voix haute ce qui a été écrit dans les
+      notes.</para>
+
+      <section>
+        <title>Comprendre un rapport</title>
+
+        <para>Pendant les rapports, le cercle est informé. Le rapport est
+        terminé quand une réponse a été apportée à toutes les questions de
+        clarification. Un rapport ne nécessite pas d'exploration. Il peut
+        provenir d'un membre du cercle, d'un document écrit ou d'un visiteur
+        présent à la réunion. Voici quelques exemples :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Rapports d'avancement opérationnel. Par exemple, il a été
+            demandé à un membre du cercle de parler à quelqu'un d'extérieur au
+            cercle, afin de rendre ce membre responsable de l’application
+            d’une politique. Après avoir fait cela, le membre du cercle rend
+            compte de ce qu’il a fait.</para>
+          </listitem>
+
+          <listitem>
+            <para>Les rapports sur les décisions prises ailleurs. Par exemple,
+            le délégué du cercle Adhésions signale que le cercle a décidé de
+            modifier les cotisations des membres. Dans ce cas, il se peut que
+            le processus ait déjà donné lieu à de nombreux commentaires et
+            qu'il ne soit pas nécessaire d'en faire, ou encore que les
+            commentaires soient faits en dehors de la réunion.</para>
+          </listitem>
+        </itemizedlist>
+
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003C20000044026424A5B41969AC5.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+
+        <para><emphasis>164. Trois résultats possibles issus d’un point de
+        l’ordre du jour</emphasis></para>
+
+        <para>Si le résultat souhaité pour tout le monde est seulement de
+        comprendre l’information donnée, alors ce cercle n’a pas besoin
+        d’entrer dans une discussion du sujet.</para>
+
+        <blockquote>
+          <para><emphasis role="strong">Intention : </emphasis>Que chaque
+          personne entende et comprenne une information (rapport).</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Outils : </emphasis>Présenter toute
+          l’information. Permettre des questions de clarification et y
+          répondre.</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Terminé quand : </emphasis>Il n’y a
+          aucune question de clarification.</para>
+        </blockquote>
+      </section>
+
+      <section>
+        <title>Explorer un sujet</title>
+
+        <para>Si nous demandons une exploration partagée, nous commençons par
+        faire un apport (un rapport, une idée, une demande) et nous assurer
+        qu’il est compris. Donc, le premier élément permettant de demander des
+        retours est le rapport et la réponse aux questions. La deuxième étape
+        est de solliciter des retours. Cela peut prendre aussi longtemps qu’on
+        le considère nécessaire et productif. Des exemples :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Un cercle Enfant demande de l’aide. Le délégué du cercle
+            Enfant fait un rapport, s’assure que tout le monde comprend ce qui
+            se passe avant que le cercle Parent réponde à la demande. Les
+            retours sont rapportés au cercle Enfant et une décision y est
+            prise.</para>
+          </listitem>
+
+          <listitem>
+            <para>Un cercle reçoit une nouvelle information, par exemple parce
+            qu’un membre extérieur a écrit un email au cercle pour se plaindre
+            de quelque chose qui est dans le domaine du cercle. Le cercle va
+            d’abord essayer de comprendre la plainte, et ensuite va explorer
+            sa réaction suite à la plainte.</para>
+          </listitem>
+
+          <listitem>
+            <para>Un cercle entend un rapport d’une réunion de son cercle
+            Parent. Le cercle Parent est sur le point de prendre une décision.
+            Après que la présentation sur le sujet est comprise, le cercle
+            fait un tour de réaction pour rassembler des retours pour le
+            cercle Parent.</para>
+          </listitem>
+        </itemizedlist>
+
+        <blockquote>
+          <para><emphasis role="strong">Intention : </emphasis>Générer des
+          idées et des retours en relation avec un apport</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Outils : </emphasis>(1) Faire un
+          rapport. (2) Faire un tour ou plus de réactions pendant lequel les
+          membres du cercle partagent leurs idées, et réfléchissent aux idées
+          les uns des autres ; les écrire.</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Terminé quand : </emphasis>Toutes les
+          idées pertinentes et les réactions ont été partagées.</para>
+        </blockquote>
+      </section>
+
+      <section>
+        <title>Prendre une décision</title>
+
+        <para>Prendre une décision signifie passer par le cycle entier,
+        comprendre, explorer et décider. Tout cela ne doit pas nécessairement
+        se produire en une réunion. Des exemples :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Une décision opérationnelle (une décision au cas par cas)
+            qui ne découle pas complètement des politiques existantes.</para>
+
+            <informalexample>
+              <para>Par exemple, imaginez qu’il a été demandé à un cercle des
+              repas dans une communauté de prendre une décision sur le fait
+              d’avoir ou pas un repas normal le Jour de l’An. Le cercle décide
+              de ne pas faire de politique (c’est-à-dire une décision générale
+              sur les repas les jours de fête) mais de prendre une décision au
+              cas par cas de sauter ce repas en particulier. Cette décision
+              suit les mêmes étapes : rapporter la demande et s’assurer que
+              tout le monde comprend le sujet
+              (<emphasis>comprendre</emphasis>), explorer ce que les membres
+              du cercle en pensent (<emphasis>donner du feedback</emphasis>),
+              prendre une décision opérationnelle
+              (<emphasis>décider</emphasis>).</para>
+            </informalexample>
+          </listitem>
+
+          <listitem>
+            <para>Décider d'une politique. Par exemple, un cercle pourrait
+            élaborer une politique sur les repas pendant les vacances en
+            général et s’organiser pour arriver à prendre une décision en une
+            réunion.</para>
+          </listitem>
+
+          <listitem>
+            <para>Un processus de sélection. (Suivant les étapes de
+            comprendre, explorer, décider.)</para>
+          </listitem>
+        </itemizedlist>
+
+        <blockquote>
+          <para><emphasis role="strong">Intention : </emphasis>Prendre une
+          décision pour créer de la clarté.</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Outils : </emphasis>(1) Faire un
+          rapport (2) Explorer (3) Passer par le processus de
+          consentement.</para>
+        </blockquote>
+
+        <blockquote>
+          <para><emphasis role="strong">Terminé quand : </emphasis>Il n’y a
+          plus d’objections à la proposition.</para>
+        </blockquote>
+      </section>
+    </section>
+
+    <section>
+      <title>Le déroulement des points de l'ordre du jour</title>
+
+      <para>Dans certains cadres, les réunions opérationnelles sont
+      strictement distinctes des réunions de politiques. Ici, nous partons du
+      principe qu'elles peuvent toutes deux avoir lieu au cours de la même
+      réunion, car le cercle décide ce qui fait l’objet de décisions
+      opérationnelles, au cas par cas, et ce qui fait l’objet de politiques.
+      Il peut y avoir des accords sur la tenue de réunions uniquement
+      opérationnelles, mais la plupart des réunions de politiques contiennent
+      des discussions sur l’opérationnel. (Pour en savoir plus sur les
+      réunions opérationnelles, voir la section 2.8.2, page xxx).</para>
+
+      <para>Cela dit, le premier point de l'ordre du jour d'une réunion
+      pourrait consister à finaliser la politique relative au sujet A et à
+      attribuer des tâches. Le deuxième point de l'ordre du jour pourrait être
+      l'exploration d'un sujet. Le troisième point de l'ordre du jour pourrait
+      être un rapport sur une nouvelle question. Le quatrième point de l'ordre
+      du jour pourrait être la répartition des tâches entre les membres du
+      cercle autour d'un événement à venir, et le cinquième point pourrait
+      être la révision d'une politique.</para>
+
+      <para>Un point opérationnel à l'ordre du jour peut être très bref (voir
+      exemple 165). Si une discussion sur une tâche opérationnelle déclenche
+      le besoin de parler davantage et peut-être d'élaborer une politique
+      (nous pouvons le constater par le fait que la discussion s'enflamme,
+      voir l’exemple 166), restez clairs sur les intentions dans votre
+      processus. De nombreuses décisions peuvent être prises en une seule
+      fois. S'il semble utile d'élaborer une ligne directrice pour les
+      opérations (c'est-à-dire une politique), décidez ensemble (par
+      consentement) de modifier l'ordre du jour de votre réunion pour y
+      intégrer une décision de politique ou d'inscrire la décision de
+      politique dans le panier.</para>
+
+      <para>Par exemple, le cercle pourrait créer un rôle pour un responsable
+      de la publicité qui prendrait tous les types d'actions discutées. Par la
+      suite, la personne remplissant ce rôle s’occuperait de ces activités et
+      ce sujet n'apparaîtrait plus dans les futurs ordres du jour. De nouveaux
+      sujets surgissent parfois au milieu des réunions. Il est alors important
+      de ne pas laisser le nouveau point prendre le dessus sur l'ordre du jour
+      sans y réfléchir. Le facilitateur peut guider le cercle pour qu'il
+      modifie ou non l'ordre du jour qui a été accepté au début de la réunion.
+      S'il n'y a pas de consentement pour modifier l'ordre du jour, le nouveau
+      point est ajouté au panier. Le cercle peut également identifier et
+      attribuer les prochaines étapes nécessaires à la préparation de ce point
+      pour une discussion future.</para>
+
+      <para>Rappelons-nous qu'un processus typique de prise de décision de
+      politique (tel que décrit dans la section 3.3) passe par différentes
+      phases : (1) compréhension du problème, (2) élaboration d'une
+      proposition, (3) prise de décision. La manière dont un groupe répartit
+      ces phases dans les réunions dépend entièrement du cercle. On peut
+      passer par toutes les étapes de la prise de décision en une seule
+      réunion, ou les répartir sur plusieurs réunions.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C400000340CE6AC089DAE6612E.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>165 : Exemple d'un point opérationnel à l'ordre du jour
+      d'une réunion de cercle</emphasis></para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C20000037AB6E3AD140314338C.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>166 : Comment faire face à une discussion en cours de
+      réunion ?</emphasis></para>
+
+      <para>Ensuite, nous voyons ce qui se passe lorsque nous mettons en œuvre
+      la politique. Une fois que nous l'avons révisée, nous apportons des
+      changements si nécessaire, en suivant le même processus de consentement
+      (voir figure 167).</para>
+
+      <para>Toutes les décisions de politiques en sociocratie ont un terme, ce
+      qui nous oblige à réviser la politique au lieu de la laisser se périmer.
+      Nous pouvons revoir brièvement une politique et décider de la laisser
+      telle quelle ou de la réviser en profondeur.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C0000000F3B200FDFF04E2E972.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>167 : Cycle de vie des politiques </emphasis></para>
+    </section>
+
+    <section>
+      <title>Mesurer : La mise à jour du panier</title>
+
+      <para>Le panier est une liste de sujets qui nécessitent des rapports,
+      des explorations ou des décisions pour obtenir la clarté nécessaire pour
+      faire du bon travail. (Plus d'informations dans la section 5.4.1.)
+      Au<emphasis> début </emphasis>de la phase “contenu” d'une réunion, on
+      décide des sujets à traiter. Nous pourrions générer de nouveaux éléments
+      du panier, passer en revue des éléments reportés ou des sujets terminés.
+      Maintenant, à la <emphasis>fin</emphasis> de la phase “contenu”, nous
+      évaluons où nous en sommes. Que reste-t-il à faire ? En l'espace de
+      quelques minutes, nous le notons dans le panier pendant que c’est encore
+      frais dans notre esprit.</para>
+
+      <blockquote>
+        <para><emphasis role="strong">Intention </emphasis>: Évaluer si tous
+        les points de l'ordre du jour ont été abordés en ce qui concerne les
+        résultats souhaités.</para>
+      </blockquote>
+
+      <blockquote>
+        <para><emphasis role="strong">Outils </emphasis>: Selon la complexité
+        de la situation, on peut</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Laisser le facilitateur "penser à voix haute" aux lacunes
+            (points de l'ordre du jour qui ont été omis ou qui n'ont pas été
+            couverts correctement), et faire un tour de réaction.</para>
+          </listitem>
+
+          <listitem>
+            <para>Faire un tour de parole. "Que doit-il se passer la prochaine
+            fois ?"</para>
+          </listitem>
+
+          <listitem>
+            <para>Le secrétaire met à jour le panier tout de suite ou après la
+            réunion :</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>- Les points de l'ordre du jour qui n'ont pas été
+                traités restent dans le panier.</para>
+              </listitem>
+
+              <listitem>
+                <para>- S'il y a une prochaine étape (par exemple, si un rôle
+                a été créé, nous devons programmer un processus de sélection),
+                mettez-la dans le panier.</para>
+              </listitem>
+
+              <listitem>
+                <para>- Supprimez les éléments qui ont été traités.</para>
+              </listitem>
+
+              <listitem>
+                <para>- Notez les dates de révision des décisions
+                prises.</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+      </blockquote>
+
+      <blockquote>
+        <para>Certains groupes aiment faire le point sur les points d'action
+        formulés lors de la réunion.</para>
+      </blockquote>
+
+      <blockquote>
+        <para><emphasis role="strong">Terminé quand </emphasis>: Les
+        informations pour mettre à jour le panier sont collectées.</para>
+      </blockquote>
+
+      <blockquote>
+        <para>Le panier est une donnée essentielle à utiliser pour la
+        planification du prochain ordre du jour. Considérons notre panier mis
+        à jour comme le passage d'une réunion à l'autre. (Voir section
+        5.4.1.)</para>
+      </blockquote>
+
+      <blockquote>
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BE00000104E92CC20345E04960.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+      </blockquote>
+
+      <para><emphasis>168 : Mesurer la phase de contenu de la réunion
+      </emphasis></para>
+    </section>
+  </section>
+
+  <section>
+    <title>Clôture : évaluation de réunion</title>
+
+    <para>Veillez à conclure la partie "contenu" de votre réunion environ 10
+    minutes avant que les membres du cercle ne doivent partir. Les évaluations
+    de la réunion font partie intégrante de chaque réunion. Nous terminons la
+    réunion par un ou deux tours de table sur :</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>"Qu'est-ce qui a bien fonctionné dans la réunion ?"</para>
+      </listitem>
+
+      <listitem>
+        <para>"Qu'est-ce qui pourrait être amélioré lors des prochaines
+        réunions ?"</para>
+      </listitem>
+
+      <listitem>
+        <para>"Y a-t-il quelque chose qui vous reste de la réunion et dont
+        vous aimeriez vous libérer maintenant ?".</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>Les évaluations de réunion sont une occasion d'apprendre de nos
+    réunions. Nous pouvons parler du contenu, du processus ou de la dynamique
+    interpersonnelle.</para>
+
+    <para>Le diagramme 169 illustre ce que les gens peuvent aborder au cours
+    du tour d'évaluation. L'intention n'est pas de couvrir
+    <emphasis>tous</emphasis> ces domaines mais de montrer la variété des
+    points à évaluer. Si nous voulons aborder un sujet interpersonnel,
+    rappelons-nous qu'un feedback efficace est un feedback facile à recevoir,
+    spécifique et sans reproche. Bien entendu, l'évaluation d'une réunion
+    n'est pas une baguette magique. Une méthode de gouvernance ne peut pas
+    réparer ce qui est de la responsabilité des personnes : s'exprimer et
+    agir. Si un membre du cercle se comporte d'une manière qui rend difficile
+    notre participation, nous partageons la responsabilité d'en parler. Il
+    existe de nombreuses façons de gérer les comportements problématiques,
+    mais l'évaluation de la réunion peut être la première et la plus facile.
+    Vous trouverez d'autres exemples de choses à dire lors des évaluations de
+    réunion dans la section 4.5, page xxx.</para>
+
+    <para>Si quelque chose nécessite de l'attention, le cercle réservera du
+    temps lors d'une <emphasis>prochaine</emphasis> réunion pour l'aborder ;
+    par exemple, si les réunions du cercle dépassent considérablement le temps
+    imparti de manière régulière, nous devons prévoir du temps lors d'une
+    prochaine réunion pour en parler. Dans ce cas, mettez l'évaluation
+    ("<emphasis>observation : les réunions dépassent beaucoup le temps
+    imparti</emphasis>") dans votre panier dès l'évaluation de la réunion afin
+    que le facilitateur et le leader puissent décider si et comment l'aborder
+    avant ou lors d'une prochaine réunion. D'autres stratégies d'amélioration
+    peuvent également être consignées dans les notes de la réunion pour être
+    examinées ultérieurement. Il peut s'agir de la nécessité d'une formation
+    supplémentaire sur le processus, d'une médiation ou d'une politique
+    concernant les questions d'administration du cercle. Dans l'ensemble,
+    adoptez un état d'esprit de développement : comment ces réunions
+    peuvent-elles être meilleures la prochaine fois ? Ou, encore mieux,
+    qu'est-ce qui rendra nos réunions de cercle géniales ? N'oublions pas
+    d'être concret. Les réunions fonctionneraient mieux pour nous si elles
+    commençaient à l'heure ? Disons-le ! Les groupes semblent parfois accepter
+    que les réunions soient longues ou irritantes. Les réunions
+    sociocratiques, si elles sont bien menées, sont rafraîchissantes, propices
+    à la connexion et énergisantes. C'est le point de référence que nous
+    visons.</para>
+
+    <para><inlinemediaobject>
+        <imageobject>
+          <imagedata fileref="Pictures/10000201000003C100000271BB29D5577933DB6D.png"/>
+        </imageobject>
+      </inlinemediaobject></para>
+
+    <para><emphasis>169 : Idées sur ce qu'il faut évaluer dans l'évaluation de
+    la réunion / le tour de clôture</emphasis>.</para>
+
+    <blockquote>
+      <para><emphasis role="strong">Intention</emphasis> : Apprendre de la
+      réunion sur la façon dont le cercle travaille avec et progresse sur le
+      contenu, le processus et les relations interpersonnelles.</para>
+    </blockquote>
+
+    <blockquote>
+      <para><emphasis role="strong">Outils</emphasis> : Un tour où tout le
+      monde prend la parole.</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>- Nous pouvons diviser les évaluations du contenu, du
+          processus et des relations interpersonnelles dans des tours
+          séparés.</para>
+        </listitem>
+
+        <listitem>
+          <para>- Le secrétaire met dans le panier les éléments qui pourraient
+          se traduire par un point à l'ordre du jour.</para>
+        </listitem>
+
+        <listitem>
+          <para>- Si nous avons le sentiment que quelqu'un ne partage pas les
+          informations pertinentes, nous pouvons choisir de partager ce que
+          cela nous fait. Par exemple, s'il y avait beaucoup de tension entre
+          deux membres du cercle pendant la réunion et qu'ils ne le
+          reconnaissent pas dans leur évaluation, rien ne nous empêche de
+          partager en quoi cela nous a affecté.</para>
+        </listitem>
+
+        <listitem>
+          <para>- Quelque chose est évoqué lors du tour de clôture qui
+          déclenche de fortes réactions. Dans ce cas, il est préférable de
+          faire un tour de réaction et d'examiner s’il y aurait des prochains
+          pas à mettre en œuvre au niveau opérationnel après la réunion ou si
+          des points doivent être ajoutés au panier du cercle.</para>
+        </listitem>
+      </itemizedlist>
+    </blockquote>
+
+    <blockquote>
+      <para><emphasis role="strong">Terminé quand</emphasis> : Tout le monde
+      s'est exprimé. Les évaluations qui sollicitent la mise en œuvre d’une
+      action sont écrites dans le compte-rendu ou dans le panier.</para>
+    </blockquote>
+  </section>
+
+  <section>
+    <title>Documents de référence : panier, ordre du jour,
+    compte-rendu</title>
+
+    <para>Le panier, l'ordre du jour et le compte-rendu sont des documents qui
+    soutiennent le travail du cercle. Les trois documents ne doivent pas
+    nécessairement se trouver dans trois fichiers différents. Un même document
+    peut avoir différentes sections qui servent des objectifs différents. Dans
+    un document numérique, créez un espace pour le panier, tapez directement
+    dans l'ordre du jour et continuez à ajouter vos comptes-rendus dans le
+    même fichier. De cette façon, tout restera au même endroit. Bien sûr, nous
+    pouvons avoir de bonnes raisons de conserver le panier, l'ordre du jour et
+    le compte-rendu dans des fichiers différents.</para>
+
+    <section>
+      <title>Panier</title>
+
+      <para>Le panier est une liste de sujets dont le cercle doit parler. Il
+      s'agit en quelque sorte d'une liste de tâches à accomplir par le cercle.
+      Il est préférable de créer un panier dans un endroit visible par tous.
+      Certains cercles rassemblent leurs points d'ordre du jour à la fin du
+      fichier de compte-rendu courant, ou sur un tableau blanc ou sur un
+      tableau numérique ou physique.</para>
+
+      <para>Entre les réunions, les nouvelles idées de points à l'ordre du
+      jour peuvent être placées dans le panier afin qu'elles puissent être
+      rappelées et suivies. 170 est un exemple de panier. Utilisons toute
+      façon de trier qui aide le groupe à aborder les sujets de manière
+      efficace, sans créer un grand besoin d’entretien.</para>
+
+      <para>Idéalement, le panier sera mis à jour lors de la dernière phase
+      “contenu” de chaque réunion, lorsque de nouveaux sujets, actifs ou en
+      attente, sont ajoutés au panier ou que des sujets qui ont été traités
+      pendant une réunion sont retirés du panier. L'objectif global des
+      réunions de cercle est de rayer des sujets de votre panier !</para>
+    </section>
+
+    <section>
+      <title>Ordre du jour</title>
+
+      <para>L'ordre du jour est la liste des sujets abordés par un cercle lors
+      d'une réunion de cercle. L'établissement d'un ordre du jour avant la
+      réunion est le premier pas vers une réunion efficace et économe en
+      temps. Le temps est précieux pour toutes les personnes présentes dans la
+      salle. Il peut être frustrant d'avoir toutes les bonnes personnes dans
+      la salle mais pas d'ordre du jour préparé pour faire bon usage du temps
+      de chacun !</para>
+
+      <para>Qui fixe l'ordre du jour d'une réunion ? Il y a deux réponses à
+      cette question : une autour du pouvoir et une autour de la logistique.
+      En ce qui concerne le pouvoir, il est important de garder à l'esprit
+      que, peu importe qui prépare la proposition d'ordre du jour, ce que nous
+      choisissons d'<emphasis>accepter</emphasis> comme ordre du jour est une
+      décision par consentement de tous les membres du cercle. Les membres du
+      cercle ont une responsabilité égale vis-à-vis de l'ordre du jour une
+      fois qu'il a été consenti.</para>
+
+      <para>La logistique : La manière dont les organisations sociocratiques
+      établissent l'ordre du jour de leurs réunions de cercle varie. Une
+      pratique consiste à demander au leader, au facilitateur et au secrétaire
+      de préparer la proposition d'ordre du jour. L'initiative vient du
+      facilitateur qui contacte le leader et le secrétaire. Les facilitateurs
+      devront avoir une proposition d'ordre du jour prête à la réunion, donc
+      les facilitateurs comptent sur l'existence d'un ordre du jour plus que
+      tous les autres. Dans l'idéal, l'ordre du jour est établi par le
+      secrétaire, le facilitateur et le leader, en réunissant le passé, le
+      présent et le futur, comme le montre la figure 171.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C10000024EA2D47503D496B9F1.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>170 : Un exemple de panier à reporter à la fin du
+      compte-rendu de la réunion. </emphasis></para>
+
+      <itemizedlist>
+        <listitem>
+          <para>Le<emphasis role="strong">/</emphasis>la leader donnera son
+          avis sur ce qui doit être fait à partir de sa vision globale. Les
+          membres du cercle ont-ils identifié de nouveaux sujets ? Y a-t-il
+          des sujets du cercle parent ou d’un sous-cercle qui devraient être
+          abordés par le cercle ? Du point de vue du leader, certains sujets
+          sont-ils prioritaires ?</para>
+        </listitem>
+      </itemizedlist>
+
+      <itemizedlist>
+        <listitem>
+          <para>Le<emphasis role="strong">/</emphasis>la secrétaire vérifiera
+          si des élections sont à prévoir, ou si une politique doit être
+          révisée. La sociocratie ne prescrit pas l'outil à utiliser pour
+          suivre les dates d'échéance, et il existe de nombreuses options. Un
+          outil de suivi ou simplement votre calendrier aidera le secrétaire à
+          se rappeler quand ces points doivent être mis à l'ordre du jour.
+          Veuillons noter que le simple fait de revenir à l'ordre du jour de
+          la dernière réunion ne permet pas de planifier à long terme. Par
+          exemple, lorsque le cercle a convenu de réévaluer une décision au
+          bout de 6 mois, le secrétaire (ou le gardien du journal de bord)
+          doit se souvenir de l'inscrire à l'ordre du jour. Nous pouvons
+          également décider d'opter pour une option sans risque d'erreur et de
+          placer toutes nos dates de révision dans notre panier et de les y
+          conserver (voir figure 170, page xxx). Certains cercles font les
+          élections de tous leurs rôles le même jour chaque année. Certaines
+          organisations demandent à tous leurs cercles de revoir les
+          politiques de leur domaine au même moment, par exemple de septembre
+          à octobre des années impaires. Ce sont des moyens simples de
+          favoriser une continuité et une meilleure fiabilité.</para>
+        </listitem>
+
+        <listitem>
+          <para>Tous les points de l'ordre du jour, nouveaux ou issus du
+          panier, seront rassemblés et mis en ordre par le facilitateur dans
+          la proposition d'ordre du jour ou le projet d'ordre du jour. Tout
+          ordre du jour complet comprend : les sujets de l'ordre du jour, la
+          durée et l'ordre des sujets, les résultats souhaités pour chaque
+          point (voir ci-dessous).</para>
+        </listitem>
+
+        <listitem>
+          <para>Le facilitateur ou le leader s'assure que les bonnes personnes
+          sont présentes dans la salle ; par exemple, il invite des personnes
+          dont la contribution serait utile à la discussion du cercle.</para>
+        </listitem>
+
+        <listitem>
+          <para>Le facilitateur s'assure également que la proposition d'ordre
+          du jour et les documents d'accompagnement sont envoyés aux membres
+          du cercle à l'avance afin qu'ils puissent se préparer à la
+          réunion.</para>
+        </listitem>
+      </itemizedlist>
+
+      <blockquote>
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003C10000028DFC6E7CD6BB953A67.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+      </blockquote>
+
+      <para><emphasis>171 : L'ordre du jour réunit les besoins passés, futurs
+      et présents </emphasis></para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C0000000CA6C9A462CF8253052.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>172 : Établir un ordre du jour</emphasis></para>
+
+      <section>
+        <title>Sujet, durée, résultat souhaité</title>
+
+        <para>Ce format d'ordre du jour est un format enrichi qui permet
+        d'améliorer les ordres du jour. Au lieu d'une simple liste de sujets,
+        nous ajoutons toutes les informations pertinentes.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Sujet : les éléments dont il faut parler.</para>
+          </listitem>
+
+          <listitem>
+            <para>Durée : temps que nous prévoyons pour chaque point de
+            l'ordre du jour.</para>
+          </listitem>
+
+          <listitem>
+            <para>Résultat souhaité : compréhension, exploration ou décision
+            (voir section 5.2.2).</para>
+          </listitem>
+
+          <listitem>
+            <para>Autres aspects : documents d'accompagnement, nom de la
+            personne porteuse du sujet.</para>
+          </listitem>
+        </itemizedlist>
+
+        <para><emphasis role="strong">Points de l'ordre du jour (Sujet)
+        </emphasis>Tous les sujets, ceux du panier et les nouveaux points de
+        l'ordre du jour, seront rassemblés dans une liste, ordonnée
+        successivement, selon leur priorité. Le panier contiendra probablement
+        plus de sujets qu'il n'est possible d'en traiter en une seule réunion.
+        Identifiez les priorités et établissez un ordre du jour
+        réaliste.</para>
+
+        <para><emphasis role="strong">Durée</emphasis> Il est essentiel de
+        prévoir des durées dans un ordre du jour, même approximatives. Cela
+        permet d'avoir de la <emphasis>rétroaction </emphasis>pendant la
+        réunion. Le déroulement minuté ne doit pas nécessairement être suivi à
+        la lettre. Si nous remarquons au milieu du point 1 de l'ordre du jour
+        que nous avons déjà 25 minutes de retard sur notre propre programme,
+        nous saurons que nous devons faire des ajustements. Nous ne pouvons
+        pas toujours prédire à l'avance combien de temps un point prendra,
+        mais nous pouvons faire une bonne estimation. Au cours de la réunion,
+        nous comparons la prévision à la réalité et en examinons les
+        conséquences. Quels changements voulons-nous apporter au reste de
+        l'ordre du jour de cette réunion ?</para>
+
+        <para>Soyons réaliste ! Si un groupe dépasse le temps de manière
+        chronique, il peut être utile d'y remédier et d'avoir des intentions
+        claires sur la planification et le déroulement des réunions. Peut-être
+        faut-il augmenter la durée, la fréquence des réunions, sortir la
+        présentation des rapports en dehors du temps des réunions, ou utiliser
+        davantage les cercles de soutien. Il existe de nombreuses façons
+        d'aborder la question de la durée des réunions, mais la première étape
+        consiste à déterminer comment nous entendons utiliser notre
+        temps..</para>
+
+        <para><emphasis role="strong">Définissez votre résultat
+        souhaité</emphasis> Pour une présentation plus générale du contenu des
+        ordres du jour des réunions, il est utile de repenser aux trois types
+        de contenu possibles ou résultats souhaités, décrits précédemment dans
+        la section 5.2.2, page xxx: rapports / compréhension, exploration, et
+        prise de décision (synthèse ou produit final / sortie). Chaque point
+        de l'ordre du jour doit être associé à l'un de ces résultats
+        souhaités. Les résultats souhaités sont des indicateurs pour chaque
+        point de l'ordre du jour.</para>
+
+        <para>Ne visons pas trop haut. Parfois, le simple fait de parvenir à
+        une compréhension commune de la situation actuelle est un succès !
+        Quoi que nous fassions, c'est notre point de départ, car les trois
+        résultats souhaités ont pour première étape une
+        <emphasis>compréhension commune</emphasis>. Confirmons que les gens
+        sont sur la même longueur d'onde et qu'ils ont une compréhension
+        commune de ce qu'il y a à savoir (au niveau de détail qui a du sens
+        dans votre contexte).</para>
+
+        <para>Veillons à partager avec le cercle quel est le résultat souhaité
+        pour chaque point et à l'inscrire à l'ordre du jour.</para>
+
+        <para>Soyons proactif et ayons des intentions claires, au lieu de nous
+        contenter de nous occuper de tout ce qui se présente au cercle. La
+        planification de l'ordre du jour doit avoir une vision à plus long
+        terme. C'est pourquoi l'apport du leader est important. Quel est le
+        plan à un an de notre cercle (basé sur votre but) ? Que doit-il se
+        passer pour que nous puissions y arriver ?</para>
+
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BD0000017718C33369A4F3D3F0.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+
+        <para><emphasis>173 : Exemple d'un ordre du jour. Chaque point de
+        l'ordre du jour peut également désigner la personne responsable de ce
+        point et faire référence à tout document d’accompagnement.
+        </emphasis></para>
+      </section>
+    </section>
+
+    <section>
+      <title>Compte-rendu de réunion</title>
+
+      <para>Dans un système de gouvernance décentralisé comme la sociocratie,
+      les comptes-rendus des réunions sont une source importante de
+      transparence. Avec autant d'autorité distribuée dans les cercles, nous
+      devons pouvoir nous reposer sur les comptes-rendus pour savoir ce qui se
+      passe dans les cercles, en plus des rapports par le biais des
+      liens.</para>
+    </section>
+
+    <section>
+      <title>Prise de notes</title>
+
+      <para>Les notes sont rédigées, idéalement, en temps réel, au fur et à
+      mesure que la réunion avance. Dans nos organisations, nous tapons
+      directement dans l'ordre du jour, qui est un document sur l'ordinateur
+      du secrétaire ou dans le cloud. Nous ne rédigeons pas de compte rendu
+      détaillé (pas de "<emphasis>qui a dit quoi</emphasis>") mais nous notons
+      uniquement les décisions et tout contenu que nous produisons ensemble,
+      comme le montre l'exemple 174. Cela inclut les décisions de politiques
+      (dans leur formulation exacte), les élections sociocratiques, et les
+      points d'action pour les décisions opérationnelles.</para>
+
+      <para>Bien que la sociocratie ne soit pas assortie d'exigences
+      particulières en matière de compte-rendu, nous recommandons de
+      n'enregistrer que les informations pertinentes et de garder les
+      comptes-rendus brefs afin que l'organisation plus large puisse gérer la
+      quantité d'informations. Si nous écrivons de merveilleuses notes mais
+      qu'elles sont très longues, les gens arrêteront de les lire, ce qui
+      entraînera un manque de transparence. La transparence et la
+      praticabilité doivent être en équilibre.</para>
+    </section>
+
+    <section>
+      <title>Utilisation de notes pendant la réunion</title>
+
+      <para>Il est utile de noter chaque décision (politique et
+      opérationnelle) qui est pertinente au-delà de la réunion. Si le
+      compte-rendu est disponible en temps réel, on peut utiliser cette
+      ressource en demandant au secrétaire de lire à haute voix une
+      proposition en cours d’élaboration dans la réunion avant d’y
+      consentir.</para>
+
+      <para>De plus, les notes au sujet d'un<emphasis> point de l'ordre du
+      jour</emphasis> peuvent être relues au cercle avant de passer au point
+      suivant. Cela permet de mesurer si le point de l'ordre du jour a été
+      couvert et bien saisi et peut souvent permettre de savoir si le cercle
+      est sur la même longueur d'onde au sujet de ce qui s'est passé.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C000000213C36724B442634BDB.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>174 : Gardez vos comptes-rendus courts et pertinents
+      </emphasis></para>
+    </section>
+
+    <section>
+      <title>Approbation des comptes-rendus</title>
+
+      <para>Le compte-rendu d'une réunion doit être approuvé afin que le
+      cercle dans son ensemble puisse s'approprier ce qui a été écrit pendant
+      la réunion. Consentir signifie ne pas avoir d'objection au compte-rendu
+      proposé. Une personne qui a manqué la réunion ne peut pas s'objecter au
+      compte-rendu puisqu'elle n'était pas présente pour assister à ce qui a
+      été décidé, à moins qu'elle ne s'objecte à la façon dont un rapport a
+      été résumé. (Elle peut s'objecter aux décisions prises, mais c'est
+      différent et c'est traité dans la section 3.2.5 à la page xx).</para>
+
+      <para>Plus tôt nous pouvons approuver le compte-rendu, mieux c'est. Le
+      compte-rendu doit être approuvé avant que la phase “contenu” de la
+      prochaine réunion ne commence. Quelques options :</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>Consentir au compte-rendu comme dernier élément de contenu de
+          la réunion (si le compte-rendu est pris en temps réel pendant la
+          réunion et mis au propre sur le moment).</para>
+        </listitem>
+
+        <listitem>
+          <para>Envoyer le projet de compte-rendu au cercle après la réunion
+          et donner aux membres du cercle 48 heures pour s'y objecter
+          (consentement paresseux) ; sinon, supposer le consentement, comme
+          décrit dans l'exemple au 177.</para>
+        </listitem>
+
+        <listitem>
+          <para>Envoyer le projet de compte-rendu aux membres du cercle et
+          l’approuver au début de la réunion suivante.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+
+    <section>
+      <title>Publication des comptes-rendus</title>
+
+      <para>Les comptes-rendus sont classés dans le journal de bord du cercle,
+      dans un dossier en ligne ou dans un classeur.</para>
+
+      <para>Les comptes-rendus doivent être publiés au sein de l'organisation,
+      et pas seulement dans le cercle. Au moins un bref résumé est mis à la
+      disposition de l'ensemble de l'organisation.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BC0000023A6AEE852A334BE644.png"/>
+          </imageobject>
+        </inlinemediaobject><emphasis> </emphasis></para>
+
+      <para><emphasis>175 : Exemple de compte-rendu à rendre public.
+      </emphasis></para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BA00000096F3AE396D5287CD17.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>176 : Ce que les autres font</emphasis></para>
+
+      <para>Les comptes-rendus dans une organisation sociocratique sont encore
+      plus importants que dans les autres organisations en raison de la
+      manière dont le pouvoir est distribué. La transparence et l'accès facile
+      à l'information sont cruciaux lorsque les décisions sont prises en
+      petits groupes.</para>
+
+      <para>Si nous consentons à une politique lors d'une réunion, la nouvelle
+      politique doit être ajoutée au document approprié (manuel de politique,
+      accords organisationnels, règles et règlements) du journal de bord de
+      l'organisation. Les politiques ne sont utiles que si les gens les
+      connaissent. Veillons à mettre en place un système de journal de bord
+      qui fonctionne pour l'organisation. En sociocratie, dans les grandes
+      organisations, il y a le rôle supplémentaire d'un gardien du journal de
+      bord (voir section 2.3.1) afin que le journal de bord reste à jour et
+      accessible à tous dans l'organisation (ou même au public). Note : Il est
+      utile de faire une formation continue sur les politiques existantes dans
+      votre organisation.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BD0000012E88A4A04D39314173.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>177 : Un exemple de politique mettant en œuvre le
+      consentement paresseux pour l'approbation des
+      comptes-rendus</emphasis></para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BF0000012FDB65454D7A5BDB40.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>178 : Ce que les autres disent</emphasis></para>
+
+      <para>Les comptes rendus de réunion sont un endroit naturel pour
+      solliciter des commentaires. Cependant, n'oublions pas que tout le monde
+      ne lira pas tous les comptes rendus de réunion publiés. Si nous voulons
+      une rétroaction sur quelque chose, il est utile d'être explicite et de
+      formuler une demande claire. Il ne suffit pas d'envoyer un compte-rendu
+      et de dire plus tard "<emphasis>vous auriez pu nous faire part de vos
+      commentaires lorsque nous avons dit que nous travaillions sur ce
+      sujet</emphasis>" ! Le canal que nous utilisons pour diffuser nos
+      comptes rendus dépend de la nature et des modèles que nous trouvons dans
+      notre organisation et dans notre culture. La sociocratie équilibre la
+      relation entre les individus et les cercles. Les cercles doivent faire
+      un effort de transparence, tandis que les individus doivent faire un
+      effort pour réagir aux informations. Il n'y a pas de bien ou de mal ici
+      - <emphasis>chacun</emphasis> est responsable.</para>
+    </section>
+  </section>
+
+  <section>
+    <title>Formats de facilitation</title>
+
+    <para>Ce livre étant dédié aux pratiques sociocratiques, nous n’aborderons
+    pas ici les différentes approches de la facilitation de groupe, tels que
+    “Rêve du Dragon”, <emphasis>Art of Hosting</emphasis> ou encore
+    <emphasis>Dynamic Facilitation</emphasis>. Elles sont toutes compatibles
+    avec la sociocratie, mais leur description ne rentre pas dans le champ de
+    cet ouvrage. Nous vous encourageons cependant à vous familiariser avec ces
+    approches afin d’élargir le champ de vos compétences. Nous nous
+    concentrons ici sur la force de la sociocratie : de petits groupes dont
+    l’objet est de prendre des décisions.</para>
+
+    <section>
+      <title>Les tours de parole</title>
+
+      <para>Bien que la sociocratie n’ait pas inventé les tours de parole, ils
+      en constituent la signature distinctive. Comme tous les outils de la
+      sociocratie, les tours de parole favorisent l’équivalence et
+      l’efficacité. Tout le monde a l’occasion de parler, tout le monde
+      écoute. Les tours de parole sont souvent le premier outil sociocratique
+      mis en place dans un groupe.</para>
+
+      <para>Les tours de parole sont simples : la personne en charge de la
+      facilitation annonce le sujet à traiter puis donne la parole à
+      quelqu’un. Une fois que cette personne a parlé, c’est la personne qui la
+      suit dans le cercle qui prend la parole et ainsi de suite jusqu’à ce que
+      chaque personne se soit exprimée. Selon la nature du sujet et la taille
+      du groupe, un tour de parole peut durer entre 20 secondes et 20 minutes
+      ou toute durée intermédiaire.</para>
+
+      <para>Nous avons conscience que les tours de parole peuvent demander un
+      temps d’adaptation à certaines personnes. Si des gens se plaignent que
+      les tours de parole sont « contraignants », « artificiels » ou que ces
+      personnes préfèrent le mode d’échange « naturel », nous vous invitons à
+      considérer ceci :</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>Ce qui est «naturel» est hautement discutable. Par exemple, il
+          est ou il fut un temps et des cultures dans lesquels il était
+          inimaginable qu’un enfant puisse parler lors d’un dîner familial
+          sans y avoir été invité. Dans ce cas, on trouvait certainement que
+          ce style de repas familial était la manière de faire « naturelle
+          ».</para>
+        </listitem>
+
+        <listitem>
+          <para>Les tours de parole ont été pratiqués par certaines cultures
+          durant des centaines, voire des milliers d’années. Ils deviennent
+          une seconde nature très rapidement.</para>
+        </listitem>
+
+        <listitem>
+          <para>Il est très probable que les schémas de pouvoir internalisés
+          façonnent notre façon d’être dans une réunion au mode d’échange «
+          naturel ». Cela signifie que les biais culturels dont nous ne sommes
+          pas forcément conscients peuvent donner davantage de temps de parole
+          à certains groupes au détriment des autres. Il peut s’agir de classe
+          sociale, d’ethnie, de genre ou d’autres catégories encore. Les mêmes
+          biais amènent également une distorsion de notre perception à propos
+          de la fréquence et de la durée du temps de parole accordé à tel ou
+          tel groupe. Notre perception de ce qui est « égal » peut s’avérer
+          faussée.</para>
+        </listitem>
+      </itemizedlist>
+
+      <section>
+        <title>Comment les tours permettent-ils à tout le monde de parler
+        ?</title>
+
+        <para>Une réunion sans cadre de prise de parole a tendance à générer
+        des débats. Dans les échanges sous forme de débats, la personne qui
+        prend la parole sera entendue et entendue à nouveau si elle se répète.
+        Cela se passe bien pour les personnes à l’aise avec cette forme
+        d’échange. Cela se passe moins bien pour les personnes qui
+        n'apprécient pas d'avoir à parler beaucoup pour pouvoir contribuer.
+        Certaines personnes ont plus de facilité et sont plus susceptibles de
+        monopoliser la parole que d’autres. Lorsque nous décidons de discuter
+        sous forme de débats, nous privilégions donc les personnes les plus
+        extraverties ou socialement privilégiées. Comme le débat est la forme
+        par défaut que prend une discussion en l'absence d'un cadre,
+        <emphasis>ne pas</emphasis> avoir d’intentions claires sur la façon de
+        parler ensemble revient à favoriser <emphasis>certaines</emphasis>
+        voix et à en ignorer d’autres. Il est crucial de comprendre que
+        <emphasis>ne pas faire le choix d’échanger avec des tours de parole
+        constitue en réalité un choix qui a ses propres
+        conséquences</emphasis>.</para>
+
+        <para>Lorsque que nous utilisons les tours de parole, nous savons que
+        nous pourrons parler à notre tour. Nous n'avons pas à nous demander
+        comment faire entendre notre contribution et comment prendre la
+        parole. Nous pouvons nous détendre en sachant que le groupe aura
+        l’occasion d’entendre notre apport.</para>
+      </section>
+
+      <section>
+        <title>Comment les tours de parole permettent-ils à tout le monde
+        d’écouter ?</title>
+
+        <para>Avec un débat, tout le monde y perd. Ce n'est pas parce qu'une
+        personne est moins susceptible de prendre la parole dans une
+        discussion animée, que sa contribution est moins valable. Cela
+        signifie que si nous choisissons de ne pas utiliser les tours de
+        parole, nous perdons des informations précieuses.</para>
+
+        <para>Les tours de parole changent la dynamique d’une conversation.
+        Quand c’est le tour des autres, nous pouvons prendre du recul et
+        écouter. Ce qui veut dire pour nous : écouter vraiment. Je n’ai pas
+        besoin d’attendre le bon moment pour intervenir et interrompre
+        l’autre. Je n’ai pas besoin de penser à comment réfuter le point de
+        vue de la personne qui parle. Je peux me permettre d’écouter et
+        d’absorber l’expérience des autres membres du cercle.</para>
+
+        <para>Lors d’un débat, nous avons souvent tendance à essayer de
+        convaincre les autres de la justesse de notre point de vue. Lorsque
+        certaines personnes expriment une opinion divergente, d'autres vont
+        répéter leur position, plus fort. Avec les tours, on a bien plus la
+        sensation que chaque personne apporte au groupe ses idées,
+        perspectives et expériences. Les contributions ressemblent alors bien
+        davantage à un don fait au groupe, car personne n’est visé.</para>
+
+        <para>Nous ne pouvons vraiment constituer un groupe que lorsque nous
+        sommes sûrs que chaque personne dans le cercle est incluse. S’exprimer
+        en tours de parole assure à chacune et chacun que sa voix compte. Ce
+        que nous apportons individuellement appartient dorénavant au groupe.
+        L’intelligence collective se développe au milieu du cercle. C’est très
+        satisfaisant lorsque cela se produit, et les tours de parole rendent
+        cette émergence bien plus probable.</para>
+
+        <para>Dans un débat, notre objectif est de gagner, d’avoir raison.
+        Dans un tour nous passons bien plus de temps à écouter qu’à parler.
+        Nous ne disposons nous-mêmes que de notre seule perception du monde.
+        Après avoir entendu les expériences d'autres personnes sans avoir eu
+        besoin de penser à dire quelque chose moi-même, il devient évident que
+        ma propre expérience n’est qu'<emphasis>une seule</emphasis> façon de
+        voir les choses. Une parmi une multitude d’autres.</para>
+      </section>
+
+      <section>
+        <title>Comment les tours de parole font-ils gagner du temps ?</title>
+
+        <para>Une première impression fréquente lorsque l’on découvre les
+        tours de parole est qu’ils vont être longs et faire perdre du temps.
+        Cela demande effectivement un petit peu de pratique et d'expérience
+        pour se rendre compte à quel point c'est l'inverse qui se produit. Les
+        tours font gagner en efficacité de plusieurs manières :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Lors d'un débat, les personnes se sentent obligées de
+            reformuler leurs contributions afin de s'assurer d’avoir été
+            entendues. Les tours de parole ralentissent suffisamment les
+            échanges de façon à ce que chaque contribution puisse être
+            accueillie et valorisée. Les déclarations n’ont ainsi pas besoin
+            d’être répétées. Nous nous sommes tous retrouvés dans des
+            conversations au cours desquelles une même personne répète la même
+            idée à plusieurs reprises. Les tours réduisent ce risque de
+            redondance car nous savons que l’idée aura été entendue dès la
+            première fois.</para>
+          </listitem>
+
+          <listitem>
+            <para>Lors d’un tour de parole, un maximum d'informations est
+            accessible très rapidement. Ce qui signifie qu'en tant que groupe
+            (ou plus précisément en tant que sous-groupe), nous n’avons pas à
+            nous précipiter dans une direction pour découvrir ensuite qu’il
+            s’agit d’un cul-de-sac. Nous progressons plus lentement en prenant
+            en compte un plus grand nombre d’aspects et de points de vue. De
+            cette façon, nous n’avons pas besoin de changer de direction aussi
+            souvent. Lentement mais sûrement !</para>
+          </listitem>
+
+          <listitem>
+            <para>Les tours de parole ont un effet subtil mais puissant : ils
+            permettent de rester concentré sur le sujet. Lorsque nous entamons
+            un tour, nous entendons tous la même introduction. Ce qui signifie
+            que chaque personne qui prend la parole après la première a deux
+            options : se référer à l’introduction et augmenter ainsi le nombre
+            d’opinions exprimées dans le groupe, lui offrant ainsi différentes
+            perspectives. La seconde option est de réfléchir sur ce qu’on dit
+            d'autres personnes et de permettre ainsi aux contributions de se
+            nourrir les unes les autres, ce qui offre davantage d’informations
+            au groupe. Idéalement, les personnes font les deux, partageant la
+            réaction initiale ainsi que la réflexion sur ce qui a été dit
+            avant elle. Dans un monde idéal, les gens l’assument clairement et
+            construisent leur contribution sous la forme : « <emphasis>Ma
+            première réaction / idée était… puis j’ai entendu Eduardo parler
+            et j’ai appris que…, et je pense à présent que…</emphasis>». Les
+            tours de parole nous offrent un maximum d’apports, à la fois à
+            partir des contributions individuelles et par la construction de
+            la sagesse du groupe.</para>
+          </listitem>
+
+          <listitem>
+            <para>Lorsque tout le monde prend part activement à une décision,
+            cela augmente la responsabilisation et l’engagement de toutes les
+            personnes impliquées. La décision appartient à chaque membre du
+            groupe. Si chaque membre est entendu et contribue pleinement à une
+            décision, personne ne va saper l’exécution des projets que nous
+            avons faits ensemble.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+
+    <section>
+      <title>Quels sont les différents types de tours de parole ?</title>
+
+      <para>Bien que tous les tours soient très similaires, il existe quelques
+      différences dans la nature d’un tour, selon le rôle qu’il joue dans le
+      processus de décision (voir 179 et 180).</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C100000139A1BCC80CEDBC73F7.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>179: Différents types de tours de parole et leur usage
+      </emphasis></para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C000000160E46471E3290495F8.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>180: Nous répondons à des introductions du sujet par
+      différents types de tours</emphasis></para>
+
+      <section>
+        <title>Tour de questions de clarification</title>
+
+        <para>Un tour de questions de clarification est proposé à chaque fois
+        qu’une proposition, une idée ou une déclaration doit être comprise
+        <emphasis>avant</emphasis> que les membres du cercle formulent ou
+        donnent leurs opinions. Il peut s’agir d’une proposition de politique,
+        ou d’un rapport, mais il peut aussi s’agir d’une objection complexe.
+        Nous devons être transparents sur la nature du tour : <emphasis>«
+        Assurons-nous que tout le monde comprend la proposition / l’objection
+        avant d’en parler davantage. C’est le moment de poser les questions
+        pour lesquelles vous avez besoin de réponses avant de continuer.
+        »</emphasis></para>
+
+        <para>Les questions peuvent être recueillies lors d’un tour de parole
+        pour qu’une personne qualifiée puisse ensuite y répondre, ou bien il
+        est possible d’y répondre une à une. Lorsque les réponses sont simples
+        et courtes, donnons-les immédiatement. Lorsque les réponses sont
+        complexes ou impliquent un dialogue avec les personnes qui ont posé
+        les questions, il est mieux de les recueillir et d’y répondre à la fin
+        du tour. Il faut éviter de rompre l’esprit du tour et ne pas entrer
+        dans une longue discussion en plein milieu d’un tour.</para>
+
+        <para>Il n’y a probablement pas de façon idéale de le faire, mais la
+        personne qui facilite peut décider <emphasis>à quel moment</emphasis>
+        les réponses seront données aux questions. S’il y a beaucoup de
+        questions, la personne qui facilite peut lancer un second tour, car de
+        nouvelles informations peuvent avoir déclenché de nouvelles
+        interrogations. N’oubliez pas, l’objectif ultime de cette procédure
+        est de s’assurer que tout le monde comprend bien la proposition ou la
+        présentation initiale. Il ne faut passer à l’étape suivante que
+        lorsque toutes les personnes présentes y sont prêtes.</para>
+
+        <para>Parfois, la personne qui facilite aura besoin d’accompagner un
+        membre du cercle afin d’identifier une véritable question, au départ
+        mêlée à l’opinion de cette personne. Pouvoir reformuler une question
+        est une compétence précieuse à posséder pour une personne qui facilite
+        et cela peut ressembler à ceci : « <emphasis>Dans ce que tu dis,
+        j’entends que tu voudrais avoir une clarification à propos
+        de…</emphasis> ».</para>
+
+        <para>Une difficulté possible du tour de clarification est que
+        parfois, une personne anticipe le processus et donne son opinion. Ou
+        encore quelqu’un formule une opinion négative sur la proposition au
+        travers d’une question biaisée. Une « question » (chargée
+        potentiellement de sous-texte) comme par exemple : «
+        <emphasis>Pourquoi est-ce que vous ne faites pas plutôt… ?</emphasis>
+        » va certainement aboutir à cela ! Si quelqu’un exprime une opinion,
+        la personne qui facilite peut dire quelque chose comme :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>« <emphasis>Merci de nous donner ton opinion. As-tu une
+            question que tu souhaites poser afin de comprendre la proposition
+            telle qu’elle est formulée ?</emphasis> »</para>
+          </listitem>
+
+          <listitem>
+            <para>« <emphasis>Ce que je voudrais d’abord c’est que nous
+            comprenions la proposition qui est faite. Nous serons heureux
+            d’écouter tes idées d’amélioration dans un petit instant.
+            Voudrais-tu les noter pour ne pas les oublier ?</emphasis>
+            »</para>
+          </listitem>
+
+          <listitem>
+            <para>(une version plus directe) « <emphasis>J’apprécierais
+            vraiment que vous reteniez vos opinions pour le moment, car tout
+            ce que je souhaite c’est que chaque personne présente puisse avoir
+            l’occasion de comprendre pleinement la proposition. Vous pourrez
+            donner votre opinion dans un instant.</emphasis> »</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Encourageons <emphasis>chaque personne</emphasis> à prendre la
+        parole durant le tour et à confirmer si elle comprend la proposition
+        ou si elle a une question à poser. Elles peuvent utiliser l’une des
+        deux options : « <emphasis>Je comprends la proposition.</emphasis> »,
+        ou « <emphasis>Ce dont j’ai besoin pour comprendre la proposition,
+        c’est… </emphasis>».</para>
+
+        <para>Cette étape permet à tout le monde de s’approprier du
+        processus.</para>
+      </section>
+
+      <section>
+        <title>Tour de réactions</title>
+
+        <para>Les tours de réactions constituent un bon moyen pour percevoir
+        le positionnement du groupe, ainsi que pour recueillir des apports de
+        la part de ses membres.</para>
+
+        <para>Les tour de réactions peuvent être utilisés dans des contextes
+        très divers :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Des réactions à un rapport, par exemple le rapport d’un
+            cercle de soutien.</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>« <emphasis>Merci pour ce rapport. Je propose
+                d’envisager…</emphasis> »</para>
+              </listitem>
+
+              <listitem>
+                <para>« <emphasis>Je trouve intéressant que le cercle
+                Adhésions semble…</emphasis>»</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+
+          <listitem>
+            <para>Des réactions à une proposition, durant un processus de
+            décision par consentement.</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>« <emphasis>J’apprécie la proposition, car elle apporte
+                de la clarté sur…</emphasis> »</para>
+              </listitem>
+
+              <listitem>
+                <para>« <emphasis>Je voudrais suggérer un léger amendement.
+                Nous ne semblons pas avoir prévu de durée d’application pour
+                cette politique et je suggère 6 mois.</emphasis> »</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+
+          <listitem>
+            <para>Des réactions à une question, par exemple une question à
+            propos des étapes à venir.</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>« <emphasis>Je pense que c’est le bon moment pour créer
+                un rôle qui s’occupe de cela en continu…</emphasis> »</para>
+              </listitem>
+
+              <listitem>
+                <para>« <emphasis>Je n’ai pas vraiment de bonne idée, mais je
+                suis curieux de savoir ce que les autres ont à
+                dire.</emphasis> »</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+
+          <listitem>
+            <para>Des réactions à une objection.</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>« <emphasis>Je comprends l’objection. Je trouve quant à
+                moi que le risque est léger et j’aimerais voir ce que nous
+                pouvons apprendre en essayant ce qui est proposé.</emphasis>
+                »</para>
+              </listitem>
+
+              <listitem>
+                <para>« <emphasis>À présent que je comprends mieux
+                l’objection, je suis d’accord pour amender la proposition.
+                J’ai une idée…</emphasis>»</para>
+              </listitem>
+
+              <listitem>
+                <para>« <emphasis>Je suis d’accord. Je ne vois pas comment
+                nous pourrions avancer vers l’accomplissement de notre but si
+                nous consentions à cette proposition.</emphasis> »</para>
+              </listitem>
+
+              <listitem>
+                <para>« <emphasis>J’ai du mal à comprendre cette objection et
+                je vous écoute. Merci de me revenir.</emphasis> »</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+
+        <para>Un tour de réaction peut consister à réfléchir à ce qui vient à
+        l’esprit des membres du cercle, ou il peut être lancé par une question
+        particulière (comme : « <emphasis>Que pensez-vous que l’on puisse
+        faire à ce sujet ?</emphasis> »). Ne limitons pas cette phase à un
+        seul tour si les contributions offertes semblent riches et productives
+        et se nourrissent les unes les autres. (Au sujet des réactions aux
+        propositions durant le processus de décision par consentement, voyez
+        la section 3.3.2). La personne qui facilite la réunion peut conclure
+        le tour en demandant si quelqu’un a quelque chose d’autre à ajouter. «
+        <emphasis>Nous avons fait deux tours à présent et nous avons entendu
+        de riches apports. Voyez-vous quelque chose d’autre qu’il soit
+        nécessaire de dire avant de poursuivre ?</emphasis> »</para>
+
+        <para>La durée et la capacité d’attention sont souvent une inquiétude
+        durant les réunions. Pour introduire un rapide tour de réaction, la
+        personne qui facilite peut dire : « <emphasis>Je vous propose de faire
+        un tour de réactions rapides. Et par rapides, je veux dire en 5
+        phrases ou moins.</emphasis> » Pour certains groupes, il sera plus
+        facile d’utiliser un bâton de parole et/ou un chronomètre pour
+        conserver le rythme. Il faut éviter de répéter des informations
+        redondantes. Une façon de gagner du temps globalement, c’est de
+        prendre un moment permettant à chaque personne d’écrire tranquillement
+        ce qu’elle veut dire <emphasis>avant</emphasis> le début du tour. Cela
+        facilitera la concision de tout le monde lors des prises de
+        parole.</para>
+
+        <para>À chaque fois qu’une information nouvelle se présente, laissons
+        le cercle en prendre la responsabilité en proposant un tour de parole.
+        La personne qui facilite ne fait que faciliter - elle rend le
+        processus plus simple, facile. Elle n’est pas censée être le sauveur
+        du groupe. Une réunion sociocratique devrait ressembler à une partie
+        de ping-pong : la balle arrive et la personne qui facilite la renvoie
+        au groupe. À la fin, nous ne savons même plus vraiment qui a dit quoi
+        - tout a été co-créé. Si nous enchaînions les smashes sur la balle,
+        nous pourrions gagner, mais la partie ne serait constituée que de
+        ramassage de balle, et la réunion ne serait pas fluide.</para>
+      </section>
+
+      <section>
+        <title>Tour de consentement</title>
+
+        <para>Les tours de consentement sont très brefs. Ils n’offrent que
+        deux options.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>« <emphasis>Je consens / je n’ai pas d’objection.</emphasis>
+            »</para>
+          </listitem>
+
+          <listitem>
+            <para>« <emphasis>J’ai une objection (parce que…)
+            </emphasis>»</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>En cas d’objection, nous pouvons fournir une déclaration concise
+        à propos de l’objection, par exemple « <emphasis>J’ai une objection
+        sur le cadre temporel de ceci. </emphasis>».</para>
+
+        <para>Notons bien que dans la décision par consentement, il n’y a pas
+        de troisième option pour passer son tour ou s’abstenir (davantage à ce
+        sujet dans la section 3.2.5, page xxx).</para>
+
+        <para>Nous pouvons obtenir un consentement de façon non verbale,
+        particulièrement pour les décisions qui ne prêtent pas à controverse
+        (par exemple un calendrier non controversé). Dans ce cas, la personne
+        qui facilite doit s’efforcer de croiser le regard de chaque membre du
+        groupe. Dans une réunion virtuelle, le consentement non verbal peut
+        être donné en levant le pouce.</para>
+
+        <para>Ce qui différencie les tours de réaction des tours de
+        consentement, c’est qu’une décision est prise après chaque tour de
+        consentement explicite, dès lors qu’aucune objection n’est déclarée.
+        Nous ne demandons pas aux personnes si elles
+        <emphasis>pourraient</emphasis> consentir (ce qui reviendrait à leur
+        demander une réaction), nous leur demandons si elles consentent
+        <emphasis>à présent</emphasis>.</para>
+
+        <para>Un tour de consentement constitue un acte de parole particulier
+        ; tout le monde doit être bien conscient qu’il ne s’agit pas seulement
+        de fournir une information. Nous déclarons que nous prenons une
+        décision. La personne qui facilite doit être explicite à ce sujet -
+        avez-vous participé à des réunions après lesquelles il y avait des
+        opinions divergentes sur le fait qu’une décision ait été simplement
+        évoquée ou prise ? C’est de cette différence-là dont nous parlons ici.
+        Soyons explicite ! Disons quelque chose comme : « <emphasis>Donc, la
+        proposition est la suivante…, et je vais à présent vous demander votre
+        consentement. Donnez-vous votre consentement à cette proposition
+        ?</emphasis> »</para>
+      </section>
+    </section>
+
+    <section>
+      <title>La facilitation des tours de parole</title>
+
+      <section>
+        <title>Faut-il toujours parler en tours de parole ?</title>
+
+        <para>Nous le recommandons. Voici quelques occasions pour lesquelles
+        nous sortons de ce format :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Pour les questions de clarification, si on peut supposer
+            sans risque qu’il n’y en aura pas beaucoup, ou si le groupe est
+            important. Auquel cas, demandez simplement : “<emphasis>Y a-t-il
+            des questions ?</emphasis>”</para>
+          </listitem>
+
+          <listitem>
+            <para>Lorsque nous demandons des contributions à un groupe
+            important (esquisse d’un sujet ou élaboration d’une proposition).
+            Nous divisons le groupe en sous-groupes qui permettront de faire
+            des tours de parole efficacement.</para>
+          </listitem>
+
+          <listitem>
+            <para>Dans un groupe qui semble stable émotionnellement, nous
+            quittons parfois les tours et laissons des échanges croisées un
+            certain temps. Il vaut mieux, cependant, le faire avec une
+            intention précise. Une fois que les personnes sont “conditionnées”
+            à ne parler qu’à leur tour, elles peuvent rester silencieuses dans
+            une discussion en expression libre. C’est pour cette raison qu’il
+            est nécessaire d’être explicite : « <emphasis>Je propose que nous
+            passions les 10 prochaines minutes en expression libre afin de
+            voir si cela nous apporte de nouvelles idées.</emphasis>» Achevez
+            ensuite ce temps d’expression libre par un tour de parole afin
+            d’établir à nouveau l’équivalence et de comprendre comment se
+            situe le cercle dans son ensemble.</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Nous encourageons d’utiliser les tours de parole par défaut et
+        de ne quitter cette habitude qu’avec une intention claire. Cependant,
+        ceci est également une question de pratique et plus un groupe
+        pratiquera, plus il sera à l’aise dans cet exercice.</para>
+
+        <para><anchor xml:id="anchor-20"/></para>
+      </section>
+
+      <section>
+        <title>Les personnes peuvent-elles passer leur tour ?</title>
+
+        <para>La possibilité de passer durant un tour dépend du contexte. Il
+        est possible de passer :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Durant un tour de questions de clarification. Nous pouvons
+            confirmer brièvement que nous n’avons pas de question.</para>
+          </listitem>
+
+          <listitem>
+            <para>Lorsque les tours de réactions servent à réunir des idées ou
+            à la créativité collective : il est possible de passer. Afin
+            d’être transparent, donnons une brève explication et pensons à
+            préciser si nous voulons demander la parole en fin de tour ou non
+            :</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>« <emphasis>J’aimerais passer pour le moment. J’étais
+                distrait et je ne suis pas sûr de ce que l’on attend de moi
+                pour l’instant. Pourrais-je parler à la fin du tour s’il vous
+                plaît ?</emphasis> »</para>
+              </listitem>
+
+              <listitem>
+                <para>« <emphasis>Je vais passer car je n’ai pas vraiment
+                d’élément nouveau à apporter, tout ce que je voulais dire l’a
+                déjà été.</emphasis> »</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+
+        <para>Nous déconseillons de passer durant :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Les tours de réaction du processus de décision d’une
+            politique car le cercle va alors manquer d’information. Donc,
+            plutôt que de passer, disons : « <emphasis>Cela me semble
+            bien</emphasis> » ou « <emphasis>Je n’aime pas cette proposition
+            pour les raisons que Jane a déjà données. Je n’ai rien à
+            ajouter.</emphasis> »</para>
+          </listitem>
+
+          <listitem>
+            <para>Les tours de nominations (cf. section 3.6.2 sur le processus
+            de sélection) : On ne s’abstient pas. Nous avons besoin des
+            informations de tout le monde afin de co-créer une proposition de
+            nomination.</para>
+          </listitem>
+
+          <listitem>
+            <para>Les tours de consentement. Nous avons besoin d’entendre tout
+            le monde afin d’être sûrs de recueillir toutes les objections (sur
+            les abstentions, cf. section 3.2.5 , p. xx)</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Gardons bien à l’esprit qu’<emphasis>avoir été interrogé et
+        avoir choisi de passer son tour</emphasis> est très différent de
+        <emphasis>ne pas avoir été interrogé</emphasis>. Entendre la voix de
+        chaque personne durant le processus, même si quelques personnes n’ont
+        rien de neuf à ajouter, fait l’effet d’une colle sociale pour
+        n’importe quel groupe.</para>
+      </section>
+
+      <section>
+        <title>Gagner en clarté</title>
+
+        <para>Une situation typique : le cercle parle et parle et malgré cela
+        il est difficile de voir où cela mène. Cela n’est pas toujours
+        inefficace : de grandes choses peuvent émerger d’une phase trouble.
+        Cependant, il est facile de rester coincé.</para>
+
+        <para>Lors d’une prise de décision collaborative, nous travaillons sur
+        de multiples niveaux en parallèle.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Nous travaillons pour un but.</para>
+          </listitem>
+
+          <listitem>
+            <para>Nous essayons de trouver un bon processus pour réaliser ce
+            but.</para>
+          </listitem>
+
+          <listitem>
+            <para>Nous nous exerçons à travailler avec un pouvoir égal.</para>
+          </listitem>
+
+          <listitem>
+            <para>Nous apprenons à nous connaître les uns les autres.</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Le moral du groupe peut être affecté lorsqu’aucun progrès n’est
+        accompli. Le schéma 181 présente quatre façons de sortir d’un blocage,
+        quel que soit le niveau où il se situe. En détail :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>• Faisons une proposition sur le contenu : n’attendons pas
+            jusqu’à ce qu’une proposition prenne forme magiquement sur le
+            sujet abordé, car il y a de bonnes chances que cela n'arrive pas
+            (du moins pas dans un temps raisonnable). Au lieu de cela, après
+            avoir entendu tout le monde durant deux tours supplémentaires,
+            faisons une proposition et demandons le consentement. S’il y a des
+            objections, nous aurons défini précisément où se situent les
+            points de controverse. A présent que nous savons ce qu’il faut
+            traiter, la réunion va pouvoir avancer.</para>
+          </listitem>
+
+          <listitem>
+            <para>• Faisons une proposition sur le processus : si une
+            discussion semble n’aboutir à rien, faisons une proposition sur la
+            façon de progresser. Une stratégie habituelle est de former un
+            cercle d’aide dont la fonction sera d’élaborer une proposition que
+            le groupe pourra étudier lors de la prochaine réunion. C’est
+            particulièrement utile s’il manque des informations. Prévoyons
+            comment obtenir ces informations et avançons.</para>
+          </listitem>
+
+          <listitem>
+            <para>• Précisons la question : divisons le sujet en points
+            séparés et réalisons des tours dédiés à chacun d’eux. Il est
+            parfois difficile de traiter des sujets trop vastes.</para>
+          </listitem>
+
+          <listitem>
+            <para>• Passons la question à un niveau méta. Par exemple, si nous
+            ne parvenons pas à nous décider, nous pouvons faire un tour sur
+            <emphasis>pourquoi</emphasis> nous avons du mal à nous décider.
+            S’il y a un problème non résolu qui bloque la discussion, nous
+            essayons de favoriser son émergence. Cela peut s’avérer difficile.
+            Après tout, il y a bien une raison pour laquelle nous avons évité
+            ce sujet. Mais tourner autour indéfiniment n’est pas une solution.
+            C’est peut-être que nos buts sont différents, qu’il y a un jeu de
+            pouvoir caché ou qu’il y a une retenue qui provient d’un manque de
+            confiance ou de ne pas avoir assez d'informations les uns sur les
+            autres. Nous ferions mieux de le découvrir.</para>
+          </listitem>
+        </itemizedlist>
+
+        <para><figure>
+            <title>181 : “Deux tours et en avant” : après deux tours sans
+            progrès, changez de stratégie.</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Pictures/10000201000003BF0000010A7ECF250687711171.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure></para>
+
+        <para>En général : si nous ne savons pas quoi faire, nous faisons un
+        tour ! Des exemples sont donnés sur le 182.</para>
+
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003B8000001F70728AE03A2821E24.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+
+        <para><emphasis>182 : Décider ensemble du processus.
+        </emphasis></para>
+
+        <para>D’autres exemples de moments où demander une contribution sur le
+        processus :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>La réunion débute et seulement la moitié (ou moins) des
+            membres du cercle sont présents : « <emphasis>Je remarque que
+            seulement la moitié des membres de notre cercle est présente.
+            Faisons un tour sur comment cela modifie notre ordre du jour et
+            comment nous pouvons en tenir compte.</emphasis>»</para>
+          </listitem>
+
+          <listitem>
+            <para>Le groupe part dans une direction qui n’était pas à l’ordre
+            du jour mais semble importante (ou se révèle être urgente).
+            <emphasis>« Je remarque que nous ne parlons pas de notre ordre du
+            jour à présent mais que la direction que nous avons prise semble
+            importante pour des personnes et qu’elle a besoin d’être traitée.
+            Pouvons-nous faire un tour afin de savoir si le groupe est
+            d’accord pour continuer à parler de ce sujet maintenant ? Je veux
+            simplement m’assurer que nous sommes d’accord avec la façon dont
+            nous utilisons notre temps.</emphasis>»</para>
+          </listitem>
+
+          <listitem>
+            <para>Le cercle n’est pas préparé (n’a pas lu une proposition ou
+            un document fourni, pour une raison ou pour une autre).
+            <emphasis>« J’ai le sentiment que tout le monde n’a pas eu
+            l’occasion de lire le document. Faisons un tour pour savoir où
+            chaque personne en est et sur ce que vous pensez que nous pouvons
+            faire durant cette réunion.</emphasis>»</para>
+          </listitem>
+
+          <listitem>
+            <para>Vous assurez la facilitation et vous ne savez pas quoi
+            faire. <emphasis>« Je me retrouve un peu perdu et je ne suis pas
+            sûr de ce qui est en train de se passer. Pouvons-nous faire un
+            tour afin que chaque personne nous dise où elle perçoit que nous
+            en sommes du processus et fasse une suggestion sur la suite
+            ?</emphasis>»</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Nous ne sommes jamais victimes des circonstances, mais toujours
+        des acteurs avec des choix. L’exemple 183 montre à quoi cela peut
+        ressembler dans un cas concret.</para>
+
+        <para>Toutes les décisions n’ont pas besoin de passer à travers tout
+        le processus du consentement. Décider d’une pause de 10 minutes ne
+        justifie pas un processus de 3 minutes avec la <emphasis>présentation
+        d’une proposition</emphasis>, des <emphasis>questions de
+        clarification</emphasis>, des <emphasis>réactions rapides</emphasis>
+        et un <emphasis>consentement</emphasis>. La façon la plus informelle
+        que nous utilisons est d’énoncer la proposition, attendre quelques
+        secondes pour les questions et les réactions, et avoir un contact
+        visuel avec chaque personne pour vérifier s’il y a des objections. Le
+        pouvoir partagé repose sur la confiance et la confiance doit être
+        gagnée au cours de nombreuses petites étapes. La récompense de
+        maintenir un cadre égalitaire en permanence sera une culture saine
+        dans notre organisation, sur laquelle nous pouvons compter pour
+        prendre les décisions les plus difficiles.</para>
+      </section>
+
+      <section>
+        <title>Si un membre du cercle est trop bouleversé durant une
+        réunion</title>
+
+        <para>Que fait un cercle si l’un de ses membres est trop bouleversé
+        pour poursuivre la réunion ? Cela peut se présenter par un
+        comportement non coopératif et perturbateur, des signes de colère,
+        comme crier ou se lever de sa chaise. Différentes façon de réagir à
+        cette situation dépendent de (1) de la capacité du membre du cercle
+        concerné d’être responsable de lui-même à ce moment-là, (2) de la
+        volonté des autres membres du cercles d’entendre les besoins
+        sous-jacents et du temps et des ressources que le cercle veut y
+        investir. Ne partons pas du principe que nous avons besoin
+        d’interrompre le travail de la réunion pour traiter la réactivité
+        émotionnelle. Il est important de considérer les circonstances et de
+        définir nos intentions. Des options :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Faisons un tour de réaction</para>
+          </listitem>
+
+          <listitem>
+            <para>Invitons la personne à prendre la parole, en précisant une
+            demande : « <emphasis>Veux-tu partager avec nous ce qui se passe
+            pour toi ? As-tu une demande à nous formuler ?</emphasis> »
+            Faisons un tour de réaction d’écoute active ou d’expression
+            empathique avant d’entendre à nouveau la personne
+            concernée.</para>
+          </listitem>
+
+          <listitem>
+            <para>Demandons à un membre du cercle de soutenir la personne
+            bouleversée, en dehors de la réunion, pendant que celle-ci se
+            poursuit, ou après la fin de la réunion.</para>
+          </listitem>
+
+          <listitem>
+            <para>Faisons une pause de 5 minutes ou 1 minute de
+            silence.</para>
+          </listitem>
+
+          <listitem>
+            <para>N’importe quelle combinaison des options précédentes.</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Lorsque nous décidons de faire un tour de parole, nous donnons
+        la parole à la personne concernée au milieu du tour (comme dans
+        l’exemple 184), pour lui permettre d’avoir assez de temps pour se
+        remettre de ses émotions et ne pas devenir “la personne à problème” en
+        parlant à la fin du tour. Procéder ainsi montre clairement que toutes
+        les voix comptent, celles de personnes aux émotions fortes comme
+        celles des autres. Nous donnons corps au principe que chaque personne
+        peut prendre la responsabilité de ses comportements et
+        émotions.</para>
+
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003C1000002A32B3A2B85E770D0DE.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+
+        <para><emphasis>183 : Un membre demande un tour de parole sur le
+        processus</emphasis></para>
+      </section>
+
+      <section>
+        <title>Discussion croisée</title>
+
+        <para>Si elle se produit trop souvent, la discussion croisée peut
+        nuire au groupe.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Des personnes peuvent être irritées silencieusement que
+            quelqu’un parle en dehors du tour. Elles peuvent ne pas
+            l’exprimer, mais personne n’apprécie d’être interrompu ou de subir
+            une réunion inefficace.</para>
+          </listitem>
+
+          <listitem>
+            <para>Des personnes peuvent devenir trop prudentes dans leur
+            expression, de crainte d’être interrompues ou critiquées - Il est
+            important de conserver cela à l’esprit car le dégât peut rester
+            invisible.</para>
+          </listitem>
+
+          <listitem>
+            <para>Le groupe n’a pas accès à la “magie collective”. Le flot de
+            l’élaboration et de la construction d’une pensée ou d’une
+            proposition est une expérience de connection merveilleuse.</para>
+          </listitem>
+        </itemizedlist>
+
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003C40000044E26D03EEB449B3FBE.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+
+        <para><emphasis>184 : Exemple : répondre à une émotion
+        forte</emphasis></para>
+
+        <para>Cela dépend du groupe – parfois, parler en dehors du tour offre
+        un éclaircissement ou permet de dépasser une incompréhension. Mais
+        cela peut rapidement devenir trop. Les personnes qui ont tendance à
+        ouvrir des discussions croisées doivent être informées sur les effets
+        de leur comportement. Une façon de corriger cette tendance est de
+        donner un retour durant le tour d’évaluation qui conclut chaque
+        réunion sociocratique. Il y a des chances qu’un des membres du groupe
+        se sente frustré par les tours de parole et certaines personnes
+        réagissent fortement lorsqu’il y a des discussions croisées. Il s’agit
+        alors de se montrer ouverts et respectueux les uns avec les autres et
+        de trouver l’équilibre qui semble juste pour le groupe.</para>
+
+        <para>Pour limiter une discussion croisée qui est en train de se
+        produire, disons simplement quelque chose comme : « J’ai envie
+        d’entendre ce que tu as à dire. Merci d’écrire cette contribution ou
+        de la conserver en tête. Reprenons le tour ». Voici d’autres phrases
+        qui ne contiennent pas de reproche que l’on peut utiliser pour aider à
+        maintenir la discipline du tour. Certaines fonctionnent également en
+        dehors d’un contexte sociocratique.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis>« J’ai des choses à dire, mais je remarque que je
+            devrais couper la parole à d’autres personnes pour me faire
+            entendre et je n’aime pas faire ça. Pouvons-nous faire des tours
+            de parole afin de nous éviter de nous couper la parole
+            ?</emphasis>»</para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis>« Je remarque de nombreuses discussions croisées.
+            Je préférerais revenir à notre tour de parole.</emphasis>»</para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis>« J’aimerais que chaque personne prenne une minute
+            afin d’expliquer son point de vue. Ainsi, nous pourrions profiter
+            de toute l’expertise du groupe.</emphasis>»</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section>
+        <title>Manquer de temps et ajuster l’ordre du jour</title>
+
+        <para>Il n’est pas inhabituel de manquer de temps. Si l’ordre du jour
+        auquel nous avons consenti en début de réunion contient des repères de
+        temps, il sera aisé de suivre notre progression. Dès qu’il est évident
+        que le respect du déroulé prévu est impossible, soyez proactif.</para>
+
+        <para>Prenons la décision <emphasis>ensemble</emphasis>. Il
+        n’appartient pas à la personne qui facilite de “discipliner le
+        groupe”. Chaque membre du cercle est responsable du respect du
+        programme, pas seulement la personne qui facilite la réunion. Avoir
+        consenti à la décision donne la responsabilité à chaque personne
+        présente. Voici quelques exemples de formulations.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>« Je propose que nous prenions 10 minutes sur le dernier
+            sujet prévu à l’ordre du jour afin de poursuivre la discussion sur
+            le sujet actuel.»</para>
+          </listitem>
+
+          <listitem>
+            <para>« Nous allons manquer de temps. Je propose que nous
+            reportions ce sujet à la prochaine réunion. Y a-t-il des
+            objections ? »</para>
+          </listitem>
+
+          <listitem>
+            <para>« Nous avons débordé du temps prévu pour ce sujet. Je
+            propose que nous abandonnions le dernier point de l’ordre du jour
+            afin de poursuivre encore 15 minutes. Y a-t-il des objections ?
+            »</para>
+          </listitem>
+
+          <listitem>
+            <para>« Je propose que nous parlions davantage de ce sujet.
+            Quelqu’un a-t-il une objection à prendre 15 minutes
+            supplémentaires - ce qui nous ferait déborder du temps prévu pour
+            la réunion ? »</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Il est possible de modifier ce qui est prévu. Les prévisions
+        sont là pour nous soutenir, pas pour nous enchaîner. Et il est
+        préférable de prendre une décision informée et consciente avant que la
+        réunion ne bascule dans la précipitation.</para>
+
+        <para>Dans cet exemple, nous nous assurons que le cercle décide
+        comment récolter les informations nécessaires et organiser une
+        formation entre les réunions. Par exemple, nous pouvons obtenir que le
+        groupe consente sous condition.</para>
+
+        <informalexample>
+          <para>Proposition : La formation est acceptée par le cercle si et
+          seulement si elle peut être financée au cours de cet exercice
+          budgétaire.</para>
+        </informalexample>
+
+        <para>Nous n’avons pas forcément besoin de reporter un sujet de
+        l’ordre du jour. Nous encourageons plutôt les personnes qui facilitent
+        d’être résolues à toujours franchir une nouvelle étape. Nous ne
+        pouvons pas consentir dès à présent ? Ok, voyons comment réunir les
+        informations qui nous manquent et consentons dès à présent de façon
+        conditionnelle. Le principe général est que nous ne voulons pas
+        reproduire cette impasse. Que pouvons-nous faire afin d’être en
+        capacité d’avancer lors de la prochaine réunion ? De l’information
+        manquante peut être trouvée, l’écriture d’un texte peut être confiée à
+        un cercle de soutien. Cela demande de la flexibilité et un peu de
+        créativité.</para>
+
+        <para>Même si un sujet de l’ordre du jour n’avance pas,
+        <emphasis>proposons de l'abandonner ou de le reporter de 6
+        mois</emphasis>. Ainsi nous prenons une décision consciente qui crée
+        de la clarté. Nous évitons de remettre le même sujet à l’ordre du jour
+        de façon répétée sans faire de progrès. Il y a <emphasis>forcément
+        </emphasis>une prochaine étape, une avancée quelconque pour chaque
+        point de l’ordre du jour, même si ce résultat est différent de celui
+        que l’on imaginait.</para>
+      </section>
+
+      <section>
+        <title>Les contre-propositions</title>
+
+        <para>Il est très tentant de formuler une contre-proposition au cours
+        d’un tour de réaction rapide. « <emphasis>Plutôt que de suivre cette
+        proposition, pourquoi ne pas… ?</emphasis> » En plus de rejeter et
+        dévaloriser le travail et les réflexions déjà consacrées à formuler la
+        proposition actuelle, les contre-propositions placent le groupe dans
+        une position très inconfortable : il est tenté de réfléchir à la
+        contre-proposition en plein milieu du processus de consentement de la
+        proposition originale. Il est difficile de comparer deux propositions
+        en temps réel. La complexité augmente immédiatement, aussi bien en
+        termes de processus que de contenu, dès l’instant où la
+        contre-proposition est annoncée. Face à cette complexité, nous avons
+        vu de nombreux groupes perdre leur concentration.</para>
+
+        <para>Le plus souvent, les contre-propositions provoquent de la
+        confusion : certains membres du groupe vont vouloir continuer à
+        réfléchir et améliorer la proposition initiale tandis que d’autres
+        vont vouloir changer de proposition. Tout aussi fréquemment la
+        nouvelle proposition est à moitié réfléchie et certaines personnes se
+        sentent perdues ou contrariées ; le cercle se trouve alors plongé dans
+        une méta-discussion qui consomme du temps de réunion et rend souvent
+        le groupe inefficace. C’est précisément ce que la sociocratie est
+        censée éviter !</para>
+
+        <para>Pour information, si y a plusieurs propositions sur le même
+        sujet, la façon formellement appropriée de faire face à cette
+        situation est d’effectuer un processus de sélection entre les
+        propositions, afin de déterminer sur quelle proposition continuer le
+        travail. Sur le long terme, la meilleure stratégie est d’améliorer une
+        proposition initialement imparfaite plutôt que de sauter d’une
+        proposition inaboutie à l’autre sans y consacrer assez de réflexion.
+        Voici des options possibles :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>• Travaillons de manière séquentielle. Amenons la
+            proposition initiale jusqu’au consentement ou aux objections et
+            faisons ensuite de même avec la contre-proposition.</para>
+          </listitem>
+
+          <listitem>
+            <para>• <emphasis>S’il s’agit</emphasis> de changer de
+            proposition, nous suggérons d’obtenir une décision claire. Comme
+            nous ne pouvons pas traiter deux propositions à la fois (à moins
+            de faire un processus de sélection), il est nécessaire
+            d’abandonner formellement la proposition initiale. Cela nécessite
+            le consentement du cercle !</para>
+          </listitem>
+
+          <listitem>
+            <para>• S’il n’y a pas d’urgence, une solution pragmatique est de
+            demander une reformulation de la proposition, réalisée
+            conjointement par les auteurs de la proposition initiale et ceux
+            de la contre-proposition. Dans l’idéal, cette équipe repartira du
+            besoin à l’origine de la proposition initiale.</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Description du problème</para>
+              </listitem>
+
+              <listitem>
+                <para>Description des besoins</para>
+              </listitem>
+
+              <listitem>
+                <para>Dimensions à inclure</para>
+              </listitem>
+
+              <listitem>
+                <para>Et idées pour la proposition</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+
+        <para>Ce que nous pouvons dire lorsque quelqu’un formule une
+        contre-proposition :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>« A cet instant, je cherche à savoir si la proposition
+            initiale va nuire à l’accomplissement de notre but. Je suis
+            certain que nous pouvons l’améliorer. Pour le moment, faites-nous
+            seulement connaître vos objections - si vous percevez un danger
+            dans cette proposition. »</para>
+          </listitem>
+
+          <listitem>
+            <para>« Merci, cela pourrait être une bonne idée. Pour le moment,
+            je ne veux pas troubler les personnes présentes et je ne veux pas
+            dévaloriser les réflexions consacrées à la proposition initiale.
+            Bien qu’il y ait des points communs et des différences entre les
+            deux, pouvons-nous étudier ta proposition après avoir pris une
+            décision sur la proposition initiale ? »</para>
+          </listitem>
+
+          <listitem>
+            <para>« C’est trop compliqué pour le moment. Je suggère que nous
+            formions un cercle de soutien constitué de deux personnes qui ont
+            des idées tranchées. Peut-être que vous pouvez vous rencontrer et
+            revenir vers nous avec une proposition commune ? Cela ne me semble
+            pas justifier d’y consacrer notre temps de réunion à tous les 7.
+            Je propose donc formellement de créer un cercle de soutien pour
+            ré-écrire cette proposition en incluant les idées de la
+            contre-proposition. Y a-t-il des objections à ce processus ?
+            »</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section>
+        <title>Astuces pour améliorer les tours de parole</title>
+
+        <itemizedlist>
+          <listitem>
+            <para>Passons notre tour. Dans les tours de réactions, nous
+            passons lorsque nous n’avons rien à dire. « <emphasis>Je n’ai rien
+            de neuf à ajouter, je passe</emphasis> ». Maîtriser notre égo et
+            soutenir le processus collectif en gagnant du temps et en évitant
+            les redites demande de la maturité, mais tout le monde sera
+            reconnaissant. En revanche, lorsque nous
+            <emphasis>avons</emphasis>quelque chose à dire, il est vital de
+            donner ouvertement notre avis dès que possible !</para>
+          </listitem>
+
+          <listitem>
+            <para>Demandons davantage de temps. Tout est question d’équilibre.
+            Parfois, avoir davantage de temps pour écouter et penser est
+            payant. Utilisé à bon escient, c’est une façon d’enrichir notre
+            contribution envers le groupe. Nous pourrions dire : <emphasis>«
+            C’est mon tour à présent, mais je préférerais réfléchir davantage
+            à ma contribution et écouter d’autres parler auparavant.
+            Voudrais-tu me donner la parole un peu plus tard ?</emphasis>»
+            Cela peut être difficile pour la personne qui facilite de se
+            souvenir de qui a passé et doit être ré-interrogé, mais un petit
+            rappel amical peut corriger cela.</para>
+          </listitem>
+
+          <listitem>
+            <para>Parfois nous notons ce que nous voulons dire. Il faut
+            simplement s’assurer que la prise de note ne nuit pas à l’écoute.
+            Cela présente quelques avantages :</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Gérer sa propre impatience en écrivant plutôt qu’en
+                parlant en dehors du tour.</para>
+              </listitem>
+
+              <listitem>
+                <para>Préparer sa propre contribution en la faisant plus dense
+                et centrée sur le sujet.</para>
+              </listitem>
+
+              <listitem>
+                <para>Un effet inattendu : les personnes qui prennent des
+                notes peuvent moins parler. Typiquement, quelque chose peut
+                sembler d’une urgence brûlante au moment où on la note.
+                Quelques minutes plus tard, au moment de les lire, la moitié
+                de nos idées semblent moins importantes.</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+
+          <listitem>
+            <para>Nous souhaitons éviter les redites, mais nous désirons
+            également savoir comment chaque personne se positionne. Si une
+            idée avec laquelle nous sommes d’accord a été répétée plusieurs
+            fois, se contenter de passer serait une perte d’information. Il
+            est utile, comme mesure de la température, de savoir
+            <emphasis>combien</emphasis> de personnes sont d’accord avec une
+            même idée au sein d’un groupe. Dire seulement <emphasis>« je suis
+            d’accord avec ce qu’a dit Manu</emphasis>» ne sera pas assez
+            précis car tout le monde ne va pas se rappeler de tout ce qu’a dit
+            Manu. Donnez plutôt l’idée générale ou les mots clés. Par exemple
+            :<emphasis>« Je suis d’accord avec Manu à propos de l’impact
+            environnemental et l’idée de réutiliser plutôt que d’acheter du
+            neuf.</emphasis>»<emphasis/>Ne l’expliquez pas à nouveau, mais
+            redonnez l’essentiel. Au fur et à mesure que les personnes
+            découvriront qu’elles seront effectivement entendues lors des
+            tours, leurs prises de parole deviendront plus courtes.</para>
+          </listitem>
+
+          <listitem>
+            <para>Ne pas savoir. Au cours d’un tour de réactions, il est tout
+            à fait possible de dire : <emphasis>« Je suis d’accord avec ce
+            point de vue parce que… Et je suis d’accord avec cet autre point
+            de vue car…</emphasis>» Nous n’avons pas besoin de savoir. Le
+            groupe va décider. Donnons lui le temps pour le faire.</para>
+          </listitem>
+
+          <listitem>
+            <para>Chronométrons les tours. Il n’est pas
+            <emphasis>nécessaire</emphasis> de minuter les tours de parole,
+            mais si nous manquons de temps pour finir la réunion ou si nous
+            voulons réserver un temps de parole équivalent pour tout le monde,
+            mesurer les temps de parole est utile. La personne qui facilite
+            peut s’en charger ou désigner un gardien du temps. Il peut être
+            utile d’expliquer, sous une forme dénuée de reproche, que le
+            respect du temps de parole est bénéfique à tout le monde, par
+            exemple en disant quelque chose comme : <emphasis>« Nous allons
+            nous minuter, ce qui nous permettra tous de mieux respecter la
+            durée allouée à ce sujet.</emphasis>» Utilisons une sonnerie
+            amicale que tout le monde peut entendre. Ne nous tendons pas trop
+            lorsque quelqu’un déborde de son temps de parole. Certaines
+            personnes considèrent la sonnerie du minuteur comme un signal de
+            fin du tour, ce qu’il n’est pas. C’est une information utile, un
+            indicateur qu’un certain temps s’est écoulé. Il peut être agréable
+            de préciser, pour les personnes qui écoutent : <emphasis>« J’ai
+            entendu le signal du minuteur, mais il est important pour moi de
+            préciser que…</emphasis>»</para>
+          </listitem>
+
+          <listitem>
+            <para>Les tours sont plus efficaces lorsqu’ils sont courts.
+            Tâchons de diviser les tours de parole en plus petit morceaux à
+            chaque fois que c’est possible. Il est plus facile de progresser
+            en s’assurant que tout le groupe est au même rythme dans de brèves
+            étapes bien maîtrisées. Prendre du temps afin de s’assurer que le
+            groupe progresse au même rythme nous fait gagner du temps. La
+            complicité de se savoir au même endroit et au même rythme est très
+            satisfaisante et constructive.</para>
+          </listitem>
+
+          <listitem>
+            <para>Faisons la distinction entre la voix du facilitateur et la
+            voix du membre du cercle. La personne qui facilite a ce rôle et à
+            la fois, est un membre du cercle. En tant que membre du cercle, la
+            personne qui facilite a le droit d’avoir une opinion. En
+            sociocratie, un facilitateur n’est <emphasis>pas censé
+            être</emphasis> impartial. Il est irréaliste d’attendre de
+            quiconque d’être impartial. Le but est l’auto-gouvernance. Nous
+            souhaitons que les membres du cercle partagent la responsabilité
+            de mener la réunion. Cela demande à la personne qui facilite de
+            séparer clairement sa prise de parole personnelle de son rôle de
+            facilitation, afin de mettre en lumière d’ éventuels biais qu’elle
+            pourrait avoir. Quelques outils peuvent y aider.</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Nous évitons de nous placer nous-mêmes au début ou à la
+                fin d’un tour de parole. Si nous parlons en premier, essayons
+                d’être explicite (en disant quelque chose comme : <emphasis>«
+                Je voudrais m’exprimer en premier afin de donner un exemple du
+                genre de réponse que j’attends.</emphasis>»). Il sera ainsi
+                clair si on parle en tant que membre ou facilitateur.</para>
+              </listitem>
+
+              <listitem>
+                <para>Il est utile de préciser quel “chapeau” nous portons
+                lorsque nous parlons. <emphasis>« En tant que membre du
+                cercle, ma préférence est clairement de …</emphasis>», ou
+                <emphasis>« Depuis mon rôle de facilitation, je vous propose
+                que nous fassions un tour sur…</emphasis>»</para>
+              </listitem>
+
+              <listitem>
+                <para>Assumons notre rôle et soyons transparent. Le rôle de
+                facilitation donne un certain pouvoir. Être clair à ce sujet
+                permet d’éviter que cela soit un problème. Dites par exemple :
+                <emphasis>« Je suis conscient qu’en tant que facilitateur,
+                j’ai à présent le privilège d’accepter ou non cet amendement
+                amical et je vais le faire (ne pas le faire)
+                car…</emphasis>»</para>
+              </listitem>
+
+              <listitem>
+                <para>Soyons conscient de nos propres biais. La personne qui
+                facilite n’est pas obligée d’être celle qui fait les
+                propositions. Elle doit juste veiller à ce que cela ait lieu.
+                Par exemple, si le conjoint ou la conjointe de la personne qui
+                facilite est beaucoup citée lors d’une élection sans candidat,
+                il est possible de demander à un autre membre du cercle de
+                formuler une proposition, ce qui renforcera probablement sa
+                crédibilité.</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+
+          <listitem>
+            <para>Lors de réunions virtuelles, les tours de parole sont encore
+            plus importants. Comme nous ne disposons pas du signal clair
+            d’être assis en cercle, il n’est pas évident de savoir dans quel
+            ordre prendre la parole. Il s’est avéré utile que la personne qui
+            facilite nomme la prochaine personne à parler, ainsi que la
+            suivante.<emphasis>« À présent nous allons écouter Kim puis
+            Diego</emphasis>». Ainsi Diego peut commencer à réfléchir à sa
+            prise de parole, débloquer son micro, etc. Une fois la prise de
+            parole de Kim achevée, la personne qui facilite peut dire :
+            <emphasis>« Merci Kim, écoutons maintenant Diego, puis
+            Ana.</emphasis>»</para>
+          </listitem>
+
+          <listitem>
+            <para>Précisons lorsque nous avons terminé de parler : parfois
+            nous marquons une pause pour réfléchir. Nous avons pris pour
+            habitude d’ajouter un marqueur de fin à nos prises de parole. Cela
+            peut être de dire <emphasis>« Voilà pour moi</emphasis>» ou
+            <emphasis>« J’ai fini</emphasis>», ou de donner un regard
+            explicite à la personne qui nous suit ou à la personne qui
+            facilite. Ainsi, nous nous assurons de ne pas couper la parole à
+            quelqu’un, et nous évitons le flottement qui a lieu lorsque une
+            personne réfléchit et que nous ne sommes pas sûrs qu’elle reprenne
+            la parole.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </section>
+
+    <section>
+      <title>Expression libre et mode “popcorn”</title>
+
+      <para>L’expression libre est un format dans lequel les personnes
+      prennent la parole lorsqu’elles veulent parler, comme au cours d’une
+      conversation pendant un dîner. En voici plusieurs variations.</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>Expression libre avec une personne qui facilite. S’il y a trop
+          de personnes présentes pour savoir quand c’est leur tour de parler,
+          l’expression libre peut nécessiter une personne en charge de la
+          facilitation. Les personnes lèvent la main et prennent la parole au
+          signe du facilitateur. On peut établir une liste ordonnée des
+          demandes de prise de parole, sur un tableau à feuilles mobiles. On
+          peut aussi utiliser un bâton de parole. Toutes ces techniques
+          organisent les prises de parole afin qu’une seule personne parle à
+          la fois.</para>
+        </listitem>
+
+        <listitem>
+          <para>Le mode “popcorn” est un peu différent car, comme un “pop”, la
+          prise de parole sera brève, constituée de quelques mots ou d’une
+          courte phrase. Le popcorn fonctionne très bien lors de phases où il
+          faut réunir des idées brèves, comme pour la phase de l’élaboration
+          d’une proposition par exemple.</para>
+        </listitem>
+      </itemizedlist>
+
+      <para>La nature même de l’expression libre est qu’une personne qui veut
+      parler davantage que les autres peut parler davantage, par exemple une
+      personne habituée à diriger. Avec cette approche, il est également
+      facile de se retrouver à cours de temps et la conversation se transforme
+      facilement en un <emphasis>débat</emphasis> dans lequel on n’essaie plus
+      de présenter notre perspective, mais de convaincre les autres de notre
+      point de vue. Toute phase d’expression libre devrait se conclure par un
+      tour de parole afin que tout le monde puisse à nouveau être
+      entendu.</para>
+    </section>
+
+    <section>
+      <title>Deux par deux</title>
+
+      <para>“Deux par deux”, (<emphasis>Turn and talk </emphasis>en anglais)
+      est une technique par laquelle nous permettons à deux personnes (ou un
+      petit groupe) de se tourner l’une vers l’autre pour parler. Cela peut
+      être utile lorsque le niveau émotionnel est élevé, que le sujet est
+      complexe et/ou que le groupe est important. “Deux par deux” gagne à être
+      clairement limité en temps, comme une minute par membre du duo par
+      exemple.</para>
+
+      <para>Avec un “deux par deux”, un membre du cercle a davantage de temps
+      et d’espace pour réfléchir à voix haute au sujet abordé avant de donner
+      son opinion dans un tour. Après avoir effectué un “deux par deux”, les
+      membres du cercle sont en mesure d’énoncer plus clairement leur opinion
+      et sont plus détendus dans l’écoute des autres.</para>
+    </section>
+  </section>
+
+  <section>
+    <title>Réunions virtuelles</title>
+
+    <para>Nous avons constaté que la facilitation sociocratique est
+    particulièrement adaptée aux réunions virtuelles. D’ailleurs, en ce qui
+    concerne les auteurs, la majorité des réunions sociocratiques auxquelles
+    nous participons se déroule de façon virtuelle.</para>
+
+    <section>
+      <title>Réunions virtuelles synchrones</title>
+
+      <para>Une réunion virtuelle synchrone se déroule en visioconférence. La
+      réunion a lieu en ligne, mais toutes les personnes y participant sont
+      présentes en même temps. Les avantages des réunions sociocratiques en
+      visioconférence sont les suivants :</para>
+
+      <para>• Clarté des tours de parole. Les tours de parole en particulier
+      fonctionnent bien en visioconférence. En effet, la plupart des personnes
+      peuvent couper leur micro jusqu’à ce que leur tour arrive. Comme il faut
+      éviter que des discussions croisées soient entamées, les micros coupés
+      rendent les tours de parole plus faciles. Les tours de parole rendent
+      même possible de tenir des réunions dans lesquelles certaines personnes
+      sont en ligne, tandis que les autres sont présentes dans une même pièce.
+      Les personnes à l’écran ne risquent pas d’être laissées de côté, car
+      elles sont incluses dans le tour de parole.</para>
+
+      <para>• Il est bien plus facile de partager des notes prises en direct
+      lors d’une réunion virtuelle. Nous avons toujours deux fenêtres ouvertes
+      en même temps sur notre écran lors d’une réunion en visioconférence ;
+      une première montre les personnes présentes tandis que la seconde montre
+      l’ordre du jour et la prise de note en direct. Ainsi, lorsqu’un cercle
+      développe du contenu ou qu’une personne fait une proposition durant une
+      réunion, ce contenu est immédiatement visible par tout le monde. Nous
+      assurons ainsi une complète transparence et un accès entier à
+      l’information. Cette possibilité a fini par nous manquer lors des
+      réunions dans une salle ! (on pourrait utiliser un vidéoprojecteur pour
+      montrer la prise de notes en direct, mais les personnes regardent alors
+      l’écran plutôt que les autres participants).</para>
+
+      <para>• Nous trouvons également que les tours de parole à l’écran
+      permettent assez facilement d’être présents les uns aux autres durant
+      les réunions virtuelles, même avec des perceptions réduites. Nous ne
+      pouvons en effet pas lire l’énergie des autres personnes aussi
+      facilement que lors d’une réunion en présence, mais les tours de parole
+      ralentissent et condensent suffisamment les échanges pour qu’il soit
+      possible de faire confiance aux indices que nous recevons.</para>
+
+      <para>Observation : Lorsque la réunion rassemble des personnes de
+      plusieurs fuseaux horaires, il est plus simple de conserver les
+      informations horaires de l’ordre du jour aussi neutres que possible. Le
+      déroulement de nos réunions débute toujours à zéro, car nous travaillons
+      dans des visioconférences qui rassemblent les personnes de différents
+      fuseaux horaires. 0:00 marque donc le début de la réunion, quelle que
+      soit l’heure de chaque personne. Il est donc toujours possible de savoir
+      où nous en sommes dans l’avancement de la réunion en un clin d'œil. Il
+      est de plus utile de ne pas utiliser l’heure de la personne qui facilite
+      comme heure standard.</para>
+    </section>
+
+    <section>
+      <title>Décisions asynchrones</title>
+
+      <para>On parle de prise de décision asynchrone lorsqu’une proposition
+      est soumise au consentement des membres d’un cercle et que ces personnes
+      donnent leur opinion de façon décalée dans le temps. Cela se produit par
+      exemple par email ou sur une plateforme en ligne. C’est donc très
+      différent d’une réunion virtuelle synchrone.</para>
+
+      <para>Notre expérience des prises de décision asynchrone est mitigée et
+      nous évitons d’y recourir. Nous en réservons l’usage à des décisions
+      très clairement définies et présentées à des cercles dont les membres se
+      connaissent bien.</para>
+
+      <para>Avant de poursuivre, revoyons rapidement la distinction entre
+      prendre une décision sur une politique, prendre une décision
+      opérationnelle et faire des retours. L’adoption d’une politique se fait
+      par consentement et nécessite donc le consentement de toutes les
+      personnes appartenant au cercle. Un retour est simplement un élément qui
+      pourra être utile à une décision future. La décision opérationnelle est
+      une petite décision qui s’applique à une situation particulière.</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>Il est très facile de faire des apports de façon asynchrone.
+          Par exemple, demander l’opinion de tous les membres du cercle (voire
+          en dehors de celui-ci) à propos d’un problème, d’un énoncé des
+          besoins, du brouillon d’une proposition ou de tout autre sujet de ce
+          type. Les personnes peuvent apporter leur contribution au fil du
+          temps et peuvent s’appuyer sur les contributions des autres (si
+          elles sont accessibles à tout le monde).</para>
+        </listitem>
+
+        <listitem>
+          <para>Les décisions opérationnelles peuvent être prises très
+          facilement dans un contexte asynchrone si nous avons une bonne idée
+          de qui doit être interrogé/informé.</para>
+        </listitem>
+
+        <listitem>
+          <para>Il peut être difficile de réaliser une bonne décision par
+          consentement de façon asynchrone, particulièrement si la décision
+          est complexe. En effet, lors d’une décision par consentement, nous
+          avons besoin d’entendre tout le monde. Il faut qu’il puisse y avoir
+          délibération. Mais la délibération par email ou sur une plateforme
+          en ligne revient souvent à “laisser la décision aux personnes qui
+          passent le plus de temps à écrire sur leur ordinateur”. La prise de
+          décision asynchrone peut fonctionner, mais elle peut très facilement
+          échouer à bénéficier des avantages de la décision par consentement,
+          qui crée et nourrit la connexion entre les personnes : l’équivalence
+          (par exemple la parole donnée à chaque membre du cercle), le
+          dialogue et la délibération, l’évolution du groupe, la résolution
+          des objections en étant connectés. Tous les avantages que les tours
+          de paroles et la connexion entre les individus apportent à la prise
+          de décision peuvent être perdus lors d’une décision asynchrone. Pour
+          l’éviter, il faut la concevoir et la mettre en pratique avec
+          beaucoup de précautions.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+</chapter>

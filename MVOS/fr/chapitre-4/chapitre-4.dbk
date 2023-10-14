@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/2000/svg"
+         xmlns:ns3="http://www.w3.org/1999/xhtml"
+         xmlns:ns="http://docbook.org/ns/docbook">
+  <info>
+    <title>Rétroactions (<emphasis><emphasis
+    role="strong">feedback</emphasis></emphasis>) et apprentissages</title>
+  </info>
+
+  <section>
+    <title>Les concepts de base</title>
+
+    <para>Beaucoup de gens ont peur de donner du feedback. « Est-ce que je
+    peux te faire un retour ? » Cette question peut être annonciatrice de
+    critiques — et les humains ne savent pas trop comment les recevoir.
+    Lorsque nous faisons face à des critiques, la réaction la plus courante
+    est de nous fermer, d’être réactif, de nous mettre sur la défensive ou de
+    nous retirer. Si nous voulons que nos rétroactions soient entendues, la
+    forme « critique » ne sera pas la plus efficace.</para>
+
+    <section>
+      <title>Des besoins humains universels</title>
+
+      <para>En tant qu'êtres humains, notre but est de survivre et de nous
+      développer. Tout ce que nous mettons en œuvre, nous le faisons pour
+      répondre à des besoins. Nous avons tous des besoins, satisfaits ou non,
+      à chaque instant de notre vie. Il ne s'agit pas seulement de nourriture
+      ni de logement, mais aussi de connexion, d'appartenance, de
+      contribution, d'être entendu et vu… tout cela compte. En ce qui a trait
+      aux besoins, nous sommes tous connectés, car tous les besoins sont
+      universels, comme un langage que tout le monde comprend.</para>
+
+      <para>Même si on peut tous et toutes, Humains, nous identifier aux mêmes
+      besoins, l’intensité varie chez chacun.e à tout moment. Si, en règle
+      générale, nous sommes des personnes pour qui l'harmonie n’est pas une
+      priorité, un désaccord douloureux avec un membre de la famille pourrait
+      faire ressortir notre besoin d'harmonie comme une priorité.</para>
+
+      <para>À l’illustration 142, nous pouvons imaginer le même individu dans
+      différentes situations. La coopération est un besoin qui tend à fluctuer
+      pour cette personne, et peut être déplacée par d'autres besoins, en
+      fonction de la situation rencontrée. D'autre part, dans cet exemple, la
+      même situation vécue par des individus différents fera apparaître des
+      besoins très différents. L'idée à retenir est que les besoins sont à la
+      fois universels - partagés par tous - en même temps que très personnels
+      et situationnels.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BF000000F142717F322B8AD960.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>142 : Des besoins différents sont prioritaires à des
+      moments différents </emphasis></para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BF0000029819CC7FA05A5ABCB2.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <literallayout><emphasis>143 : Une liste partielle des besoins universels.
+Cette liste figure également sur la feuille de réunion
+pour les facilitateurs dans l'annexe de la page XxX et nous fournissons
+une liste incluant les sentiments dans l'annexe de la page XxY. </emphasis></literallayout>
+    </section>
+
+    <section>
+      <title>Stratégies personnelles</title>
+
+      <para>Ce que nous choisissons de faire pour répondre à nos besoins
+      s’appelle une « stratégie ». En soi, les stratégies ne sont ni bonnes ni
+      mauvaises, et certaines sont plus efficaces que d'autres, tenant compte
+      du contexte.</para>
+
+      <para>Pour certains, aller au cinéma est un moyen efficace de répondre
+      au besoin de connexion ; pour d'autres, ce type de sortie ne répondra
+      pas à leur besoin, elles préfèreront faire autre chose. Lorsque nous ne
+      sommes pas conscients des besoins qui sous-tendent nos stratégies, il
+      est très facile de se laisser entraîner dans des tactiques étonnamment
+      inefficaces. Avez-vous déjà quitté une pièce, furieux, en claquant la
+      porte, parce que vous aviez en réalité besoin de connexion ? Quitter
+      ainsi la pièce ne semble pas être une stratégie efficace pour favoriser
+      la connexion. Autre exemple : lorsque nous crions après les enfants
+      parce que nous avons besoin de calme ? Ce n'est ni bien ni mal d'un
+      point de vue moral, mais ce n'est certainement pas efficace.</para>
+
+      <para>Aller au cinéma ou dîner au restaurant ? On peut argumenter sur
+      les stratégies, mais qui peut contester le besoin de connexion qui les
+      sous-tend ? Tous les humains partagent ce besoin. Et cela est vrai pour
+      tout besoin universel tels la stimulation, l'autonomie, la coopération,
+      l'amour ou le besoin d'être reconnu. Les besoins universels de base sont
+      à peu près les mêmes d'une personne à l'autre, nous différons simplement
+      dans l'importance que nous accordons à certains besoins sur le moment.
+      En ce qui a trait à la stratégie, il y a beaucoup plus de variations. Ce
+      qui fonctionne pour l’un peut ne pas fonctionner pour l'autre.</para>
+
+      <para>Il n'y a pas de correspondance directe entre les besoins et les
+      stratégies : un même besoin peut être satisfait par différentes
+      stratégies. Par exemple, mon besoin d'être vu peut être satisfait en
+      écrivant un message sur les réseaux sociaux ou en ayant une conversation
+      avec un voisin. Et une stratégie peut répondre à plusieurs besoins : par
+      exemple, la conversation avec un voisin peut répondre à mon besoin de
+      stimulation, de connexion ou d'appartenance.</para>
+    </section>
+
+    <section>
+      <title>Sentiments : « Tu ne peux pas me mettre en colère »</title>
+
+      <para>Les sentiments sont des indicateurs de besoins satisfaits ou non
+      satisfaits. Au cours de notre vie, de nombreux besoins vont surgir. Que
+      se passe-t-il si un besoin n'est pas satisfait, par exemple notre besoin
+      de connexion ? Nous pourrions être tristes. Ou en colère. Les besoins
+      non satisfaits provoquent des sentiments. A l'inverse, lorsqu'un besoin
+      important est satisfait, nous pouvons nous sentir heureux : si nous
+      recevons un appel téléphonique inattendu d'un ami à un moment où la
+      connexion est ce que nous désirons, nous nous sentirons probablement
+      heureux ou excité. Vous trouverez la liste de sentiments ainsi que la
+      liste des besoins en annexe, à la page XxY.</para>
+
+      <para>Les sentiments sont causés par des besoins satisfaits ou non
+      satisfaits, et non par des situations. Cela signifie que rien ni
+      personne ne peut être la cause directe de nos sentiments. « <emphasis>Tu
+      m'as mis en colère »</emphasis> n'est pas une description exacte de ce
+      qui se passe.</para>
+
+      <para>Regardons l’illustration 144. Quelque chose se passe et nous
+      réagissons à ce que nous <emphasis>entendons</emphasis>, non pas à ce
+      qui a été dit ou fait. Nous voyons et entendons tout à travers une part
+      d'interprétation. Mais ici, il est encore plus important de comprendre
+      l'étape suivante, c’est-à-dire ce qui se passe
+      <emphasis>après</emphasis> que nous ayons reçu (et interprété) un
+      message. Consciemment ou inconsciemment, nous évaluons la situation.
+      Comment ce qui s'est passé contribue-t-il à ce que mes besoins soient
+      satisfaits ou non ? Ce sont ces évaluations qui déclenchent nos
+      sentiments.</para>
+
+      <para>Si notre interprétation reste au niveau des sentiments ou des
+      stratégies, nous ne pouvons pas comprendre ce qui se passe réellement en
+      nous. Le fait d’aller au niveau de nos besoins nous permet de faire des
+      suppositions plus éclairées sur les stratégies efficaces pour y
+      répondre. Parfois, les personnes qui entendent parler de Communication
+      NonViolente (CNV) craignent de « ne pas être autorisées à dire ce qui se
+      passe vraiment ».</para>
+
+      <para>C’est pourtant tout le contraire. Les sentiments et les stratégies
+      observables ne sont que des phénomènes de surface. Puisque les besoins
+      sont sous-jacents à tout ce que nous faisons et ressentons, parler de
+      nos besoins,c’est parler de ce qui se passe vraiment. Certaines
+      personnes qui commencent à étudier les besoins et les sentiments
+      considèrent cela comme de la « sémantique ». Le fait que les sentiments
+      ne soient pas directement causés par les autres créent cependant un
+      espace pour le choix. Le fait de voir la différence entre les
+      stratégies, les besoins et les sentiments, crée un espace de liberté
+      intérieure et une opportunité de changement.</para>
+    </section>
+
+    <section>
+      <title>Demandes</title>
+
+      <para>On parle de demande lorsque l'on sollicite quelqu'un pour faire
+      quelque chose. Plus une demande est spécifique et réalisable, plus elle
+      a de chances d'être efficace. L'autre personne est
+      <emphasis>invitée</emphasis> à dire oui. Nous voulons naturellement
+      contribuer et parce que nous voulons aussi avoir le choix, nous
+      résistons naturellement aux exigences.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BD00000195538F7CD9C91FB215.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>144 : Les sentiments sont déclenchés par les messages
+      mais ne sont pas causés par eux. </emphasis></para>
+
+      <para>La Communication NonViolente fait une distinction entre les
+      demandes d'action et les demandes de connexion, ce qui est très utile à
+      la vie collective.</para>
+
+      <para>Voici des exemples de demandes d'action : « <emphasis>Peux-tu
+      faire des copies de ce formulaire ? Peux-tu appeler ce donateur ou
+      client potentiel ? »</emphasis> Parfois, les demandes d'action sont des
+      demandes de collaboration : « <emphasis>Pourrais-tu m'aider à trouver
+      des idées pour une nouvelle série de webinaires sur la sociocratie ?
+      Serais-tu prêt.e à t’asseoir avec moi et à discuter de la manière dont
+      nous pourrions améliorer notre relation ? »</emphasis></para>
+
+      <para>La seule raison pour laquelle une personne dirait en fait non à
+      une demande de contribution à nos besoins propres est qu'elle dit oui à
+      la satisfaction de ses propres besoins. Le « non » devient une
+      invitation à la connexion – une compréhension mutuelle des besoins de
+      chacun.</para>
+
+      <para>Il existe donc deux types de demandes de connexion : <emphasis
+      role="strong">être compris</emphasis>,  « <emphasis>serais-tu prêt à me
+      redire ce que tu m'as entendu dire ? »</emphasis>, et <emphasis
+      role="strong">comprendre</emphasis> : « s<emphasis>erais-tu prêt à me
+      dire comment c'est pour toi quand tu entends ce que j'ai dit
+      ? »</emphasis> Imaginons ce que nous pourrions accomplir si (a) nous
+      pouvions éliminer les malentendus et (b), nous écouter mutuellement de
+      façon plus empathique !</para>
+    </section>
+  </section>
+
+  <section>
+    <title>Créer le changement</title>
+
+    <para>Le changement vient de l'évaluation des actions passées et de
+    l'expérimentation de nouvelles approches qui, nous l'espérons, répondront
+    plus efficacement aux besoins. C'est la fonction <emphasis
+    role="strong">orienter</emphasis> dans le cycle ORIENTER — EXÉCUTER —
+    MESURER. La rétroaction utile au processus de changement émerge bien plus
+    de la curiosité à l'égard des besoins universels qui sous-tendent le
+    comportement que d'un raisonnement simpliste du type « bien ou
+    mal ».</para>
+
+    <section>
+      <title>Au-delà du bien et du mal se trouve la créativité</title>
+
+      <para>Avec nos ami.e.s, nous voulons entendre si leur besoin de
+      connexion est satisfait ou non, s’ils se sentent seuls ou non, ou tout
+      ce qu’ils pourraient ressentir d’autre. Ce n'est la « faute » de
+      personne si quelqu’un se sent seul. Chacun a ses propres besoins, et la
+      responsabilité d'y répondre n'appartient à personne d'autre qu'à
+      soi-même. Le besoin de connexion peut être comblé par de multiples
+      stratégies. L'une d'entre elles pourrait consister à appeler un ami et à
+      lui parler ; une autre stratégie inviterait à regarder de vieilles
+      photos, ou à passer du temps sur les réseaux sociaux, à aller danser ou
+      à appeler sa sœur. Chacun.e est seul.e à pouvoir choisir ce qui peut lui
+      convenir, à ce moment précis.</para>
+
+      <blockquote>
+        <para><emphasis>Si vous voulez vivre dans l'enfer absolu, croyez que
+        vous êtes responsable de ce que ressentent les autres.</emphasis>
+        Marshall Rosenberg</para>
+      </blockquote>
+
+      <para>Supposons qu'un collègue appelle. Je n'aime pas parler au
+      téléphone. Pour moi, parler au téléphone est une stratégie qui ne
+      fonctionne tout simplement pas dans la plupart des cas. C'est peut-être
+      parce que mon audition n'est pas bonne, donc écouter sans repères
+      visuels est éprouvant. Je crains également que le fait de parler dans
+      mon bureau partagé ne nuise à la concentration de mon voisin immédiat.
+      Je n'aime pas non plus être interrompu parce que j'apprécie d’être
+      pleinement absorbé dans mon travail.</para>
+
+      <para>Ce qui fonctionne bien pour moi, c'est d’échanger des messages. Je
+      ne réponds donc pas au téléphone, mais je réponds par un message. Ma
+      collègue, en revanche, préfère utiliser le téléphone. Pour elle, qui ne
+      tape pas vite, il est plus efficace de parler au téléphone que de faire
+      des allers-retours par messages. Elle pourrait être énervée lorsque je
+      ne réponds pas au téléphone mais par écrit. Est-ce que je contribue à la
+      contrarier ? Non. Si elle vit une contrariété, c’est en réaction à ses
+      propres besoins de connexion. Le fait que j'envoie un message au lieu de
+      répondre à son appel téléphonique, est <emphasis>ma</emphasis> manière
+      de répondre à <emphasis>mes</emphasis> besoins de facilité, de
+      concentration et de considération. Alors, qu’est-ce qu’on fait ?</para>
+
+      <para>Si nous n'avons pas conscience des besoins chez soi et chez
+      l’autre, les deux parties peuvent lever les yeux au ciel et penser
+      « <emphasis>pourquoi ne répond-il pas simplement au téléphone au lieu de
+      compliquer les choses en envoyant sans arrêt des messages ? »</emphasis>
+      et « <emphasis>pourquoi m'interrompt-elle en appelant tout le temps.
+      Elle pense qu'elle est la seule personne à travailler ici ? »
+      </emphasis>Que pouvons-nous faire, chacun, chacune, pour répondre plus
+      efficacement à nos besoins ? Nous pouvons faire une demande basée sur la
+      satisfaction de nos propres besoins. La première étape consiste donc à
+      partager notre expérience.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BD00000116A95726AA586FDB6D.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>145 : Partager son expérience en fonction des besoins.
+      </emphasis></para>
+
+      <para>Dans l'exemple 145, remarquons comment les deux personnes sont
+      capables de partager leur expérience sans étiqueter l'autre ni même y
+      référer. Une fois cette première étape de compréhension mutuelle
+      franchie, la voie est ouverte à une décision partagée. Les besoins de
+      chacun.e étant mis sur la table, on peut trouver une stratégie qui
+      fonctionne pour tout le monde. Convenir d'un moment pour parler au
+      téléphone ? Quitter le bureau pour passer un appel téléphonique lorsque
+      le collègue voisin immédiat a besoin de tranquillité ? Si le problème se
+      pose plus souvent, repenser l'espace de bureau partagé ?</para>
+
+      <para>Nous sommes rarement à court de stratégies une fois que nous avons
+      une idée claire de nos besoins. Plus nous disposons d'informations, plus
+      nous sommes en mesure de choisir la stratégie qui fonctionne le mieux, à
+      ce moment-là.</para>
+    </section>
+
+    <section>
+      <title>Faire des rétroactions efficaces</title>
+
+      <para>La façon dont réagissent les autres à ce que nous faisons a une
+      incidence sur la satisfaction de nos besoins propres. Les rétroactions
+      comportent des informations importantes pour soi et pour les autres. En
+      exprimant nos observations et nos interprétations, nous partageons
+      l'impact des actions ou des paroles de quelqu'un sur nous.</para>
+
+      <para>Si nous disons aux autres personnes qu'elles « ont tort » ou
+      qu’elles sont « méchantes », elles cesseront probablement de nous
+      écouter. Au lieu de dire « tu m’énerves quand tu ne réponds pas au
+      téléphone<emphasis> »</emphasis>, si nous exprimons quelque chose comme
+      « quand j'essaie d'appeler et que je n'arrive pas à te joindre, je suis
+      contrarié et anxieux car je ne suis pas productif si mes questions
+      restent sans réponses », cela correspond mieux à ce qui s'est
+      passé.</para>
+
+      <para>Dans cette dernière version, la personne parle de sa propre
+      expérience. La rétroaction constructive favorise :</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>le partage de l’information,</para>
+        </listitem>
+
+        <listitem>
+          <para>la possibilité d’être entendu.e, et</para>
+        </listitem>
+
+        <listitem>
+          <para>la connexion.</para>
+        </listitem>
+      </itemizedlist>
+
+      <para>Personne ne détient la vérité absolue, c'est pourquoi nous nous
+      efforçons de ne pas présenter ce que nous disons comme tel. Ce à quoi
+      nous avons tous accès, c'est ce que nous pouvons observer, ce que nous
+      interprétons ou projetons (les deux doivent être mentionnés comme tels)
+      et l'impact que cela a sur nous. Tous ces éléments constituent des
+      données avec lesquelles l'autre personne peut travailler.</para>
+
+      <literallayout>Une rétroaction qui peut être bien reçue est exempte de reproches. Tout ajout supplémentaire de reproche dissimule les données que nous voulons faire connaître. Il faut également nous assurer que l'autre personne est dans une assez bonne disposition pour recevoir la rétroaction. Une façon simple de le faire est de demander, par exemple :
+</literallayout>
+
+      <itemizedlist>
+        <listitem>
+          <para>« J’ai une certaine opinion en tête. Es-tu prêt à l'entendre ?
+          Et si oui, maintenant ou à un autre moment ? »</para>
+        </listitem>
+
+        <listitem>
+          <para>« J'ai observé quelque chose. Je peux me tromper, mais j'ai
+          pensé que cela pourrait t’aider de savoir ce à quoi j'ai pensé.
+          Veux-tu l'entendre ? »</para>
+        </listitem>
+      </itemizedlist>
+
+      <literallayout>
+Gardons à l'esprit que, même si ce que nous disons est important, il ne suffit pas de prononcer les mots. Ce n'est que lorsque le message sera vraiment ressenti qu'il sera authentique et efficace. Chacun des nous a un radar très fin et peut sentir un jugement derrière tout ce qui est dit, même si les mots sont « gentils ».</literallayout>
+
+      <para>Si cela est fait avec habileté (et reçu à cœur ouvert), exprimer
+      des rétroactions les uns envers les autres peut être un moyen de
+      favoriser la connexion de deux manières :</para>
+
+      <blockquote>
+        <para>- par contribution : s'il est mutuellement reconnu que, plus
+        nous avons d'informations, plus nous pouvons collaborer facilement et
+        avec succès, alors faire une rétroaction à quelqu'un est une manière
+        de contribuer à son bien-être ;</para>
+      </blockquote>
+
+      <blockquote>
+        <para>- par égard à l’autre : si quelqu'un partage la façon dont mon
+        comportement a un impact sur <emphasis>lui</emphasis>, cela montre que
+        nous sommes connectés et interdépendants. Ce que je fais
+        <emphasis>compte</emphasis> pour quelqu'un d'autre, et ce
+        qu'<emphasis>il</emphasis> fait compte pour moi.</para>
+      </blockquote>
+
+      <blockquote>
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BB000001590AFDC1452BE68727.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+      </blockquote>
+
+      <para><emphasis>146: Rétroaction efficace</emphasis></para>
+
+      <para>N'utilisons pas les recommandations précédentes pour agir comme
+      une « police » de la CNV. Déclarer : « ce que tu as dit n'est pas de la
+      bonne CNV » sabote tout ce que la CNV représente. Une telle déclaration
+      sert à juger et à critiquer, et elle fait taire les gens.</para>
+
+      <para>Si nous avons l'impression d'être dans une disposition « assez
+      bonne » pour partager des rétroactions avec quelqu’un, rappelons-nous
+      que l'autre personne aspire à être dans une disposition « assez bonne
+      », elle aussi. Nous vérifions d'abord si la personne est capable et
+      désireuse de nous entendre; ensuite, nous disons ce que nous voulons
+      exprimer.</para>
+
+      <para>Un formulaire de rétroaction peut fournir un cadre pour faire des
+      retours par écrit. Commence alors la danse de la compréhension mutuelle.
+      « Je veux m'assurer que je communique clairement. Accepterais-tu de me
+      redire ce que tu as entendu ? » Si le reflet est inexact, nous pouvons
+      dire « merci de me faire savoir ce que tu as entendu. Ce que j'essayais
+      de dire était un peu différent. Je peux réessayer ? » Puis « merci,
+      c'est ce que j'essayais de dire. Maintenant, je suis curieux.
+      Voudrais-tu me dire ce qui te vient à l'esprit après avoir entendu ce
+      que j'ai dit ?» Nous pourrions alors confirmer ce que nous avons
+      entendu. « Alors, voici ce que je t’ai entendu dire… Est-ce bien cela
+      ? » Remarque : nous confirmons que le message envoyé est un message reçu
+      dans les deux sens. Ce va-et-vient dans l’échange peut se poursuivre
+      jusqu'à ce que les deux parties aient le sentiment d'être
+      comprises.</para>
+
+      <para>Une fois la compréhension mutuelle obtenue, l'espace est alors
+      ouvert pour faire des demandes à l'autre qui pourraient améliorer la
+      communication et la connexion, à l’avenir.</para>
+
+      <para>L'encadré 147 est un exemple de formulaire de rétroaction utilisé
+      dans une organisation (légèrement modifié pour des raisons de
+      confidentialité).</para>
+
+      <para>Chaque organisation peut convenir d'autres moyens pour donner (et
+      recevoir) des retours. Si l'utilisation d'un formulaire de rétroaction
+      est déjà une stratégie convenue dans une organisation, il sera plus
+      facile de le faire lorsque nous voudrons réellement le faire. Vous
+      trouverez en annexe, à la page XOX, un exemple de ce à quoi pourrait
+      ressembler un formulaire de rétroaction (fiche de pratique). Toute
+      organisation pourrait vouloir concevoir le sien. C'est une bonne idée
+      d'indiquer directement sur le formulaire les points à garder à
+      l'esprit.</para>
+
+      <para>De plus, n’oublions pas que toutes les personnes qui utilisent le
+      formulaire seront, à un moment ou à un autre, dans un état de
+      déclenchement, et qu'il est donc essentiel de leur permettre d'agir de
+      manière efficace et constructive.</para>
+
+      <literallayout>Même si la personne n'est pas prête à recevoir nos commentaires, il est pertinent de mettre quelque chose par écrit et de le partager. Ainsi, cela peut permettre de connecter à une paix intérieure et une plus grande clarté grâce à l'exploration et à l’expression de nos besoins non satisfaits. Cette clarté peut avoir un effet positif sur notre interaction avec l'autre personne, même si elle n'a jamais vu nos commentaires.
+</literallayout>
+
+      <literallayout>La capacité à donner des rétroactions et à le faire habilement s'acquiert avec la pratique. Nous pouvons nous entraîner en commençant par seulement l’expression des appréciations et des besoins satisfaits chez nous – par exemple, lorsque quelqu'un répare un problème informatique pour nous. À quel(s) besoin(s) cela a-t-il répondu ? Besoin de facilité, parce que nous avons pu accéder à nos courriels ? Besoin d'intégrité, parce qu’il importe pour nous de respecter un délai grâce à l'aide informatique ? Ou besoin de sollicitude, parce qu’un collègue a remarqué l'urgence de nous fournir une aide technique ?
+</literallayout>
+
+      <para>Exerçons-nous à donner une rétroaction, en personne ou par écrit.
+      Il peut être judicieux d'utiliser un formulaire pour le prochain petit
+      incident afin de réduire l'anxiété liée à son utilisation lors de
+      problèmes plus importants. Faire des retours est comme un muscle qui
+      peut être entraîné. Faisons-le !</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BE0000019B57D0556E267DB5FF.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <literallayout><emphasis>147 : Un formulaire de rétroaction.
+Voir page XOX pour un modèle </emphasis></literallayout>
+    </section>
+  </section>
+
+  <section>
+    <title>La gouvernance compatissante est efficace</title>
+
+    <para>Il s'agit de l'idée fondamentale et révolutionnaire de la
+    Communication NonViolente selon laquelle, dans l'utilisation de stratégies
+    pour répondre aux besoins universels, il n'y a ni bien ni mal, mais
+    seulement des stratégies plus ou moins efficaces. Puisque les besoins ne
+    sont ni bons ni mauvais (ils font simplement partie de l'être humain), les
+    tentatives pour les satisfaire ne peuvent être ni bonnes ni mauvaises,
+    elles sont simplement plus ou moins efficaces. En matière de gouvernance
+    ainsi qu’en CNV, l’efficacité est la mesure. Les sentiments nous informent
+    sur les bonnes stratégies à choisir en vue de répondre aux besoins des
+    personnes impliquées.</para>
+
+    <para>La clé de l'amélioration continue est la rétroaction. C’est
+    l'information dont nous avons besoin pour apprendre, nous adapter, nous
+    améliorer, changer. Qu'il s'agisse de sentiments ou de taux de clics, une
+    bonne gouvernance s'efforcera d'être efficace en prenant en compte toutes
+    les données accessibles.</para>
+
+    <section>
+      <title>Buts et politiques</title>
+
+      <para>Nous créons des organisations afin de répondre aux besoins énoncés
+      dans notre vision et notre mission. Les stratégies que nous choisissons
+      pour réaliser cette mission sont nos buts.</para>
+
+      <para>Les propositions, comme les demandes, sont des stratégies pour
+      répondre aux besoins. Lorsque les gens s'engagent à respecter ces
+      demandes, elles deviennent des politiques. Par exemple : « Veuillez
+      mettre tous les déchets recyclables dans ce bac », « Téléchargez vos
+      fichiers dans ce dossier », « Suivez ces étapes pour approuver un
+      nouveau membre ».</para>
+
+      <para>Seule la rétroaction — les données qu’elle fournit — peut nous
+      dire si la politique réalise ce qu’elle est censée réaliser.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BB00000189EA15041D4D5ED983.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>148 : Demandes et propositions </emphasis></para>
+    </section>
+
+    <section>
+      <title>Buts personnels et buts de l'organisation</title>
+
+      <para>Il est intéressant de réfléchir à la manière dont les besoins de
+      l'organisation et ceux des personnes sont liés les uns aux autres. En
+      adhérant à une organisation, nous répondons à un de nos besoins : le
+      fait d'être payé pour notre travail, par exemple, peut contribuer à
+      satisfaire notre besoin de survie. Autres exemples : le besoin de
+      contribuer, le besoin de connecter, etc. Le « besoin » de l'organisation
+      est de contribuer à la mission de l'organisation. Chaque stratégie -
+      chaque opération et chaque politique - sert les buts de l'organisation.
+      Nous demandons souvent aux gens quels sont leurs buts personnels dans
+      une organisation, afin d'explorer la relation entre leurs buts
+      personnels et ceux de l'organisation. Plus ces derniers seront alignés,
+      plus il sera facile pour les individus de travailler à la réalisation
+      des buts de l'organisation.</para>
+
+      <para>Les organisations sont des entités complexes. De nombreux
+      sous-buts sont en jeu. Par exemple, deux cercles peuvent vouloir une
+      augmentation de leur budget. Bien qu'ils poursuivent le même but global,
+      ils ne sont pas d'accord sur le plan stratégique. Cette situation est
+      similaire à celle d'une personne qui peut éprouver en même temps un
+      besoin de connexion et un besoin de paix et de tranquillité. Ainsi, une
+      organisation peut être tout aussi déchirée intérieurement qu'une
+      personne. Tous les besoins peuvent être pris au sérieux, mais tous ne
+      peuvent pas nécessairement être satisfaits. Les buts personnels ainsi
+      qu’organisationnels sont parfois en phase, parfois non. Nous célébrons
+      les besoins satisfaits et regrettons les besoins non satisfaits. En
+      faisant preuve de transparence quant aux buts personnels et
+      organisationnels, nous avons la possibilité de travailler plus
+      efficacement ensemble.</para>
+    </section>
+
+    <section>
+      <title>Objections et dette socio-émotionnelle</title>
+
+      <para>Lorsque quelqu’un propose une stratégie qui ne semble pas
+      fonctionner pour tout le monde, c’est une excellente opportunité pour
+      soulever une objection. Imaginons une proposition comme celle de
+      l'exemple 149 : au lieu de formuler calmement une objection, il peut
+      arriver que quelqu'un s'énerve. Si je crains de devoir quitter
+      l'organisation parce que je ne peux pas payer la cotisation annuelle, je
+      pourrais être triste, anxieux ou bouleversé parce que mon besoin
+      d'appartenance ne serait pas satisfait. Une fois que j’aurais identifié
+      le(s) besoin(s) non satisfait(s), je pourrais m’objecter en les
+      exprimant à voix haute afin qu'ils soient pris en compte.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C0000001182B92E05FC9E7E3A4.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>149 : Une proposition et une réaction </emphasis></para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C3000001A31741FD84A5D001AF.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <literallayout><emphasis>
+150 : « Être bouleversé.e et pourtant être recevable dans mes objections » </emphasis></literallayout>
+
+      <literallayout>Quelle est la différence entre les exemples 149 et 150 ? Dans le premier cas, il n'y a pas de distance intérieure par rapport aux sentiments. Ils sont interprétés comme une vérité absolue, et non comme des données avec lesquelles travailler. L'opportunité d'utiliser les sentiments comme indicateur d'un besoin est écartée, et nous devons restaurer la confiance et le respect dans le groupe. Ce qui fait perdre du temps et de l’énergie de deux façons : en s’éloignant de données précieuses et en créant une « dette socio-émotionnelle » qui risque d'avoir un impact négatif sur la qualité de la connexion à l'avenir.
+</literallayout>
+
+      <literallayout>Nous appelons les nombreuses interactions « micro et macro » où les personnes voient leurs besoins non pris en compte « dette socio-émotionnelle». Que cela soit vrai ou non n'est pas le problème. Si elle n'est pas traitée, cette dette s'accumule avec le temps et crée de plus en plus de frictions interpersonnelles.
+</literallayout>
+
+      <para>Tout le monde est responsable de la dette socio-émotionnelle :
+      tant les personnes qui ont choisi de ne pas s'exprimer que celles qui
+      n’ont pu s'exprimer efficacement, tant les personnes qui ont choisi une
+      stratégie sans tenir compte plus largement des besoins des personnes et
+      sans demander de rétroactions.</para>
+
+      <para>C'est une réalité humaine que des sentiments surgissent. Si nous
+      les ignorons, ils se manifesteront. Les personnes deviendront
+      sarcastiques, découragées, désengagées. Elles se mettront en retrait,
+      manqueront de redevabilité, travailleront à dominer, à ralentir ou à
+      saboter le système. Ignorer les besoins, ignorer les rétroactions, tout
+      cela a un coût élevé à long terme.</para>
+
+      <para>Nous n'obtiendrons peut-être pas des membres du cercle une
+      contribution aussi claire que dans l'exemple 150. Mais nous pouvons
+      travailler ensemble pour y arriver. Un groupe compétent sera capable
+      d'aborder la question « quelque chose ici me rend anxieux mais je
+      n'arrive pas à mettre le doigt dessus » et devinera les besoins
+      sous-jacents.</para>
+
+      <literallayout>Un groupe plus avancé sera capable de traiter le sentiment brut, aidera le membre du groupe à se centrer, à identifier ses besoins et à formuler sa préoccupation. La question n'est pas de savoir si les sentiments sont autorisés dans les organisations, mais comment nous les utilisons.
+</literallayout>
+
+      <itemizedlist>
+        <listitem>
+          <para>Les membres du groupe sont-ils capables d'être respectueux et
+          responsables même s'ils sont émotivement déclenchés ?</para>
+        </listitem>
+
+        <listitem>
+          <para>Avec quelle efficacité pouvons-nous passer du ressenti de nos
+          sentiments à la formulation de nos préoccupations sous-jacentes
+          ?</para>
+        </listitem>
+
+        <listitem>
+          <para>Sommes-nous capables d’inclure les préoccupations ou les
+          objections soulevées dans notre processus de prise de décision, afin
+          de prendre de meilleures décisions ?</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+
+  <section>
+    <title>Augmenter les rétroactions</title>
+
+    <section>
+      <title>Des boucles de rétroaction courtes</title>
+
+      <para>Il importe de vérifier nos données périodiquement pour être en
+      mesure de nous orienter avec succès. Sur le plan social, des boucles de
+      rétroaction courtes réduisent l'accumulation de la dette
+      socio-émotionnelle ; pour le déroulement efficace de nos activités, il
+      en va de même.</para>
+
+      <para>Quand la rétroaction ne contient que des données quantitatives,
+      les façons de collecter et de recevoir ces données sont les mêmes que
+      celles récoltées lors de la rétroaction personnelle. Nous avons déjà
+      parlé du cycle ORIENTER — EXÉCUTER — MESURER et de la manière dont il
+      forme des boucles de rétroaction qui soutiennent l'évolution : nous
+      élaborons un plan, l’exécutons et évaluons ce que nous pouvons
+      apprendre. Le pilotage s'inscrit dans d'innombrables boucles de type
+      ORIENTER — EXÉCUTER — MESURER. Vous trouverez quelques exemples dans
+      l’encadré 151.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BC000001180FF20E92503E2E69.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <para><emphasis>151 : Exemples de boucles de rétroaction
+      </emphasis></para>
+
+      <para>La sociocratie met en évidence l'importance de la rétroaction et
+      de l'évaluation ; « piloter », « diriger », c'est faire continuellement
+      de nouveaux plans basés sur l'analyse des données. Dans le cycle
+      ORIENTER — EXÉCUTER — MESURER, nous faisons généralement porter le
+      travail sur « Exécuter ». Nous pouvons souvent également être amenés à
+      « Orienter/Planifier », mais nous prenons trop rarement le temps de
+      « Mesurer ». L’illustration 153 montre comment le cycle ORIENTER —
+      EXÉCUTER — MESURER se déroule à des échelles très différentes, mais
+      comment sa nature est toujours la même.</para>
+
+      <para>La sociocratie crée des habitudes autour de la rétroaction, que
+      nous présentons comme des jalons dans ce livre - des arrêts
+      intentionnels pour nous assurer que nous avons partagé la réalité. Nous
+      avons montré comment, dans l'élaboration des politiques, un groupe peut
+      passer rapidement d'une phase à l'autre en évaluant si une phase ou une
+      étape est bien terminée.</para>
+    </section>
+
+    <section>
+      <title>Entendre le plus grand nombre possible de personnes, tout en
+      maintenant de petits groupes</title>
+
+      <para>En sociocratie, nous voulons apprendre autant que faire se peut et
+      travailler avec toutes les données auxquelles nous avons accès pour
+      alimenter notre prise de décision. Nous essayons également de maintenir
+      les groupes qui prennent les décisions à une taille raisonnable afin que
+      tous les membres puissent se faire entendre. Un aspect essentiel de la
+      sociocratie est la clarté sur l’adhésion des membres dans les cercles de
+      prise de décision : chaque cercle a l'autorité sur qui sont ses membres.
+      Les décisions sont prises par délibération entre des personnes qui se
+      sont engagées à travailler ensemble vers un but commun. Il est essentiel
+      de comprendre la différence entre « écouter les rétroactions de chacun »
+      et « inclure chacun dans la prise de décision ». La sociocratie dit
+      clairement <emphasis>oui </emphasis>à récolter autant de rétroaction que
+      le cercle peut en gérer, tout en maintenant la prise de décision au sein
+      du cercle responsable du contenu spécifique.</para>
+
+      <para>Quelle est la différence entre pouvoir donner sa rétroaction et
+      être un décideur ? Si le cercle Membership prend la décision d'augmenter
+      sensiblement les cotisations, il peut souhaiter entendre des personnes
+      extérieures au cercle à ce propos ; il peut même vouloir sonder
+      l'ensemble de ses membres. Cependant, cette étape signifie seulement que
+      ce cercle dispose désormais de plus d'informations. Il n'est tenu à rien
+      d'autre qu'à inviter et à prendre en compte les rétroactions qu'il
+      reçoit.</para>
+
+      <para>Dans une organisation qui découvre la sociocratie, soyons très
+      clair sur la différence entre « être entendu » et « être impliqué dans
+      la prise de décision ». Parfois, lorsque nous demandons aux personnes
+      leur avis, elles peuvent le prendre personnellement au moment où nous
+      prenons une décision différente de ce qu’elles ont apporté, et ce, même
+      si nous avons honnêtement considéré leur point de vue. C'est là que la
+      transparence entre en jeu : <emphasis>pourquoi </emphasis>avons-nous
+      décidé comme nous l'avons fait ? Il est utile de faire connaître le
+      raisonnement qui sous-tend nos décisions si nous pensons que cela est
+      pertinent et peut contribuer à la compréhension des personnes
+      consultées. Rappelons que la force de la sociocratie réside dans sa
+      capacité à prendre des décisions de manière efficace en petits groupes,
+      tout en incluant de nombreuses données grâce à la collecte de
+      rétroactions.</para>
+    </section>
+
+    <section>
+      <title>Traitement des informations collectées</title>
+
+      <para>Le chemin qui mène du problème à l'action ne doit pas
+      nécessairement être parcouru seul par le cercle, il peut inclure
+      quelques personnes ou plusieurs, il peut varier à chaque étape, en
+      fonction de ce qui est nécessaire. Le processus est extrêmement flexible
+      car à chaque étape (sauf lors de la décision par consentement), un
+      nombre variable de personnes peuvent collaborer. Nous pouvons obtenir
+      l’avis de centaines de personnes, ou une proposition peut être rédigée
+      par une seule personne.</para>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003B00000008C753F49892F5F40FA.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <literallayout>152 : Les boucles ORIENTER — EXÉCUTER — MESURER
+opèrent de façon continue alors que nous travaillons vers le but</literallayout>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BF000000E6DEAE945D9949B0F5.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <literallayout><emphasis>
+</emphasis>153 : ORIENTER — EXÉCUTER — MESURER
+se déroule à différents niveaux </literallayout>
+
+      <para>D'une manière générale, dans le schéma
+      « Comprendre-Explorer-Décider »  (également connu sous l’appellation
+      plus générale « Entrée-Transformation-Sortie », il est plus facile
+      d'inclure : beaucoup de personnes dans la phase « Entrée-Comprendre »,
+      quelques personnes dans la phase « Explorer  » et moins de personnes
+      dans la phase synthèse « Décider ». Un cercle fait avancer une politique
+      sur le chemin qui va de l'analyse du besoin à la prise de décision. Nous
+      pouvons faire appel à un groupe plus large pour obtenir des informations
+      et élaborer une proposition dans un petit cercle de soutien.</para>
+
+      <para><emphasis role="strong">Phase Comprendre / Entrée</emphasis> :
+      dans la phase Entrée, nous cherchons à récolter des informations
+      provenant de plusieurs points de vue afin d’avoir une bonne idée de ce
+      qui se passe. Nous cherchons à recueillir des données, faire un sondage,
+      etc. Cependant, il demeure également important de rester centré sur
+      notre problématique, pour ne pas avoir trop d'interférence à gérer. Par
+      exemple, si nous demandons à un groupe de 200 000 utilisateurs :
+      « dites-nous si vous voyez des problèmes avec notre nouveau site web »,
+      nous obtiendrons de nombreuses rétroactions non structurées. Si nous
+      interrogeons un large groupe de personnes, nous devons nous concentrer
+      sur quelques questions spécifiques, telle : combien de temps les
+      utilisateurs restent-ils sur le nouveau site web, par rapport à l'ancien
+      ? Si nous n'interrogeons que trois utilisateurs, nous pouvons traiter
+      des données beaucoup plus détaillées mais n'entendrons que quelques
+      points de vue. (Voir la section suivante pour plus de détails).</para>
+
+      <para><emphasis role="strong">Phase Transformation / Explorer</emphasis>
+      : dans la phase Explorer, nous voulons que la discussion ait lieu.
+      Organiser une discussion requiert la confiance d'un groupe de personnes
+      qui se connaissent bien. Si nous souhaitons délibérer et nous appuyer
+      sur les idées des uns et des autres, nous devons être en relation les
+      uns avec les autres. C'est pourquoi la phase Transformation fonctionne
+      mieux dans un groupe de taille moyenne, comme un cercle de 4 à 7
+      personnes.</para>
+
+      <literallayout>Ce cercle va traiter les entrées et s'en inspirer, sur la base de la confiance et de l'écoute mutuelle :
+</literallayout>
+
+      <itemizedlist>
+        <listitem>
+          <para>un tour de confirmation dans une « sélection » ;</para>
+        </listitem>
+
+        <listitem>
+          <para>un tour de consentement et l'intégration des objections
+          ;</para>
+        </listitem>
+
+        <listitem>
+          <para>l’exploration des besoins sous-jacents à un problème.</para>
+        </listitem>
+      </itemizedlist>
+
+      <para><emphasis role="strong">Phase Synthétiser / Sortie </emphasis>: la
+      Sortie nécessite souvent d'écrire. Il est plus facile d'écrire seul ou
+      en petit groupe. Formons un cercle de soutien ou déléguons à un individu
+      des tâches telles que :</para>
+
+      <blockquote>
+        <literallayout>
+- rédiger une proposition ;</literallayout>
+      </blockquote>
+
+      <blockquote>
+        <para>- rédiger un énoncé des besoins ;</para>
+      </blockquote>
+
+      <blockquote>
+        <para>- synthétiser les idées.</para>
+      </blockquote>
+
+      <para>Le tour de consentement est la seule phase où nous sommes fermes
+      quant à savoir qui doit être inclus et qui ne doit pas l'être. Tous les
+      membres du cercle sont inclus dans le tour de consentement et personne
+      d'autre. Si des personnes non membres du cercle sont présentes pour une
+      décision par consentement et que nous sommes prêt à passer du temps
+      supplémentaire, nous pouvons demander aux visiteurs : « Si vous aviez le
+      droit de donner votre consentement sur cette proposition, auriez-vous
+      une objection ? Et pourquoi ? ». Faisons parler les visiteurs avant les
+      membres du cercle – ils peuvent contribuer de façon précieuse à la
+      décision. La sociocratie a l'intention d'inclure autant de voix que
+      possible, mais les décideurs sont clairement identifiés.</para>
+    </section>
+
+    <section>
+      <title>Qui solliciter pour des apports ?</title>
+
+      <para>Si un cercle souhaite obtenir une rétroaction sur une décision
+      (avant ou après la décision), les options sont les suivantes :</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>interviewer des personnes-clés à l'intérieur ou à l'extérieur
+          de l'organisation ; « clés » en raison de leurs connaissances, de
+          leur opinion tranchée, de leur rôle dans l'organisation, etc.
+          ;</para>
+        </listitem>
+
+        <listitem>
+          <para>faire un sondage auprès d’une partie des membres ou des
+          personnes extérieures à l'organisation qui pourraient avoir un
+          apport pertinent ; utilisons des questions qualitatives, des
+          questions quantitatives, ou une combinaison des deux ;</para>
+        </listitem>
+
+        <listitem>
+          <para>invitons les membres qui ne font pas partie du cercle à
+          ajouter des éléments dans la phase Esquisse de la proposition, ou en
+          clarifiant des questions sur les propositions ; Faisons-le lors des
+          réunions organisationnelles ouvertes, sur des tableaux d'affichage
+          ou sur des documents en ligne ;</para>
+        </listitem>
+
+        <listitem>
+          <para>Le cercle peut enfin demander l’apport d'un autre cercle (voir
+          l’illustration 154).</para>
+        </listitem>
+      </itemizedlist>
+
+      <blockquote>
+        <literallayout>- un cercle de même niveau, pour qui le sujet en discussion touche son propre domaine ;
+- un sous-cercle plus spécifique, si ce dernier détient plus d'expertise sur le sujet ;
+- le cercle Parent, si le cercle en discussion recherche une perspective plus large sur le sujet ;
+- un cercle de soutien.</literallayout>
+      </blockquote>
+
+      <blockquote>
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BB0000020E038EA4AB05A3BBD5.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+      </blockquote>
+
+      <literallayout><emphasis>154 : Le système de soutien interne et de rétroaction au cercle -
+tout cercle peut être sollicité pour de l'aide. </emphasis></literallayout>
+
+      <para><inlinemediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C100000166A8F2C0D05FF1D5FC.png"/>
+          </imageobject>
+        </inlinemediaobject></para>
+
+      <literallayout><emphasis>155 : Moments pour recueillir des apports de l'extérieur du cercle
+pendant le processus d’élaboration des politiques ; les meilleurs moments sont en gras. </emphasis></literallayout>
+
+      <para>Nous encourageons chaque cercle à utiliser le système de soutien
+      interne, mais aussi à s'adresser à l'extérieur de l'organisation – nous
+      n’avons pas à tout savoir nous-mêmes. Prendre le pouls des membres ne
+      consiste pas à impliquer toutes les personnes concernées par une
+      décision dans la <emphasis>prise</emphasis> de cette décision. C'est le
+      cercle qui détient le domaine qui prend la décision. Mais il
+      s'agit<emphasis> </emphasis>de recueillir suffisamment d'informations
+      pour prendre une bonne décision.</para>
+
+      <para>Le mandat du petit groupe (cercle) est basé sur la confiance --
+      une organisation fait confiance à un petit groupe de personnes pour
+      prendre des décisions dans leur domaine, ce qui concerne tout le monde.
+      Cette confiance se nourrit des décisions qui témoignent d’une profonde
+      considération pour les apports et les rétroactions des autres membres de
+      l'organisation.</para>
+    </section>
+
+    <section>
+      <title>Quand poser des questions pendant le processus d'élaboration des
+      politiques ?</title>
+
+      <para>Au cours du processus d'élaboration des politiques, il y a de bons
+      moments pour inclure des voix extérieures au cercle. L’illustration 155
+      présente le processus d'élaboration des politiques. Théoriquement, nous
+      pouvons obtenir des apports tout au long du processus, à chaque étape.
+      Un cercle ne choisira de le faire que si cela est justifié.</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>Pour une décision importante, il peut être judicieux d'obtenir
+          l’apport de personnes extérieures sur le contexte et l’énoncé des
+          besoins afin de nous assurer que le cercle expose le problème de
+          manière globale.</para>
+        </listitem>
+
+        <listitem>
+          <para>La collecte des dimensions (soit dans la phase Comprendre,
+          soit pendant l’esquisse de la proposition) est également un bon
+          moment pour demander une aide extérieure, surtout si le cercle ne se
+          sent pas confiant d’avoir une compréhension claire de l’étendue de
+          la question et de la politique qui s’y rattache.</para>
+        </listitem>
+
+        <listitem>
+          <para>Le moment le plus important pour obtenir des rétroactions,
+          c’est lorsqu'une proposition réelle est sur la table (à la fin de la
+          phase Explorer). Plus une chose est concrète, plus il est facile de
+          faire des commentaires à son sujet, de sorte que la proposition
+          ébauchée soit idéale pour obtenir des apports précis. Bien entendu,
+          pour demander des rétroactions, il faut également disposer d’un
+          moyen de poser des questions de clarification (puisque cela fait
+          partie de la rétroaction).</para>
+        </listitem>
+      </itemizedlist>
+
+      <para>Pendant le processus de consentement, c’est par lui-même que le
+      cercle avance le mieux, en tenant compte de tous les apports qu'il a
+      obtenus jusque-là. Après l'approbation et la mise en œuvre de la
+      politique, le cercle recueillera des rétroactions sur la façon dont la
+      politique contribue à sa performance.</para>
+    </section>
+
+    <section>
+      <title>Les indicateurs dans l'évaluation des politiques</title>
+
+      <para>Toute décision intentionnelle sur « comment faire notre travail »
+      constitue une politique. Comment évaluer ces politiques ? Les paramètres
+      qui les mesurent dépendent de la nature de la politique. Si la politique
+      concerne la procédure de travail, nous pouvons mesurer la production ou
+      les délais, la qualité, compter les entrées et les sorties, etc. Si la
+      politique relève davantage du domaine d’un « code de conduite », nous
+      pouvons comptabiliser les plaintes, « sonder le bonheur », etc. Nous
+      avons déjà parlé des indicateurs dans la section 3,5 sur l’évaluation
+      des préoccupations en lien avec les objections.</para>
+
+      <section>
+        <title>Rétroaction de la politique en cours</title>
+
+        <para>Devenons intentionnel quant aux indicateurs et établissons un
+        plan de mesure. (Voir aussi page XxX).</para>
+
+        <para>- Nous réfléchissons aux paramètres que nous voulons mesurer et
+        si nécessaire, nous commençons à collecter des données, celles qui
+        nous semblent utiles.</para>
+
+        <para>Voici quelques exemples :</para>
+
+        <blockquote>
+          <para>- Si nous créons une page web d’accueil pour attirer du trafic
+          vers notre site, nous nous assurons que le flux de visiteurs
+          acheminés vers notre page principale soit pris en note
+          immédiatement. Ainsi, nous serons en mesure d'en évaluer
+          l'efficacité très tôt.</para>
+        </blockquote>
+
+        <blockquote>
+          <para>- Si nous essayons de réduire le nombre d'heures passées à
+          planifier des appels téléphoniques, nous pouvons compter les
+          courriels envoyés aller-retour écrits pour planifier ces appels et
+          ainsi évaluer si l'achat d'un logiciel de planification serait un
+          avantage.</para>
+        </blockquote>
+
+        <para>- Nous spécifions les rétroactions que nous voulons, et pouvons
+        ainsi expliciter aux personnes : (1) quelle est la politique, (2) ce
+        sur quoi nous cherchons à obtenir leur avis et (3) comment et quand
+        faire leur rétroaction. Les membres de notre organisation sont de bons
+        « capteurs » pour tout ce qui peut être mesuré qualitativement.</para>
+
+        <blockquote>
+          <para>- Pour une nouvelle politique qui met en place une adhésion
+          provisoire de trois mois, nous pouvons dire aux personnes à qui
+          elles doivent envoyer leurs rétroactions, jusqu’à quel jour / quelle
+          heure elles pourront être reçues, et ce que nous avons besoin de
+          savoir. Par exemple : « nous sommes particulièrement intéressés par
+          l'impact de cette nouvelle politique sur les membres potentiels.
+          Veuillez donc nous faire part des réactions lorsque vous recrutez de
+          nouveaux membres : se sentent-ils toujours les bienvenus ? »</para>
+        </blockquote>
+      </section>
+
+      <section>
+        <title>Fin de mandat, échéance et révision</title>
+
+        <para>Chaque décision de politique en sociocratie est assortie d'une
+        échéance à l’issue de laquelle la politique sera révisée. Cela permet
+        de garder nos politiques à jour, fraîches dans nos esprits, et nous
+        encourage à nous efforcer d'améliorer tous les aspects de notre
+        organisation. C'est comme un contrôle régulier de nos outils. Sont-ils
+        tous en ordre, fonctionnent-ils tous et font-ils ce que nous voulons
+        qu'ils fassent ?</para>
+
+        <para>Nous pouvons être intentionnels quant aux dates de révision et
+        les adapter à nos besoins. Par exemple, nous pouvons élaborer une
+        nouvelle politique et consentir à la réexaminer dans trois mois. Ou
+        dans 10 ans. La durée appropriée d'une politique dépend de la nature
+        de l'organisation. En général, nous essayons de faire en sorte que les
+        cycles soient suffisamment longs pour ne pas surcharger nos réunions
+        de cercle avec des révisions de politiques. La sociocratie consiste à
+        faire avancer le travail, pas seulement à <emphasis>parler</emphasis>
+        du travail !</para>
+
+        <para>Nous voulons être sûrs de maintenir nos politiques à jour. Si
+        nous ne révisons nos politiques que tous les 10 ans (ou jamais !), il
+        est fort probable que nous ne les garderons pas à jour. Combien
+        d'organisations ont des politiques dont elles ne sont même pas
+        conscientes ? Nous ne créons pas de politiques dans le seul but d’en
+        créer. Les politiques sont faites pour nous aider à faire notre
+        travail. Par conséquent, chaque politique doit refléter l'état actuel
+        de la façon dont les choses sont faites, sinon l'organisation devient
+        rigide et inefficace. Mettre une échéance à une politique n'est qu'un
+        rappel à la révision des politiques. Si personne ne voit la nécessité
+        de modifier une politique, sa révision peut se faire en quelques
+        minutes. La politique est conçue pour <emphasis>aider</emphasis> les
+        membres de l'organisation à faire leur travail.</para>
+
+        <para>Si la manière dont les choses sont faites interfère avec la
+        capacité des personnes à remplir leurs rôles et à faire leur travail,
+        alors elles doivent être modifiées. Cela peut se produire à tout
+        moment. Si changer une politique est justifié, il n'y a aucune raison
+        d'attendre sa date de révision.</para>
+
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BD000000CAF579122D8DDC4E86.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+
+        <literallayout><emphasis>156 : Les phases « Comprendre - Explorer »
+appliquées à la révision des politiques </emphasis></literallayout>
+      </section>
+
+      <section>
+        <title>Comment faire la révision des politiques</title>
+
+        <para>Le processus de révision dépend de la rétroaction reçue
+        concernant l'efficacité de la politique.</para>
+
+        <blockquote>
+          <literallayout>- S'il n'y en a pas beaucoup et qu'il s'agit simplement d'une révision "standard" parce que l’échéance prévue est terminée, il suffit de commencer par le début du processus de consentement (présentation de la proposition, questions de clarification, etc., voir 3.3.2) et de progresser vers le consentement à une nouvelle échéance, éventuellement avec des modifications. Si les objections et les commentaires sont nombreux et que les choses semblent se compliquer à chaque tour, il est bon de faire marche arrière et de déléguer le processus de révision à un cercle de soutien ou d'accepter qu'on ait besoin de faire une évaluation plus approfondie.
+</literallayout>
+        </blockquote>
+
+        <blockquote>
+          <literallayout>- Si le processus de révision doit être approfondi parce qu'il y a beaucoup de nouvelles données, alors nous traitons la proposition et les données comme des apports pour un nouveau processus d'élaboration de politiques. Nous pouvons demander à un cercle de soutien d'analyser les rétroactions et de formuler une recommandation sur la politique. Nous entrons alors dans le processus de consentement avec la proposition du cercle de soutien.
+</literallayout>
+        </blockquote>
+
+        <blockquote>
+          <para>- Si nous avons le sentiment que notre politique ne fonctionne
+          pas du tout, nous pouvons repartir de zéro. La proposition initiale
+          et les données recueillies ne sont plus que des données ayant
+          servies à la description initiale du problème. Nous allons
+          maintenant examiner les besoins sous-jacents (satisfaits/non
+          satisfaits), générer un nouvel énoncé des besoins et passer à
+          l'élaboration de la politique. Nous laissons la politique actuelle
+          guider notre processus. Il se peut que nous proposions une approche
+          totalement inédite, compte tenu des nouvelles informations et de
+          l'expérience acquise, ou que nous nous contentions d'apporter des
+          ajustements à la politique existante. Le diagramme 207 en annexe
+          présente ce processus plus en détail.</para>
+        </blockquote>
+
+        <literallayout>La révision d’une politique suit les étapes familières de la compréhension de la politique actuelle (COMPRENDRE), de l'exploration des modifications possibles (EXPLORER) et du consentement à la politique modifiée (DÉCIDER), comme le montre le diagramme 156. Exprimer une objection en faisant référence à un besoin donne également au cercle des informations sur la manière de répondre à l'objection, car cela indique une direction : « <emphasis>Comment pourrions-nous amender/changer/tester la politique pour être sûrs que notre besoin puisse être satisfait ? »</emphasis>. Voici quelques exemples, similaires à ceux déjà mentionnés dans la section 3.5 sur les objections :
+</literallayout>
+
+        <blockquote>
+          <para><emphasis>- « </emphasis>Je crains que si nous formons un
+          autre sous-cercle, nous soyons trop dispersés, que nous ne soyons
+          pas en mesure de bien faire notre travail alors que nous aurons tant
+          à faire » ;</para>
+        </blockquote>
+
+        <blockquote>
+          <para>- « J’ai une objection à cette proposition car elle manque
+          d'information sur la manière dont nous pourrons être prêts à temps.
+          Je veux m'assurer d’avoir la tranquillité d'esprit sur le fait que
+          nous serons en mesure de terminer le projet à temps. » ;</para>
+        </blockquote>
+
+        <blockquote>
+          <para>- « Mon objection à cette proposition est que si nous exigeons
+          des casques pas seulement pour les vélos mais aussi pour les
+          trottinettes, alors personne ne la prendra au sérieux, ce qui
+          affaiblira l’objectif de cette politique. Je m'inquiète donc de
+          l’application pratique et, en fin de compte, de la
+          sécurité. »</para>
+        </blockquote>
+
+        <blockquote>
+          <para>- « Je m'objecte, car je ne vois pas l'intérêt d'ajouter une
+          étape bureaucratique. Cet ajout ne justifie pas le travail
+          supplémentaire occasionné. »</para>
+        </blockquote>
+      </section>
+    </section>
+  </section>
+
+  <section>
+    <title>Évaluations de réunion</title>
+
+    <para>Dans quelle mesure sommes-nous satisfaits du résultat de la réunion
+    ? Du processus de la réunion ? De la dynamique interpersonnelle ?</para>
+
+    <para>À la fin de chaque réunion, nous en faisons l’évaluation, de
+    préférence par un tour de table. Chaque personne exprime comment la
+    réunion a fonctionné selon son point de vue à elle. Si on l’aborde du
+    point de vue des besoins et des sentiments, nous pouvons partager la façon
+    dont la réunion a répondu à notre besoin de « travailler ensemble ». La
+    réunion a-t-elle répondu à notre besoin de productivité ? De connexion ?
+    Nous a-t-elle apporté de la clarté, a-t-elle favorisé peut-être la
+    fraternité ? Avons-nous créé une politique qui contribue à notre besoin de
+    sécurité ou d'harmonie ? Nous pouvons également partager les sentiments
+    qui vont de pair avec les besoins satisfaits, par exemple : « Je suis
+    heureux de la productivité de la réunion », ou « j'étais anxieuse avant la
+    réunion, je me demandais si l'ordre du jour n'était pas trop chargé ?
+    Maintenant, je suis soulagée que nous ayons pu aborder tous les points à
+    l'ordre du jour ».</para>
+
+    <para>Que faisons-nous de la rétroaction « négative » ? Nous la partageons
+    également. Il est préférable de le faire en réunion plutôt que de répandre
+    des commérages par la suite.</para>
+
+    <para>Voici quelques exemples de la façon dont nous pouvons exprimer notre
+    évaluation de la réunion, en étant conscients de nos sentiments et de nos
+    besoins, sans blâmer personne, en parlant simplement de notre propre
+    expérience, sans penser que nous accédons à une vérité absolue.</para>
+
+    <para>Quels besoins ont été satisfaits :</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>« J'ai apprécié cette réunion car elle m'a semblé efficace,
+        particulièrement la façon dont tu nous as ramené au sujet lorsque nous
+        avons fait une digression. »</para>
+      </listitem>
+
+      <listitem>
+        <para>« Je suis heureuse de notre décision et du sentiment d'intégrité
+        qu'elle me procure. »</para>
+      </listitem>
+
+      <listitem>
+        <para>« Pour moi, il semble qu'il y avait un équilibre dans la
+        contribution de chacun.e d'entre nous, il y avait donc de la qualité,
+        de l'harmonie et de la synergie, et j'aime ça. »</para>
+      </listitem>
+
+      <listitem>
+        <para>« Je veux exprimer ma reconnaissance à Xiang pour m'avoir donné
+        de l'espace quand j’exprimais mon objection. Tout le monde a fait un
+        effort pour comprendre d'où je venais. Merci. »</para>
+      </listitem>
+
+      <listitem>
+        <para>« C'était une réunion amusante pour moi. Stimulante, productive.
+        Je me suis sentie connectée et cela me convient vraiment. »</para>
+      </listitem>
+
+      <listitem>
+        <para>« J'apprécie que tous les points à l'ordre du jour aient été
+        bien préparés. Merci pour</para>
+      </listitem>
+    </itemizedlist>
+
+    <blockquote>
+      <para>cela ! »</para>
+    </blockquote>
+
+    <para>Quels besoins n'ont pas été satisfaits :</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>« Cette réunion a été très efficace mais j'aurais souhaité plus
+        de connexion et de temps de réflexion. »</para>
+      </listitem>
+
+      <listitem>
+        <para>« J'ai remarqué un peu de conversation croisée dans la réunion
+        avec des personnes qui parlent sans attendre leur tour et cela
+        m'empêche de me concentrer. J'aime le sentiment d'égalité et le calme
+        qui accompagne les tours de parole. Je n'apprécie pas quand j'ai
+        l'impression de devoir rivaliser avec d’autres pour être
+        entendu. »</para>
+      </listitem>
+
+      <listitem>
+        <para>« La réunion n'a pas du tout fonctionné pour moi. Je suis
+        curieux d'entendre comment les autres personnes ont vécu la réunion,
+        mais j’ai ressenti beaucoup de confusion parce que je n'étais pas très
+        sûr de ce que nous faisions. Je pense que plus de structure
+        m'aiderait. »</para>
+      </listitem>
+
+      <listitem>
+        <para>« Il était difficile pour moi d'être plongé dans une ambiance
+        d'hostilité pendant la réunion. Je ne suis pas sûr que c’était ce qui
+        se passait, mais c'est ainsi que je l’ai vécu. »</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>Si nous remarquons des tendances concernant des sujets qui sont
+    abordés lors des évaluations des réunions, nous les mettons en attente
+    dans le panier afin qu'ils puissent être traités. Par exemple, si la
+    moitié du groupe est chroniquement en retard aux réunions, cela peut être
+    mentionné lors de l'évaluation de la réunion : le secrétaire peut mettre
+    les sujets en attente dans le panier pendant l'évaluation de la réunion
+    pour une prochaine réunion. Il en va de même si certaines personnes font
+    beaucoup de conversations croisées ou si les réunions ne sont pas bien
+    préparées. Nous utilisons ces rétroactions pour améliorer nos réunions. Le
+    leader et le facilitateur peuvent ensuite s'en inspirer pour préparer la
+    réunion suivante.</para>
+  </section>
+
+  <section>
+    <title>Revue de performance</title>
+
+    <para>La « revue de performance » permet d'obtenir une rétroaction de la
+    part des personnes qui nous connaissent le mieux dans notre organisation :
+    nos collègues de travail. La personne dont la performance est évaluée est
+    appelée « personne-cible ». (Note : un cercle entier peut aussi être
+    l’objet de ce processus.)</para>
+
+    <para>Le cycle de la revue de performance commence par informer et inviter
+    à une réunion les membres du cercle Revue de performance — également
+    appelé cercle Appréciation. Le cercle élabore un plan d'action sur la
+    manière dont la personne-cible peut s'améliorer ; cela se termine avec la
+    décision de valider ce plan d'action par le cercle Appréciation de la
+    personne-cible.</para>
+
+    <para><inlinemediaobject>
+        <imageobject>
+          <imagedata fileref="Pictures/10000201000003BE0000014891990DD6EFCF7C70.png"/>
+        </imageobject>
+      </inlinemediaobject></para>
+
+    <para><emphasis>157 : Orienter - Exécuter - Mesurer pour la revue de
+    performance</emphasis></para>
+
+    <section>
+      <title>Qui fait partie du cercle de revue de performance ?</title>
+
+      <para>La première étape est d'avoir les bonnes personnes dans la
+      réunion. Le but d'une revue de performance est de donner une rétroaction
+      à la personne-cible concernée à propos de son ou ses rôles dans
+      l'organisation. Nous pouvons procéder à une revue de performance dans
+      notre cercle si nous ne faisons partie que de ce cercle. La revue de
+      performance peut également être effectuée par un groupe de membres qui
+      ne forment généralement pas un cercle ensemble. Pour les personnes
+      jouant un rôle de liaison (leader ou délégué), nous avons besoin du
+      point de vue de tous les cercles de niveaux différents dont nous faisons
+      partie. S'il y a une interaction substantielle avec un autre cercle (par
+      exemple dans le cadre d'une transmission à un "sous-cercle” plus
+      spécifique), un ou deux membres de ce cercle peuvent être invités à la
+      revue de performance. L'idée est que chaque niveau relatif à la personne
+      concernée soit représenté. Il n'est pas nécessaire d'inviter tous les
+      membres d'un cercle connexe, ce qui permet de maintenir la taille du
+      groupe à un niveau raisonnable.</para>
+    </section>
+
+    <section>
+      <title>Configuration</title>
+
+      <para>La revue de performance peut faire l'objet d'une réunion distincte
+      ou être intégrée à une réunion de cercle. La personne-cible :</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>choisit les participants invités à sa revue de performance
+          ;</para>
+        </listitem>
+
+        <listitem>
+          <para>fixe une date et une heure pour la réunion ;</para>
+        </listitem>
+
+        <listitem>
+          <para>propose un animateur ;</para>
+        </listitem>
+
+        <listitem>
+          <para>donne l’accès aux documents pertinents (plans d’amélioration
+          antérieurs, descriptions des rôles, etc.) aux participants de la
+          revue de performance.</para>
+        </listitem>
+      </itemizedlist>
+
+      <para>Le cercle de rétroaction élabore un plan d’amélioration, qui est
+      comme toute autre proposition. Puisqu’une revue de performance
+      fonctionne exactement comme l'élaboration d'une politique, elle suit
+      également le même schéma. Nous pouvons décomposer le processus selon le
+      schéma habituel COMPRENDRE — EXPLORER — DÉCIDER (ENTRÉE — TRANSFORMATION
+      — SORTIE, pour la prise de décision), comme le montre l'exemple
+      158.</para>
+
+      <para>Nous verrons que la trame de réunion pour les facilitateurs, en
+      annexe à la page XxX, propose un format plus général qui peut être
+      utilisé comme un point à l'ordre du jour d'une réunion.</para>
+
+      <section>
+        <title>Comprendre</title>
+
+        <para><emphasis role="strong">Comprendre : examiner les
+        documents</emphasis> — Dans la phase Comprendre, nous passons en revue
+        tout ce qui doit être connu.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Quelles sont les descriptions des rôles de la personne-cible
+            ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Y a-t-il d'autres données pertinentes ici, comme des
+            rapports ou des évaluations provenant d'autres sources ? (S'il
+            faut du temps pour les lire, veillons à les distribuer à
+            l'avance).</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Nous ferons deux tours pour obtenir plus d'informations :
+        qu'est-ce que la personne-cible a réalisé de positif, et qu'est-ce
+        qu'elle aurait pu mieux faire ?</para>
+
+        <para><emphasis role="strong">Le tour « bien fait » — </emphasis>La
+        personne-cible parle d'abord de ce qu'elle a bien accompli dans les
+        domaines de la production ou du service, du processus de travail et
+        des interactions interpersonnelles. Ensuite, chaque participant du
+        cercle de revue de performance donne son point de vue sur ce que la
+        personne-cible a bien accompli ; celle-ci prend la parole à la fin du
+        tour et résume ce qu'elle a entendu.</para>
+
+        <para><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003B800000336D9034EE5A5CB9D4C.png"/>
+            </imageobject>
+          </inlinemediaobject></para>
+
+        <literallayout><emphasis>158 : Format par défaut d'une revue de performance
+si une réunion entière est convoquée uniquement dans ce but.</emphasis></literallayout>
+
+        <para>Vous trouverez plus bas quelques déclarations possibles qui
+        inclueraient une rétroaction efficace dans le premier tour de table,
+        tant de la part de la personne-cible que des autres participants à la
+        revue de performance. Une bonne rétroaction dans une revue de
+        performance comprend des évaluations générales (en spécifiant qu’il
+        n’y a pas de vérité absolue) et des exemples spécifiques à titre
+        d'illustration. Nous pouvons décrire l’impact que les actions et la
+        façon d'être de la personne-cible ont sur nous.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>« J'apprécie ton style de leadership. Je te perçois comme
+            fiable, par exemple lorsqu'on a oublié d'appeler l'électricien et
+            que tu l'as remarqué à temps, tu as pu rapidement intervenir.
+            »</para>
+          </listitem>
+
+          <listitem>
+            <para>« J'apprécie ta parole dans le cercle. Ce que tu dis semble
+            toujours contribuer à la discussion. J'admire beaucoup la façon
+            dont tu passes toujours ton tour lorsque tu n'as rien de nouveau
+            ou de pertinent à dire. Pour moi, cela ne fait que rendre ta
+            parole plus précieuse car tu sembles choisir judicieusement ce qui
+            doit être dit, sans te prendre trop au sérieux. »</para>
+          </listitem>
+
+          <listitem>
+            <para>« Je trouve que ton énergie est formidable. Je ressens ton
+            attitude comme positive et authentique, tu donnes à ce cercle un
+            sentiment qu’ensemble « nous pouvons le faire ». J'ai adoré quand
+            tu as sorti ce diagramme, il y a quelques réunions, qui montrait
+            toutes les façons de traiter une objection. Ce que j'ai remarqué,
+            c'est combien il était important pour le cercle, et certainement
+            pour moi, d'être conscient que nous avons des options. Tu as
+            vraiment fait avancer le cercle, à mon avis. »</para>
+          </listitem>
+
+          <listitem>
+            <para>« J'aime la façon dont tu sembles être le “cœur tranquille”
+            du cercle. Même lorsque les gens sont bloqués ou excités et
+            veulent tout faire en même temps, tu restes calme, et à mon avis,
+            cela contribue beaucoup au groupe, parce que tu es un contrepoids
+            nécessaire pour nous. Cela me donne une certaine tranquillité
+            d'esprit, car je sais que si nous laissons tomber des choses, tu
+            le remarqueras. Cela se voit aussi dans tes comptes-rendus écrits,
+            ils sont précis, complets et organisés. Cela nous aide à faire
+            notre travail. »</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Les rétroactions sur ce que la personne-cible a réalisé
+        constituent une demande implicite de continuer à faire ce qu’elle fait
+        bien, ou même un encouragement à le faire encore plus.</para>
+
+        <para><emphasis role="strong">Le tour « faire mieux » </emphasis>À
+        nouveau, la personne-cible parle en premier, puis les autres suivent ;
+        la personne-cible résume ce qu'elle a entendu. Il peut être difficile
+        de dire et d'entendre ce que quelqu'un n'a pas bien fait. Il est
+        particulièrement important que la personne-cible parle en premier.
+        Cela crée un contexte dans lequel les autres parlent en tant qu'alliés
+        de la personne-cible qui accueille la rétroaction. Nous encourageons
+        la bienveillance, l'honnêteté et la responsabilité personnelle dans
+        l’expression des rétroactions.</para>
+
+        <para>Voici quelques exemples de ce que l'on appelle
+        traditionnellement une rétroaction « négative » (laquelle n'est pas
+        négative en soi, mais reflète plutôt le besoin qui n’est pas
+        suffisamment satisfait d'une personne).</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>« J'ai du mal à suivre pendant les réunions en général, et
+            cela m'aide quand une réunion est structurée, pour que je sache ce
+            qui se passe. J'aimerais que tu me soutiennes dans ce sens, en
+            tant que facilitateur, en disant plus souvent ce qui est attendu
+            lors d'un tour de parole, et où nous en sommes dans le processus.
+            Peut-être pourrions-nous mettre un tableau décrivant les
+            différentes étapes, et pourrions-nous tous y référer ? C'est ce
+            que je demande, car cela m'aiderait à être plus détendue en
+            réunion. »</para>
+          </listitem>
+
+          <listitem>
+            <para>« J'apprécie que tu assumes une grande partie du travail en
+            ce qui concerne nos finances. Je voudrais exprimer une certaine
+            inquiétude parce qu’il me semble que personne d’autre n’a tes
+            compétences, ce qui signifie également que personne ne peut
+            t’aider ; j'aimerais avoir une compréhension générale de la
+            situation financière de notre coopérative pour me donner une
+            certaine tranquillité d'esprit. Je te fais confiance, mais tout
+            rôle devrait s’accompagner d’un certain partage de compétences.
+            J'aimerais que quelqu'un apprenne avec toi pour que ce ne soit pas
+            forcément toujours toi qui t'occupes de nos finances. » </para>
+          </listitem>
+
+          <listitem>
+            <para>« J'ai quelque chose à dire qui pourrait être un peu
+            difficile à entendre, parce que c'est clairement un jugement de ma
+            part. C’est important pour moi de me sentir à l'aise dans toutes
+            nos réunions, et je ne le suis pas lorsque nous parlons d'outils
+            informatiques. Je perçois de l’'impatience de ta part, comme si,
+            pour toi, l'informatique était facile à comprendre, alors que pour
+            moi, c’est vraiment difficile. Présentement, je prends soin de moi
+            : j'aimerais savoir que je suis accueilli dans mes intentions,
+            d'être productif et de faire de mon mieux pour apprendre les
+            nouveaux outils. Je suis curieux de savoir comment tu reçois que
+            je te perçoive agacé et pressé lorsqu'on parle de ce sujet. Ma
+            demande serait que tu sois un peu plus indulgent avec moi, car je
+            deviens anxieux lorsque je ne me sens pas compétent, et je peux
+            même sentir qu’on me juge là où ce n’est pas le cas. C'est
+            difficile pour moi et cela a un impact sur ma façon de participer
+            à notre travail, ici. »</para>
+          </listitem>
+
+          <listitem>
+            <para>« Il y a quelque chose qui ne fonctionne pas pour moi.
+            J’arrive souvent après toi dans mon quart de travail et je trouve,
+            sur le comptoir, de la nourriture qui devrait être rangée dans le
+            réfrigérateur. Je suis inquiète pour la sécurité et l'hygiène, en
+            ce moment. J'aimerais savoir ce qui te vient à l'esprit, en
+            entendant cela. »</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Le fait d'être précis dans nos rétroactions permet des plans
+        d’amélioration réalisables. Encore une fois, à la fin de ce tour, la
+        personne-cible résume et interprète ce qu'elle a entendu, et les
+        membres du cercle peuvent confirmer qu'ils ont été entendus, comme
+        souhaité.</para>
+      </section>
+
+      <section>
+        <title>Explorer</title>
+
+        <para>C’est à nouveau le moment d'être créatif. Que peut faire la
+        personne-cible ou quelqu’un d’autre /pour améliorer la performance du
+        rôle ? Avant de passer à la recherche de solutions, nous prenons le
+        temps de tirer parti des données que nous avons recueillies
+        précédemment.</para>
+
+        <literallayout><emphasis role="strong">
+Explorer : les points d'amélioration</emphasis>
+
+Au stade Explorer, nous procédons comme pour l'élaboration d'une politique. Nous avons maintenant une image complète de ce qu'il est pertinent de savoir sur la personne-cible dans ce contexte. <emphasis>Où</emphasis> percevons-nous des points à améliorer ? (Et non pas : <emphasis>comment</emphasis> nous voulons que cela s'améliore ?). Cela est similaire à l’étape de l’esquisse dans le processus régulier d'élaboration d'une politique. Des exemples de dimensions pourraient être :</literallayout>
+
+        <itemizedlist>
+          <listitem>
+            <para>la communication ;</para>
+          </listitem>
+
+          <listitem>
+            <para>le temps de réponse aux courriels ;</para>
+          </listitem>
+
+          <listitem>
+            <para>le support technique ;</para>
+          </listitem>
+
+          <listitem>
+            <para>la prise de parole en public ;</para>
+          </listitem>
+
+          <listitem>
+            <para>l’adaptation des horaires.</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Il peut également s'agir de points pour lesquels l'amélioration
+        consisterait à voir davantage ce que la personne-cible fait bien !
+        Cette étape ne prend probablement que quelques minutes ou moins et se
+        termine lorsque tout le monde consent à la liste des
+        dimensions.</para>
+
+        <literallayout><emphasis role="strong">Idées pour le plan d'amélioration</emphasis>
+L'étape suivante consiste à faire un remue-méninges pour trouver des idées d’actions. <emphasis>Comment</emphasis> voudrions-nous que les choses s’améliorent sur ces sujets ? Faisons en sorte que les idées soient concrètes et réalisables. Les idées d'amélioration peuvent être directement liées aux dimensions identifiées. Voici quelques exemples :</literallayout>
+
+        <itemizedlist>
+          <listitem>
+            <para>« Pour la communication, j'aimerais que tu suives une
+            formation en CNV, par exemple un cours en ligne de ton choix,
+            d'ici cet automne » ;</para>
+          </listitem>
+
+          <listitem>
+            <para>« J'aimerais que tu répondes plus rapidement aux courriels,
+            par exemple dans les 24 ou les 48 heures. J'aimerais que tu me
+            dises s'il y a un moyen d'organiser cela d'une manière qui te
+            conviendrait » ;</para>
+          </listitem>
+
+          <listitem>
+            <para>« Ta contribution est tellement géniale en ce qui a trait à
+            l'aide technique, j'aimerais que tu en fasses davantage. Je crains
+            également de te surcharger. J'aimerais donc que tu réserves deux
+            heures par semaine pour cela et que tu sois soucieux de ne pas en
+            faire plus. J'aimerais que tu en tiennes le registre. Si nous
+            constatons que cela prend beaucoup plus de temps, nous devrions
+            examiner la question et peut-être embaucher quelqu'un pour cela.
+            Nous ne pouvons pas compter uniquement sur toi pour le support
+            technique. Je veux m'assurer que tes compétences sont bien
+            utilisées, et cela déborde du support technique comme tel »
+            ;</para>
+          </listitem>
+
+          <listitem>
+            <para>« Puisque tu as toi-même mentionné la prise de parole en
+            public comme un point à améliorer, je te suggère de t’engager à
+            faire trois séances de prise de parole en public d'ici la fin de
+            l'année et à suivre plus de formation pour te soutenir ».</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Il peut également y avoir des améliorations qui touchent plus
+        d'une personne et qui doivent être abordées ailleurs, par exemple les
+        politiques relatives au temps de travail :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>« Nous avons discuté de l’enjeu des horaires flexibles.
+            Comme c’est un point qui ne concerne pas que toi et qui est
+            important, j'aimerais le transmettre au cercle Horaires de travail
+            pour qu'il l'examine. »</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Les idées de proposition peuvent également être contradictoires
+        (comme elles pourraient l'être dans tout processus de formulation de
+        proposition). Comme toujours, nous les notons toutes :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>« Oui, tu as mentionné la prise de parole en public comme un
+            domaine de progression, mais je ne pense pas que cela doive être
+            un sujet prioritaire pour le moment. »</para>
+          </listitem>
+
+          <listitem>
+            <para>« J'aimerais modifier la fiche de description de ton rôle
+            pour y inclure davantage le travail de soutien
+            informatique. »</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Si c'est simple et direct, nous pouvons maintenant transformer
+        les éléments de proposition en une proposition de plan d’amélioration.
+        Les idées de proposition ne couvrent pas seulement des actions dans le
+        domaine de la personne-cible, elles peuvent également être transmises
+        ailleurs. Comme toujours, l'évaluation peut faire surgir des
+        informations pertinentes dans un contexte plus large, comme un
+        changement dans la description du poste ou comme la politique relative
+        au temps de travail, dans cet exemple. Ces informations peuvent ne pas
+        apparaître ailleurs, alors assurons-nous de les récolter ici.</para>
+
+        <para>Rappelons-nous enfin que toute bonne politique a aussi une
+        durée. Toutefois, fixer une date pour une révision — et/ou la
+        prochaine revue de performance — est une décision intentionnelle qui
+        peut dépendre des éléments de la proposition (par exemple : des
+        échéances non arrêtées à dates fixes, comme « trois événements de
+        prise de parole en public d'ici l'automne »). La politique inclura
+        également des outils de mesure et des paramètres, en fonction de ce
+        que nous voulons évaluer.</para>
+
+        <para><emphasis role="strong">Rédiger le plan d'amélioration
+        </emphasis>Quelqu'un — le plus souvent la personne-cible, mais pas
+        nécessairement —- organisera les idées proposées pour en faire une
+        proposition. Cela peut se faire pendant ou après la réunion. Quel que
+        soit le moment où la proposition est rédigée, le processus se poursuit
+        : la proposition requiert le consentement du cercle d’évaluation. Il
+        est également possible de demander le consentement de tous les cercles
+        dont la personne-cible est membre. (Cela dépend de l'objet de la revue
+        de performance. Trouvons un équilibre raisonnable entre un objet trop
+        large et un objet trop étroit. La décision de savoir qui aura le droit
+        de consentir à la proposition doit être prise avant le début de la
+        revue de performance).</para>
+      </section>
+
+      <section>
+        <title>Décider</title>
+
+        <para>La proposition doit être formulée clairement et distribuée à
+        toutes les personnes ayant le droit de donner leur consentement. Elle
+        doit ensuite être approuvée, par consentement, par au moins le cercle
+        de revue de performance — y compris la personne-cible — et/ou par tous
+        les membres du cercle avec lesquels cette personne travaille. Le plan
+        d'amélioration sera conservé dans les archives sous forme écrite, en
+        tant que politique, mais pas dans les dossiers des accords de
+        politique, puisqu'il ne concerne qu'une seule personne.</para>
+
+        <para>Une fois que le plan arrive à terme, la personne-cible commence
+        à planifier une autre revue de performance et le cycle recommence. La
+        revue de performance suivante permet de mesurer si le plan
+        d'amélioration a été mis en pratique, et constitue en même temps le
+        début d'un nouveau cycle.</para>
+      </section>
+    </section>
+  </section>
+
+  <section>
+    <title>Des organisations qui s’autoréparent</title>
+
+    <para>Si nous ouvrons notre esprit et notre cœur aux rétroactions, nous
+    pouvons détecter plus rapidement les aspects inefficaces de notre
+    organisation. Nous serons une organisation qui s’auto-répare. Cela ne
+    fonctionne que si nous sommes prêts à changer tout et n’importe quoi :
+    nous devrons peut-être modifier notre but, la structure de nos cercles, la
+    façon dont nous définissons les rôles. Quoi que nous fassions, nous
+    essayons de veiller à mesurer si le changement permet de réaliser ce à
+    quoi nous aspirons.</para>
+
+    <section>
+      <title>Il n'y a pas de bonne façon de faire de la sociocratie…</title>
+
+      <para>Il n'y a pas de bien ou de mal dans la gouvernance. Les groupes
+      qui découvrent la sociocratie jouent parfois à la police de la
+      gouvernance. La sociocratie n'est <emphasis>jamais</emphasis> rigide.
+      L'équilibre est intégré à la sociocratie, et il sera durable s’il est
+      dynamique. Si nous nous surprenons à être dans un « bon combat » sur la
+      façon de faire de la sociocratie, nous sommes déjà sur la voie du bien
+      et du mal. Il n'y a pas « une bonne façon » de faire de la sociocratie,
+      surtout si la discussion autour de ce qui est « bon » crée une
+      déconnexion. Ce que nous avons décrit dans ce livre n'est pas « la bonne
+      façon » mais plutôt ce que nous, les auteurs, avons trouvé
+      efficace.</para>
+
+      <para>L'efficacité est la mesure de la gouvernance. La sociocratie,
+      c'est plus que la façon de faire un tour de table ou d'interpréter une
+      objection.</para>
+
+      <para>C'est plus que des diagrammes et des formats de réunion : c'est un
+      état d'esprit selon lequel il existe un moyen d'équilibrer les besoins
+      individuels et ceux du groupe, pour soutenir l'équivalence. Tout ce qui
+      y parvient de manière efficace est sociocratique, à nos yeux.</para>
+    </section>
+
+    <section>
+      <title>… et il n'y a pas de mauvaise façon de faire de la sociocratie
+      !</title>
+
+      <para>La bonne nouvelle est qu'il n'y a pas non plus de mauvaise façon
+      de faire de la sociocratie. Nous pouvons nous tromper de temps en temps.
+      Par exemple, nous avons animé des réunions où nous avons supposé qu'une
+      objection avait été bien traitée dans une proposition modifiée. Nous
+      nous sommes précipités vers le tour de consentement. Lorsqu'il y a de
+      l'agitation dans la salle et que tout le monde veut soudainement prendre
+      la parole, c'est de la rétroaction : nous avons poussé trop loin et nous
+      avons soutenu un rythme trop rapide. Nous avons regretté de temps en
+      temps de privilégier l'efficacité au lieu de rechercher l'équivalence,
+      en ralentissant.</para>
+
+      <para>Par ailleurs, nous avons proposé des tours de parole exploratoires
+      où chacun.e passait son tour parce qu'il n'y avait rien de pertinent à
+      dire : aurions-nous pu réalisé que le groupe était déjà prêt pour
+      l'étape suivante ? Avons-nous perdu du temps sur un tour qui s'est avéré
+      inutile ? Cela arrive. Le bon côté des choses, c'est que si nous avons
+      mis en place un bon système, nous arriverons toujours à un résultat
+      « assez bon ». Il n'y a aucune raison d'avoir peur de faire quelque
+      chose de mal. Plutôt, nous prêtons attention aux rétroactions, car il y
+      a de fortes chances que nous fassions des choses qui sont imparfaites —
+      la pratique consiste à les remarquer, à ajuster et à apprendre.</para>
+
+      <para>La mesure de l'efficacité consiste à atteindre à la fois notre but
+      et l'équivalence dans notre groupe. Toutes les mesures n’ont pas
+      nécessairement à voir avec la productivité. Choisissons nos indicateurs
+      de mesure en fonction de nos buts et objectifs. Nous pouvons mesurer le
+      degré de satisfaction de nos membres, la façon dont nous avons protégé
+      la planète, le nombre de nouveaux membres auxquels nous avons pu donner
+      une voix. La gouvernance et la facilitation axées sur la mesure ne
+      traitent pas les gens comme des machines — mettez-y ce qui est important
+      pour vous !</para>
+    </section>
+  </section>
+</chapter>
