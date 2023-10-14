@@ -8,6 +8,8 @@
 
   <xsl:param name="discourse-URL"/>
 
+  <xsl:param name="chunker.output.indent">yes</xsl:param>
+
   <xsl:param name="section.autolabel" select="true()"/>
   <xsl:param name="section.label.includes.component.label" select="true()"/>
   <xsl:param name="img.src.path">images/</xsl:param>

@@ -73,6 +73,12 @@ The approach we take involves pre-populating a Discourse category with placehold
 
 Okay, yeah, maybe the `discourse-stub.js` script could really just be a nice (if long) line of `curl`.  Perhaps I got carried away.  In any case, this is a strategy that you could apply to other books written in DocBook, if you wanted to publish them this way.
 
+Returning to LaTeX
+------------------
+
+~/development/dblatex-hg/scripts/dblatex -P latex.encoding=utf8 -t tex chapitre-1.db5
+tectonic -Z search-path=$HOME/development/dblatex-hg/latex/style/ -Z search-path=$HOME/development/dblatex-hg/latex/misc/ *tex
+
 Work still to be done
 ---------------------
 
