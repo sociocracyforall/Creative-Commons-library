@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:ns6="http://docbook.org/ns/transclusion"
          xmlns:ns5="http://www.w3.org/1998/Math/MathML"
          xmlns:ns4="http://www.w3.org/2000/svg"
          xmlns:ns3="http://www.w3.org/1999/xhtml"
@@ -10,34 +11,47 @@
   </info>
 
   <para>La sociocratie est un ensemble d'outils et de principes qui assurent
-  le partage du pouvoir. Comment partage-t-on le pouvoir ?</para>
+  le partage du pouvoir. Comment partage-t-on le pouvoir<indexterm>
+      <primary>pouvoir</primary>
 
-  <para>La sociocratie présuppose qu'il faut un plan pour partager le pouvoir.
-  Le pouvoir est partout tout le temps, et il n'apparaît pas ou ne disparaît
-  pas - quelqu'un le détiendra forcément. Il est nécessaire de savoir comment
-  nous voulons le distribuer. Le pouvoir est comme l'eau : il se rendra
-  forcément quelque part et aura tendance à se regrouper : plus un groupe a du
-  pouvoir, plus il détient de ressources pour se donner encore davantage de
-  pouvoir. Le seul moyen de contrebalancer la concentration du pouvoir est
-  d'avoir une intention claire et une mise en œuvre réfléchie.</para>
+      <secondary>partager le pouvoir</secondary>
+    </indexterm> ?</para>
+
+  <para>La sociocratie présuppose qu'il faut un plan pour partager le
+  pouvoir<indexterm>
+      <primary>pouvoir</primary>
+
+      <secondary>partager le pouvoir</secondary>
+    </indexterm>. Le pouvoir est partout tout le temps, et il n'apparaît pas
+  ou ne disparaît pas - quelqu'un le détiendra forcément. Il est nécessaire de
+  savoir comment nous voulons le distribuer. Le pouvoir est comme l'eau : il
+  se rendra forcément quelque part et aura tendance à se regrouper : plus un
+  groupe a du pouvoir, plus il détient de ressources pour se donner encore
+  davantage de pouvoir. Le seul moyen de contrebalancer la concentration du
+  pouvoir est d'avoir une intention claire et une mise en œuvre
+  réfléchie.</para>
 
   <para>Le pouvoir, comme l'eau, n'est ni bon ni mauvais. Regroupé et utilisé
   contre les gens, le pouvoir peut être très destructeur. Utilisé pour servir
   les gens et la terre, distribué dans des endroits où il peut travailler pour
-  répondre aux besoins, le pouvoir est constructif, créatif et nourrissant
-  comme un système d'irrigation.</para>
+  répondre aux besoins<indexterm>
+      <primary>besoins</primary>
+    </indexterm>, le pouvoir est constructif, créatif et nourrissant comme un
+  système d'irrigation.</para>
 
-  <para>Imaginons une organisation sociocratique comme un système d'irrigation
-  compliqué, donnant à chaque équipe le pouvoir d'agir<indexterm>
-      <primary>pouvoir d'agir</primary>
-    </indexterm> et les ressources dont elle a besoin pour s'épanouir et
-  contribuer à la mission de l'organisation. Nous cherchons à éviter la
-  concentration du pouvoir (rétention de l'énergie) et nous nous assurons
-  qu'il y a un flux continu. L'eau qui s'écoule restera fraîche et atteindra
-  tous les endroits du jardin, nourrissant ainsi chaque plante pour prospérer.
-  Les organisations sociocratiques alimentent chaque équipe en mettant à leur
-  disposition la possibilité de s'épanouir et de contribuer à la mission de
-  l'organisation.</para>
+  <para>Imaginons une organisation sociocratique<indexterm>
+      <primary>organisation</primary>
+
+      <secondary>organisation sociocratique</secondary>
+    </indexterm> comme un système d'irrigation compliqué, donnant à chaque
+  équipe le pouvoir d'agir et les ressources dont elle a besoin pour
+  s'épanouir et contribuer à la mission de l'organisation. Nous cherchons à
+  éviter la concentration du pouvoir (rétention de l'énergie) et nous nous
+  assurons qu'il y a un flux continu. L'eau qui s'écoule restera fraîche et
+  atteindra tous les endroits du jardin, nourrissant ainsi chaque plante pour
+  prospérer. Les organisations sociocratiques alimentent chaque équipe en
+  mettant à leur disposition la possibilité de s'épanouir et de contribuer à
+  la mission de l'organisation.</para>
 
   <para>Le pouvoir n'a pas qu'une seule source. Dans ce sens, il est différent
   d'un système d'irrigation. Tous les membres de l'organisation la nourrissent
@@ -80,6 +94,18 @@
   <section>
     <title>Les valeurs sous-jacentes à la sociocratie</title>
 
+    <indexterm>
+      <primary>équivalence</primary>
+    </indexterm>
+
+    <indexterm>
+      <primary>efficacité</primary>
+    </indexterm>
+
+    <indexterm>
+      <primary>valeurs</primary>
+    </indexterm>
+
     <para>Dans quel monde voulons-nous vivre ? Notre réponse à cette question
     est la suivante : nous voulons vivre dans un monde où les gens se
     soutiennent les uns les autres, se considèrent mutuellement et
@@ -87,6 +113,10 @@
 
     <section>
       <title>Les organisations sont des systèmes vivants</title>
+
+      <indexterm>
+        <primary>système vivant</primary>
+      </indexterm>
 
       <para>Les organisations sont conçues de telle façon qu'elles stimulent
       la connexion entre nous et avec nous-mêmes, tant à l'intérieur qu'à
@@ -109,7 +139,11 @@
       unique de la vie.</para>
 
       <para>Les systèmes vivants ont des caractéristiques, il est important
-      d'en être conscients :</para>
+      d'en être conscients <indexterm>
+          <primary>système vivant</primary>
+
+          <secondary>caractéristiques</secondary>
+        </indexterm>:</para>
 
       <itemizedlist>
         <listitem>
@@ -168,7 +202,9 @@
       s'épanouir ? Quelles valeurs incarne la sociocratie ? Réduire
       précipitamment la définition à un petit ensemble de valeurs c'est
       prendre le risque d'omettre de considérer des aspects qui auraient été
-      significatifs pour les valeurs et les besoins d'autres personnes.</para>
+      significatifs pour les valeurs et les besoins<indexterm>
+          <primary>besoins</primary>
+        </indexterm> d'autres personnes.</para>
 
       <para>Cela étant dit, voici ce qui est important pour nous :</para>
 
@@ -176,42 +212,84 @@
         <listitem>
           <para><emphasis role="strong">Clarté</emphasis> : la clarté va de
           pair avec prévisibilité, sécurité. Nous voulons des organisations
-          dans lesquelles nous savons à quoi nous attendre, qui fait quoi
-          ;</para>
+          dans lesquelles nous savons à quoi nous attendre, qui fait
+          quoi<indexterm>
+              <primary>clarté (besoin)</primary>
+            </indexterm><indexterm>
+              <primary>besoins; exemples</primary>
+
+              <secondary>clarté</secondary>
+            </indexterm> ;</para>
         </listitem>
 
         <listitem>
           <para><emphasis role="strong">Choix</emphasis> : nous voulons avoir
           le choix de nos actions et non pas agir par soumission ou rébellion
-          contre l'autorité ;</para>
+          contre l'autorité<indexterm>
+              <primary>choix (besoin)</primary>
+            </indexterm><indexterm>
+              <primary>besoins; exemples</primary>
+
+              <secondary>choix</secondary>
+            </indexterm> ;</para>
         </listitem>
 
         <listitem>
           <para><emphasis role="strong">Considération</emphasis> : savoir que
           ce que nous pensons et ressentons compte pour ceux qui nous
-          entourent ;</para>
+          entourent<indexterm>
+              <primary>considération (besoin)</primary>
+            </indexterm><indexterm>
+              <primary>besoins; exemples</primary>
+
+              <secondary>considération</secondary>
+            </indexterm> ;</para>
         </listitem>
 
         <listitem>
           <para><emphasis role="strong">Pouvoir d'agir</emphasis> : savoir que
-          ce que nous réalisons a un impact positif ;</para>
+          ce que nous réalisons a un impact positif <indexterm>
+              <primary>pouvoir d'agir (besoin)</primary>
+            </indexterm><indexterm>
+              <primary>besoins; exemples</primary>
+
+              <secondary>pouvoir d'agir</secondary>
+            </indexterm>;</para>
         </listitem>
 
         <listitem>
           <para><emphasis role="strong">Apprentissage</emphasis> : nous
           voulons faire l'expérience de l'apprentissage et de la découverte
           les uns des autres, de nous-mêmes et de la façon dont le monde
-          fonctionne ;</para>
+          fonctionne<indexterm>
+              <primary>apprentissage (besoin)</primary>
+            </indexterm><indexterm>
+              <primary>besoins; exemples</primary>
+
+              <secondary>apprentissage</secondary>
+            </indexterm> ;</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Connexion, appartenance,
-          équivalence</emphasis> : quand nous nous sentons comme un individu
-          au sein d'une organisation bien soudée, cela peut accroître notre
-          sentiment d'appartenance. La connexion et l'appartenance sont des
-          besoins essentiels pour tous les êtres humains. Une communauté
-          décentralisée et soudée est plus résiliente qu'un système souple ou
-          sans structure ou qu'un système hiérarchique rigide.</para>
+          <para><emphasis role="strong">Connexion<indexterm>
+              <primary>connexion (besoin)</primary>
+            </indexterm><indexterm>
+              <primary>besoins; exemples</primary>
+
+              <secondary>connexion</secondary>
+            </indexterm>, appartenance<indexterm>
+              <primary>appartenance (besoin)</primary>
+            </indexterm><indexterm>
+              <primary>besoins; exemples</primary>
+
+              <secondary>appartenance</secondary>
+            </indexterm>, équivalence</emphasis> : quand nous nous sentons
+          comme un individu au sein d'une organisation bien soudée, cela peut
+          accroître notre sentiment d'appartenance. La connexion et
+          l'appartenance sont des besoins essentiels pour tous les êtres
+          humains. Une communauté décentralisée et soudée est plus résiliente
+          qu'un système souple ou sans structure ou qu'un système hiérarchique
+          rigide.</para>
         </listitem>
       </itemizedlist>
     </section>
@@ -219,8 +297,16 @@
     <section>
       <title>Principes qui guident l'autogouvernance</title>
 
-      <para>Appliquées à l'auto-gouvernance, chacune de ces valeurs se traduit
-      par des principes qui guident l'autogouvernance.</para>
+      <indexterm>
+        <primary>principles</primary>
+      </indexterm>
+
+      <para>Appliquées à l'auto-gouvernance<indexterm>
+          <primary>gouvernance</primary>
+
+          <secondary>autogouvernance</secondary>
+        </indexterm>, chacune de ces valeurs se traduit par des principes qui
+      guident l'autogouvernance.</para>
 
       <itemizedlist>
         <listitem>
@@ -266,9 +352,11 @@
           Pour évaluer notre travail, nous nous basons sur les faits le plus
           souvent possible en essayant d'être fidèles aux faits lorsque nous
           les interprétons et en donnons un sens. Comme tout système vivant,
-          nous travaillons avec la réalité et le principe de l'empirisme
-          garantit que nos interprétations sont liées à des observations
-          réelles et non à des vœux pieux ou des attentes.</para>
+          nous travaillons avec la réalité et le principe de
+          l'empirisme<indexterm>
+              <primary>empirisme</primary>
+            </indexterm> garantit que nos interprétations sont liées à des
+          observations réelles et non à des vœux pieux ou des attentes.</para>
         </listitem>
 
         <listitem>
@@ -341,7 +429,13 @@
           </imageobject>
         </inlinemediaobject></para>
 
-      <literallayout><emphasis>2 : Outils qui incarnent nos principes; nos besoins universels les plus fondamentaux sont satisfaits en alignement avec les systèmes vivants.</emphasis></literallayout>
+      <para>2 : Outils qui incarnent nos principes; nos besoins universels les
+      plus fondamentaux sont satisfaits en alignement avec les systèmes
+      vivants.<indexterm>
+          <primary>système vivant</primary>
+
+          <secondary>valeurs d'un système vivant</secondary>
+        </indexterm></para>
 
       <para>Ce livre décrit un ensemble d'outils qui peuvent aider à mettre en
       œuvre les principes que nous avons cités. Pour utiliser les outils avec
@@ -355,22 +449,53 @@
       constatons que c'est ce dont le mouvement a besoin en ce moment.
       Cependant, tout au long de ce livre, il y aura des références aux
       principes dont les plus saillants sont <emphasis>efficacité</emphasis>
-      et <emphasis>équivalence</emphasis>.</para>
+      et <emphasis>équivalence</emphasis><indexterm>
+          <primary>efficacité</primary>
+
+          <secondary>intégré l'efficacité et l'équivalence</secondary>
+        </indexterm><indexterm>
+          <primary>équivalence</primary>
+
+          <secondary>intégré l'équivalence et l'efficacité</secondary>
+        </indexterm>.</para>
     </section>
 
     <section>
       <title>Efficacité et équivalence</title>
 
+      <indexterm>
+        <primary>efficacité</primary>
+
+        <secondary>intégré l'efficacité et l'équivalence</secondary>
+      </indexterm>
+
+      <indexterm>
+        <primary>équivalence</primary>
+
+        <secondary>intégré l'équivalence et l'efficacité</secondary>
+      </indexterm>
+
+      <indexterm>
+        <primary>équivalence</primary>
+      </indexterm>
+
+      <indexterm>
+        <primary>efficacité</primary>
+      </indexterm>
+
       <para>Nous définissons l'équivalence comme étant « l'importance de
       prendre en compte les besoins de chaque personne, quels que soient le
-      rôle ou le statut de cette personne ». <emphasis>La voix de chacun a une
-      valeur égale</emphasis> (équivalente), mais la voix de chacun n’exerce
-      pas la même influence. Par équivalence, nous ne voulons pas dire
-      similitude. Chaque personne est équivalente aux autres et chaque
-      personne est unique. Lorsque les besoins présents dans un contexte
-      particulier sont connus, nous décidons collectivement de la façon la
-      plus efficace de répondre à ces besoins, dans le respect des limites
-      existantes.</para>
+      rôle ou le statut de cette personne »<indexterm>
+          <primary>besoins</primary>
+
+          <secondary>les besoins de chacun sont importants</secondary>
+        </indexterm>. <emphasis>La voix de chacun a une valeur
+      égale</emphasis> (équivalente), mais la voix de chacun n’exerce pas la
+      même influence. Par équivalence, nous ne voulons pas dire similitude.
+      Chaque personne est équivalente aux autres et chaque personne est
+      unique. Lorsque les besoins présents dans un contexte particulier sont
+      connus, nous décidons collectivement de la façon la plus efficace de
+      répondre à ces besoins, dans le respect des limites existantes.</para>
 
       <para><inlinemediaobject>
           <imageobject>
@@ -380,34 +505,47 @@
 
       <literallayout><emphasis>3 : Définition du terme équivalence</emphasis></literallayout>
 
-      <para>Honorer les besoins de chacun est fabuleux, mais comment
-      procède-t-on pour y arriver ? Si nous passons trop de temps à parler, le
-      travail n'est pas accompli et certains besoins ne sont pas satisfaits.
-      Finalement, un processus inefficace ne tient pas compte de certains
-      besoins, comme celui de contribuer à nos clients, à nos étudiants ou à
-      notre communauté. Ce que fait la sociocratie, c'est créer une
-      intégration entre l'engagement à agir, l'impact, la mise en mouvement et
-      la promesse de prendre en compte les besoins de chacun en tout
-      temps.</para>
+      <para>Honorer les besoins<indexterm>
+          <primary>besoins</primary>
+        </indexterm> de chacun est fabuleux, mais comment procède-t-on pour y
+      arriver ? Si nous passons trop de temps à parler, le travail n'est pas
+      accompli et certains besoins ne sont pas satisfaits. Finalement, un
+      processus inefficace ne tient pas compte de certains besoins, comme
+      celui de contribuer à nos clients, à nos étudiants ou à notre
+      communauté. Ce que fait la sociocratie, c'est créer une intégration
+      entre l'engagement à agir, l'impact, la mise en mouvement et la promesse
+      de prendre en compte les besoins de chacun en tout temps.</para>
 
-      <para>Le renforcement mutuel entre l'équivalence et l'efficacité est ce
-      qui rend la sociocratie si différente. La sociocratie brise les nombreux
-      principes binaires qui nous desservent : l'individu versus le groupe,
-      les travailleurs versus la direction, nous versus eux. En fin de compte,
-      nous ne faisons qu'un et la sociocratie nous aide à rétablir cette unité
-      en restant connectés, pour travailler, décider et grandir
-      ensemble.</para>
+      <para>Le renforcement mutuel entre l'équivalence<indexterm>
+          <primary>équivalence</primary>
+        </indexterm> et l'efficacité<indexterm>
+          <primary>efficacité</primary>
+        </indexterm> est ce qui rend la sociocratie si différente. La
+      sociocratie brise les nombreux principes binaires qui nous desservent :
+      l'individu versus le groupe, les travailleurs versus la direction, nous
+      versus eux. En fin de compte, nous ne faisons qu'un et la sociocratie
+      nous aide à rétablir cette unité en restant connectés, pour travailler,
+      décider et grandir ensemble.</para>
 
       <para>La sociocratie élimine l'idée fausse que l'efficacité doit
       s'obtenir au détriment de l'équivalence et qu'une plus grande
       équivalence va ralentir une organisation. Les outils sociocratiques
       permettent d'être à l'écoute des besoins des gens d'une manière qui
-      augmente l'efficacité. Avec la sociocratie, une organisation efficace
-      sera davantage en mesure de créer un espace où tous peuvent contribuer à
-      ce que les besoins soient comblés. Nous ne cherchons pas à créer un
-      équilibre entre deux extrêmes qui s'opposent, nous transformons cet
-      équilibre en cultivant l'un et l'autre à la fois : efficacité et
-      équivalence.</para>
+      augmente l'efficacité. Avec la sociocratie, une organisation<indexterm>
+          <primary>organisation</primary>
+        </indexterm> efficace sera davantage en mesure de créer un espace où
+      tous peuvent contribuer à ce que les besoins soient comblés. Nous ne
+      cherchons pas à créer un équilibre entre deux extrêmes qui s'opposent,
+      nous transformons cet équilibre en cultivant l'un et l'autre à la fois :
+      efficacité et équivalence.<indexterm>
+          <primary>efficacité</primary>
+
+          <secondary>intégré l'efficacité et l'équivalence</secondary>
+        </indexterm><indexterm>
+          <primary>équivalence</primary>
+
+          <secondary>intégré l'équivalence et l'efficacité</secondary>
+        </indexterm></para>
 
       <para><inlinemediaobject>
           <imageobject>
@@ -423,7 +561,9 @@
       de</emphasis><emphasis role="strong">flow</emphasis></title>
 
       <para>Dans <emphasis>Sociocracy For All</emphasis> (SoFA), nous recevons
-      des demandes de la part de personnes qui aimeraient assister à des
+      des demandes<indexterm>
+          <primary>demande</primary>
+        </indexterm> de la part de personnes qui aimeraient assister à des
       réunions sociocratiques pour voir comment ça se passe. Comme nous
       accueillons les visiteurs chaque fois que c'est possible, nous avons une
       réponse standard à leur demande : sachez que dans une réunion
@@ -432,7 +572,13 @@
 
       <para>La bonne gouvernance, c'est mettre de côté tout ce qui nous
       distrait. Des sentiments distrayants sont générés lorsque nos besoins de
-      connexion, d'intégrité ou de compréhension commune ne sont pas
+      connexion<indexterm>
+          <primary>connexion (besoin)</primary>
+        </indexterm><indexterm>
+          <primary>besoins; exemples</primary>
+
+          <secondary>connexion</secondary>
+        </indexterm>, d'intégrité ou de compréhension commune ne sont pas
       satisfaits. Cela signifie que nous avons besoin d'apporter de la clarté
       à notre contexte de travail, autant pour la sécurité émotionnelle des
       membres de l'équipe que pour le processus. Ce qui est alors présent,
@@ -449,6 +595,12 @@
   <section>
     <title>Le paradoxe d'enseigner l'autogouvernance</title>
 
+    <indexterm>
+      <primary>gouvernance</primary>
+
+      <secondary>enseigner la gouvernance</secondary>
+    </indexterm>
+
     <para>En matière d'autogouvernance, nous voulons que les groupes décident
     d'eux-mêmes comment se gouverner. N'est-ce pas ironique de dire aux gens
     comment se gouverner eux-mêmes ? C'est une préoccupation que nous traitons
@@ -460,15 +612,19 @@
     <section>
       <title>Principes de conception versus outils</title>
 
-      <para>Pour nous, il est plus important de diriger une organisation en
-      accord avec ses principes plutôt qu'en suivant une stratégie
-      particulière. Par exemple, diriger une organisation où tous les besoins
-      sont pris en compte est plus important que d'effectuer un tour de
-      consentement « dans les règles de l'art » - même celles expliquées dans
-      ce livre ! Le tour de consentement n'est qu'un outil pour assurer le
-      principe d'équivalence. Si des lecteurs peuvent trouver une meilleure
-      façon de vivre le principe d'équivalence que ce que nous présentons ici
-      (sans compromettre l'efficacité), faites-le ! Dans ce cas, partagez-le à
+      <para>Pour nous, il est plus important de diriger une
+      organisation<indexterm>
+          <primary>organisation</primary>
+        </indexterm> en accord avec ses principes plutôt qu'en suivant une
+      stratégie particulière. Par exemple, diriger une organisation où tous
+      les besoins sont pris en compte est plus important que d'effectuer un
+      tour de consentement « dans les règles de l'art » - même celles
+      expliquées dans ce livre ! Le tour de consentement n'est qu'un outil
+      pour assurer le principe d'équivalence<indexterm>
+          <primary>équivalence</primary>
+        </indexterm>. Si des lecteurs peuvent trouver une meilleure façon de
+      vivre le principe d'équivalence que ce que nous présentons ici (sans
+      compromettre l'efficacité), faites-le ! Dans ce cas, partagez-le à
       d'autres afin qu'ils puissent en profiter également ! Pour nous, la
       sociocratie est un état d'esprit : l'état d'esprit qui veut que tous les
       besoins priment, toujours. Les besoins de ceux que nous servons, les
@@ -485,8 +641,12 @@
           remarquons que la plupart des gens réclament un « kit complet » des
           bonnes pratiques. Trouver les bons outils et les combiner semble une
           tâche ardue pour les gens qui sont nouveaux dans le partage du
-          pouvoir, non pas parce que c'est difficile à réaliser, mais parce
-          que la plupart d'entre nous manquons d'expérience.</para>
+          pouvoir<indexterm>
+              <primary>pouvoir</primary>
+
+              <secondary>partager le pouvoir</secondary>
+            </indexterm>, non pas parce que c'est difficile à réaliser, mais
+          parce que la plupart d'entre nous manquons d'expérience.</para>
         </listitem>
 
         <listitem>
@@ -496,12 +656,17 @@
           gouvernance n'est pas au centre de leurs préoccupations. Dans cet
           esprit, comme nous avons beaucoup d'expérience en matière de
           gouvernance, ce livre « partage » tout ce que nous savons sur le
-          « pouvoir partagé », et comment le faire.</para>
+          « pouvoir partagé »<indexterm>
+              <primary>pouvoir</primary>
+
+              <secondary>partager le pouvoir</secondary>
+            </indexterm>, et comment le faire.</para>
         </listitem>
 
         <listitem>
-          <para><emphasis>Soucions-nous énormément de
-          l'équivalence</emphasis>. Dans les organisations, l'absence de
+          <para><emphasis>Soucions-nous énormément de l'équivalence<indexterm>
+              <primary>équivalence</primary>
+            </indexterm></emphasis>. Dans les organisations, l'absence de
           système ou la présence d'un système trop vague laissera beaucoup de
           vides entre les lignes qui seront remplis par la vie quotidienne. On
           a fait l'analogie de l'eau : le pouvoir s'écoulera quelque part. Si
@@ -554,19 +719,39 @@
       </itemizedlist>
 
       <para>Les bonnes pratiques en sociocratie s'accordent très bien et se
-      renforcent mutuellement. Par exemple, le double-lien rend une structure
-      circulaire plus transparente. Les décisions prises en petits groupes
-      sont facilitées par la prise de décision par consentement. Toute
-      omission sera comblée d’une façon ou d’une autre, et parfois par des
-      pratiques qui ne soutiennent pas efficacement l'équivalence. Nous
-      recommandons donc d'adopter toute méthode qui semble utile et de garder
-      l'œil ouvert pour détecter les signes indiquant qu'il pourrait y avoir
-      des éléments de la méthode de gouvernance qui nécessitent une
-      amélioration.</para>
+      renforcent mutuellement. Par exemple, le double-lien<indexterm>
+          <primary>lien</primary>
+
+          <secondary>double-lien</secondary>
+        </indexterm><indexterm>
+          <primary>double-lien</primary>
+
+          <see>lien</see>
+        </indexterm> rend une structure circulaire<indexterm>
+          <primary>cercle</primary>
+
+          <secondary>structure de cercles</secondary>
+        </indexterm> plus transparente. Les décisions prises en petits groupes
+      sont facilitées par la prise de décision par consentement<indexterm>
+          <primary>consentement</primary>
+        </indexterm>. Toute omission sera comblée d’une façon ou d’une autre,
+      et parfois par des pratiques qui ne soutiennent pas efficacement
+      l'équivalence<indexterm>
+          <primary>équivalence</primary>
+        </indexterm>. Nous recommandons donc d'adopter toute méthode qui
+      semble utile et de garder l'œil ouvert pour détecter les signes
+      indiquant qu'il pourrait y avoir des éléments de la méthode de
+      gouvernance qui nécessitent une amélioration.</para>
     </section>
 
     <section>
       <title>Changer tout ce que vous voulez — par consentement</title>
+
+      <indexterm>
+        <primary>consentement</primary>
+
+        <secondary>consentir à des changements en gouvernance</secondary>
+      </indexterm>
 
       <para>Nous, à<emphasis> Sociocracy for All </emphasis>(SoFA), avons
       consacré cette période de notre vie à la diffusion de la sociocratie,
@@ -584,8 +769,12 @@
 
       <para>Le consentement est la méthode de prise de décision par défaut
       dans la sociocratie. Le consentement signifie que si je fais une
-      proposition au groupe, ma proposition sera approuvée si personne au sein
-      du groupe n'y voit d'objection.</para>
+      proposition<indexterm>
+          <primary>proposition</primary>
+        </indexterm> au groupe, ma proposition sera approuvée si personne au
+      sein du groupe n'y voit d'objection<indexterm>
+          <primary>objection</primary>
+        </indexterm>.</para>
 
       <para>Le consentement sera traité en profondeur dans ce manuel, mais
       cette description pourrait suffire pour l'instant.</para>
@@ -596,8 +785,12 @@
       recommandons cependant que le rôle de dictateur soit limité à une
       période bien définie dans le temps !) Les groupes peuvent décider de
       voter par consentement. Les groupes peuvent décider à tout moment de
-      changer la forme que prendra leur système de gouvernance. La seule chose
-      qu'on ne peut pas faire, c'est d'ignorer les objections motivées.</para>
+      changer la forme que prendra leur système de gouvernance.<indexterm>
+          <primary>prise de décision</primary>
+
+          <secondary>méthode</secondary>
+        </indexterm> La seule chose qu'on ne peut pas faire, c'est d'ignorer
+      les objections motivées.</para>
 
       <para>Supposons qu'un groupe décide de n'utiliser que la structure
       organisationnelle de la sociocratie et de la combiner avec la règle de
@@ -611,13 +804,16 @@
 
       <orderedlist>
         <listitem>
-          <para>elles ont des lacunes dans l’implantation de la sociocratie ;
-          ou</para>
+          <para>elles ont des lacunes dans l’implantation<indexterm>
+              <primary>implantation</primary>
+            </indexterm> de la sociocratie ; ou</para>
         </listitem>
 
         <listitem>
           <para>elles n'ont pas investi suffisamment de ressources dans la
-          formation des membres.</para>
+          formation des membres<indexterm>
+              <primary>formation sur la gouvernance</primary>
+            </indexterm>.</para>
         </listitem>
       </orderedlist>
 
@@ -651,37 +847,48 @@
 
         <para>Le terme « sociocratie » a été popularisé par le philosophe
         français Auguste Comte dans les années 1850. Le mot a commencé à
-        prendre son sens actuel dans les années 1940, dans une école Quaker
-        des Pays-Bas.</para>
+        prendre son sens actuel dans les années 1940, dans une école
+        Quaker<indexterm>
+            <primary>Quaker</primary>
+          </indexterm> des Pays-Bas.</para>
 
-        <para>Les fondateurs de cette école, Kees Boeke et Betty Cadbury,
-        étaient des Quakers, des éducateurs et des militants de la paix. Boeke
-        voyait la sociocratie comme une forme de gouvernance reposant sur
-        l'équivalence des individus. Cette équivalence ne s'exprime pas avec
-        la loi "un homme, une voix" de la démocratie, mais plutôt par un
-        groupe d'individus (le cercle) qui échangent leurs idées jusqu'à ce
-        qu'une décision satisfaisante pour chacun d'entre eux soit
-        prise.</para>
+        <para>Les fondateurs de cette école, Kees Boeke<indexterm>
+            <primary>Boeke, Kees</primary>
+          </indexterm> et Betty Cadbury, étaient des Quakers, des éducateurs
+        et des militants de la paix. Boeke voyait la sociocratie comme une
+        forme de gouvernance reposant sur l'équivalence des individus. Cette
+        équivalence ne s'exprime pas avec la loi "un homme, une voix" de la
+        démocratie, mais plutôt par un groupe d'individus (le cercle) qui
+        échangent leurs idées jusqu'à ce qu'une décision satisfaisante pour
+        chacun d'entre eux soit prise.</para>
 
         <para>Pour rendre les idéaux sociocratiques opérationnels, Boeke a
         utilisé un système de cercles pour organiser la prise de décision au
         sein d'une grande organisation. Les membres de chaque cercle étaient
         responsables des décisions dans leur domaine. Chaque cercle élisait
         des représentants à un cercle "supérieur". Le recours à des
-        représentants permettait de maintenir l'efficacité d'une hiérarchie
-        tout en conservant l'équivalence de base des membres de
-        l'organisation. L'école était unique en ce sens que les enseignants et
-        les élèves participaient à la prise de décision concernant le
-        fonctionnement de l'école.</para>
+        représentants permettait de maintenir l'efficacité d'une
+        hiérarchie<indexterm>
+            <primary>hiérarchie</primary>
+          </indexterm> tout en conservant l'équivalence<indexterm>
+            <primary>équivalence</primary>
+          </indexterm> de base des membres de l'organisation. L'école était
+        unique en ce sens que les enseignants et les élèves participaient à la
+        prise de décision concernant le fonctionnement de l'école.</para>
 
-        <para>L'un des étudiants de cette école, Gerard Endenburg, a poursuivi
-        ses études en ingénierie. Il a développé et appliqué les principes de
-        Boeke dans l'entreprise qu'il a reprise de ses parents, la société
-        d'ingénierie électrique Endenburg Elektrotechniek. Il a articulé les
-        quatre principes de base tels que nous les connaissons aujourd'hui.
-        Cela a abouti à une méthode d'organisation formelle, appelée
-        <citetitle>Sociocratische Kringorganisatie Methode</citetitle> (la
-        méthode sociocratique de gouvernance).</para>
+        <para>L'un des étudiants de cette école, Gerard Endenburg<indexterm>
+            <primary>Endenburg, Gerard</primary>
+          </indexterm>, a poursuivi ses études en ingénierie. Il a développé
+        et appliqué les principes de Boeke<indexterm>
+            <primary>Boeke, Kees</primary>
+          </indexterm> dans l'entreprise qu'il a reprise de ses parents, la
+        société d'ingénierie électrique Endenburg Elektrotechniek. Il a
+        articulé les quatre principes de base tels que nous les connaissons
+        aujourd'hui. Cela a abouti à une méthode d'organisation formelle,
+        appelée <citetitle>Sociocratische Kringorganisatie Methode</citetitle>
+        (la méthode sociocratique de gouvernance)<indexterm>
+            <primary>méthode sociocratique de gouvernance</primary>
+          </indexterm>.</para>
 
         <para>Gerard Endenburg voulait que la sociocratie soit une méthode
         inclusive qui invite les gens à prendre leur place dans leur
@@ -694,14 +901,20 @@
         auteur) a fait de même avec Jerry.</para>
 
         <para>Depuis les débuts de la sociocratie, sa mise en œuvre a vu
-        apparaître plusieurs variantes, notamment l'Holacratie et la
-        Sociocratie 3.0.</para>
+        apparaître plusieurs variantes, notamment l'Holacratie<indexterm>
+            <primary>Holacratie</primary>
+          </indexterm> et la Sociocratie 3.0<indexterm>
+            <primary>Sociocratie 3.0</primary>
+          </indexterm>.</para>
 
         <para>Une exploration des similitudes et des différences dans les
         variations de la sociocratie dépasse la portée de ce livre. La lignée
         sociocratique de Sociocracy For All est la sociocratie « classique" -
-        c'est-à-dire directement issue de Gerard Endenburg et de la Méthode du
-        cercle sociocratique, que lui et d'autres ont développée.</para>
+        c'est-à-dire directement issue de Gerard Endenburg<indexterm>
+            <primary>Endenburg, Gerard</primary>
+          </indexterm> et de la Méthode du cercle sociocratique<indexterm>
+            <primary>méthode sociocratique de gouvernance</primary>
+          </indexterm>, que lui et d'autres ont développée.</para>
 
         <para>Dans ce livre, nous avons essayé de n'employer et de créer des
         termes que lorsque cela apporte plus de clarté. La question de savoir
@@ -713,11 +926,17 @@
         intention est d'être <emphasis>Sociocracy For All</emphasis>
         (« Sociocratie pour tous »), ce qui signifie - pour nous - que nous
         soutenons tout effort visant à diffuser la sociocratie, son
-        enseignement et ses applications.</para>
+        enseignement<indexterm>
+            <primary>formation sur la gouvernance</primary>
+          </indexterm> et ses applications.</para>
       </section>
 
       <section>
         <title>Gouvernance dynamique</title>
+
+        <indexterm>
+          <primary>Gouvernance dynamique</primary>
+        </indexterm>
 
         <para>Aux États-Unis, la sociocratie est également connue sous le nom
         de « gouvernance dynamique » ou « autogouvernance dynamique ». Ces
@@ -750,9 +969,13 @@
             “intentional communities”, qui souligne le choix des membres qui
             en font partie. En France, on parle en général d’habitats partagés
             ou d’habitat participatif.</para>
-          </footnote>. Contrairement au consensus, la sociocratie établit un
-        équilibre entre les besoins du groupe et ceux de l'individu, ce qui
-        est essentiel pour maintenir une communauté saine.</para>
+          </footnote>. Contrairement au consensus<indexterm>
+            <primary>consensus</primary>
+
+            <secondary>consentement en opposé à consensus</secondary>
+          </indexterm>, la sociocratie établit un équilibre entre les besoins
+        du groupe et ceux de l'individu, ce qui est essentiel pour maintenir
+        une communauté saine.</para>
 
         <para>Les communautés intentionnelles étaient (et sont toujours) aux
         prises avec leur propre gouvernance, mais elles sont des lieux où
@@ -770,7 +993,13 @@
           </listitem>
 
           <listitem>
-            <para>le leadership est réparti ;</para>
+            <para>le leadership est réparti<indexterm>
+                <primary>leadership</primary>
+
+                <secondary>leadership réparti</secondary>
+              </indexterm><indexterm>
+                <primary>leadership</primary>
+              </indexterm> ;</para>
           </listitem>
 
           <listitem>
@@ -797,12 +1026,17 @@
         <para>Jusqu'à maintenant, ce sont là deux entrées possibles dans la
         sociocratie. Certaines personnes souhaitent un système qui corresponde
         davantage à leurs valeurs d'une société égalitaire et plus juste.
-        D'autres considèrent et apprécient la sociocratie pour la</para>
-
-        <para>clarté, l'efficacité et la transparence qu'elle apporte à leurs
-        entreprises et organisations. Les pionniers furent des écoles
-        indépendantes, des organisations agiles orientées valeurs et des
-        fervents de la Communication NonViolente (CNV).</para>
+        D'autres considèrent et apprécient la sociocratie pour la clarté,
+        l'efficacité<indexterm>
+            <primary>efficacité</primary>
+          </indexterm> et la transparence<indexterm>
+            <primary>transparence</primary>
+          </indexterm> qu'elle apporte à leurs entreprises et organisations.
+        Les pionniers furent des écoles indépendantes, des organisations
+        agiles<indexterm>
+            <primary>agile</primary>
+          </indexterm> orientées valeurs et des fervents de la Communication
+        NonViolente (CNV).</para>
 
         <para>Comme les gens ont des priorités différentes, ils voient en la
         sociocratie ce qui leur correspond et leur réaction sera tout aussi
@@ -833,20 +1067,27 @@
         <listitem>
           <para>Le design en permaculture comme moyen d'aborder le
           <emphasis>stewardship</emphasis> avec la flore et la faune (en
-          particulier l'aspect social de la permaculture, « Prendre soin de
-          l'humain »).</para>
+          particulier l'aspect social de la permaculture<indexterm>
+              <primary>permaculture</primary>
+            </indexterm>, « Prendre soin de l'humain »).</para>
         </listitem>
 
         <listitem>
           <para>La Communication NonViolente comme moyen de communiquer et de
           partager la valeur selon laquelle « les besoins de chacun sont
-          importants ».</para>
+          importants »<indexterm>
+              <primary>besoins</primary>
+
+              <secondary>les besoins de chacun sont importants</secondary>
+            </indexterm>.</para>
         </listitem>
 
         <listitem>
-          <para>Le développement logiciel Agile met l'accent sur des cycles
-          courts de développement avec amélioration continue, l'empirisme, et
-          des équipes semi-autonomes.</para>
+          <para>Le développement logiciel Agile<indexterm>
+              <primary>agile</primary>
+            </indexterm> met l'accent sur des cycles courts de développement
+          avec amélioration continue, l'empirisme, et des équipes
+          semi-autonomes.</para>
         </listitem>
 
         <listitem>
@@ -881,8 +1122,16 @@
 
       <para>L'expérience la plus touchante pour nous a été d'entendre comment
       des dizaines de milliers d'enfants en Inde changent leur situation
-      immédiate grâce à leurs parlements de quartier et élisent des dirigeants
-      en utilisant le processus d'élection sociocratique.</para>
+      immédiate grâce à leurs parlements de quartier<indexterm>
+          <primary>gouvernement</primary>
+
+          <secondary>parlements de quartier</secondary>
+        </indexterm> et élisent des dirigeants en utilisant le processus
+      d'élection sociocratique<indexterm>
+          <primary>élection</primary>
+
+          <see>sélection</see>
+        </indexterm>.</para>
 
       <para>Nous, les auteurs de ce livre, sommes dans une position de
       bénéficiaires privilégiés. Nous avons appris une quantité incroyable de
@@ -906,14 +1155,17 @@
     format de la réunion, tous les processus, comprendre le consentement,
     savoir ce qu'est un cercle d'entraide, comprendre comment animer un tour
     de discussion, être conscients de la rétroaction, avoir de l’intelligence
-    émotionnelle et une conscience des besoins — en étant capable de maîtriser
-    le tout simultanément — oh, et être conscients des rôles opérationnels !
-    La gouvernance sociocratique fonctionne mieux si les praticiens maîtrisent
-    tout cela. Comment y parvenir ? Nous avons essayé d'écrire ce livre pour
-    que les lecteurs puissent le parcourir, en référant à plusieurs sections à
-    la fois. C'est la raison pour laquelle il y a des répétitions dans ces
-    pages, car nous nous efforçons de garder chaque section plus ou moins
-    complète.</para>
+    émotionnelle et une conscience des besoins<indexterm>
+        <primary>besoins</primary>
+
+        <secondary>conscience des besoins</secondary>
+      </indexterm> — en étant capable de maîtriser le tout simultanément — oh,
+    et être conscients des rôles opérationnels ! La gouvernance sociocratique
+    fonctionne mieux si les praticiens maîtrisent tout cela. Comment y
+    parvenir ? Nous avons essayé d'écrire ce livre pour que les lecteurs
+    puissent le parcourir, en référant à plusieurs sections à la fois. C'est
+    la raison pour laquelle il y a des répétitions dans ces pages, car nous
+    nous efforçons de garder chaque section plus ou moins complète.</para>
 
     <para>Nous comparons cet enseignement à l'apprentissage de la natation.
     Nous pouvons parler longuement de la façon de poser la main pour obtenir
@@ -943,11 +1195,13 @@
     mon dos pour leur donner une idée de la natation, en sentant les
     mouvements dans leur corps. J'espérais que les différents éléments
     auraient plus de sens pour elles après les avoir expérimentés ensemble.
-    C'est ce qu'offre <emphasis>Sociocracy For All</emphasis> dans ses
-    formations en ligne. Au figuré, nous jetons des équipes de personnes dans
-    une piscine et les transportons en toute sécurité lors des premières
-    réunions, en les lâchant de plus en plus au fur et à mesure qu'elles sont
-    capables de se maintenir à flot par elles-mêmes.</para>
+    C'est ce qu'offre <emphasis>Sociocracy For All</emphasis><indexterm>
+        <primary>Sociocracy For All (SoFA)</primary>
+      </indexterm> dans ses formations en ligne. Au figuré, nous jetons des
+    équipes de personnes dans une piscine et les transportons en toute
+    sécurité lors des premières réunions, en les lâchant de plus en plus au
+    fur et à mesure qu'elles sont capables de se maintenir à flot par
+    elles-mêmes.</para>
 
     <para>Ce n'est pas le cas pour ce livre. Certaines personnes ont de la
     facilité à appliquer ce qu'elles lisent à des contextes réels. Pour
@@ -965,11 +1219,14 @@
       d'organisations dans toutes les phases d’implantation, de tous les
       secteurs, dans différentes langues. Nous aimerions pouvoir proposer des
       exemples de statuts, d'accords de gouvernance et de structures
-      organisationnelles pour chaque organisation sociocratique qui existe ou
-      devrait exister. Nous y travaillons. Nous nous efforçons de rendre
-      publique toute information que nous produisons ou dont nous avons
-      connaissance, car nous voulons que toute information qui pourrait être
-      utile aux autres soit accessible à tous.</para>
+      organisationnelles pour chaque organisation sociocratique<indexterm>
+          <primary>organisation</primary>
+
+          <secondary>organisation sociocratique</secondary>
+        </indexterm> qui existe ou devrait exister. Nous y travaillons. Nous
+      nous efforçons de rendre publique toute information que nous produisons
+      ou dont nous avons connaissance, car nous voulons que toute information
+      qui pourrait être utile aux autres soit accessible à tous.</para>
 
       <para><inlinemediaobject>
           <imageobject>
@@ -985,12 +1242,13 @@
 
       <para><emphasis>Sociocracy For All</emphasis> (SoFA) a pour vocation
       l'accessibilité. Nous pensons que les compétences et les connaissances
-      en matière de sociocratie doivent être un bien commun, accessible à
-      tous. Nous savons que du contenu en ligne dans un nombre limité de
-      langues n'est pas accessible à tous, mais c'est le mieux que nous
-      puissions faire. Le contenu en ligne permet l'ajout et la mise à jour de
-      nouveaux contenus, et de nombreux projets collaboratifs de traduction
-      ont vu le jour.</para>
+      en matière de sociocratie doivent être un bien commun<indexterm>
+          <primary>commun</primary>
+        </indexterm>, accessible à tous. Nous savons que du contenu en ligne
+      dans un nombre limité de langues n'est pas accessible à tous, mais c'est
+      le mieux que nous puissions faire. Le contenu en ligne permet l'ajout et
+      la mise à jour de nouveaux contenus, et de nombreux projets
+      collaboratifs de traduction ont vu le jour.</para>
 
       <para>Nous invitons les lecteurs à nous contacter s'ils ont des
       ressources à partager ou s'ils souhaitent coopérer ou traduire pour
@@ -1002,6 +1260,12 @@
     <section>
       <title>Comment nous faire part de vos commentaires sur ce livre
       ?</title>
+
+      <indexterm>
+        <primary>faire un retour</primary>
+
+        <secondary>faire part de vos commentaires sur ce livre</secondary>
+      </indexterm>
 
       <para>Le feedback est un sujet important en sociocratie. Nous parlons de
       boucles de rétroaction. Nous planifions quelque chose, nous l'exécutons,

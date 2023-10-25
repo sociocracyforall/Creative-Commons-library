@@ -76,8 +76,10 @@ Okay, yeah, maybe the `discourse-stub.js` script could really just be a nice (if
 Returning to LaTeX
 ------------------
 
-~/development/dblatex-hg/scripts/dblatex -P latex.encoding=utf8 -t tex chapitre-1.db5
-tectonic -Z search-path=$HOME/development/dblatex-hg/latex/style/ -Z search-path=$HOME/development/dblatex-hg/latex/misc/ *tex
+.. code:: shell
+
+   ~/development/dblatex-hg/scripts/dblatex -P latex.encoding=utf8 -t tex chapitre-1.db5
+   tectonic -Z search-path=$HOME/development/dblatex-hg/latex/style/ -Z search-path=$HOME/development/dblatex-hg/latex/misc/ *tex
 
 Work still to be done
 ---------------------

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<book version="5.1" xmlns="http://docbook.org/ns/docbook"
-      xmlns:docbook="http://docbook.org/ns/docbook">
+<book version="5.1" xmlns="http://docbook.org/ns/docbook">
   <info>
     <title>Many Voices One Song</title>
 
@@ -574,24 +573,24 @@ based on mutual giving from the heart.</literallayout>
     <title>Sociocracy: Why, What and Who?</title>
 
     <para>Sociocracy is a set of tools and principles that ensure shared
-    power. How does one <indexterm>
+    power. How does one share power<indexterm>
         <primary>power</primary>
 
         <secondary>sharing power</secondary>
-      </indexterm>share power?</para>
+      </indexterm>?</para>
 
-    <para>The assumption of sociocracy is that <indexterm>
+    <para>The assumption of sociocracy is that sharing power<indexterm>
         <primary>power</primary>
 
         <secondary>sharing power</secondary>
-      </indexterm> sharing power requires a plan. Power is everywhere all the
-    time, and it does not appear or disappear – someone will be holding it. We
-    have to be <emphasis>intentional</emphasis> about how we want to
-    distribute it. Power is like water: it will go
-    <emphasis>somewhere</emphasis> and it tends to accumulate in clusters: the
-    more power a group has, the more resources they will have to aggregate
-    more power. The only way to counterbalance the concentration of power is
-    intentionality and thoughtful implementation<indexterm>
+      </indexterm> requires a plan. Power is everywhere all the time, and it
+    does not appear or disappear – someone will be holding it. We have to be
+    <emphasis>intentional</emphasis> about how we want to distribute it. Power
+    is like water: it will go <emphasis>somewhere</emphasis> and it tends to
+    accumulate in clusters: the more power a group has, the more resources
+    they will have to aggregate more power. The only way to counterbalance the
+    concentration of power is intentionality and thoughtful
+    implementation<indexterm>
         <primary>implementation</primary>
       </indexterm>.</para>
 

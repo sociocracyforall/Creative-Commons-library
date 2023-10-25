@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preface version="5.0" xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:ns6="http://docbook.org/ns/transclusion"
          xmlns:ns5="http://www.w3.org/1998/Math/MathML"
          xmlns:ns4="http://www.w3.org/2000/svg"
          xmlns:ns3="http://www.w3.org/1999/xhtml"
@@ -9,13 +10,20 @@
     <title>Par les auteurs</title>
   </info>
 
-  <para>Nous savons toutes et tous ce qu’est ressentir une connexion profonde.
-  Nous le sentons lorsque nous parlons à un bon ami qui nous apprécie sans
-  condition. Nous savons tous ce qu'est ressentir une profonde appartenance,
-  lorsque nous sommes dans un groupe et apprécions que les personnes présentes
-  sont nos semblables. Nous savons tous ce que c'est que d'être connu et
-  reconnu, d'être important pour les gens qui nous entourent, et de goûter que
-  ces gens sont importants pour nous.</para>
+  <para>Nous savons toutes et tous ce qu’est ressentir une connexion<indexterm>
+      <primary>connexion (besoin)</primary>
+    </indexterm> profonde. Nous le sentons lorsque nous parlons à un bon ami
+  qui nous apprécie sans condition. Nous savons tous ce qu'est ressentir une
+  profonde appartenance<indexterm>
+      <primary>appartenance (besoin)</primary>
+    </indexterm>, lorsque nous sommes dans un groupe et apprécions que les
+  personnes présentes sont nos semblables. Nous savons tous ce que c'est que
+  d'être connu<indexterm>
+      <primary>d'être connu (besoin)</primary>
+    </indexterm> et reconnu, d'être important pour les gens qui nous
+  entourent, et de goûter<indexterm condition="untranslated">
+      <primary>to matter (need)</primary>
+    </indexterm> que ces gens sont importants pour nous.</para>
 
   <para>Dans toute communauté, que ce soit au travail, avec des amis, des
   voisins ou une famille, c'est la connexion qui nourrit les gens. Lorsque
@@ -23,15 +31,17 @@
   des autres et que nous prenons des décisions ensemble.</para>
 
   <para>Comment pouvons-nous en profiter davantage ? Comment pouvons-nous
-  répondre à notre besoin de connexion partout où nous allons, sur nos lieux
-  de travail, dans nos quartiers, nos villes, nos clubs, nos groupes
-  religieux, nos associations et nos familles ? Nous pensons que la
-  sociocratie peut contribuer à une vie plus connectée et mieux intégrée. Les
-  principes qui sous-tendent la sociocratie ne sont pas nouveaux. Ils relèvent
-  du bon sens. Les gens coopèrent depuis que l'humanité existe. Et pourtant,
-  nous constatons qu'il est nécessaire de recueillir et de décrire les outils
-  et les bonnes pratiques afin que nous soyons plus habiles dans nos
-  interactions au sein des organisations. </para>
+  répondre à notre besoin de connexion<indexterm>
+      <primary>connexion (besoin)</primary>
+    </indexterm> partout où nous allons, sur nos lieux de travail, dans nos
+  quartiers, nos villes, nos clubs, nos groupes religieux, nos associations et
+  nos familles ? Nous pensons que la sociocratie peut contribuer à une vie
+  plus connectée et mieux intégrée. Les principes qui sous-tendent la
+  sociocratie ne sont pas nouveaux. Ils relèvent du bon sens. Les gens
+  coopèrent depuis que l'humanité existe. Et pourtant, nous constatons qu'il
+  est nécessaire de recueillir et de décrire les outils et les bonnes
+  pratiques afin que nous soyons plus habiles dans nos interactions au sein
+  des organisations.</para>
 
   <para>Les interactions humaines sont complexes et comportent des niveaux
   multiples dont nous devons tenir compte lorsque nous coopérons. Que
@@ -57,8 +67,15 @@ deux personnes ensemble, c'est un miracle.</emphasis></literallayout>
   d’ouvrir l’esprit là où il est embourbé.</para>
 
   <para>Que faut-il pour mener une vie plus intégrée, pour former une société
-  plus connectée, pour créer des communautés avec plus de sens d'appartenance
-  et d'harmonie ? Nous pensons qu'il y a trois ingrédients :</para>
+  plus connectée, pour créer des communautés avec plus de sens
+  d'appartenance<indexterm>
+      <primary>appartenance (besoin)</primary>
+    </indexterm><indexterm>
+      <primary>besoins; exemples</primary>
+
+      <secondary>appartenance</secondary>
+    </indexterm> et d'harmonie ? Nous pensons qu'il y a trois ingrédients
+  :</para>
 
   <itemizedlist>
     <listitem>

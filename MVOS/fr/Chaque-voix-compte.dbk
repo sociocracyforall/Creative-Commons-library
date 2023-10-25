@@ -75,7 +75,7 @@
     </epigraph>
   </acknowledgements>
 
-  <xi:include href="pr%C3%A9face-1/pr%C3%A9face-1.db5" xpointer="element(/1)"/>
+  <xi:include href="pr%C3%A9face-1/pr%C3%A9face-1.dbk" xpointer="element(/1)"/>
 
   <acknowledgements>
     <info>
@@ -84,12 +84,18 @@
 
     <para>Nous sommes profondément reconnaissants de l'héritage de tous ceux
     qui ont contribué au merveilleux ensemble d'outils que nous connaissons
-    sous le nom de la sociocratie. Il s'agit avant tout de Gerard Endenburg,
-    qui a développé la méthode du cercle sociocratique, et des nombreuses
-    personnes du Sociocracy Group, comme Annewiek Reijmer, qui ont fait
-    progresser et diffuser la sociocratie pendant des décennies. Marshall
-    Rosenberg, qui a développé la théorie et la pratique de la Communication
-    NonViolente, et Gerard Endenburg sont comme des co-auteurs cachés de ce
+    sous le nom de la sociocratie. Il s'agit avant tout de Gerard
+    Endenburg<indexterm>
+        <primary>Endenburg, Gerard</primary>
+      </indexterm>, qui a développé la méthode du cercle
+    sociocratique<indexterm>
+        <primary>méthode sociocratique de gouvernance</primary>
+      </indexterm>, et des nombreuses personnes du Sociocracy Group, comme
+    Annewiek Reijmer, qui ont fait progresser et diffuser la sociocratie
+    pendant des décennies. Marshall Rosenberg, qui a développé la théorie et
+    la pratique de la Communication NonViolente<indexterm>
+        <primary>CNV (Communication NonViolente)</primary>
+      </indexterm>, et Gerard Endenburg sont comme des co-auteurs cachés de ce
     livre. Nous sommes également reconnaissants envers John Buck et Sharon
     Villines qui ont fait connaître la sociocratie au monde anglophone et qui
     nous ont soutenus dans la publication de ce livre.</para>
@@ -124,7 +130,25 @@
     organisations et des interactions humaines. Beaucoup de nos participants à
     la formation sont maintenant des pairs dans notre organisation,
     <emphasis>Sociocracy For All</emphasis>, et ils continuent d'être une
-    source de camaraderie, de connexion et d'apprentissage.</para>
+    source de camaraderie<indexterm>
+        <primary>fraternité (besoin)</primary>
+      </indexterm><indexterm>
+        <primary>besoins; exemples</primary>
+
+        <secondary>fraternité</secondary>
+      </indexterm>, de connexion<indexterm>
+        <primary>connexion (besoin)</primary>
+      </indexterm><indexterm>
+        <primary>besoins; exemples</primary>
+
+        <secondary>connexion</secondary>
+      </indexterm> et d'apprentissage<indexterm>
+        <primary>apprentissage (besoin)</primary>
+      </indexterm><indexterm>
+        <primary>besoins; exemples</primary>
+
+        <secondary>apprentissage</secondary>
+      </indexterm>.</para>
 
     <para>Merci également à notre réseau personnel : Gina Simm, Jennifer Ladd,
     Darla Stabler, Nancy Bair, Greg Bates, Sophia Rau, Helena Rau, Jochen Rau.
@@ -138,21 +162,21 @@
     !</para>
   </acknowledgements>
 
-  <xi:include href="pr%C3%A9face-2/pr%C3%A9face-2.db5" xpointer="element(/1)"/>
+  <xi:include href="pr%C3%A9face-2/pr%C3%A9face-2.dbk" xpointer="element(/1)"/>
 
-  <xi:include href="glossaire/glossaire.db5" xpointer="element(/1)"/>
+  <xi:include href="glossaire/glossaire.dbk" xpointer="element(/1)"/>
 
-  <xi:include href="chapitre-1/chapitre-1.db5" xpointer="element(/1)"/>
+  <xi:include href="chapitre-1/chapitre-1.dbk" xpointer="element(/1)"/>
 
-  <xi:include href="chapitre-2/chapitre-2.db5" xpointer="element(/1)"/>
+  <xi:include href="chapitre-2/chapitre-2.dbk" xpointer="element(/1)"/>
 
-  <xi:include href="chapitre-3/chapitre-3.db5" xpointer="element(/1)"/>
+  <xi:include href="chapitre-3/chapitre-3.dbk" xpointer="element(/1)"/>
 
-  <xi:include href="chapitre-4/chapitre-4.db5" xpointer="element(/1)"/>
+  <xi:include href="chapitre-4/chapitre-4.dbk" xpointer="element(/1)"/>
 
-  <xi:include href="chapitre-5/chapitre-5.db5" xpointer="element(/1)"/>
+  <xi:include href="chapitre-5/chapitre-5.dbk" xpointer="element(/1)"/>
 
-  <xi:include href="chapitre-6/chapitre-6.db5" xpointer="element(/1)"/>
+  <xi:include href="chapitre-6/chapitre-6.dbk" xpointer="element(/1)"/>
 
   <chapter version="5.0">
     <info>

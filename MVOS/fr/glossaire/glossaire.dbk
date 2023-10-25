@@ -5,120 +5,308 @@
           xmlns:ns4="http://www.w3.org/2000/svg"
           xmlns:ns3="http://www.w3.org/1999/xhtml"
           xmlns:ns="http://docbook.org/ns/docbook">
-  <para>Adoption d’une politique : Décision au sujet d'une stratégie, d'une
-  politique, d'un principe ; les politiques sont adoptées par
-  consentement.</para>
+  <glosslist>
+    <glossentry>
+      <glossterm>Adoption d’une politique</glossterm>
 
-  <para>But : Le but d'un cercle, c'est-à-dire la production d'un bien ou la
-  prestation d'un service.</para>
+      <glossdef>
+        <para>Décision au sujet d'une stratégie, d'une politique, d'un
+        principe ; les politiques sont adoptées par consentement.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Cercle : Groupe de membres d'une organisation dont le membership, le
-  but, le domaine et la manière de travailler ensemble sont définis. Un cercle
-  est habituellement relié à d'autres cercles.</para>
+    <glossentry>
+      <glossterm>But</glossterm>
 
-  <para>Cercle de soutien : Un sous-cercle temporaire constitué pour accomplir
-  un ensemble de tâches, dans un domaine décisionnel limité, visant un
-  résultat spécifique (ex. : recherche, création d'une proposition).</para>
+      <glossdef>
+        <para>Le but d'un cercle, c'est-à-dire la production d'un bien ou la
+        prestation d'un service.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Cercle Général (CG) : Cercle qui fait circuler l'information entre les
-  cercles. Gardien du domaine et du but de l'organisation, il délègue toute
-  l'autorité possible aux cercles de travail.</para>
+    <glossentry>
+      <glossterm>Cercle</glossterm>
 
-  <para>Cercle Mission (CM) : Cercle d'une organisation sociocratique qui
-  traduit la mission en buts et maintient l'organisation alignée à sa mission
-  et à ses buts (comparable à un conseil d'administration).</para>
+      <glossdef>
+        <para>Groupe de membres d'une organisation dont le membership, le but,
+        le domaine et la manière de travailler ensemble sont définis. Un
+        cercle est habituellement relié à d'autres cercles.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Communication Non-Violente (CNV) : Mode de communication qui perçoit
-  toute action comme une stratégie visant à nourrir différents besoins humains
-  fondamentaux et qui invite à trouver comment y répondre avec empathie et
-  sans jugement.</para>
+    <glossentry>
+      <glossterm>Cercle de soutien</glossterm>
 
-  <para>Compte-rendu : Les notes de réunion, reconnues exactes et approuvées,
-  adoptées par consentement puis consignées par les membres du cercle dans le
-  journal de bord.</para>
+      <glossdef>
+        <para>Un sous-cercle temporaire constitué pour accomplir un ensemble
+        de tâches, dans un domaine décisionnel limité, visant un résultat
+        spécifique (ex. : recherche, création d'une proposition).</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Consentement : Méthode de prise de décision en sociocratie où les
-  propositions faites dans le cercle sont approuvées lorsque plus personne n'a
-  d'objection à leur sujet.</para>
+    <glossentry>
+      <glossterm>Cercle Général (CG)</glossterm>
 
-  <para>Élections sans candidat : Format d'élection sociocratique pour
-  déterminer quel membre assumera quel rôle.</para>
+      <glossdef>
+        <para>Cercle qui fait circuler l'information entre les cercles.
+        Gardien du domaine et du but de l'organisation, il délègue toute
+        l'autorité possible aux cercles de travail.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Délégué(e) : Dans le cercle, rôle dont la responsabilité est de faire
-  rapport au cercle sus-jacent ; le rôle comporte le plein consentement des
-  responsabilités de membre dans les deux cercles.</para>
+    <glossentry>
+      <glossterm>Cercle Mission (CM)</glossterm>
 
-  <para>Domaine : Le champ d'autorité d'un cercle ou d'un rôle, qui inclut la
-  liberté et l'autorité pour élaborer des politiques et mener des opérations ;
-  l'appellation réfère davantage à des champs de compétences qu'à des
-  actions.</para>
+      <glossdef>
+        <para>Cercle d'une organisation sociocratique qui traduit la mission
+        en buts et maintient l'organisation alignée à sa mission et à ses buts
+        (comparable à un conseil d'administration).</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Double-lien : Moyen sociocratique de relier deux cercles pour assurer
-  la circulation de l'information, constitué d'un leader (lien descendant) et
-  d'un délégué (lien ascendant) tous deux membres des deux cercles.</para>
+    <glossentry>
+      <glossterm>Communication Non-Violente (CNV)</glossterm>
 
-  <para>Durée : Durée de la période pendant laquelle une politique est en
-  vigueur ou pendant laquelle un poste est occupé, avant qu'il/qu'elle ne soit
-  soumis à révision.</para>
+      <glossdef>
+        <para>Mode de communication qui perçoit toute action comme une
+        stratégie visant à nourrir différents besoins humains fondamentaux et
+        qui invite à trouver comment y répondre avec empathie et sans
+        jugement.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Facilitateur : Rôle du responsable de l'animation des réunions d'un
-  cercle.</para>
+    <glossentry>
+      <glossterm>Compte-rendu</glossterm>
 
-  <para>Journal de bord : Un recueil permettant d'inscrire les connaissances
-  de base, par exemple des listes, des compte-rendus de réunions et les
-  politiques d'une organisation.</para>
+      <glossdef>
+        <para>Les notes de réunion, reconnues exactes et approuvées, adoptées
+        par consentement puis consignées par les membres du cercle dans le
+        journal de bord.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Leader : Rôle de la personne provenant du sur-cercle que l'on charge
-  de le représenter et de superviser les opérations du sous-cercle ; elle a
-  plein pouvoir de consentement dans les deux cercles.</para>
+    <glossentry>
+      <glossterm>Consentement</glossterm>
 
-  <para>Mission : La stratégie globale qu'une organisation choisit pour
-  réaliser sa vision, généralement formulée à l'infinitif, et qui oriente les
-  buts de l'organisation.</para>
+      <glossdef>
+        <para>Méthode de prise de décision en sociocratie où les propositions
+        faites dans le cercle sont approuvées lorsque plus personne n'a
+        d'objection à leur sujet.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Objection : Préoccupation explicite concernant le fait que
-  l'approbation et la mise en œuvre d'une proposition risque d'affecter
-  négativement la manière dont un cercle peut atteindre son but, ou de
-  dépasser les limites de certains membres (zone de tolérance).</para>
+    <glossentry>
+      <glossterm>Élections sans candidat</glossterm>
 
-  <para>Opérations : Tâches réalisées pour atteindre le but du cercle.</para>
+      <glossdef>
+        <para>Format d'élection sociocratique pour déterminer quel membre
+        assumera quel rôle.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Ordre du jour : Liste des sujets traités par un cercle lors d'une
-  réunion.</para>
+    <glossentry>
+      <glossterm>Délégué(e)</glossterm>
 
-  <para>Orientation-Exécution-Mesure : Un processus itératif de planification,
-  d'exécution du plan, de mesure et d'évaluation du succès de l'action menée
-  dans le but d'améliorer les opérations.</para>
+      <glossdef>
+        <para>Dans le cercle, rôle dont la responsabilité est de faire rapport
+        au cercle sus-jacent ; le rôle comporte le plein consentement des
+        responsabilités de membre dans les deux cercles.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Panier : Liste des sujets que le cercle reporte dans le futur; liste
-  roulante des tâches du cercle.</para>
+    <glossentry>
+      <glossterm>Domaine</glossterm>
 
-  <para>Proposition : Suggestion nécessitant une acceptation du cercle en
-  utilisant le processus de décision par consentement.</para>
+      <glossdef>
+        <para>Le champ d'autorité d'un cercle ou d'un rôle, qui inclut la
+        liberté et l'autorité pour élaborer des politiques et mener des
+        opérations ; l'appellation réfère davantage à des champs de
+        compétences qu'à des actions.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Rôle de cercle : Un ensemble de responsabilités bien définies dans un
-  cercle, qu'un membre sélectionné est appelé à combler.</para>
+    <glossentry>
+      <glossterm>Double-lien</glossterm>
 
-  <para>Rôle opérationnel : Rôle créé pour couvrir un ensemble de tâches ou
-  des parties du domaine du cercle et qui est supervisé par un membre du
-  cercle ou un binôme.</para>
+      <glossdef>
+        <para>Moyen sociocratique de relier deux cercles pour assurer la
+        circulation de l'information, constitué d'un leader (lien descendant)
+        et d'un délégué (lien ascendant) tous deux membres des deux
+        cercles.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Secrétaire : Rôle du cercle responsable de la préparation et de la
-  publication des procès-verbaux des réunions, de l'interprétation des
-  décisions du cercle et de la tenue des registres du cercle.</para>
+    <glossentry>
+      <glossterm>Durée</glossterm>
 
-  <para>Sous-cercle : Cercle qui découle d'un autre cercle dont il devient un
-  sous-ensemble avec ses buts et domaines propres.</para>
+      <glossdef>
+        <para>Durée de la période pendant laquelle une politique est en
+        vigueur ou pendant laquelle un poste est occupé, avant qu'il/qu'elle
+        ne soit soumis à révision.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Tour : Format de conversation dans lequel chaque membre du groupe
-  s'exprime dans un ordre déterminé, sans déroger (ou seulement de façon
-  limitée) à cet ordre.</para>
+    <glossentry>
+      <glossterm>Facilitateur</glossterm>
 
-  <para>Vision : Description de la situation idéale que l'organisation
-  contribue à faire advenir ; le monde auquel nous aspirons, rêvons.</para>
+      <glossdef>
+        <para>Rôle du responsable de l'animation des réunions d'un
+        cercle.</para>
+      </glossdef>
+    </glossentry>
 
-  <para>Zone de tolérance : Ce avec quoi un membre peut travailler, comprenant
-  ses préférences personnelles et les dépassant parfois.</para>
+    <glossentry>
+      <glossterm>Journal de bord</glossterm>
+
+      <glossdef>
+        <para>Un recueil permettant d'inscrire les connaissances de base, par
+        exemple des listes, des compte-rendus de réunions et les politiques
+        d'une organisation.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Leader</glossterm>
+
+      <glossdef>
+        <para>Rôle de la personne provenant du sur-cercle que l'on charge de
+        le représenter et de superviser les opérations du sous-cercle ; elle a
+        plein pouvoir de consentement dans les deux cercles.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Mission</glossterm>
+
+      <glossdef>
+        <para>La stratégie globale qu'une organisation choisit pour réaliser
+        sa vision, généralement formulée à l'infinitif, et qui oriente les
+        buts de l'organisation.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Objection</glossterm>
+
+      <glossdef>
+        <para>Préoccupation explicite concernant le fait que l'approbation et
+        la mise en œuvre d'une proposition risque d'affecter négativement la
+        manière dont un cercle peut atteindre son but, ou de dépasser les
+        limites de certains membres (zone de tolérance).</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Opérations</glossterm>
+
+      <glossdef>
+        <para>Tâches réalisées pour atteindre le but du cercle.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Ordre du jour</glossterm>
+
+      <glossdef>
+        <para>Liste des sujets traités par un cercle lors d'une
+        réunion.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Orientation-Exécution-Mesure</glossterm>
+
+      <glossdef>
+        <para>Un processus itératif de planification, d'exécution du plan, de
+        mesure et d'évaluation du succès de l'action menée dans le but
+        d'améliorer les opérations.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Panier</glossterm>
+
+      <glossdef>
+        <para>Liste des sujets que le cercle reporte dans le futur; liste
+        roulante des tâches du cercle.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Proposition</glossterm>
+
+      <glossdef>
+        <para>Suggestion nécessitant une acceptation du cercle en utilisant le
+        processus de décision par consentement.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Rôle de cercle</glossterm>
+
+      <glossdef>
+        <para>Un ensemble de responsabilités bien définies dans un cercle,
+        qu'un membre sélectionné est appelé à combler.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Rôle opérationnel</glossterm>
+
+      <glossdef>
+        <para>Rôle créé pour couvrir un ensemble de tâches ou des parties du
+        domaine du cercle et qui est supervisé par un membre du cercle ou un
+        binôme.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Secrétaire</glossterm>
+
+      <glossdef>
+        <para>Rôle du cercle responsable de la préparation et de la
+        publication des procès-verbaux des réunions, de l'interprétation des
+        décisions du cercle et de la tenue des registres du cercle.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Sous-cercle</glossterm>
+
+      <glossdef>
+        <para>Cercle qui découle d'un autre cercle dont il devient un
+        sous-ensemble avec ses buts et domaines propres.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Tour</glossterm>
+
+      <glossdef>
+        <para>Format de conversation dans lequel chaque membre du groupe
+        s'exprime dans un ordre déterminé, sans déroger (ou seulement de façon
+        limitée) à cet ordre.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Vision</glossterm>
+
+      <glossdef>
+        <para>Description de la situation idéale que l'organisation contribue
+        à faire advenir ; le monde auquel nous aspirons, rêvons.</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry>
+      <glossterm>Zone de tolérance</glossterm>
+
+      <glossdef>
+        <para>Ce avec quoi un membre peut travailler, comprenant ses
+        préférences personnelles et les dépassant parfois.</para>
+      </glossdef>
+    </glossentry>
+  </glosslist>
 
   <para><link
   xlink:href="https://docs.google.com/spreadsheets/d/1Ypt7qWCl2raPCQE7xRw6YHBGHN5zRf66AO1cd-wwsbs/edit#gid=1566872139"><emphasis>Glossaire
