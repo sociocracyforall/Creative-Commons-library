@@ -51,8 +51,9 @@
   phase, quels sont les outils appropriés et comment identifier son
   aboutissement.</para>
 
-  <para>La figure 159 présente un diagramme schématique d’une réunion type.
-  L’efficacité de nos réunions<indexterm>
+  <para>La figure 159 (<xref linkend="meetingtemplate2"/>) présente un
+  diagramme schématique d’une réunion type. L’efficacité de nos
+  réunions<indexterm>
       <primary>efficacité</primary>
 
       <secondary>des réunions</secondary>
@@ -61,14 +62,15 @@
   progression est ainsi plus facile à suivre pour tout le monde, développant
   le sentiment de confiance et de pouvoir personnel de chaque membre.</para>
 
-  <para><inlinemediaobject>
+  <figure xml:id="meetingtemplate2">
+    <title>Un modèle de réunion simple avec un exemple d’ordre du jour</title>
+
+    <mediaobject>
       <imageobject>
         <imagedata fileref="Pictures/10000201000003C00000028B19AB40045609D35C.png"/>
       </imageobject>
-    </inlinemediaobject></para>
-
-  <para><emphasis>159 : Un modèle de réunion simple avec un exemple d’ordre du
-  jour</emphasis></para>
+    </mediaobject>
+  </figure>
 
   <para>Partager la fiche de facilitation sociocratique avec le cercle est une
   bonne façon d’obtenir une compréhension partagée du processus. (Illustration
@@ -296,20 +298,23 @@
             rôles sont remplis.</para>
           </informalfigure></para>
 
-        <para>La figure 160 présente une astuce minuscule mais utile qui
-        facilite grandement cette étape dans le compte-rendu.</para>
+        <para>La figure 160 (<xref linkend="exampleattendance"/>) présente une
+        astuce minuscule mais utile qui facilite grandement cette étape dans
+        le compte-rendu.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="exampleattendance">
+          <title>Exemple pour noter la présence dans les notes de la réunion.
+          Faites un modèle d’ordre du jour qui inclut une liste de tous les
+          membres du cercle, y compris leur rôle. Ensuite barrez (mais gardez
+          visible) les noms des absents. Dans cet exemple, le secrétaire est
+          absent.</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BE000000C0E088B828207611EC.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>160: Exemple pour noter la présence dans les notes de
-        la réunion. Faites un modèle d’ordre du jour qui inclut une liste de
-        tous les membres du cercle, y compris leur rôle. Ensuite barrez (mais
-        gardez visible) les noms des absents. Dans cet exemple, le secrétaire
-        est absent.</emphasis></para>
+          </mediaobject>
+        </figure>
       </section>
 
       <section>
@@ -482,21 +487,24 @@
         confusion et la rectification que nous devons faire si nous manquons
         ces étapes simples nous coûtera beaucoup plus de temps à long terme.
         Cela dit, cette phase ne doit pas prendre longtemps. Cela pourrait
-        ressembler à l’exemple 161. L’acronyme (ADMIN) nous aide à être
-        cohérents, même sans fiche de réunion.</para>
+        ressembler à l’exemple 161 (<xref linkend="exampleALERT"/>).
+        L’acronyme (ADMIN) nous aide à être cohérents, même sans fiche de
+        réunion.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="exampleALERT">
+          <title><indexterm>
+              <primary>ADMIN</primary>
+
+              <secondary>exemple: phase ADMIN</secondary>
+            </indexterm>Parcourir brièvement toutes les étapes de la phase
+          ADMIN. </title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BE000001A26D7A731B159322FE.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>161: <indexterm>
-            <primary>ADMIN</primary>
-
-            <secondary>exemple: phase ADMIN</secondary>
-          </indexterm>Parcourir brièvement toutes les étapes de la phase
-        ADMIN. </emphasis></para>
+          </mediaobject>
+        </figure>
       </section>
     </section>
   </section>
@@ -586,7 +594,8 @@
           <primary>résultat attendu</primary>
         </indexterm> (compréhension, exploration, décision – voir la section
       5.2.2. ci-dessous). Une check-list pour des ordres du jour complets est
-      donnée en schéma 162.<informalfigure role="guide">
+      donnée en schéma 162 (<xref linkend="agendachecklist"/>).<informalfigure
+          role="guide">
           <para><emphasis role="strong">Intention : </emphasis>Décider de quoi
           il sera question pendant la réunion, et combien de temps sera dédié
           à chaque point de l’ordre du jour.</para>
@@ -619,18 +628,20 @@
           consentement à l’ordre du jour.</para>
         </informalfigure></para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="agendachecklist">
+        <title>Check-list pour un ordre du jour complet<indexterm>
+            <primary>ordre du jour</primary>
+
+            <secondary>check-list de la préparation de l'ordre du
+            jour</secondary>
+          </indexterm></title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BC0000010E801294271A4B8E5D.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>162: Check-list pour un ordre du jour complet<indexterm>
-          <primary>ordre du jour</primary>
-
-          <secondary>check-list de la préparation de l'ordre du
-          jour</secondary>
-        </indexterm></emphasis></para>
+        </mediaobject>
+      </figure>
 
       <para>A quoi ressembleraient des objections<indexterm>
           <primary>objection</primary>
@@ -645,17 +656,19 @@
       parler de ce sujet, est absent. Nous pourrions décider de reporter un
       point de l’ordre du jour parce que nous n’avons pas assez
       d’informations, ou parce que nous donnons la priorité à d’autres points
-      de l’ordre du jour. L’exemple en 163 montre que cela peut ne pas être un
-      processus compliqué et que l’intelligence collective du groupe va y
-      aider.</para>
+      de l’ordre du jour. L’exemple en 163 (<xref linkend="Consenttoagenda"/>)
+      montre que cela peut ne pas être un processus compliqué et que
+      l’intelligence collective du groupe va y aider.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="Consenttoagenda">
+        <title>Consentement sur l’ordre du jour </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BF000002F9D7FEF6717ACEC1FF.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>163: Consentement sur l’ordre du jour </emphasis></para>
+        </mediaobject>
+      </figure>
 
       <para>Une remarque sur les ordres du jour co-construits : certains
       cercles se réunissent et font leur ordre du jour ensemble, au début de
@@ -696,22 +709,22 @@
       </indexterm>
 
       <para>Pour chaque point de l’ordre du jour, il y a exactement trois
-      résultats possibles comme montré dans le schéma 164 de la page xxxx :
-      <emphasis>comprendre un rapport, explorer une question </emphasis>ou
-      <emphasis>prendre une décision.</emphasis> Cela signifie que tout point
-      de l’ordre du jour conduit à l’un de ces trois résultats, et il est
-      préférable que le groupe soit capable de nommer lequel avant de parler
-      du sujet.</para>
+      résultats possibles comme montré dans le schéma 164 (<xref
+      linkend="buildingblocks"/>) de la page xxxx : <emphasis>comprendre un
+      rapport, explorer une question </emphasis>ou <emphasis>prendre une
+      décision.</emphasis> Cela signifie que tout point de l’ordre du jour
+      conduit à l’un de ces trois résultats, et il est préférable que le
+      groupe soit capable de nommer lequel avant de parler du sujet.</para>
 
-      <para>Comme on peut le voir dans le diagramme 164, les résultats
-      souhaités se renforcent mutuellement. Chaque point de l’ordre du jour
-      commence par <emphasis>comprendre</emphasis>, et pour un rapport nous ne
-      faisons rien d’autre. Si le résultat souhaité est de demander du
-      feedback, la phase de <emphasis>compréhension</emphasis> est suivie par
-      une phase d’exploration. Si nous voulons prendre une décision, nous
-      passons par <emphasis>comprendre</emphasis> et
-      <emphasis>explorer</emphasis> et ensuite nous allons vers une
-      décision.</para>
+      <para>Comme on peut le voir dans le diagramme 164 (<xref
+      linkend="buildingblocks"/>), les résultats souhaités se renforcent
+      mutuellement. Chaque point de l’ordre du jour commence par
+      <emphasis>comprendre</emphasis>, et pour un rapport nous ne faisons rien
+      d’autre. Si le résultat souhaité est de demander du feedback, la phase
+      de <emphasis>compréhension</emphasis> est suivie par une phase
+      d’exploration. Si nous voulons prendre une décision, nous passons par
+      <emphasis>comprendre</emphasis> et <emphasis>explorer</emphasis> et
+      ensuite nous allons vers une décision.</para>
 
       <para>Voici quelques exemples montrant en quoi il est utile de connaître
       le résultat souhaité :</para>
@@ -771,6 +784,17 @@
       appréciant si le résultat souhaité a été atteint, et en demandant au
       secrétaire de lire à voix haute ce qui a été écrit dans les
       notes.</para>
+
+      <figure xml:id="buildingblocks">
+        <title>Trois résultats possibles issus d’un point de l’ordre du
+        jour</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C20000044026424A5B41969AC5.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
 
       <section>
         <title>Comprendre un rapport</title>
@@ -1001,16 +1025,28 @@
       cercle autour d'un événement à venir, et le cinquième point pourrait
       être la révision d'une politique.</para>
 
+      <figure xml:id="exampleoperationalagendaitem">
+        <title>Exemple d'un point opérationnel à l'ordre du jour d'une réunion
+        de cercle</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C400000340CE6AC089DAE6612E.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
       <para>Un point opérationnel à l'ordre du jour peut être très bref (voir
-      exemple 165). Si une discussion sur une tâche opérationnelle déclenche
-      le besoin de parler davantage et peut-être d'élaborer une politique
-      (nous pouvons le constater par le fait que la discussion s'enflamme,
-      voir l’exemple 166), restez clairs sur les intentions dans votre
-      processus. De nombreuses décisions peuvent être prises en une seule
-      fois. S'il semble utile d'élaborer une ligne directrice pour les
-      opérations (c'est-à-dire une politique), décidez ensemble (par
-      consentement) de modifier l'ordre du jour de votre réunion pour y
-      intégrer une décision de politique ou d'inscrire la décision de
+      exemple 165 (<xref linkend="exampleoperationalagendaitem"/>)). Si une
+      discussion sur une tâche opérationnelle déclenche le besoin de parler
+      davantage et peut-être d'élaborer une politique (nous pouvons le
+      constater par le fait que la discussion s'enflamme, voir l’exemple 166
+      (<xref linkend="examplepolicyflaringup"/>)), restez clairs sur les
+      intentions dans votre processus. De nombreuses décisions peuvent être
+      prises en une seule fois. S'il semble utile d'élaborer une ligne
+      directrice pour les opérations (c'est-à-dire une politique), décidez
+      ensemble (par consentement) de modifier l'ordre du jour de votre réunion
+      pour y intégrer une décision de politique ou d'inscrire la décision de
       politique dans le panier.</para>
 
       <para>Par exemple, le cercle pourrait créer un rôle pour un responsable
@@ -1034,28 +1070,21 @@
       passer par toutes les étapes de la prise de décision en une seule
       réunion, ou les répartir sur plusieurs réunions.</para>
 
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/10000201000003C400000340CE6AC089DAE6612E.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
+      <figure xml:id="examplepolicyflaringup">
+        <title>Comment faire face à une discussion en cours de réunion
+        ?</title>
 
-      <para><emphasis>165 : Exemple d'un point opérationnel à l'ordre du jour
-      d'une réunion de cercle</emphasis></para>
-
-      <para><inlinemediaobject>
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C20000037AB6E3AD140314338C.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>166 : Comment faire face à une discussion en cours de
-      réunion ?</emphasis></para>
+        </mediaobject>
+      </figure>
 
       <para>Ensuite, nous voyons ce qui se passe lorsque nous mettons en œuvre
       la politique. Une fois que nous l'avons révisée, nous apportons des
       changements si nécessaire, en suivant le même processus de consentement
-      (voir figure 167).</para>
+      (voir figure 167 (<xref linkend="reviewpolicy1"/>)).</para>
 
       <para>Toutes les décisions de politiques<indexterm>
           <primary>politique</primary>
@@ -1066,13 +1095,15 @@
       brièvement une politique et décider de la laisser telle quelle ou de la
       réviser en profondeur.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="reviewpolicy1">
+        <title>Cycle de vie des politiques </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C0000000F3B200FDFF04E2E972.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>167 : Cycle de vie des politiques </emphasis></para>
+        </mediaobject>
+      </figure>
     </section>
 
     <section>
@@ -1162,14 +1193,15 @@
       jour comme le passage d'une réunion à l'autre. (Voir section
       5.4.1.)</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="examplemeasurecontent">
+        <title>Mesurer la phase de contenu de la réunion </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BE00000104E92CC20345E04960.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>168 : Mesurer la phase de contenu de la réunion
-      </emphasis></para>
+        </mediaobject>
+      </figure>
     </section>
   </section>
 
@@ -1207,11 +1239,11 @@
     réunions. Nous pouvons parler du contenu, du processus ou de la dynamique
     interpersonnelle.</para>
 
-    <para>Le diagramme 169 illustre ce que les gens peuvent aborder au cours
-    du tour d'évaluation. L'intention n'est pas de couvrir
-    <emphasis>tous</emphasis> ces domaines mais de montrer la variété des
-    points à évaluer. Si nous voulons aborder un sujet interpersonnel,
-    rappelons-nous qu'un feedback<indexterm>
+    <para>Le diagramme 169 (<xref linkend="meetingevaluation"/>) illustre ce
+    que les gens peuvent aborder au cours du tour d'évaluation. L'intention
+    n'est pas de couvrir <emphasis>tous</emphasis> ces domaines mais de
+    montrer la variété des points à évaluer. Si nous voulons aborder un sujet
+    interpersonnel, rappelons-nous qu'un feedback<indexterm>
         <primary>faire un retour</primary>
       </indexterm> efficace est un feedback facile à recevoir, spécifique et
     sans reproche. Bien entendu, l'évaluation d'une réunion n'est pas une
@@ -1223,6 +1255,17 @@
     l'évaluation de la réunion peut être la première et la plus facile. Vous
     trouverez d'autres exemples de choses à dire lors des évaluations de
     réunion dans la section 4.5, page xxx.</para>
+
+    <figure xml:id="meetingevaluation">
+      <title>Idées sur ce qu'il faut évaluer dans l'évaluation de la réunion /
+      le tour de clôture.</title>
+
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="Pictures/10000201000003C100000271BB29D5577933DB6D.png"/>
+        </imageobject>
+      </mediaobject>
+    </figure>
 
     <para>Si quelque chose nécessite de l'attention, le cercle réservera du
     temps lors d'une <emphasis>prochaine</emphasis> réunion pour l'aborder ;
@@ -1299,15 +1342,6 @@
             <primary>panier</primary>
           </indexterm>.</para>
       </informalfigure></para>
-
-    <para><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="Pictures/10000201000003C100000271BB29D5577933DB6D.png"/>
-        </imageobject>
-      </inlinemediaobject></para>
-
-    <para><emphasis>169 : Idées sur ce qu'il faut évaluer dans l'évaluation de
-    la réunion / le tour de clôture</emphasis>.</para>
   </section>
 
   <section>
@@ -1344,22 +1378,25 @@
 
       <para>Entre les réunions, les nouvelles idées de points à l'ordre du
       jour peuvent être placées dans le panier afin qu'elles puissent être
-      rappelées et suivies. 170 est un exemple de panier. Utilisons toute
-      façon de trier qui aide le groupe à aborder les sujets de manière
-      efficace, sans créer un grand besoin d’entretien.</para>
+      rappelées et suivies. 170 (<xref linkend="backlog"/>) est un exemple de
+      panier. Utilisons toute façon de trier qui aide le groupe à aborder les
+      sujets de manière efficace, sans créer un grand besoin
+      d’entretien.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="backlog">
+        <title>Un exemple de panier à reporter à la fin du compte-rendu de la
+        réunion<indexterm>
+            <primary>panier</primary>
+
+            <secondary>exemple d'un panier</secondary>
+          </indexterm></title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C10000024EA2D47503D496B9F1.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>170 : Un exemple de panier à reporter à la fin du
-      compte-rendu de la réunion<indexterm>
-          <primary>panier</primary>
-
-          <secondary>exemple d'un panier</secondary>
-        </indexterm></emphasis></para>
+        </mediaobject>
+      </figure>
 
       <para>Idéalement, le panier sera mis à jour<indexterm>
           <primary>panier</primary>
@@ -1422,16 +1459,18 @@
           <primary>ordre du jour</primary>
         </indexterm> est établi par le secrétaire, le facilitateur et le
       leader, en réunissant le passé, le présent et le futur, comme le montre
-      la figure 171.</para>
+      la figure 171 (<xref linkend="whomakesagendaldf"/>).</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="whomakesagendaldf">
+        <title>L'ordre du jour réunit les besoins passés, futurs et présents
+        </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C10000028DFC6E7CD6BB953A67.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>171 : L'ordre du jour réunit les besoins passés, futurs
-      et présents </emphasis></para>
+        </mediaobject>
+      </figure>
 
       <itemizedlist>
         <listitem>
@@ -1474,13 +1513,13 @@
           d'erreur et de placer toutes nos dates de révision dans notre
           panier<indexterm>
               <primary>panier</primary>
-            </indexterm> et de les y conserver (voir figure 170, page xxx).
-          Certains cercles font les élections de tous leurs rôles le même jour
-          chaque année. Certaines organisations demandent à tous leurs cercles
-          de revoir les politiques de leur domaine au même moment, par exemple
-          de septembre à octobre des années impaires. Ce sont des moyens
-          simples de favoriser une continuité et une meilleure
-          fiabilité.</para>
+            </indexterm> et de les y conserver (voir figure 170 (<xref
+          linkend="backlog"/>), page xxx). Certains cercles font les élections
+          de tous leurs rôles le même jour chaque année. Certaines
+          organisations demandent à tous leurs cercles de revoir les
+          politiques de leur domaine au même moment, par exemple de septembre
+          à octobre des années impaires. Ce sont des moyens simples de
+          favoriser une continuité et une meilleure fiabilité.</para>
         </listitem>
 
         <listitem>
@@ -1509,13 +1548,15 @@
         </listitem>
       </itemizedlist>
 
-      <para><inlinemediaobject>
+      <figure xml:id="makingmeetingagenda">
+        <title>Établir un ordre du jour</title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C0000000CA6C9A462CF8253052.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>172 : Établir un ordre du jour</emphasis></para>
+        </mediaobject>
+      </figure>
 
       <section>
         <title>Sujet, durée, résultat souhaité</title>
@@ -1631,17 +1672,19 @@
           est le plan à un an de notre cercle (basé sur votre but) ? Que
           doit-il se passer pour que nous puissions y arriver ?</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="agendaexample">
+            <title>Exemple d'un ordre du jour<indexterm>
+                <primary>ordre du jour</primary>
+              </indexterm>. Chaque point de l'ordre du jour peut également
+            désigner la personne responsable de ce point et faire référence à
+            tout document d’accompagnement.</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BD0000017718C33369A4F3D3F0.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>173 : Exemple d'un ordre du jour<indexterm>
-              <primary>ordre du jour</primary>
-            </indexterm>. Chaque point de l'ordre du jour peut également
-          désigner la personne responsable de ce point et faire référence à
-          tout document d’accompagnement. </emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
       </section>
     </section>
@@ -1674,8 +1717,9 @@
       du secrétaire ou dans le cloud. Nous ne rédigeons pas de compte rendu
       détaillé (pas de "<emphasis>qui a dit quoi</emphasis>") mais nous notons
       uniquement les décisions et tout contenu que nous produisons ensemble,
-      comme le montre l'exemple 174. Cela inclut les décisions de politiques
-      (dans leur formulation exacte), les élections sociocratiques<indexterm>
+      comme le montre l'exemple 174 (<xref linkend="diagramminutes"/>). Cela
+      inclut les décisions de politiques (dans leur formulation exacte), les
+      élections sociocratiques<indexterm>
           <primary>sélection</primary>
         </indexterm>, et les points d'action pour les décisions
       opérationnelles<indexterm>
@@ -1684,23 +1728,25 @@
           <secondary>décision opérationnelle</secondary>
         </indexterm>.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="diagramminutes">
+        <title>Gardez vos comptes-rendus courts et pertinents </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C000000213C36724B442634BDB.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>174 : Gardez vos comptes-rendus courts et pertinents
-      </emphasis></para>
+      <figure xml:id="exampleminutes">
+        <title>Exemple de compte-rendu à rendre public. </title>
 
-      <para><inlinemediaobject>
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BC0000023A6AEE852A334BE644.png"/>
           </imageobject>
-        </inlinemediaobject><emphasis> </emphasis></para>
-
-      <para><emphasis>175 : Exemple de compte-rendu à rendre public.
-      </emphasis></para>
+        </mediaobject>
+      </figure>
 
       <para>Bien que la sociocratie ne soit pas assortie d'exigences
       particulières en matière de compte-rendu, nous recommandons de
@@ -1736,13 +1782,15 @@
       couvert et bien saisi et peut souvent permettre de savoir si le cercle
       est sur la même longueur d'onde au sujet de ce qui s'est passé.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="ExpertboxJutta4">
+        <title>Ce que les autres font</title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BA00000096F3AE396D5287CD17.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>176 : Ce que les autres font</emphasis></para>
+        </mediaobject>
+      </figure>
     </section>
 
     <section>
@@ -1798,7 +1846,7 @@
 
               <secondary>consentement passif</secondary>
             </indexterm>) ; sinon, supposer le consentement, comme décrit dans
-          l'exemple au 177.</para>
+          l'exemple au 177 (<xref linkend="minutesapprove"/>).</para>
         </listitem>
 
         <listitem>
@@ -1807,23 +1855,26 @@
         </listitem>
       </itemizedlist>
 
-      <para><inlinemediaobject>
+      <figure xml:id="minutesapprove">
+        <title>Un exemple de politique mettant en œuvre le consentement
+        paresseux pour l'approbation des comptes-rendus</title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BD0000012E88A4A04D39314173.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>177 : Un exemple de politique mettant en œuvre le
-      consentement paresseux pour l'approbation des
-      comptes-rendus</emphasis></para>
+      <figure xml:id="ExpertboxJuttaJohn3">
+        <title>Ce que les autres disent</title>
 
-      <para><inlinemediaobject>
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BF0000012FDB65454D7A5BDB40.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>178 : Ce que les autres disent</emphasis></para>
+        </mediaobject>
+      </figure>
     </section>
 
     <section>
@@ -2139,25 +2190,29 @@
 
       <para>Bien que tous les tours soient très similaires, il existe quelques
       différences dans la nature d’un tour, selon le rôle qu’il joue dans le
-      processus de décision (voir 179 et 180).</para>
+      processus de décision (voir 179 (<xref linkend="tablerounds"/>) et 180
+      (<xref linkend="allrounds"/>)).</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="tablerounds">
+        <title>Différents types de tours de parole et leur usage </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C100000139A1BCC80CEDBC73F7.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>179: Différents types de tours de parole et leur usage
-      </emphasis></para>
+      <figure xml:id="allrounds">
+        <title>Nous répondons à des introductions du sujet par différents
+        types de tours</title>
 
-      <para><inlinemediaobject>
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C000000160E46471E3290495F8.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>180: Nous répondons à des introductions du sujet par
-      différents types de tours</emphasis></para>
+        </mediaobject>
+      </figure>
 
       <section>
         <title>Tour de questions de clarification</title>
@@ -2642,9 +2697,9 @@
           </listitem>
         </itemizedlist>
 
-        <para><figure>
-            <title>181 : “Deux tours et en avant” : après deux tours sans
-            progrès, changez de stratégie.</title>
+        <para><figure xml:id="strategieswhenstuck">
+            <title>“Deux tours et en avant” : après deux tours sans progrès,
+            changez de stratégie.</title>
 
             <mediaobject>
               <imageobject>
@@ -2654,8 +2709,9 @@
           </figure></para>
 
         <para>Le moral du groupe peut être affecté lorsqu’aucun progrès n’est
-        accompli. Le schéma 181 présente quatre façons de sortir d’un blocage,
-        quel que soit le niveau où il se situe. En détail :</para>
+        accompli. Le schéma 181 (<xref linkend="strategieswhenstuck"/>)
+        présente quatre façons de sortir d’un blocage, quel que soit le niveau
+        où il se situe. En détail :</para>
 
         <itemizedlist>
           <listitem>
@@ -2715,16 +2771,18 @@
         </itemizedlist>
 
         <para>En général : si nous ne savons pas quoi faire, nous faisons un
-        tour ! Des exemples sont donnés sur le 182.</para>
+        tour ! Des exemples sont donnés sur le 182 (<xref
+        linkend="bubbleprocessround"/>).</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="bubbleprocessround">
+          <title>Décider ensemble du processus. </title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003B8000001F70728AE03A2821E24.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>182 : Décider ensemble du processus.
-        </emphasis></para>
+          </mediaobject>
+        </figure>
 
         <para>D’autres exemples de moments où demander une contribution sur le
         processus :</para>
@@ -2770,17 +2828,19 @@
         </itemizedlist>
 
         <para>Nous ne sommes jamais victimes des circonstances, mais toujours
-        des acteurs avec des choix. L’exemple 183 montre à quoi cela peut
+        des acteurs avec des choix. L’exemple 183 (<xref
+        linkend="examplecallingaprocessround"/>) montre à quoi cela peut
         ressembler dans un cas concret.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="examplecallingaprocessround">
+          <title>Un membre demande un tour de parole sur le processus</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003C1000002A32B3A2B85E770D0DE.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>183 : Un membre demande un tour de parole sur le
-        processus</emphasis></para>
+          </mediaobject>
+        </figure>
 
         <para>Toutes les décisions n’ont pas besoin de passer à travers tout
         le processus du consentement. Décider d’une pause de 10 minutes ne
@@ -2856,24 +2916,25 @@
           </listitem>
         </itemizedlist>
 
-        <para><inlinemediaobject>
+        <figure xml:id="exampleSomeoneUpset">
+          <title>Exemple : répondre à une émotion forte</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003C40000044E26D03EEB449B3FBE.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>184 : Exemple : répondre à une émotion
-        forte</emphasis></para>
+          </mediaobject>
+        </figure>
 
         <para>Lorsque nous décidons de faire un tour de parole, nous donnons
         la parole à la personne concernée au milieu du tour (comme dans
-        l’exemple 184), pour lui permettre d’avoir assez de temps pour se
-        remettre de ses émotions et ne pas devenir “la personne à problème” en
-        parlant à la fin du tour. Procéder ainsi montre clairement que toutes
-        les voix comptent, celles de personnes aux émotions fortes comme
-        celles des autres. Nous donnons corps au principe que chaque personne
-        peut prendre la responsabilité de ses comportements et
-        émotions.</para>
+        l’exemple 184 (<xref linkend="exampleSomeoneUpset"/>)), pour lui
+        permettre d’avoir assez de temps pour se remettre de ses émotions et
+        ne pas devenir “la personne à problème” en parlant à la fin du tour.
+        Procéder ainsi montre clairement que toutes les voix comptent, celles
+        de personnes aux émotions fortes comme celles des autres. Nous donnons
+        corps au principe que chaque personne peut prendre la responsabilité
+        de ses comportements et émotions.</para>
       </section>
 
       <section>

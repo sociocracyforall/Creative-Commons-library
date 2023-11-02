@@ -60,14 +60,15 @@
       <primary>politique</primary>
     </indexterm> dépend uniquement de la nature du cercle.</para>
 
-  <para><inlinemediaobject>
+  <figure xml:id="oppol">
+    <title>Décisions opérationnelles et décisions de politique</title>
+
+    <mediaobject>
       <imageobject>
         <imagedata fileref="Pictures/10000201000003BF0000013DFA8268F0A1AA40EE.png"/>
       </imageobject>
-    </inlinemediaobject></para>
-
-  <para><emphasis>79: Décisions opérationnelles et décisions de
-  politique</emphasis></para>
+    </mediaobject>
+  </figure>
 
   <section>
     <title>Pourquoi créer des politiques</title>
@@ -437,17 +438,20 @@
       <para>Nous agissons rarement de manière réfléchie en ce qui concerne le
       choix d'une méthode de prise de décision. Cela s’observe lorsqu'un débat
       se transforme en discussion sur la méthode de prise de décision
-      elle-même, comme dans l'exemple 80. Si la méthode de prise de décision
-      n'est pas claire, elle devient une question litigieuse.</para>
+      elle-même, comme dans l'exemple 80 (<xref
+      linkend="examplediscussion"/>). Si la méthode de prise de décision n'est
+      pas claire, elle devient une question litigieuse.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="examplediscussion">
+        <title>Une discussion dans un groupe sans accord préalable sur la
+        méthode de prise de décision</title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BE00000220DCC7068E25ABD82D.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <literallayout><emphasis>80: Une discussion dans un groupe sans accord préalable
-sur la méthode de prise de décision</emphasis></literallayout>
+        </mediaobject>
+      </figure>
 
       <para>La sociocratie utilise la prise de décision par consentement pour
       établir les politiques<indexterm>
@@ -543,14 +547,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
       sa préférence. Comprendre la différence entre zone de tolérance et
       préférence personnelle est essentiel pour la sociocratie.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="rangeoftolerance">
+        <title>La zone de tolérance : ce avec quoi nous pouvons vivre en
+        dehors de nos préférences personnelles.</title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BB000000E3B022F2230F86A9BB.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>81. La zone de tolérance : ce avec quoi nous pouvons
-      vivre en dehors de nos préférences personnelles. </emphasis></para>
+        </mediaobject>
+      </figure>
 
       <variablelist>
         <varlistentry>
@@ -602,15 +608,33 @@ sur la méthode de prise de décision</emphasis></literallayout>
       devient disposé à accepter les préférences des autres et à assouplir les
       siennes.</para>
 
+      <figure xml:id="overlapofrangeoftoleranceplain2">
+        <title>Le chevauchement entre les zones de tolérances (gris avec
+        contour noir) est plus important que le chevauchement entre les
+        préférences personnelles (foncé avec contour blanc).<indexterm>
+            <primary>préférence personnelle</primary>
+          </indexterm><indexterm>
+            <primary>zone de tolérance</primary>
+          </indexterm></title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BE000001842793001CFED1A381.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
       <para>En théorie, si nous ne travaillions que dans la zone de
       chevauchement des préférences personnelles, il serait difficile de
       trouver un terrain d'entente pour prendre une décision, voire impossible
-      dans certains cas. Le diagramme 82 illustre le chevauchement entre les
-      préférences personnelles et celles des membres du groupe. Le point de
-      convergence (partie sombre) est l'intersection où toutes les préférences
-      coïncident ; moins un groupe est homogène, plus cette zone sera petite,
-      car les expériences et les préférences des personnes diffèrent. En
-      revanche, la « zone de tolérance/ non objection »<indexterm>
+      dans certains cas. Le diagramme 82 (<xref
+      linkend="overlapofrangeoftoleranceplain2"/>) illustre le chevauchement
+      entre les préférences personnelles et celles des membres du groupe. Le
+      point de convergence (partie sombre) est l'intersection où toutes les
+      préférences coïncident ; moins un groupe est homogène, plus cette zone
+      sera petite, car les expériences et les préférences des personnes
+      diffèrent. En revanche, la « zone de tolérance/ non
+      objection »<indexterm>
           <primary>objection</primary>
         </indexterm> parmi les membres du groupe est assez large. Un groupe
       parviendra plus facilement à un accord sur des propositions lorsque la
@@ -678,23 +702,9 @@ sur la méthode de prise de décision</emphasis></literallayout>
           </listitem>
         </varlistentry>
       </variablelist>
-
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/10000201000003BE000001842793001CFED1A381.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>82: Le chevauchement entre les zones de tolérances (gris
-      avec contour noir) est plus important que le chevauchement entre les
-      préférences personnelles (foncé avec contour blanc).<indexterm>
-          <primary>préférence personnelle</primary>
-        </indexterm><indexterm>
-          <primary>zone de tolérance</primary>
-        </indexterm></emphasis></para>
     </section>
 
-    <section>
+    <section xml:id="objections">
       <title>En quoi consistent les objections ?</title>
 
       <indexterm>
@@ -735,14 +745,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
         <para>En bref, une objection à une proposition dit : « Si nous prenons
         cette décision, nous ne pourrons plus faire notre travail ».</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="consentobjectionaim">
+          <title>La définition du consentement repose sur la définition des
+          objections et des buts</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BF0000019BC091F574860BC341.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>83: La définition du consentement repose sur la
-        définition des objections et des buts</emphasis></para>
+          </mediaobject>
+        </figure>
 
         <para><informalexample>
             <para>Imaginons une organisation à but lucratif qui gère un espace
@@ -1181,13 +1193,15 @@ sur la méthode de prise de décision</emphasis></literallayout>
         compte-rendu de la réunion et la reprise de contact de la personne
         absente avec le leader du cercle y contribuent.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="ExpertboxJuttaJohn2">
+          <title>Ce que disent les autres</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BB000000EC3C935864EF2C4689.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>84. Ce que disent les autres</emphasis></para>
+          </mediaobject>
+        </figure>
       </section>
 
       <section>
@@ -1403,30 +1417,42 @@ sur la méthode de prise de décision</emphasis></literallayout>
         <emphasis>transformation</emphasis>. Le type de
         <emphasis>sortie</emphasis> dépend de la tâche à accomplir :</para>
 
-        <para>• Si notre tâche consiste à préparer un repas,
-        l'<emphasis>entrée</emphasis> est constituée des ingrédients du repas,
-        la <emphasis>transformation</emphasis> est la cuisson du repas. La
-        <emphasis>sortie</emphasis> est le service du repas.</para>
+        <itemizedlist>
+          <listitem>
+            <para>Si notre tâche consiste à préparer un repas,
+            l'<emphasis>entrée</emphasis> est constituée des ingrédients du
+            repas, la <emphasis>transformation</emphasis> est la cuisson du
+            repas. La <emphasis>sortie</emphasis> est le service du
+            repas.</para>
+          </listitem>
 
-        <para>• Si notre tâche consiste à fabriquer des étoiles à partir de
-        carrés à l'aide d'une machine magique [comme celle de la figure 85],
-        les carrés sont notre <emphasis>entrée</emphasis>, la
-        <emphasis>transformation</emphasis> est ce que la machine magique
-        exécute, et notre <emphasis>sortie</emphasis> est constituée
-        d'étoiles.</para>
+          <listitem>
+            <para>Si notre tâche consiste à fabriquer des étoiles à partir de
+            carrés à l'aide d'une machine magique [comme celle de la figure 85
+            (<xref linkend="inputtransformationoutput"/>)], les carrés sont
+            notre <emphasis>entrée</emphasis>, la
+            <emphasis>transformation</emphasis> est ce que la machine magique
+            exécute, et notre <emphasis>sortie</emphasis> est constituée
+            d'étoiles.</para>
+          </listitem>
 
-        <para>• Si nos <emphasis>entrées</emphasis> sont des points de l'ordre
-        du jour, les réunions les <emphasis>transforment</emphasis> et les
-        <emphasis>sorties</emphasis> en sont les décisions.</para>
+          <listitem>
+            <para>Si nos <emphasis>entrées</emphasis> sont des points de
+            l'ordre du jour, les réunions les
+            <emphasis>transforment</emphasis> et les
+            <emphasis>sorties</emphasis> en sont les décisions.</para>
+          </listitem>
+        </itemizedlist>
 
-        <literallayout><inlinemediaobject>
+        <figure xml:id="inputtransformationoutput">
+          <title>Entrée-transformation-sortie</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BF00000199EE58D6811799C9DB.png"/>
             </imageobject>
-          </inlinemediaobject><emphasis>
-</emphasis></literallayout>
-
-        <para><emphasis>85 : Entrée-transformation-sortie </emphasis></para>
+          </mediaobject>
+        </figure>
       </section>
 
       <section>
@@ -1435,15 +1461,6 @@ sur la méthode de prise de décision</emphasis></literallayout>
         <indexterm>
           <primary>orientation-exécution-mesure</primary>
         </indexterm>
-
-        <para><inlinemediaobject>
-            <imageobject>
-              <imagedata fileref="Pictures/10000201000003B40000012255DE96E707F2DE4E.png"/>
-            </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>86 : Orienter-exécuter-mesurer lors de la préparation
-        d'un sac à dos</emphasis></para>
 
         <para>À chaque étape, nous souhaitons agir avec intention en vue de
         réussir. Par exemple, si nous préparons un sac à dos pour la journée,
@@ -1456,6 +1473,17 @@ sur la méthode de prise de décision</emphasis></literallayout>
         ORIENTER-EXÉCUTER-MESURER.<indexterm>
             <primary>orientation-exécution-mesure</primary>
           </indexterm></para>
+
+        <figure xml:id="backpackLDM">
+          <title>Orienter-exécuter-mesurer lors de la préparation d'un sac à
+          dos</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003B40000012255DE96E707F2DE4E.png"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
 
         <variablelist>
           <varlistentry>
@@ -1497,18 +1525,21 @@ sur la méthode de prise de décision</emphasis></literallayout>
         malheur nous faisons fausse route, nous risquons de nous en rendre
         compte trop tard.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="LDMoverall">
+          <title>ORIENTER-EXÉCUTER-MESURER</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BC00000104C4D6ADCC398347CA.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>87 : </emphasis>ORIENTER-EXÉCUTER-MESURER</para>
+          </mediaobject>
+        </figure>
 
         <para>Supposons que nous voulions transformer des carrés en étoiles à
-        l'aide d'une machine magique comme dans la figure 87. Nous pourrions
-        élaborer un plan (orienter), poser une action (exécuter) et vérifier
-        ensuite si nous avons atteint le résultat attendu (mesurer). Le cycle
+        l'aide d'une machine magique comme dans la figure 87 (<xref
+        linkend="LDMoverall"/>). Nous pourrions élaborer un plan (orienter),
+        poser une action (exécuter) et vérifier ensuite si nous avons atteint
+        le résultat attendu (mesurer). Le cycle
         ORIENTER-EXÉCUTER-MESURER<indexterm>
             <primary>orientation-exécution-mesure</primary>
           </indexterm> est un principe de base sur lequel s’appuie la
@@ -1534,9 +1565,9 @@ sur la méthode de prise de décision</emphasis></literallayout>
         nous exécutons, puis nous évaluons si nous avons bouclé avant de
         passer à l'étape suivante.</para>
 
-        <para>Le diagramme 88 illustre les étapes du cycle
-        ORIENTER-EXÉCUTER-MESURER dans le contexte de notre machine à
-        fabriquer des étoiles. Nous faisons un plan pour <emphasis
+        <para>Le diagramme 88 (<xref linkend="LDMITOstars"/>) illustre les
+        étapes du cycle ORIENTER-EXÉCUTER-MESURER dans le contexte de notre
+        machine à fabriquer des étoiles. Nous faisons un plan pour <emphasis
         role="strong">l'entrée</emphasis>, effectuons l'action nécessaire
         (remplir la machine) et nous assurons que nous avons complété la phase
         d'entrée. Lors de la phase de <emphasis
@@ -1547,16 +1578,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
         phase là aussi, effectuons l'action nécessaire et évaluons si nous
         avons complété l'étape de la sortie.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="LDMITOstars">
+          <title>Entrée-transformation-sortie avec
+          ORIENTER-EXÉCUTER-MESURER</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003C1000002F42229E7E343354A85.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <blockquote>
-          <para><emphasis>88 : Entrée-transformation-sortie avec
-          </emphasis>ORIENTER-EXÉCUTER-MESURER</para>
-        </blockquote>
+          </mediaobject>
+        </figure>
 
         <para>Pour revenir à l'exemple de la préparation d'un repas, nous
         pouvons appliquer le même modèle : imaginons que nous devons préparer
@@ -1576,15 +1607,15 @@ sur la méthode de prise de décision</emphasis></literallayout>
         vérifiant si tout est prêt alors que le repas est sur le point de
         commencer.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="cookameal">
+          <title>89 : Cuisiner un repas</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003C000000184FAB69CD0961D5FFD.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <blockquote>
-          <para><emphasis>89 : Cuisiner un repas </emphasis></para>
-        </blockquote>
+          </mediaobject>
+        </figure>
 
         <para>Ce sont bien sûr des étapes que nous suivons intuitivement. Il
         est d'autant plus important de définir les étapes de manière explicite
@@ -1664,16 +1695,17 @@ sur la méthode de prise de décision</emphasis></literallayout>
           politique — il peut simplement s'agir d'une conclusion ou d’une
           synthèse à l'issue de la discussion.</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="ITOUED">
+            <title>Nous faisons référence au cycle entrée – transformation –
+            sortie traduit en comprendre – explorer – synthétiser dans
+            certaines phases de la prise de décision.</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BB000000672CCFEAF83B4D8BF1.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>90 : Nous faisons référence au cycle entrée –
-          transformation – sortie traduit en comprendre – explorer –
-          synthétiser dans certaines phases de la prise de
-          décision.</emphasis></para>
+            </mediaobject>
+          </figure>
 
           <itemizedlist spacing="compact">
             <listitem>
@@ -1705,50 +1737,55 @@ sur la méthode de prise de décision</emphasis></literallayout>
 
           <para><indexterm>
               <primary>comprendre-explorer-décider</primary>
-            </indexterm>La figure 91 montre comment les individus peuvent
-          avancer en groupe de façon sécuritaire à travers toutes ces étapes
-          avec un sentiment de fluidité : « être à la même page » et
-          travailler plus ou moins au même rythme. Tout le monde peut évoluer
-          dans des directions différentes - certains sont des penseurs
-          linéaires, d'autres ont un esprit qui pense en boucles, et certains
-          d’entre nous prêtent attention à des choses qui ont tendance à
-          passer inaperçues. Et c’est bien. L'important est que, pour chaque
-          étape, nous commencions ensemble et nous terminions ensemble. Nous
-          pouvons faire de bons progrès en suivant une feuille de route
-          détaillée comme celle de la figure 91.</para>
+            </indexterm>La figure 91 (<xref linkend="MDFJHdecisionmaking"/>)
+          montre comment les individus peuvent avancer en groupe de façon
+          sécuritaire à travers toutes ces étapes avec un sentiment de
+          fluidité : « être à la même page » et travailler plus ou moins au
+          même rythme. Tout le monde peut évoluer dans des directions
+          différentes - certains sont des penseurs linéaires, d'autres ont un
+          esprit qui pense en boucles, et certains d’entre nous prêtent
+          attention à des choses qui ont tendance à passer inaperçues. Et
+          c’est bien. L'important est que, pour chaque étape, nous commencions
+          ensemble et nous terminions ensemble. Nous pouvons faire de bons
+          progrès en suivant une feuille de route détaillée comme celle de la
+          figure 91 (<xref linkend="MDFJHdecisionmaking"/>).</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="MDFJHdecisionmaking">
+            <title>Comprendre - explorer - décider<indexterm>
+                <primary>comprendre-explorer-décider</primary>
+              </indexterm> dans la prise de décision en équipe : nous avons
+            nos propres façons de penser, et nous finissons ensemble</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003C1000000FFFD8C5122719837DC.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>91 : Comprendre - explorer - décider<indexterm>
-              <primary>comprendre-explorer-décider</primary>
-            </indexterm> dans la prise de décision en équipe : nous avons nos
-          propres façons de penser, et nous finissons
-          ensemble</emphasis></para>
+            </mediaobject>
+          </figure>
 
           <para>Les étapes de la prise de décision se décomposent en étapes
           plus petites, comme des fractales : dès que nous observons une phase
           avec une loupe, nous pouvons retrouver un autre cycle « comprendre
           -- explorer -- décider ». Plus nous prenons en compte les étapes
           intermédiaires, plus nous pouvons agir avec intention et être
-          efficaces. La nature fractale est illustrée à la figure 92. Chaque
-          étape correspond à un ensemble de tours de parole. Les personnes du
-          cercle parlent à tour de rôle, ce qui rend la facilitation du groupe
-          beaucoup plus aisée. Avec de nombreux petits tours, lesquels ont une
-          question et une portée bien définies, chaque membre du cercle peut
-          se concentrer sur le sujet.</para>
+          efficaces. La nature fractale est illustrée à la figure 92 (<xref
+          linkend="MDFJHdecisionmakinginbetween"/>). Chaque étape correspond à
+          un ensemble de tours de parole. Les personnes du cercle parlent à
+          tour de rôle, ce qui rend la facilitation du groupe beaucoup plus
+          aisée. Avec de nombreux petits tours, lesquels ont une question et
+          une portée bien définies, chaque membre du cercle peut se concentrer
+          sur le sujet.</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="MDFJHdecisionmakinginbetween">
+            <title>Les étapes se divisent en d’autres étapes plus fines, comme
+            des fractales.</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BB000001047B654187B77B41AB.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis> 92 : Les étapes se divisent en d’autres étapes plus
-          fines, comme des fractales.</emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -1796,21 +1833,25 @@ sur la méthode de prise de décision</emphasis></literallayout>
         <section>
           <title>Mesurer</title>
 
-          <para>Comme le montre la figure 93, chaque phase s'inscrit dans des
-          cycles ORIENTER-EXÉCUTER-MESURER. Nous demander : « Tout le monde
-          comprend-il le problème ? Avons-nous entendu les idées de chacun ?
-          Tout le monde est-il prêt à passer à l'étape suivante ? » nous
-          indique si nous avons franchi une étape.<emphasis>
+          <para>Comme le montre la figure 93 (<xref
+          linkend="MDFJHdecisionmakinginbetweenabstract"/>), chaque phase
+          s'inscrit dans des cycles ORIENTER-EXÉCUTER-MESURER. Nous demander :
+          « Tout le monde comprend-il le problème ? Avons-nous entendu les
+          idées de chacun ? Tout le monde est-il prêt à passer à l'étape
+          suivante ? » nous indique si nous avons franchi une étape.<emphasis>
           </emphasis></para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="MDFJHdecisionmakinginbetweenabstract">
+            <title>Chaque étape comporte sa propre boucle <emphasis
+            role="strong">orienter – exécuter – mesurer</emphasis><emphasis>
+            </emphasis></title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BF000000C50AD704F81985D60C.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <literallayout><emphasis>93 : Chaque étape comporte sa propre boucle
-</emphasis><emphasis role="strong">orienter – exécuter – mesurer</emphasis><emphasis> </emphasis></literallayout>
+            </mediaobject>
+          </figure>
         </section>
       </section>
     </section>
@@ -1850,14 +1891,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
       recommandons de prendre du recul à l’occasion pour vérifier si le
       processus modifié donne les résultats escomptés.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="understandexploredecide">
+        <title><emphasis role="strong">Comprendre - explorer -
+        décider</emphasis></title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BC0000013863A96569EC81664E.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>94 : <emphasis role="strong">Comprendre - explorer -
-      décider</emphasis> </emphasis></para>
+        </mediaobject>
+      </figure>
 
       <section>
         <title>Comprendre les besoins</title>
@@ -1891,13 +1934,15 @@ sur la méthode de prise de décision</emphasis></literallayout>
           </listitem>
         </itemizedlist>
 
-        <para><inlinemediaobject>
+        <figure xml:id="understandexploredecidewithstepsA">
+          <title>La phase comprendre</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003C0000000BCFBFE8FC397130361.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>95 : La phase comprendre </emphasis></para>
+          </mediaobject>
+        </figure>
 
         <section>
           <title>Comprendre le contexte</title>
@@ -1933,15 +1978,26 @@ sur la méthode de prise de décision</emphasis></literallayout>
               déclencheur.</para>
             </informalfigure></para>
 
-          <para>L'exemple 96 montre ce que cela peut donner. Notez que dans
-          cet exemple, le facilitateur choisit de ne pas demander un tour
-          complet et se contente de demander si quelqu'un a des questions.
-          Cela fonctionne bien dans les cas simples. Sinon, nous pouvons
-          demander un tour de clarification<indexterm>
+          <para>L'exemple 96 (<xref
+          linkend="exampleunderstandneedstateissue"/>) montre ce que cela peut
+          donner. Notez que dans cet exemple, le facilitateur choisit de ne
+          pas demander un tour complet et se contente de demander si quelqu'un
+          a des questions. Cela fonctionne bien dans les cas simples. Sinon,
+          nous pouvons demander un tour de clarification<indexterm>
               <primary>tour de questions de clarification</primary>
             </indexterm> (voir section 5.5.2). Nous répondons à toutes les
           questions une par une, ou nous rassemblons d'abord les questions et
           y répondons ensuite - selon ce qui semble le plus facile.</para>
+
+          <figure xml:id="exampleunderstandneedstateissue">
+            <title>Comprendre le contexte</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Pictures/10000201000003C00000021D8D13A12179FB0F8A.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -1998,19 +2054,20 @@ sur la méthode de prise de décision</emphasis></literallayout>
               personne n'a d'idées à ajouter.</para>
             </informalfigure></para>
 
-          <blockquote>
-            <para><inlinemediaobject>
-                <imageobject>
-                  <imagedata fileref="Pictures/10000201000003C00000021D8D13A12179FB0F8A.png"/>
-                </imageobject>
-              </inlinemediaobject></para>
-          </blockquote>
+          <figure xml:id="exampleunderstandneedexploreneeds">
+            <title>Comprendre : explorer les besoins sous-jacents</title>
 
-          <para><emphasis>96 : Comprendre le contexte </emphasis></para>
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Pictures/10000201000003C000000311448861CEDCC1180B.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
 
-          <para>Notons comment, dans l'exemple 97 (page X), le cercle examine
-          la question sous différents angles, en explorant les besoins des
-          membres du cercle et ceux des personnes extérieures au
+          <para>Notons comment, dans l'exemple 97 (<xref
+          linkend="exampleunderstandneedexploreneeds"/>) (page X), le cercle
+          examine la question sous différents angles, en explorant les besoins
+          des membres du cercle et ceux des personnes extérieures au
           cercle.</para>
         </section>
 
@@ -2079,35 +2136,26 @@ sur la méthode de prise de décision</emphasis></literallayout>
               suivre.</para>
             </informalfigure></para>
 
-          <blockquote>
-            <para><inlinemediaobject>
-                <imageobject>
-                  <imagedata fileref="Pictures/10000201000003C000000311448861CEDCC1180B.png"/>
-                </imageobject>
-              </inlinemediaobject></para>
-          </blockquote>
+          <para>Dans l'exemple 98 (<xref
+          linkend="exampleunderstandneedneedsassessment"/>), le facilitateur
+          demande à une personne du cercle de faire un énoncé pour gagner du
+          temps. Il y a généralement quelqu'un dans le cercle qui est capable
+          de synthétiser rapidement. Conservons toutefois l'énoncé des besoins
+          car on pourra l'utiliser comme argumentaire lors de la publication
+          de la politique.</para>
 
-          <blockquote>
-            <para><emphasis>97 : Comprendre : explorer les besoins
-            sous-jacents </emphasis></para>
-          </blockquote>
+          <figure xml:id="exampleunderstandneedneedsassessment">
+            <title>98 : Comprendre : synthétiser le problème/besoins dans un
+            énoncé de besoins<indexterm>
+                <primary>énoncé des besoins</primary>
+              </indexterm></title>
 
-          <para>Dans l'exemple 98, le facilitateur demande à une personne du
-          cercle de faire un énoncé pour gagner du temps. Il y a généralement
-          quelqu'un dans le cercle qui est capable de synthétiser rapidement.
-          Conservons toutefois l'énoncé des besoins car on pourra l'utiliser
-          comme argumentaire lors de la publication de la politique.</para>
-
-          <para><inlinemediaobject>
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BE000000E4701C5A9B2E651110.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>98 : Comprendre : synthétiser le problème/besoins
-          dans un énoncé de besoins<indexterm>
-              <primary>énoncé des besoins</primary>
-            </indexterm></emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -2214,21 +2262,21 @@ sur la méthode de prise de décision</emphasis></literallayout>
           </listitem>
         </itemizedlist>
 
-        <blockquote>
-          <para><inlinemediaobject>
-              <imageobject>
-                <imagedata fileref="Pictures/10000201000003C0000000BC1C7168BB31EC3D3C.png"/>
-              </imageobject>
-            </inlinemediaobject></para>
-        </blockquote>
+        <figure xml:id="understandexploredecidewithstepsB">
+          <title>Explorer</title>
 
-        <para><emphasis>99 : Explorer </emphasis></para>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003C0000000BC1C7168BB31EC3D3C.png"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
 
         <section>
           <title>Comprendre la portée de la politique (l’esquisse
           d’image)</title>
 
-          <indexterm>
+          <indexterm significance="preferred">
             <primary>faire une esquisse</primary>
           </indexterm>
 
@@ -2303,12 +2351,13 @@ sur la méthode de prise de décision</emphasis></literallayout>
               laisse » dans une politique concernant les chiens dans la
               communauté. Il s’agit là d’une dimension incontournable pour
               arriver à une proposition complète sur le sujet (voir exemple
-              102 à la page XX).</para>
+              102 (<xref linkend="dogpolicy"/>) à la page XX).</para>
             </informalfigure></para>
 
           <para>Les membres du cercle peuvent brièvement exposer le contexte
           de leur dimension. Il est utile, par exemple, de proposer deux
-          options : fait-on A ou B ? Voir l'exemple 100 à titre
+          options : fait-on A ou B ? Voir l'exemple 100 (<xref
+          linkend="examplegeneratingproposalpictureforming"/>) à titre
           d'illustration. Un groupe expérimenté rassemblera les mots-clés en
           quelques minutes, puisque les groupes s'améliorent avec
           l'expérience. La meilleure façon d'apprendre l’esquisse d'image est
@@ -2331,18 +2380,20 @@ sur la méthode de prise de décision</emphasis></literallayout>
             </indexterm> qui aura la responsabilité de préparer la phase
           suivante.</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="examplegeneratingproposalpictureforming">
+            <title>Exploration : esquisse d'image (portée de la
+            politique)<indexterm>
+                <primary>faire une esquisse</primary>
+
+                <secondary>exemple</secondary>
+              </indexterm></title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BF000002386E23476D5118838F.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>100 : Exploration : esquisse d'image (portée de la
-          politique)<indexterm>
-              <primary>faire une esquisse</primary>
-
-              <secondary>exemple</secondary>
-            </indexterm></emphasis></para>
+            </mediaobject>
+          </figure>
 
           <para>Avant de continuer, nous donnons notre consentement à la
           liste. Il s’agit d’une décision « assez bonne pour l’instant » (good
@@ -2484,40 +2535,58 @@ sur la méthode de prise de décision</emphasis></literallayout>
             </indexterm>, nous avons essayé de comprendre le problème et ses
           dimensions. Dans l'élaboration de la proposition<indexterm>
               <primary>élaboration de proposition</primary>
-            </indexterm>, nous voulons des opinions. L'exemple 101 nous donne
-          une idée de ce à quoi cela peut ressembler.</para>
+            </indexterm>, nous voulons des opinions. L'exemple 101 (<xref
+          linkend="examplegeneratingproposalproposalshaping"/>) nous donne une
+          idée de ce à quoi cela peut ressembler.</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="examplegeneratingproposalproposalshaping">
+            <title>Explore : explorer des idées de proposition (élaboration de
+            propositions).<indexterm>
+                <primary>énoncé des besoins</primary>
+
+                <secondary>exemple d'énoncés de besoins</secondary>
+              </indexterm></title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BB000002FF8B6E4DDB03AB790C.png"/>
               </imageobject>
-            </inlinemediaobject></para>
+            </mediaobject>
+          </figure>
 
-          <para><emphasis>101 : Explore : explorer des idées de proposition
-          (élaboration de propositions).<indexterm>
-              <primary>énoncé des besoins</primary>
-
-              <secondary>exemple d'énoncés de besoins</secondary>
-            </indexterm></emphasis></para>
-
-          <para>Les exemples 102 et 103 nous montrent comment les idées de
+          <para>Les exemples 102 (<xref linkend="dogpolicy"/>) et 103 (<xref
+          linkend="screenpolicy"/>) nous montrent comment les idées de
           propositions peuvent se renforcer ou se contredire. (Les listes de
-          l'exemple 103 sont issues d'un processus réel dans la famille de
-          l’auteur, à propos d’une source récurrente de dispute).</para>
+          l'exemple 103 (<xref linkend="screenpolicy"/>) sont issues d'un
+          processus réel dans la famille de l’auteur, à propos d’une source
+          récurrente de dispute).</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="dogpolicy">
+            <title>Énoncé des besoins, dimensions et idée de propositions à
+            propos d’une politique sur les chiens dans la communauté<indexterm>
+                <primary>énoncé des besoins</primary>
+
+                <secondary>exemple d'énoncés de besoins</secondary>
+              </indexterm></title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003B70000026E96D22283E236E1CF.png"/>
               </imageobject>
-            </inlinemediaobject></para>
+            </mediaobject>
+          </figure>
 
-          <para><emphasis>102 : Énoncé des besoins, dimensions et idée de
-          propositions à propos d’une politique sur les chiens dans la
-          communauté<indexterm>
-              <primary>énoncé des besoins</primary>
+          <figure xml:id="screenpolicy">
+            <title>Énoncé de besoins, dimensions et idées de propositions pour
+            une politique de visionnement (des enfants de 4 à 10 ans y ont
+            contribué)</title>
 
-              <secondary>exemple d'énoncés de besoins</secondary>
-            </indexterm></emphasis></para>
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Pictures/10000201000003B70000026E7B17910D97BE9E5B.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -2613,22 +2682,11 @@ sur la méthode de prise de décision</emphasis></literallayout>
                 </indexterm></para>
             </informalfigure></para>
 
-          <para><inlinemediaobject>
-              <imageobject>
-                <imagedata fileref="Pictures/10000201000003B70000026E7B17910D97BE9E5B.png"/>
-              </imageobject>
-            </inlinemediaobject></para>
-
-          <blockquote>
-            <para><emphasis>103 : Énoncé de besoins, dimensions et idées de
-            propositions pour une politique de visionnement (des enfants de 4
-            à 10 ans y ont contribué) </emphasis></para>
-          </blockquote>
-
-          <para>Comme dans l'exemple 104, il est préférable de demander à une
-          ou deux personnes de rédiger la proposition entre les réunions, ou
-          de faire une courte pause pendant la réunion pour que quelqu'un
-          rédige une proposition. S'il y a des idées de proposition
+          <para>Comme dans l'exemple 104 (<xref
+          linkend="examplegeneratingproposalorganize"/>), il est préférable de
+          demander à une ou deux personnes de rédiger la proposition entre les
+          réunions, ou de faire une courte pause pendant la réunion pour que
+          quelqu'un rédige une proposition. S'il y a des idées de proposition
           contradictoires, il y a au moins trois options :</para>
 
           <itemizedlist>
@@ -2671,14 +2729,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
             </listitem>
           </itemizedlist>
 
-          <para><inlinemediaobject>
+          <figure xml:id="examplegeneratingproposalorganize">
+            <title>Explorer : synthétiser les idées en une seule
+            proposition</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BE0000012B179C9DD7FE843F55.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>104 : Explorer : synthétiser les idées en une seule
-          proposition</emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -2762,14 +2822,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
         structure de cette sous-sous-section suit les mêmes trois étapes
         :</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="understandexploredecidewithstepsCA">
+          <title>La troisième phase du processus d'adoption des politiques se
+          décompose elle-même en trois étapes.</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BF000001380C5DA14EE6C0E416.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>105 : La troisième phase du processus d'adoption des
-        politiques se décompose elle-même en trois étapes. </emphasis></para>
+          </mediaobject>
+        </figure>
 
         <section>
           <title>Préparer la décision</title>
@@ -2783,14 +2845,15 @@ sur la méthode de prise de décision</emphasis></literallayout>
             </indexterm> que nous souhaitons inclure lors du tour de
           consentement.</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="understandexploredecidewithstepsCA2">
+            <title>La troisième phase se déroule en 3 étapes</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BB000000C172E762C68BDCB95E.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>106 : La troisième phase se déroule en 3
-          étapes</emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -2898,10 +2961,21 @@ sur la méthode de prise de décision</emphasis></literallayout>
           façon de procéder permet d'éviter les longues digressions qui
           peuvent rompre l'équivalence des tours, ainsi que les dérives vers
           des opinions avant que toutes les questions pour bien comprendre
-          n'aient été posées (voir exemple 107). Lorsque toutes les questions
+          n'aient été posées (voir exemple 107 (<xref
+          linkend="exampledecidingclarify"/>)). Lorsque toutes les questions
           ont reçu une réponse, nous pouvons demander s'il y a d'autres
           questions qui auraient pu surgir après avoir entendu les questions
           et les réponses précédentes.</para>
+
+          <figure xml:id="exampledecidingclarify">
+            <title>Comprendre : comprendre la proposition</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Pictures/10000201000003C000000248F71E5AC51DF9A20C.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -2945,7 +3019,8 @@ sur la méthode de prise de décision</emphasis></literallayout>
                   <para>certains groupes préfèrent exécuter deux tours
                   distincts : l'un pour les « réactions émotionnelles »,
                   l'autre, orienté vers les solutions, pour améliorer la
-                  proposition (voir figure 108).</para>
+                  proposition (voir figure 108 (<xref
+                  linkend="ExpertboxBarbara"/>)).</para>
                 </listitem>
               </itemizedlist>
 
@@ -2957,15 +3032,6 @@ sur la méthode de prise de décision</emphasis></literallayout>
               <para><emphasis role="strong">Terminé quand : </emphasis>tout le
               monde a pu exprimer sa ou ses réactions à la proposition.</para>
             </informalfigure></para>
-
-          <para><inlinemediaobject>
-              <imageobject>
-                <imagedata fileref="Pictures/10000201000003C000000248F71E5AC51DF9A20C.png"/>
-              </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>107 : Comprendre : comprendre la
-          proposition</emphasis></para>
 
           <para>Notons que la mesure de la compréhension de la proposition ne
           consiste pas à savoir si tout le monde est d'accord avec la
@@ -3047,19 +3113,22 @@ sur la méthode de prise de décision</emphasis></literallayout>
 
                 <listitem>
                   <para>si quelque chose émerge et se construit, et que nous
-                  voulons l'explorer (voir encadré 108).</para>
+                  voulons l'explorer (voir encadré 108 (<xref
+                  linkend="ExpertboxBarbara"/>)).</para>
                 </listitem>
               </itemizedlist>
             </listitem>
           </itemizedlist>
 
-          <para><inlinemediaobject>
+          <figure xml:id="ExpertboxBarbara">
+            <title>Ce que les autres disent</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BD00000150533992C21400200B.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>108 : Ce que les autres disent </emphasis></para>
+            </mediaobject>
+          </figure>
 
           <para>Nous préférons que les membres du cercle ne passent pas leur
           tour pendant la période de réaction<indexterm>
@@ -3077,30 +3146,50 @@ sur la méthode de prise de décision</emphasis></literallayout>
           demeure important de s'assurer que chacun a été bien entendu.
           Cependant, il est utile que les déclarations restent brèves et
           pertinentes, car il est plus efficace de consacrer du temps à
-          répondre aux objections. L'exemple 109 montre un tour de réaction
-          rapide<indexterm>
+          répondre aux objections. L'exemple 109 (<xref
+          linkend="exampledecidingquickreactions"/>) montre un tour de
+          réaction rapide<indexterm>
               <primary>tour de réactions</primary>
 
               <secondary>exemple de tour de réaction</secondary>
-            </indexterm>, et sa variante 110 se dirigeant vers une
-          objection.</para>
+            </indexterm>, et sa variante 110 (<xref
+          linkend="exampledecidingquickreactionswithobjection"/>) se dirigeant
+          vers une objection.</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="exampledecidingquickreactions">
+            <title>Comprendre : explorer les réactions rapides</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BB0000011B182E472E1E276120.png"/>
               </imageobject>
-            </inlinemediaobject></para>
+            </mediaobject>
+          </figure>
 
-          <para><emphasis>109 : Comprendre : explorer les réactions rapides
-          </emphasis></para>
+          <figure xml:id="exampledecidingquickreactionswithobjection">
+            <title>Exemple d'une réaction rapide face à une
+            objection.<indexterm>
+                <primary>objection</primary>
 
-          <para>Notons comment, dans l’exemple 110, le membre du cercle résume
-          le problème en une seule phrase. L’éventuel objecteur sait qu'il
-          sera entendu plus tard, donc une seule phrase suffit pour que tout
-          le monde ait une idée de ce qui se passe. Dire simplement « je vais
-          faire objection » sans donner de contexte peut être déstabilisant
-          dans un groupe ; mais ce n'est pas non plus la bonne place pour dire
-          plus que quelques phrases — alors soyons brefs !</para>
+                <secondary>exemples d'objections</secondary>
+              </indexterm></title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Pictures/10000201000003BE0000012B75D654E2F4235FE4.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
+
+          <para>Notons comment, dans l’exemple 110 (<xref
+          linkend="exampledecidingquickreactionswithobjection"/>), le membre
+          du cercle résume le problème en une seule phrase. L’éventuel
+          objecteur sait qu'il sera entendu plus tard, donc une seule phrase
+          suffit pour que tout le monde ait une idée de ce qui se passe. Dire
+          simplement « je vais faire objection » sans donner de contexte peut
+          être déstabilisant dans un groupe ; mais ce n'est pas non plus la
+          bonne place pour dire plus que quelques phrases — alors soyons brefs
+          !</para>
 
           <para>Remarquons également que le cercle poursuit le processus -
           entendre que quelqu'un va faire une objection n'arrête pas le tour.
@@ -3111,19 +3200,6 @@ sur la méthode de prise de décision</emphasis></literallayout>
             </indexterm>, en espérant que le membre du cercle émettra une
           objection et que le groupe profitera de la discussion des objections
           une par une.</para>
-
-          <para><inlinemediaobject>
-              <imageobject>
-                <imagedata fileref="Pictures/10000201000003BE0000012B75D654E2F4235FE4.png"/>
-              </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>110 : Exemple d'une réaction rapide face à une
-          objection.<indexterm>
-              <primary>objection</primary>
-
-              <secondary>exemples d'objections</secondary>
-            </indexterm></emphasis></para>
         </section>
 
         <section>
@@ -3290,17 +3366,20 @@ sur la méthode de prise de décision</emphasis></literallayout>
           une contre-proposition, il faut être encore plus vigilant. (Voir la
           section 5.5.3, page x, sur les contre-propositions).</para>
 
-          <para>Dans l'exemple 111, le cas est simple - seul un petit
-          amendement doit être examiné et le facilitateur décide de passer au
-          tour de consentement.</para>
+          <para>Dans l'exemple 111 (<xref
+          linkend="exampledecidingreviewamendments"/>), le cas est simple -
+          seul un petit amendement doit être examiné et le facilitateur décide
+          de passer au tour de consentement.</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="exampledecidingreviewamendments">
+            <title>111 : Synthétiser les réactions</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BC000000A50B75877FEBF93A51.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>111 : Synthétiser les réactions </emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -3327,13 +3406,15 @@ sur la méthode de prise de décision</emphasis></literallayout>
             </listitem>
           </itemizedlist>
 
-          <para><inlinemediaobject>
+          <figure xml:id="understandexploredecidewithstepsCB">
+            <title>La phase de consentement</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003C0000000CFF70CD0D4FD28F2B4.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>112 : La phase de consentement </emphasis></para>
+            </mediaobject>
+          </figure>
 
           <para>Même si toutes les étapes peuvent être brèves, il importe d’en
           être conscient.e et de les parcourir rapidement, et de manière
@@ -3371,18 +3452,20 @@ sur la méthode de prise de décision</emphasis></literallayout>
                 </indexterm>.</para>
             </informalfigure></para>
 
-          <para>Dans l'exemple 113, le facilitateur fait référence à la
-          version écrite de la proposition et ajoute oralement un
-          amendement.</para>
+          <para>Dans l'exemple 113 (<xref
+          linkend="exampledecidingrestateproposal"/>), le facilitateur fait
+          référence à la version écrite de la proposition et ajoute oralement
+          un amendement.</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="exampledecidingrestateproposal">
+            <title>Exploration : reformulation de la proposition</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003B8000000BCA8150407CFC3C38A.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>113 : Exploration : reformulation de la proposition
-          </emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -3467,8 +3550,9 @@ sur la méthode de prise de décision</emphasis></literallayout>
               monde a donné son consentement ou émis une objection.</para>
             </informalfigure></para>
 
-          <para>L'exemple 114 montre à quoi ressemble un tour de consentement
-          simple sans objection, et avec objection.<indexterm>
+          <para>L'exemple 114 (<xref linkend="exampledecidingconsentround"/>)
+          montre à quoi ressemble un tour de consentement simple sans
+          objection, et avec objection.<indexterm>
               <primary>tour de consentement</primary>
 
               <secondary>exemple d'un tour de consentement sans
@@ -3480,14 +3564,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
             </indexterm> Comme dans l'exemple de droite, terminons le tour de
           consentement en écoutant chaque membre.</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="exampledecidingconsentround">
+            <title>Explorer : tour de consentement « sans objection » et
+            « avec objection »</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BF000000D6F5461C13C1854950.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>114 : Explorer : tour de consentement « sans
-          objection » et « avec objection »</emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -3503,7 +3589,8 @@ sur la méthode de prise de décision</emphasis></literallayout>
               reconnaître le consentement ou les objections.</para>
 
               <para><emphasis role="strong">Outils : </emphasis>reconnaître le
-              consentement ou les objections (voir illustration 115).</para>
+              consentement ou les objections (voir illustration 115 (<xref
+              linkend="exampledecidingacknowledgedecision"/>)).</para>
 
               <itemizedlist>
                 <listitem>
@@ -3526,29 +3613,35 @@ sur la méthode de prise de décision</emphasis></literallayout>
               décision par consentement est prise.</para>
             </informalfigure></para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="exampledecidingacknowledgedecision">
+            <title>Explorer : le consentement a-t-il été donné ? Reconnaître
+            et célébrer une décision prise ou une objection.</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003C2000000AB9EF0CEA88C23E605.png"/>
               </imageobject>
-            </inlinemediaobject></para>
+            </mediaobject>
+          </figure>
+        </section>
 
-          <para><emphasis>115 : Explorer : le consentement a-t-il été donné ?
-          Reconnaître et célébrer une décision prise ou une objection.
-          </emphasis></para>
+        <section>
+          <title>Communiquer la décision</title>
 
-          <para><emphasis role="strong">Communiquer la décision
-          </emphasis>Communiquer une décision est une étape essentielle pour
-          la transparence et l'efficacité. Trop souvent, les groupes omettent
-          de transmettre leur décision. Pour être efficace, la décision doit
-          être connue et implantée.</para>
+          <para>Communiquer une décision est une étape essentielle pour la
+          transparence et l'efficacité. Trop souvent, les groupes omettent de
+          transmettre leur décision. Pour être efficace, la décision doit être
+          connue et implantée.</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="understandexploredecidewithstepsCC">
+            <title>La phase de communication</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BE000000C0D6F077989D6ACFB7.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>116 : La phase de communication </emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -3596,29 +3689,32 @@ sur la méthode de prise de décision</emphasis></literallayout>
               préparé.</para>
             </informalfigure></para>
 
-          <para>L'exemple 117 montre une politique complète prête à être
-          intégrée dans un journal de bord<indexterm>
+          <para>L'exemple 117 (<xref linkend="exampleoutputpreparepolicy"/>)
+          montre une politique complète prête à être intégrée dans un journal
+          de bord<indexterm>
               <primary>journal de bord</primary>
-            </indexterm>, et l’exemple 118 fournit une liste de
-          vérification.</para>
+            </indexterm>, et l’exemple 118 (<xref linkend="completepolicy"/>)
+          fournit une liste de vérification.</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="exampleoutputpreparepolicy">
+            <title>Exemple d'une politique complète</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BF000001AD90617B32E068FC53.png"/>
               </imageobject>
-            </inlinemediaobject></para>
+            </mediaobject>
+          </figure>
 
-          <para><emphasis>117 : Exemple d'une politique complète
-          </emphasis></para>
+          <figure xml:id="completepolicy">
+            <title>Liste de vérification pour une politique</title>
 
-          <para><inlinemediaobject>
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BC000001C14B0FC6A8849F2CB0.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>118 : Liste de vérification pour une
-          politique</emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -3674,7 +3770,8 @@ sur la méthode de prise de décision</emphasis></literallayout>
 
                     <secondary>check-list pour une politique</secondary>
                   </indexterm>, assurons-nous qu'elle est complète. La liste
-                de vérification (illustration 118) sur la page X, montre les
+                de vérification (illustration 118 (<xref
+                linkend="completepolicy"/>)) sur la page X, montre les
                 informations dont nous pouvons avoir besoin ;</para>
               </listitem>
 
@@ -3717,16 +3814,27 @@ sur la méthode de prise de décision</emphasis></literallayout>
           <primary>processus axé sur l'évaluation</primary>
         </indexterm>
 
-        <para>Le tableau 119 à la page X donne un aperçu du processus complet.
-        Sauter des phases ou des étapes entières entraînera souvent
-        trébuchements, confusions et frustrations, car nous oublions d'écouter
-        lorsque nous nous précipitons dans un processus. Le rétablissement de
-        la confiance (que nous appelons parfois le « nettoyage émotionnel »)
-        peut prendre beaucoup de temps ou, pire encore, ne jamais se produire,
-        épuiser les gens et se transformer en souffrance
-        socio-émotionnelle<indexterm>
+        <para>Le tableau 119 (<xref linkend="decision-makingtoolsmeasures"/>)
+        à la page X donne un aperçu du processus complet. Sauter des phases ou
+        des étapes entières entraînera souvent trébuchements, confusions et
+        frustrations, car nous oublions d'écouter lorsque nous nous
+        précipitons dans un processus. Le rétablissement de la confiance (que
+        nous appelons parfois le « nettoyage émotionnel ») peut prendre
+        beaucoup de temps ou, pire encore, ne jamais se produire, épuiser les
+        gens et se transformer en souffrance socio-émotionnelle<indexterm>
             <primary>dette socio-émotionnelle</primary>
           </indexterm>.</para>
+
+        <figure xml:id="decision-makingtoolsmeasures">
+          <title>Comprendre-explorer-décider avec des étapes brèves, outils et
+          mesures</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BE0000020CD2A885DD0496A93C.png"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
 
         <para>Si nous restons concentrés sur l'intention et l'évaluation de
         chaque étape, nous serons en mesure d'avancer dans le processus
@@ -3734,15 +3842,6 @@ sur la méthode de prise de décision</emphasis></literallayout>
         n’évitera peut-être pas les détours, mais savoir où nous voulons aller
         et où nous sommes rendus nous aide à arriver ensemble à
         destination.</para>
-
-        <para><inlinemediaobject>
-            <imageobject>
-              <imagedata fileref="Pictures/10000201000003BE0000020CD2A885DD0496A93C.png"/>
-            </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>119: Comprendre-explorer-décider avec des étapes
-        brèves, outils et mesures </emphasis></para>
       </section>
     </section>
   </section>
@@ -3925,31 +4024,35 @@ sur la méthode de prise de décision</emphasis></literallayout>
         <primary>amendement</primary>
       </indexterm> et préparée pour entrer dans la phase de décision.</para>
 
-    <para><inlinemediaobject>
+    <figure xml:id="understandexploredecidewithstepsCwithobjection">
+      <title>Les objections renvoient le cercle dans une boucle supplémentaire
+      avant de reprendre le processus - cette fois avec une compréhension
+      encore meilleure du sujet et une meilleure proposition sur la
+      table.</title>
+
+      <mediaobject>
         <imageobject>
           <imagedata fileref="Pictures/10000201000003BD0000011B43CA4F329F11256F.png"/>
         </imageobject>
-      </inlinemediaobject></para>
-
-    <para><emphasis>120 : Les objections renvoient le cercle dans une boucle
-    supplémentaire avant de reprendre le processus - cette fois avec une
-    compréhension encore meilleure du sujet et une meilleure proposition sur
-    la table. </emphasis></para>
+      </mediaobject>
+    </figure>
 
     <section>
       <title>Comprendre</title>
 
-      <para><inlinemediaobject>
+      <figure xml:id="objectionstepsAA">
+        <title>Comprendre une objection<indexterm>
+            <primary>objection</primary>
+
+            <secondary>exemples d'objections</secondary>
+          </indexterm></title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C0000000C5C47B7AA9D15832F9.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>121 : Comprendre une objection<indexterm>
-          <primary>objection</primary>
-
-          <secondary>exemples d'objections</secondary>
-        </indexterm></emphasis></para>
+        </mediaobject>
+      </figure>
 
       <section>
         <title>Comprendre la ou les objections :</title>
@@ -4083,7 +4186,8 @@ sur la méthode de prise de décision</emphasis></literallayout>
 
         <informalfigure role="process">
           <para><emphasis role="strong">Intention :</emphasis> synthétiser et
-          voir la nécessité d'amender la proposition (voir p. X).</para>
+          voir la nécessité d'amender la proposition (voir <xref
+          linkend="exampledecidingseekingunderstanding2"/> p. X).</para>
 
           <para><emphasis role="strong">Outils :</emphasis> Le facilitateur
           (ou un membre désigné du cercle) synthétise l'objection telle
@@ -4103,14 +4207,25 @@ sur la méthode de prise de décision</emphasis></literallayout>
       d'une proposition, mais cette fois, nous travaillons à l'amélioration
       d'une proposition existante.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="objectionstepsBB">
+        <title>Explorer les options pour améliorer la politique</title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C0000000C5FF01844BDD12A808.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>122 : Explorer les options pour améliorer la politique
-      </emphasis></para>
+      <figure xml:id="exampledecidingseekingunderstanding2">
+        <title>Chercher à comprendre une objection (3 étapes)</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003B5000002C5AA2E972AA8F298AA.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
 
       <section>
         <title>Comprendre la portée des amendements</title>
@@ -4146,17 +4261,6 @@ sur la méthode de prise de décision</emphasis></literallayout>
           monde comprend quelles parties de la proposition sont
           concernées.</para>
         </blockquote>
-
-        <blockquote>
-          <para><inlinemediaobject>
-              <imageobject>
-                <imagedata fileref="Pictures/10000201000003B5000002C5AA2E972AA8F298AA.png"/>
-              </imageobject>
-            </inlinemediaobject></para>
-        </blockquote>
-
-        <para><emphasis>123 : Chercher à comprendre une objection (3 étapes)
-        </emphasis></para>
       </section>
 
       <section>
@@ -4234,6 +4338,17 @@ sur la méthode de prise de décision</emphasis></literallayout>
           <para><emphasis role="strong">Terminé quand</emphasis> : une
           proposition amendée est rédigée.</para>
         </informalfigure>
+
+        <figure xml:id="exampledecidingobjections1">
+          <title>Trouver des amendements pour répondre à une
+          objection.</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003C3000002DA93A0259BF1969F52.png"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
       </section>
     </section>
 
@@ -4262,6 +4377,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
       dans presque tous les contextes. Il est utile que le facilitateur ou
       d'autres personnes nomment les différentes options :</para>
 
+      <figure xml:id="modifytheproposal">
+        <title>Modifier une proposition</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C00000018284EF7994810A786F.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
       <section>
         <title>Modifier la proposition</title>
 
@@ -4275,7 +4400,8 @@ sur la méthode de prise de décision</emphasis></literallayout>
         pour intégrer l'objection. Les options de révision du contenu sont
         innombrables et spécifiques à votre contexte. Nous ne pouvons pas
         lister ici toutes les façons dont on peut modifier une proposition.
-        L’encadré 125 donne un aperçu de quelques exemples possibles.</para>
+        L’encadré 125 (<xref linkend="modifytheproposal"/>) donne un aperçu de
+        quelques exemples possibles.</para>
       </section>
 
       <section>
@@ -4297,15 +4423,6 @@ sur la méthode de prise de décision</emphasis></literallayout>
         expérimenter et à innover. La question passe de « Devrions-nous
         abandonner cette proposition ? » à « Serait-elle <emphasis>assez sûre
         pour essayer</emphasis> pendant 3 mois ? 4 mois ?». </para>
-
-        <para><inlinemediaobject>
-            <imageobject>
-              <imagedata fileref="Pictures/10000201000003C3000002DA93A0259BF1969F52.png"/>
-            </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>124 : Trouver des amendements pour répondre à une
-        objection. </emphasis></para>
       </section>
 
       <section>
@@ -4376,14 +4493,6 @@ sur la méthode de prise de décision</emphasis></literallayout>
             revue de la politique.</para>
           </informalexample></para>
 
-        <para><inlinemediaobject>
-            <imageobject>
-              <imagedata fileref="Pictures/10000201000003C00000018284EF7994810A786F.png"/>
-            </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>125 : Modifier une proposition </emphasis></para>
-
         <para>Un principe important des cercles sociocratiques est que nous ne
         voulons pas perdre de temps à spéculer sur ce qui pourrait arriver.
         Nous trouvons le moyen de tester. Puisque nous évaluons la
@@ -4392,21 +4501,23 @@ sur la méthode de prise de décision</emphasis></literallayout>
         également compter les inscriptions, les plaintes, les clients ou les
         ventes. Tout ce qui ne peut pas être comptabilisé peut encore faire
         l'objet d'une enquête : membres, personnel, participants aux ateliers,
-        hôtes, clients. L'encadré 126 est un exemple de diminution de la durée
-        de la politique, couplée à une évaluation qui mesure si des
-        inquiétudes ressortent. Un opposant à la proposition peut donner son
-        consentement dès lors que nous prenons ses préoccupations au sérieux
-        et que nous mettons en place de bonnes mesures.</para>
+        hôtes, clients. L'encadré 126 (<xref linkend="measuretheconcern"/>)
+        est un exemple de diminution de la durée de la politique, couplée à
+        une évaluation qui mesure si des inquiétudes ressortent. Un opposant à
+        la proposition peut donner son consentement dès lors que nous prenons
+        ses préoccupations au sérieux et que nous mettons en place de bonnes
+        mesures.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="measuretheconcern">
+          <title>Évaluer les préoccupations et raccourcir la durée de la
+          politique pour répondre à une objection.</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BC00000140A8F8CB1F0B86537E.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>126 : Évaluer les préoccupations et raccourcir la
-        durée de la politique pour répondre à une objection.
-        </emphasis></para>
+          </mediaobject>
+        </figure>
 
         <para>Un groupe expérimenté sera capable de combiner différentes
         options d'amendement. Essayons toujours d’y aller d’un pas en avant.
@@ -4487,8 +4598,8 @@ sur la méthode de prise de décision</emphasis></literallayout>
     gagner du temps. Par exemple, la proposition pourrait être la suivante :
     « Je propose que la tâche de rester en liaison avec notre parrain
     financier fasse partie des tâches du coordinateur de ce secteur pour les
-    deux prochaines années, et qu'Aliyah remplisse ce rôle pendant 6 mois ».
-    </para>
+    deux prochaines années, et qu'Aliyah remplisse ce rôle pendant 6
+    mois ».</para>
 
     <para>Les deux décisions seront assorties d'une durée. La création d'un
     rôle est une décision qui doit être réexaminée régulièrement, notamment
@@ -4593,14 +4704,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
           liste ci-dessous présente les dimensions les plus courantes pour la
           création d'un rôle. Adaptez-la à votre situation.</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="dimensionsroles">
+            <title>Liste des dimensions les plus courantes lors de la création
+            d'un rôle</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BE000001BE29E694F20F08187A.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>127 : Liste des dimensions les plus courantes lors
-          de la création d'un rôle</emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -4713,20 +4826,21 @@ sur la méthode de prise de décision</emphasis></literallayout>
       proposition. (3) En dernier lieu, nous prenons une décision sur la
       proposition. S'il y a des objections, nous les traitons jusqu'à ce que
       tout le monde puisse donner son consentement à la proposition. La figure
-      128 en est un résumé.</para>
+      128 (<xref linkend="selectionprocess"/>) en est un résumé.</para>
 
       <para>Les lecteurs qui souhaitent comprendre plus en profondeur les
       étapes d'un processus de sélection sont invités à consulter les tableaux
       200 et 201 aux pages X et Y.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="selectionprocess">
+        <title>Étapes complètes d'un processus de sélection</title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BF000000BD20094B8B4781612E.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>128 : Étapes complètes d'un processus de sélection
-      </emphasis></para>
+        </mediaobject>
+      </figure>
 
       <para>Nous appelons souvent les élections des sélections pour éviter
       l'association entre élections et vote. En sociocratie, nous ne votons
@@ -4767,14 +4881,15 @@ sur la méthode de prise de décision</emphasis></literallayout>
           <secondary>phase comprendre</secondary>
         </indexterm>
 
-        <para><inlinemediaobject>
+        <figure xml:id="understandexploredecideelections">
+          <title>La phase comprendre du processus de sélection</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BB000000D2C5CFA7B65FDE7FAB.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>129 : La phase comprendre du processus de sélection
-        </emphasis></para>
+          </mediaobject>
+        </figure>
 
         <section>
           <title>Revoir le rôle</title>
@@ -4957,11 +5072,12 @@ sur la méthode de prise de décision</emphasis></literallayout>
               <primary>qualité</primary>
 
               <secondary>pour les rôles (exemples)</secondary>
-            </indexterm> propose une liste possible des quatre rôles liés au
-          processus. Notons qu'il s'agit d'exemples. Chaque
-          organisation/cercle pourrait établir des priorités très différentes
-          ! Chaque groupe doit compiler sa propre liste, la tenir à jour et
-          l'adapter en fonction des besoins.<indexterm>
+            </indexterm> (<xref linkend="qualifications"/>) propose une liste
+          possible des quatre rôles liés au processus. Notons qu'il s'agit
+          d'exemples. Chaque organisation/cercle pourrait établir des
+          priorités très différentes ! Chaque groupe doit compiler sa propre
+          liste, la tenir à jour et l'adapter en fonction des
+          besoins.<indexterm>
               <primary>facilitateur</primary>
 
               <secondary>qualités du facilitateur</secondary>
@@ -4979,14 +5095,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
               <secondary>qualités d'un délégué</secondary>
             </indexterm></para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="qualifications">
+            <title>Exemples de qualités pour les leaders, facilitateurs,
+            secrétaires et délégués</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003C2000002629A516CD14352FBC5.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>130 : Exemples de qualités pour les leaders,
-          facilitateurs, secrétaires et délégués</emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -5001,13 +5119,13 @@ sur la méthode de prise de décision</emphasis></literallayout>
           <para>Il est important de terminer ce processus par un tour de
           consentement. S'il y a une objection, nous l'explorons et voyons si
           nous pouvons trouver un ensemble de qualités auxquelles tout le
-          monde peut consentir. Par exemple, dans l’encadré 130, l'élément
-          « membre de longue date » pour la personne délégué n'est pas
-          nécessairement une qualité à laquelle tout le monde consent.
-          Quelqu'un aurait pu suggérer cela et le faire inscrire sur la liste,
-          mais nous devons encore voir si tout le monde peut y consentir : «
-          Pourquoi voulons-nous que quelqu'un qui est un membre de longue date
-          soit délégué(e) ? ».</para>
+          monde peut consentir. Par exemple, dans l’encadré 130 (<xref
+          linkend="qualifications"/>), l'élément « membre de longue date »
+          pour la personne délégué n'est pas nécessairement une qualité à
+          laquelle tout le monde consent. Quelqu'un aurait pu suggérer cela et
+          le faire inscrire sur la liste, mais nous devons encore voir si tout
+          le monde peut y consentir : « Pourquoi voulons-nous que quelqu'un
+          qui est un membre de longue date soit délégué(e) ? ».</para>
 
           <para>En conséquence, nous pourrions décider que nous voulons un
           facilitateur qui n'a que peu d'expérience sur le poste parce que,
@@ -5084,14 +5202,15 @@ sur la méthode de prise de décision</emphasis></literallayout>
         permettant qu’elles se construisent en se reliant les unes aux
         autres.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="understandexploredecideelections2">
+          <title>Phase explorer : processus de sélection</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BB000000D249BC18C63DD7ABDC.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>131 : Phase explorer : processus de sélection
-        </emphasis></para>
+          </mediaobject>
+        </figure>
 
         <section>
           <title>Noter les nominations</title>
@@ -5145,26 +5264,29 @@ sur la méthode de prise de décision</emphasis></literallayout>
           <para>Certains facilitateurs aiment rassembler les feuilles de
           nomination pour mieux savoir qui a proposé qui. Nous préférons quant
           à nous utiliser une grille pour avoir une idée de la ou des
-          nominations de chacun.e, comme dans le document 132.</para>
+          nominations de chacun.e, comme dans le document 132 (<xref
+          linkend="nominationgrid0"/>).</para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="nominationgrid0">
+            <title>Grille pour les tours de nomination et de
+            confirmation<indexterm>
+                <primary>tour de confirmation</primary>
+              </indexterm><indexterm>
+                <primary>tour de parole</primary>
+
+                <secondary>tour de confirmation</secondary>
+              </indexterm><indexterm>
+                <primary>sélection</primary>
+
+                <secondary>tour de confirmation</secondary>
+              </indexterm></title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BD0000012B00AFC46539FB9077.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>132 : Grille pour les tours de nomination et de
-          confirmation<indexterm>
-              <primary>tour de confirmation</primary>
-            </indexterm><indexterm>
-              <primary>tour de parole</primary>
-
-              <secondary>tour de confirmation</secondary>
-            </indexterm><indexterm>
-              <primary>sélection</primary>
-
-              <secondary>tour de confirmation</secondary>
-            </indexterm></emphasis></para>
+            </mediaobject>
+          </figure>
         </section>
 
         <section>
@@ -5227,14 +5349,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
                 </indexterm> de son choix et ses raisons.</para>
             </informalfigure></para>
 
-          <para><inlinemediaobject>
+          <figure xml:id="nominationgrid1">
+            <title>Grille après le tour de nomination (et avant le tour de
+            confirmation)</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BD0000012B36D3E7725A2EC731.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>133 : Grille après le tour de nomination (et avant
-          le tour de confirmation) </emphasis></para>
+            </mediaobject>
+          </figure>
 
           <para>Voici quelques exemples de ce que pourrait être une nomination
           pour la sélection d'un facilitateur :</para>
@@ -5343,14 +5467,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
               partagées.</para>
             </informalfigure></para>
 
-          <para><inlinemediaobject>
+          <figure>
+            <title>Un exemple de raison convaincante au cours d'un processus
+            de sélection.</title>
+
+            <mediaobject>
               <imageobject>
                 <imagedata fileref="Pictures/10000201000003BE000001A5689C6BAE9D7D59C7.png"/>
               </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>134 : Un exemple de raison convaincante au cours
-          d'un processus de sélection. </emphasis></para>
+            </mediaobject>
+          </figure>
 
           <para>Voyons comment le processus de sélection plus haut pourrait se
           poursuivre :</para>
@@ -5397,6 +5523,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
           regarde cette grille, de préférence écrite pour que tout le monde la
           voie. Les nominations et les raisons qui ont été partagées serviront
           de base à l'étape suivante.</para>
+
+          <figure xml:id="nominationgrid2">
+            <title>Grille après le tour de confirmation</title>
+
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="Pictures/10000201000003BD0000012BDC002419DC229F43.png"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
         </section>
       </section>
 
@@ -5412,6 +5548,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
         <para>Cette dernière phase consiste à synthétiser le processus de
         sélection en une décision. Un candidat est proposé, nous effectuons un
         tour de consentement et reconnaissons la décision.</para>
+
+        <figure xml:id="understandexploredecideelections3">
+          <title>Phase Décider : processus de sélection</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BB000000D2A22984D9127AC635.png"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
 
         <section>
           <title>Le facilitateur propose un candidat</title>
@@ -5461,24 +5607,6 @@ sur la méthode de prise de décision</emphasis></literallayout>
               <para><emphasis role="strong">Terminé quand :</emphasis> un.e
               candidat.e a été proposé.e pour une durée déterminée.</para>
             </informalfigure></para>
-
-          <para><inlinemediaobject>
-              <imageobject>
-                <imagedata fileref="Pictures/10000201000003BD0000012BDC002419DC229F43.png"/>
-              </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>135 : Grille après le tour de confirmation
-          </emphasis></para>
-
-          <para><inlinemediaobject>
-              <imageobject>
-                <imagedata fileref="Pictures/10000201000003BB000000D2A22984D9127AC635.png"/>
-              </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>136 : Phase Décider : processus de sélection
-          </emphasis></para>
         </section>
 
         <section>
@@ -5631,10 +5759,10 @@ sur la méthode de prise de décision</emphasis></literallayout>
         nomme XZY dans le rôle de… parce que… et… dans le rôle de délégué(e)
         parce que… » </emphasis>et ainsi de suite.</para>
 
-        <para>Le tableau 137 montre comment on dessine la grille pour un
-        processus de sélection multiple et simultanée, dans ce cas pour le
-        facilitateur, le secrétaire et le délégué(e). Le tour de confirmation
-        du choix<indexterm>
+        <para>Le tableau 137 (<xref linkend="complexselection"/>) montre
+        comment on dessine la grille pour un processus de sélection multiple
+        et simultanée, dans ce cas pour le facilitateur, le secrétaire et le
+        délégué(e). Le tour de confirmation du choix<indexterm>
             <primary>tour de confirmation</primary>
           </indexterm><indexterm>
             <primary>tour de parole</primary>
@@ -5651,14 +5779,16 @@ sur la méthode de prise de décision</emphasis></literallayout>
         d’abord et de se concentrer ensuite sur l'élection qui nécessite plus
         d'attention.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="complexselection">
+          <title>Tableau du tour de nomination et du tour de confirmation pour
+          trois rôles.</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003C000000185A126654926D4E166.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>137 : Tableau du tour de nomination et du tour de
-        confirmation pour trois rôles. </emphasis></para>
+          </mediaobject>
+        </figure>
       </section>
 
       <section>
@@ -6165,8 +6295,8 @@ sur la méthode de prise de décision</emphasis></literallayout>
         le problème du vote à la majorité est que dans son résultat, jusqu'à
         49 p. cent des votes sont ignorés.</para>
 
-        <para>L’illustration 138 montre comment une décision de
-        consentement<indexterm>
+        <para>L’illustration 138 (<xref linkend="votingvsconsent"/>) montre
+        comment une décision de consentement<indexterm>
             <primary>vote majoritaire</primary>
 
             <secondary>consentement en opposé au vote majoritaire</secondary>
@@ -6193,14 +6323,15 @@ sur la méthode de prise de décision</emphasis></literallayout>
           </indexterm>, le vote par approbation, la méthode Borda ou d’autres
         approches.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="votingvsconsent">
+          <title>Vote majoritaire versus vote par consentement ?</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BE000001AA48E73C6D17D0E647.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>138 : Vote majoritaire versus vote par consentement ?
-        </emphasis></para>
+          </mediaobject>
+        </figure>
       </section>
 
       <section>
@@ -6224,12 +6355,33 @@ sur la méthode de prise de décision</emphasis></literallayout>
             <secondary>consentement en opposé au vote majoritaire</secondary>
           </indexterm>, nous devons en savoir un peu plus. Quelle est
         l'histoire sous-jacente ? Y a-t-il des objections de part et d'autre,
-        comme dans l’illustration 139 <emphasis>Scénario 1</emphasis>, ou
-        avons-nous réellement le consentement des deux candidats, comme dans
-        l’illustration 140 <emphasis>Scénario 2</emphasis> ? Dans
-        l’illustration 139, la proposition du candidat A nous permettra
-        d'obtenir le consentement, tandis que la proposition du candidat B
-        suscitera des objections.</para>
+        comme dans l’illustration 139 <emphasis>Scénario 1</emphasis> (<xref
+        linkend="votingvsconsenttie"/>), ou avons-nous réellement le
+        consentement des deux candidats, comme dans l’illustration 140
+        <emphasis>Scénario 2</emphasis> ? Dans l’illustration 139, la
+        proposition du candidat A nous permettra d'obtenir le consentement,
+        tandis que la proposition du candidat B suscitera des
+        objections.</para>
+
+        <figure xml:id="votingvsconsenttie">
+          <title>Scénario 1</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BC000001AA75F0C90AC1C9203D.png"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+
+        <figure xml:id="votingvsconsenttie2">
+          <title>Scénario 2</title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BF000001A839C36C42677F4E38.png"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
 
         <para>La tâche du facilitateur<indexterm>
             <primary>facilitateur</primary>
@@ -6266,25 +6418,6 @@ sur la méthode de prise de décision</emphasis></literallayout>
         avoir le soutien total de leur cercle — c'est un cadeau. S’attendre à
         ce que les décisions soient équitables — et non pas constater qu'il y
         a égalité — rend les choses difficiles.</para>
-
-        <para><inlinemediaobject>
-            <imageobject>
-              <imagedata fileref="Pictures/10000201000003BC000001AA75F0C90AC1C9203D.png"/>
-            </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>139 : Scénario 1 </emphasis></para>
-
-        <para><inlinemediaobject>
-            <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF000001A839C36C42677F4E38.png"/>
-            </imageobject>
-          </inlinemediaobject></para>
-
-        <literallayout><emphasis>
-</emphasis></literallayout>
-
-        <para><emphasis>140 : Scénario 2 </emphasis></para>
 
         <para>Par ailleurs, nous ne rendons pas service à l'organisation —
         c'est-à-dire à nous-mêmes — si nous ne prenons pas de décision ou si
@@ -6589,13 +6722,15 @@ sur la méthode de prise de décision</emphasis></literallayout>
       garder à l'esprit les processus de sélection comme une autre
       option.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="Stephaneexpertbox">
+        <title>Ce que disent les autres</title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BE000000E2CA4A0C16E3589C17.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>141 : Ce que disent les autres</emphasis></para>
+        </mediaobject>
+      </figure>
     </section>
   </section>
 </chapter>

@@ -641,41 +641,54 @@
       créons des sous-cercles et leur transmettons une partie des
       buts/domaines du Cercle Général.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="metamorphosis">
+        <title>Cycle de vie initial d’une nouvelle organisation commençant
+        avec un groupe de travail</title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000002470000020093F3094C30E86380.png"/>
           </imageobject>
-        </inlinemediaobject><inlinemediaobject>
+
+          <caption>
+            <para>Tout le monde décide des politiques ; tout le monde fait
+            tout</para>
+          </caption>
+        </mediaobject>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/1000020100000246000001FD25DC50670A70E17C.png"/>
           </imageobject>
-        </inlinemediaobject><inlinemediaobject>
+
+          <caption>
+            <para>Tout le monde décide des politiques ; différenciation au
+            niveau opérationnel</para>
+          </caption>
+        </mediaobject>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/1000020100000247000001FE6C5971DAB1AB64E9.png"/>
           </imageobject>
-        </inlinemediaobject></para>
 
-      <para>a) Tout le monde décide des politiques ; tout le monde fait
-      tout.</para>
+          <caption>
+            <para>Différenciation dans les décisions sur les politiques ;
+            différenciation au niveau opérationne</para>
+          </caption>
+        </mediaobject>
+      </figure>
 
-      <para> (b) Tout le monde décide des politiques ; différenciation au
-      niveau opérationnel. </para>
-
-      <para> (c) Différenciation dans les décisions sur les politiques ;
-      différenciation au niveau opérationnel.</para>
-
-      <para>185: Cycle de vie initial d’une nouvelle organisation commençant
-      avec un groupe de travail</para>
-
-      <para>Le schéma 185 montre comment une organisation peut débuter avec un
-      seul cercle. C’est, par exemple, le cas de 6 personnes qui se
-      réunissent, forment un groupe et décident de créer une entreprise. Au
-      début, elles peuvent plus ou moins toutes effectuer les mêmes tâches.
-      Rapidement, cependant, elles vont avoir chacune des domaines d’activité
-      selon leur préférence ou leur expertise. Une fait le marketing, une
-      autre crée le site web, une troisième écrit le pitch pour trouver des
-      investisseurs, deux autres créent le produit. Elles continuent
-      éventuellement à prendre toutes les décisions stratégiques<indexterm>
+      <para>Le schéma 185 (<xref linkend="metamorphosis"/>) montre comment une
+      organisation peut débuter avec un seul cercle. C’est, par exemple, le
+      cas de 6 personnes qui se réunissent, forment un groupe et décident de
+      créer une entreprise. Au début, elles peuvent plus ou moins toutes
+      effectuer les mêmes tâches. Rapidement, cependant, elles vont avoir
+      chacune des domaines d’activité selon leur préférence ou leur expertise.
+      Une fait le marketing, une autre crée le site web, une troisième écrit
+      le pitch pour trouver des investisseurs, deux autres créent le produit.
+      Elles continuent éventuellement à prendre toutes les décisions
+      stratégiques<indexterm>
           <primary>décision</primary>
 
           <secondary>adoption d'une politique</secondary>
@@ -708,8 +721,9 @@
       au classique “syndrome des fondateurs”<indexterm>
           <primary>syndrome des fondateurs</primary>
         </indexterm>. Les fondateurs doivent lâcher prise sinon ils vont
-      inhiber la croissance. L’organisation du schéma 185 réussit à former des
-      cercles par département<indexterm>
+      inhiber la croissance. L’organisation du schéma 185 (<xref
+      linkend="metamorphosis"/>) réussit à former des cercles par
+      département<indexterm>
           <primary>cercle</primary>
 
           <secondary>cercle de département</secondary>
@@ -745,14 +759,15 @@
       exemples et un formulaire de contact pour interroger SoFA sur des
       organisations sociocratiques existantes du même type.)</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="aimstocircle">
+        <title>Former des cercles découlant de vos objectifs </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BF0000026B2926519DAAC9D6F6.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>186: Former des cercles découlant de vos objectifs
-      </emphasis></para>
+        </mediaobject>
+      </figure>
 
       <para>Si vous partez de zéro, alors commencez avec le but en
       tête<indexterm>
@@ -908,7 +923,8 @@
           <para>Les mêmes membres du CG seront les membres du CM. Cela peut
           marcher, cependant l’une de ces personnes devra s’assurer que le
           groupe consacre assez de temps à la réflexion globale. Les
-          stratégies sont (illustrations dans le diagramme 187a) :</para>
+          stratégies sont (illustrations dans le diagramme 187a (<xref
+          linkend="TCGCpatterns1"/>)) :</para>
 
           <itemizedlist>
             <listitem>
@@ -959,7 +975,7 @@
           perspective externe. Quand les arbres juste devant nous font en
           sorte qu’il est difficile de voir la forêt, les perspectives des
           membres extérieurs du Cercle Mission peuvent être utiles. (Voir
-          diagramme 187b)</para>
+          diagramme 187b (<xref linkend="TCGCpatterns2"/>))</para>
         </listitem>
 
         <listitem>
@@ -968,7 +984,7 @@
           groupe venant d’un contexte très horizontal où il y a du scepticisme
           sur le fait que le Cercle Mission puisse travailler dans l’intérêt
           de l’organisation, ou que le CM dérive vers une attitude de “pouvoir
-          sur”. (voir diagramme 187c)</para>
+          sur”. (voir diagramme 187c (<xref linkend="TCGCpatterns3"/>))</para>
         </listitem>
 
         <listitem>
@@ -984,7 +1000,8 @@
 
               <see>leader</see>
             </indexterm>, et une personne déléguée du Cercle Général est le
-          lien ascendant dans le Cercle Mission (voir diagramme 187)</para>
+          lien ascendant dans le Cercle Mission (voir diagramme 187 (<xref
+          linkend="TCGCpatterns4"/>))</para>
         </listitem>
 
         <listitem>
@@ -995,21 +1012,56 @@
         </listitem>
       </orderedlist>
 
-      <para><inlinemediaobject>
+      <figure>
+        <title>Débuts d’une jeune organisation commençant avec un groupe de
+        travail I</title>
+
+        <mediaobject xml:id="TCGCpatterns1">
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BD000002114688031C479734C0.png"/>
           </imageobject>
-        </inlinemediaobject><inlinemediaobject>
+
+          <caption>
+            <para>CG = CM</para>
+          </caption>
+        </mediaobject>
+
+        <mediaobject xml:id="TCGCpatterns2">
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C0000002140331A421EA023633.png"/>
           </imageobject>
-        </inlinemediaobject></para>
 
-      <para><emphasis>(a) CG = CM (b) le CG avec au moins un membre
-      supplémentaire forme le CM </emphasis></para>
+          <caption>
+            <para>Le CG avec au moins un membre supplémentaire forme le
+            CM</para>
+          </caption>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>187: Débuts d’une jeune organisation commençant avec un
-      groupe de travail I</emphasis></para>
+      <figure xml:id="TCGCpatterns4">
+        <title>Débuts d’une jeune organisation commençant avec un groupe de
+        travail II</title>
+
+        <mediaobject xml:id="TCGCpatterns3">
+          <imageobject>
+            <imagedata fileref="Pictures/100002010000029B000002B2A2203BEA0F8E8D2C.png"/>
+          </imageobject>
+
+          <caption>
+            <para>CG et CM sont liés avec un triple lien</para>
+          </caption>
+        </mediaobject>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BD000002B228EEC21B63DF1A53.png"/>
+          </imageobject>
+
+          <caption>
+            <para>CG et CM sont distincts et reliés par un double lien</para>
+          </caption>
+        </mediaobject>
+      </figure>
 
       <para>Si une organisation commence avec un Conseil d’Administration /
       Cercle Mission<indexterm>
@@ -1023,7 +1075,7 @@
           <primary>cercle général</primary>
         </indexterm> (Directeur Exécutif ou PDG, selon le type d’organisation)
       pour former une équipe de travail. C’est ce qui est montré dans le
-      diagramme 189a.</para>
+      diagramme 189a (<xref linkend="metamorphosisTopDown1"/>).</para>
 
       <para>Si l’organisation grandit, le Cercle Général créera des cercles de
       département, leur assignera des buts et des domaines, et nommera des
@@ -1035,33 +1087,53 @@
       sociocratie dans les nouvelles organisations en section 6.4., page
       xx.</para>
 
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/100002010000029B000002B2A2203BEA0F8E8D2C.png"/>
-          </imageobject>
-        </inlinemediaobject><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/10000201000003BD000002B228EEC21B63DF1A53.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
+      <figure xml:id="ExpertboxJuttaJohn1">
+        <title>Ce que d’autres disent<emphasis role="strong">
+        </emphasis></title>
 
-      <para><emphasis>(c) CG et CM sont liés avec un triple lien
-      </emphasis></para>
-
-      <para><emphasis>(d) CG et CM sont distincts et reliés par un double lien
-      </emphasis></para>
-
-      <para><emphasis>187: Débuts d’une jeune organisation commençant avec un
-      groupe de travail II </emphasis></para>
-
-      <para><inlinemediaobject>
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C0000001541B8EF957F07A584E.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>188 : Ce que d’autres disent</emphasis><emphasis
-      role="strong"> </emphasis></para>
+      <figure xml:id="TCGCpatterns">
+        <title>Débuts d’une jeune organisation commençant par un Cercle
+        Mission</title>
+
+        <mediaobject xml:id="metamorphosisTopDown1">
+          <imageobject>
+            <imagedata fileref="Pictures/1000020100000154000002BBEB932D2F690BCDCB.png"/>
+          </imageobject>
+
+          <caption>
+            <para>Le CM forme le CG en nommant un leader de CG </para>
+          </caption>
+        </mediaobject>
+
+        <mediaobject xml:id="metamorphosisTopDown2">
+          <imageobject>
+            <imagedata fileref="Pictures/100002010000021B000002BC9F3ED786A13CCE28.png"/>
+          </imageobject>
+
+          <caption>
+            <para>Le CG forme des cercles de travail en nommant des leaders de
+            cercles de département</para>
+          </caption>
+        </mediaobject>
+
+        <mediaobject xml:id="metamorphosisTopDown">
+          <imageobject>
+            <imagedata fileref="Pictures/1000020100000208000002B318F424003AF088D2.png"/>
+          </imageobject>
+
+          <caption>
+            <para>Les cercles de département sont entièrement formés et reliés
+            au CG</para>
+          </caption>
+        </mediaobject>
+      </figure>
     </section>
 
     <section>
@@ -1104,40 +1176,6 @@
       arrive avant le moment de l'implantation pour que tout et tout le monde
       soit prêt à commencer. Un certain niveau de chaos accompagne tout
       changement organisationnel.</para>
-
-      <orderedlist numeration="loweralpha">
-        <listitem>
-          <para><emphasis>Le CM forme le CG en nommant un leader de CG
-          </emphasis><inlinemediaobject>
-              <imageobject>
-                <imagedata fileref="Pictures/1000020100000154000002BBEB932D2F690BCDCB.png"/>
-              </imageobject>
-            </inlinemediaobject></para>
-        </listitem>
-      </orderedlist>
-
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/100002010000021B000002BC9F3ED786A13CCE28.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>(b) Le CG forme des cercles de travail en nommant des
-      leaders de cercles de département</emphasis></para>
-
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/1000020100000208000002B318F424003AF088D2.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
-
-      <blockquote>
-        <para><emphasis>(c) Les cercles de département sont entièrement formés
-        et reliés au CG</emphasis></para>
-      </blockquote>
-
-      <para><emphasis>189: Débuts d’une jeune organisation commençant par un
-      Cercle Mission </emphasis></para>
 
       <itemizedlist>
         <listitem>
@@ -1205,12 +1243,23 @@
       le processus de sélection pour sélectionner le premier facilitateur
       ?).</para>
 
-      <para>Le tableau 190 en page xxx montre comment les processus et outils
-      sociocratiques se complètent les uns les autres – les pièces du puzzle.
-      Le tableau présume que les organisations existantes auront déjà des
-      facilitateurs, des buts et une méthode de prise de décision. Note : le
-      tableau n’est <emphasis>pas</emphasis> une carte recommandée pour
-      l'implantation de la sociocratie.</para>
+      <figure xml:id="flowchart">
+        <title>Comment certains éléments de la sociocratie se complètent les
+        uns les autres</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BC000005552139B78081AEEC4C.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
+      <para>Le tableau 190 (<xref linkend="flowchart"/>) en page xxx montre
+      comment les processus et outils sociocratiques se complètent les uns les
+      autres – les pièces du puzzle. Le tableau présume que les organisations
+      existantes auront déjà des facilitateurs, des buts et une méthode de
+      prise de décision. Note : le tableau n’est <emphasis>pas</emphasis> une
+      carte recommandée pour l'implantation de la sociocratie.</para>
 
       <para>Il y a un danger dans les implantations partielles et
       incrémentales. Certaines personnes pourraient être déçues par une
@@ -1261,15 +1310,6 @@
     fait quoi et qui décide quoi, et non sur qui est payé pour son travail.
     Que les bénévoles dans une organisation mixte soient ou non décisionnaires
     dépendra de leur degré d’implication.</para>
-
-    <para><inlinemediaobject>
-        <imageobject>
-          <imagedata fileref="Pictures/10000201000003BC000005552139B78081AEEC4C.png"/>
-        </imageobject>
-      </inlinemediaobject></para>
-
-    <para><emphasis>190: Comment certains éléments de la sociocratie se
-    complètent les uns les autres</emphasis></para>
 
     <para>Si nous pouvons “recruter” une personne bénévole, pouvons-nous
     également la “renvoyer” ? Il découle des principes généraux de
@@ -1423,14 +1463,16 @@
     s’ennuyer. Les conversations sur la permaculture pourraient ne pas être
     pertinentes pour les organisateurs d’événements.</para>
 
-    <para><inlinemediaobject>
+    <figure xml:id="tinyorg">
+      <title>Une organisation minuscule : un petit nombre de personnes
+      réparties entre plusieurs cercles </title>
+
+      <mediaobject>
         <imageobject>
           <imagedata fileref="Pictures/10000201000003C300000226063B46681B5F448D.png"/>
         </imageobject>
-      </inlinemediaobject></para>
-
-    <para><emphasis>191: Une organisation minuscule : un petit nombre de
-    personnes réparties entre plusieurs cercles </emphasis></para>
+      </mediaobject>
+    </figure>
 
     <para>L’avantage de se diviser en cercles est de maintenir la pertinence
     de chaque réunion et d’établir une politique dans un groupe qui porte
@@ -1465,14 +1507,15 @@
     structure parfaitement claire, ce sera moins le cas et les personnes se
     sentiront plus confiantes pour la rejoindre.</para>
 
-    <para><inlinemediaobject>
+    <figure>
+      <title>Un membre unique dans un sous-cercle</title>
+
+      <mediaobject>
         <imageobject>
           <imagedata fileref="Pictures/10000201000003BD000001193399FA2BACE7240A.png"/>
         </imageobject>
-      </inlinemediaobject></para>
-
-    <para><emphasis>192: Un membre unique dans un
-    sous-cercle</emphasis></para>
+      </mediaobject>
+    </figure>
 
     <para>Dans les organisations de très petite taille, il y a une tendance à
     avoir des cercles qui n’ont qu’un seul membre. Cela pose un problème :
@@ -2016,20 +2059,21 @@
         qu’il n’existe pas de possibilité d’essai pour des systèmes de
         gouvernance comme la sociocratie.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="implementationpolicy">
+          <title>Exemple de proposition d’implantation. </title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003B9000000C7706234BFAC830739.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>193: Exemple de proposition d’implantation.
-        </emphasis></para>
+          </mediaobject>
+        </figure>
 
         <para>Au lieu d’une période d’essai, faites une proposition comme dans
-        le schéma 193. Voilà quelque chose que nous avons appris par
-        l’expérience. En référence aux préconditions du consentement : la
-        sociocratie demande la volonté de parler jusqu’à ce que les objections
-        soient intégrées<indexterm>
+        le schéma 193 (<xref linkend="implementationpolicy"/>). Voilà quelque
+        chose que nous avons appris par l’expérience. En référence aux
+        préconditions du consentement : la sociocratie demande la volonté de
+        parler jusqu’à ce que les objections soient intégrées<indexterm>
             <primary>objection</primary>
 
             <secondary>volonté d'intégrer les objections</secondary>
@@ -3022,14 +3066,16 @@
         retours trop rarement, nous risquons de passer à côté de bonnes
         informations. C'est toujours un équilibre.</para>
 
-        <para><inlinemediaobject>
+        <figure xml:id="toolittletoomuch">
+          <title>Trop d'information noie les gens; trop peu d'information
+          n'alimente pas assez </title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BF000000E24FBEC2D6BE4D7600.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>194: Trop d'information noie les gens; trop peu
-        d'information n'alimente pas assez </emphasis></para>
+          </mediaobject>
+        </figure>
 
         <para>Nous devons aussi trouver une combinaison qui fonctionne en ce
         qui concerne le canal et la fréquence que nous utilisons pour diffuser
@@ -3306,17 +3352,20 @@
           <secondary>commentaires en direct durant la facilitation</secondary>
         </indexterm> pendant les réunions. Par exemple, si nous avons une
       élection, cela aide si le facilitateur donne des explications sur ce qui
-      est en train de se passer. Voir l'exemple dans le schéma 195, avec tous
-      les <emphasis>commentaires en direct</emphasis> en gras.</para>
+      est en train de se passer. Voir l'exemple dans le schéma 195 (<xref
+      linkend="livecommentary"/>), avec tous les <emphasis>commentaires en
+      direct</emphasis> en gras.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="livecommentary">
+        <title>Un processus de sélection avec des éléments de "commentaire en
+        direct" à visée éducative </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C1000001B5A57B99DEEABA38A7.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>195: Un processus de sélection avec des éléments de
-      "commentaire en direct" à visée éducative </emphasis></para>
+        </mediaobject>
+      </figure>
 
       <para>Dans un groupe peu expérimenté, ce style pourrait être très utile.
       Chaque élément d’information est fourni exactement au moment nécessaire.

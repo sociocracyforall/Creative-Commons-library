@@ -423,19 +423,21 @@
         </listitem>
       </itemizedlist>
 
-      <para><inlinemediaobject>
+      <figure>
+        <title>Outils qui incarnent nos principes; nos besoins universels les
+        plus fondamentaux sont satisfaits en alignement avec les systèmes
+        vivants.<indexterm>
+            <primary>système vivant</primary>
+
+            <secondary>valeurs d'un système vivant</secondary>
+          </indexterm></title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BF000002517C3DC69B0D387663.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para>2 : Outils qui incarnent nos principes; nos besoins universels les
-      plus fondamentaux sont satisfaits en alignement avec les systèmes
-      vivants.<indexterm>
-          <primary>système vivant</primary>
-
-          <secondary>valeurs d'un système vivant</secondary>
-        </indexterm></para>
+        </mediaobject>
+      </figure>
 
       <para>Ce livre décrit un ensemble d'outils qui peuvent aider à mettre en
       œuvre les principes que nous avons cités. Pour utiliser les outils avec
@@ -497,13 +499,15 @@
       connus, nous décidons collectivement de la façon la plus efficace de
       répondre à ces besoins, dans le respect des limites existantes.</para>
 
-      <para><inlinemediaobject>
+      <figure>
+        <title>Définition du terme équivalence</title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BB000000EC922220F609C8AA7C.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <literallayout><emphasis>3 : Définition du terme équivalence</emphasis></literallayout>
+        </mediaobject>
+      </figure>
 
       <para>Honorer les besoins<indexterm>
           <primary>besoins</primary>
@@ -527,6 +531,16 @@
       nous aide à rétablir cette unité en restant connectés, pour travailler,
       décider et grandir ensemble.</para>
 
+      <figure>
+        <title>Définition du terme efficacité</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BF000000B2D9AACC744E305160.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
       <para>La sociocratie élimine l'idée fausse que l'efficacité doit
       s'obtenir au détriment de l'équivalence et qu'une plus grande
       équivalence va ralentir une organisation. Les outils sociocratiques
@@ -546,14 +560,6 @@
 
           <secondary>intégré l'équivalence et l'efficacité</secondary>
         </indexterm></para>
-
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/10000201000003BF000000B2D9AACC744E305160.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
-
-      <literallayout><emphasis>4 : Définition du terme efficacité</emphasis></literallayout>
     </section>
 
     <section>
@@ -825,14 +831,15 @@
       principes et que la plupart des ajustements que nous avons constatés ont
       été préjudiciables.</para>
 
-      <para><inlinemediaobject>
+      <figure>
+        <title>Comment prononcer le terme “sociocratie”</title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003B9000000A63FB8BE242D08895C.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>5: Comment prononcer le terme
-      “sociocratie”</emphasis></para>
+        </mediaobject>
+      </figure>
     </section>
   </section>
 
@@ -1044,14 +1051,15 @@
         en dressant une liste de citations originales de personnes déclarant
         ce que la sociocratie signifie pour elles.</para>
 
-        <para><inlinemediaobject>
+        <figure>
+          <title>La voix des participants en formation</title>
+
+          <mediaobject>
             <imageobject>
               <imagedata fileref="Pictures/10000201000003BC0000020EE8EC7BBCDE5A5B71.png"/>
             </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>6 : La voix des participants en
-        formation</emphasis></para>
+          </mediaobject>
+        </figure>
       </section>
     </section>
 
@@ -1228,17 +1236,18 @@
       ou dont nous avons connaissance, car nous voulons que toute information
       qui pourrait être utile aux autres soit accessible à tous.</para>
 
-      <para><inlinemediaobject>
+      <figure>
+        <title>7 : Contenu en ligne par Sociocracy For All<footnote>
+            <para><emphasis>NDLR : Le contenu en ligne est en cours de
+            traduction par l’équipe bénévole de SoFra.</emphasis></para>
+          </footnote></title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C000000230725AF02AD9935FA4.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para>7 : Contenu en ligne par <emphasis>Sociocracy For
-      All</emphasis><footnote>
-          <para><emphasis>NDLR : Le contenu en ligne est en cours de
-          traduction par l’équipe bénévole de SoFra.</emphasis></para>
-        </footnote></para>
+        </mediaobject>
+      </figure>
 
       <para><emphasis>Sociocracy For All</emphasis> (SoFA) a pour vocation
       l'accessibilité. Nous pensons que les compétences et les connaissances
@@ -1290,12 +1299,16 @@
       pourrions améliorer à son sujet). Nous invitons les lecteurs à remplir
       le sondage à tout moment. Merci d'avance !</para>
 
-      <para><inlinemediaobject>
+      <figure>
+        <title>Écrivez-nous vos commentaires sur ce livre à
+        <emphasis>info.sofra@sociocracyforall.org</emphasis></title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BC0000027F0FC20C67EE5E27A9.png"/>
           </imageobject>
-        </inlinemediaobject>8 : Écrivez-nous vos commentaires sur ce livre à
-      <emphasis>info.sofra@sociocracyforall.org</emphasis></para>
+        </mediaobject>
+      </figure>
     </section>
   </section>
 </chapter>

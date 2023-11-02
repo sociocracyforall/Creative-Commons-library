@@ -92,20 +92,22 @@
     auteurs de ce livre, après des années d'expérience préalable de la
     sociocratie, avec pour mission de diffuser largement la sociocratie afin
     que tout le monde - <emphasis>tout le monde !</emphasis> - en bénéficie.
-    Notre structure de cercles actuelle est présentée dans la figure
-    196.</para>
+    Notre structure de cercles actuelle est présentée dans la figure 196
+    (<xref linkend="SoFAcircles"/>).</para>
 
-    <para><inlinemediaobject>
+    <figure xml:id="SoFAcircles">
+      <title>La structure organisationnelle de SoFA (en date de début juin
+      2018). Notez que, surtout au niveau des sous-cercles, il continue d'y
+      avoir des changements, car nous continuons à intégrer de nouvelles
+      personnes et de nouveaux projets, et à ajuster la structure pour
+      répondre au mieux à nos besoins.</title>
+
+      <mediaobject>
         <imageobject>
           <imagedata fileref="Pictures/10000201000003C0000002D038E6AD80CFBA0107.png"/>
         </imageobject>
-      </inlinemediaobject></para>
-
-    <para><emphasis>196 : La structure organisationnelle de SoFA (en date de
-    début juin 2018). Notez que, surtout au niveau des sous-cercles, il
-    continue d'y avoir des changements, car nous continuons à intégrer de
-    nouvelles personnes et de nouveaux projets, et à ajuster la structure pour
-    répondre au mieux à nos besoins.</emphasis></para>
+      </mediaobject>
+    </figure>
 
     <para>Les membres de SoFA ont beaucoup d'idées et de projets en cours de
     réalisation, sur lesquels nous travaillons déjà au moment où vous lisez ce
@@ -468,8 +470,9 @@
 
       <itemizedlist>
         <listitem>
-          <para>La feuille de réunion (voir page xxx) en haute résolution et
-          avec des traductions en différentes langues.</para>
+          <para>La feuille de réunion (<xref linkend="meetingsheet"/>) (voir
+          page xxx) en haute résolution et avec des traductions en différentes
+          langues.</para>
         </listitem>
 
         <listitem>
@@ -482,7 +485,8 @@
 
         <listitem>
           <para>Les versions numériques de la liste des sentiments et de la
-          liste des besoins (voir page xxx).</para>
+          liste des besoins (voir page xxx (<xref
+          linkend="feelingsneedslist"/>)).</para>
         </listitem>
 
         <listitem>
@@ -496,155 +500,192 @@
       <para>Veuillez consulter www.manyvoicesonesong.com pour accéder à ces
       ressources.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="feelingsneedslist">
+        <title>Liste des sentiments et des besoins</title>
+
+        <para>Obtenez une image en haute résolution sur notre site web <link
+        xlink:href="http://www.manyvoicesonesong.com"><emphasis>www.manyvoicesonesong.com</emphasis></link><emphasis>.</emphasis></para>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BC000004D9FB33F20F4A878928.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis> 197 : Liste des sentiments et des besoins. Obtenez une
-      image en haute résolution sur notre site web </emphasis><link
-      xlink:href="http://www.manyvoicesonesong.com"><emphasis>www.manyvoicesonesong.com</emphasis></link><emphasis>.</emphasis></para>
+      <figure xml:id="feedbackformsheet">
+        <title>Un exemple de formulaire de rétroaction</title>
 
-      <para><inlinemediaobject>
+        <para>Obtenez une image en haute résolution sur notre site web
+        www.manyvoicesonesong.com.</para>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C4000004C90D055E8A90FA5A02.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>198 : Un exemple de formulaire de rétroaction. Obtenez
-      une image en haute résolution sur notre site web
-      www.manyvoicesonesong.com.</emphasis></para>
+      <figure xml:id="meetingsheet">
+        <title>Feuille de réunion pour les animateurs</title>
 
-      <para><inlinemediaobject>
+        <para>Obtenez une image en haute résolution sur notre site web <link
+        xlink:href="http://www.manyvoicesonesong.com"><emphasis>www.manyvoicesonesong.com</emphasis></link><emphasis>.</emphasis></para>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/100002010000032100000474C19CBDDD8BE4F539.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>199 : Feuille de réunion pour les animateurs. Obtenez
-      une image en haute résolution sur notre site web </emphasis><link
-      xlink:href="http://www.manyvoicesonesong.com"><emphasis>www.manyvoicesonesong.com</emphasis></link><emphasis>.</emphasis></para>
+      <figure xml:id="selectionprocess3x3">
+        <title>Matrice 3x3 pour le processus de sélection<indexterm>
+            <primary>sélection</primary>
 
-      <para><inlinemediaobject>
+            <secondary>matrice 3x3 pour le processus de sélection</secondary>
+          </indexterm></title>
+
+        <para>Dans cette matrice, vous pouvez voir chaque étape utilisée dans
+        le processus de sélection dans le contexte de
+        l'entrée-transformation-sortie et comprendre - explorer - décider.
+        Chaque étape est accompagnée d'une citation afin de rendre plus
+        tangible ce qu'elle implique.</para>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C3000001EF4D28460F0BA8E5FF.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>200 : matrice 3x3 pour le processus de
-      sélection<indexterm>
-          <primary>sélection</primary>
+      <figure xml:id="selectionprocess3x3withskit">
+        <title>Matrice 3x9 pour le processus de sélection avec
+        scénario<indexterm>
+            <primary>sélection</primary>
 
-          <secondary>matrice 3x3 pour le processus de sélection</secondary>
-        </indexterm> : Dans cette matrice, vous pouvez voir chaque étape
-      utilisée dans le processus de sélection dans le contexte de
-      l'entrée-transformation-sortie et comprendre - explorer - décider.
-      Chaque étape est accompagnée d'une citation afin de rendre plus tangible
-      ce qu'elle implique.</emphasis></para>
+            <secondary>exemple d'une sélection</secondary>
+          </indexterm></title>
 
-      <para><inlinemediaobject>
+        <para>Il s'agit d'une version plus détaillée de 200 - le niveau de
+        détail le plus raisonnable pour le processus de sélection. Les
+        colonnes de 200 sont maintenant disposées verticalement pour faciliter
+        la lecture. Chaque étape du schéma 200 se décompose maintenant en
+        trois étapes (orientation-exécution-évaluation). Nous avons également
+        ajouté les déclarations de cadrage pour chaque partie, telles qu'elles
+        se présenteraient en langage naturel.</para>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C0000003D1980D824CF4C6DB7E.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>201 : Matrice 3x9 pour le processus de sélection avec
-      scénario<indexterm>
-          <primary>sélection</primary>
+      <figure xml:id="policyprocess3x3">
+        <title>Matrice 3x3 pour le processus de décision des
+        politiques<indexterm>
+            <primary>processus d'élaboration des politiques</primary>
 
-          <secondary>exemple d'une sélection</secondary>
-        </indexterm> : Il s'agit d'une version plus détaillée de 200 - le
-      niveau de détail le plus raisonnable pour le processus de sélection. Les
-      colonnes de 200 sont maintenant disposées verticalement pour faciliter
-      la lecture. Chaque étape du schéma 200 se décompose maintenant en trois
-      étapes (orientation-exécution-évaluation). Nous avons également ajouté
-      les déclarations de cadrage pour chaque partie, telles qu'elles se
-      présenteraient en langage naturel.</emphasis></para>
+            <secondary>matrice 3x3 processus d'élaboration des
+            politiques</secondary>
+          </indexterm></title>
 
-      <para><inlinemediaobject>
+        <para>Dans cette matrice, vous pouvez voir chaque étape utilisée dans
+        le processus d’élaboration et de décision des politiques. 203 (<xref
+        linkend="consentprocess3x3"/>) est le tableau plus détaillé du dernier
+        tiers de ce tableau.</para>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C1000001EC8D3B8DCB27408E16.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>202 : matrice 3x3 pour le processus de décision des
-      politiques<indexterm>
-          <primary>processus d'élaboration des politiques</primary>
+      <figure xml:id="consentprocess3x3">
+        <title>Matrice 3x3 pour le processus de consentement<indexterm>
+            <primary>processus de consentement</primary>
 
-          <secondary>matrice 3x3 processus d'élaboration des
-          politiques</secondary>
-        </indexterm> : Dans cette matrice, vous pouvez voir chaque étape
-      utilisée dans le processus d’élaboration et de décision des politiques.
-      203 est le tableau plus détaillé du dernier tiers de ce tableau.
-      </emphasis></para>
+            <secondary>matrice 3x3 processus de décision par
+            consentement</secondary>
+          </indexterm></title>
 
-      <para><inlinemediaobject>
+        <para>Dans cette matrice, vous pouvez voir chaque étape utilisée dans
+        le processus d’élaboration et de décision des politiques. Il s'agit de
+        la version plus détaillée du dernier tiers de 202 (<xref
+        linkend="policyprocess3x3"/>).</para>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C1000001ECB6782E0C3C26E0AB.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>203 : Matrice 3x3 pour le processus de
-      consentement<indexterm>
-          <primary>processus de consentement</primary>
+      <figure xml:id="policyprocess3x3withskit">
+        <title>Matrice 3x9 pour le processus de politique avec
+        scénario</title>
 
-          <secondary>matrice 3x3 processus de décision par
-          consentement</secondary>
-        </indexterm> : Dans cette matrice, vous pouvez voir chaque étape
-      utilisée dans le processus d’élaboration et de décision des politiques.
-      Il s'agit de la version plus détaillée du dernier tiers de
-      202.</emphasis></para>
+        <para>Il s'agit du processus de la compréhension du besoin, de
+        l’élaboration de la politique et de décision sur la politique. Le
+        dernier tiers, le processus de décision, est présenté de manière plus
+        détaillée dans le tableau 205 (<xref
+        linkend="consentprocess3x3withskit"/>), page xx.</para>
 
-      <para><inlinemediaobject>
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C0000003D19A901FBFE6C96336.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>204 : Matrice 3x9 pour le processus de politique avec
-      scénario : il s'agit du processus de la compréhension du besoin, de
-      l’élaboration de la politique et de décision sur la politique. Le
-      dernier tiers, le processus de décision, est présenté de manière plus
-      détaillée dans le tableau 205, page xx.</emphasis></para>
+      <figure xml:id="consentprocess3x3withskit">
+        <title>Matrice 3x9 pour le processus d'élaboration des politiques avec
+        scénario :</title>
 
-      <para><inlinemediaobject>
+        <para>Il s'agit d'une version plus détaillée du dernier tiers du
+        document 204 (<xref linkend="policyprocess3x3withskit"/>). Notez le
+        niveau de détail nécessaire dans le processus de prise de décision. La
+        phase de production peut être beaucoup plus simple dans une petite
+        organisation.</para>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C0000003D17878D77CFA263F21.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>205 : Matrice 3x9 pour le processus d'élaboration des
-      politiques avec scénario : Il s'agit d'une version plus détaillée du
-      dernier tiers du document 204. Notez le niveau de détail nécessaire dans
-      le processus de prise de décision. La phase de production peut être
-      beaucoup plus simple dans une petite organisation.</emphasis></para>
+      <figure xml:id="objectionsprocess3x3">
+        <title>Matrice 3x3 pour le traitement des objections<indexterm>
+            <primary>objection</primary>
 
-      <para><inlinemediaobject>
+            <secondary>matrice 3x3 pour le traitement des
+            objections</secondary>
+          </indexterm></title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C1000001EC4E6878AF9AC522D3.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis> 206 : Matrice 3x3 pour le traitement des
-      objections<indexterm>
-          <primary>objection</primary>
+      <figure xml:id="reviewprocess3x3">
+        <title>Matrice 3x3 pour la révision de la politique<indexterm>
+            <primary>révision</primary>
 
-          <secondary>matrice 3x3 pour le traitement des objections</secondary>
-        </indexterm></emphasis></para>
+            <secondary>matrice 3x3 pour la révision de la
+            politique</secondary>
+          </indexterm></title>
 
-      <para><inlinemediaobject>
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C1000001EC41CAC39D5FAC4082.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>207 : Matrice 3x3 pour la révision de la
-      politique<indexterm>
-          <primary>révision</primary>
-
-          <secondary>matrice 3x3 pour la révision de la politique</secondary>
-        </indexterm></emphasis></para>
+        </mediaobject>
+      </figure>
     </section>
   </section>
 </chapter>

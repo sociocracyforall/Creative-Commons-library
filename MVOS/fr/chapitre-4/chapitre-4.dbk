@@ -113,34 +113,39 @@
       membre de la famille pourrait faire ressortir notre besoin d'harmonie
       comme une priorité.</para>
 
-      <para>À l’illustration 142, nous pouvons imaginer le même individu dans
-      différentes situations. La coopération est un besoin qui tend à fluctuer
-      pour cette personne, et peut être déplacée par d'autres besoins, en
-      fonction de la situation rencontrée. D'autre part, dans cet exemple, la
-      même situation vécue par des individus différents fera apparaître des
-      besoins très différents. L'idée à retenir est que les besoins sont à la
-      fois universels - partagés par tous - en même temps que très personnels
-      et situationnels.</para>
+      <para>À l’illustration 142 (<xref linkend="feelingsneeds"/>), nous
+      pouvons imaginer le même individu dans différentes situations. La
+      coopération est un besoin qui tend à fluctuer pour cette personne, et
+      peut être déplacée par d'autres besoins, en fonction de la situation
+      rencontrée. D'autre part, dans cet exemple, la même situation vécue par
+      des individus différents fera apparaître des besoins très différents.
+      L'idée à retenir est que les besoins sont à la fois universels -
+      partagés par tous - en même temps que très personnels et
+      situationnels.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="feelingsneeds">
+        <title>Des besoins différents sont prioritaires à des moments
+        différents </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BF000000F142717F322B8AD960.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>142 : Des besoins différents sont prioritaires à des
-      moments différents </emphasis></para>
+      <figure xml:id="needslist">
+        <title>Une liste partielle des besoins universels. Cette liste figure
+        également sur la feuille de réunion pour les facilitateurs dans
+        l'annexe de la page XxX et nous fournissons une liste incluant les
+        sentiments dans l'annexe de la page XxY. </title>
 
-      <para><inlinemediaobject>
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BF0000029819CC7FA05A5ABCB2.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>143 : Une liste partielle des besoins universels. Cette
-      liste figure également sur la feuille de réunion pour les facilitateurs
-      dans l'annexe de la page XxX et nous fournissons une liste incluant les
-      sentiments dans l'annexe de la page XxY. </emphasis></para>
+        </mediaobject>
+      </figure>
     </section>
 
     <section>
@@ -252,6 +257,17 @@
       m'as mis en colère »</emphasis> n'est pas une description exacte de ce
       qui se passe.</para>
 
+      <figure xml:id="feelingsneedsmessages">
+        <title>Les sentiments sont déclenchés par les messages mais ne sont
+        pas causés par eux. </title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BD00000195538F7CD9C91FB215.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
       <para>Regardons l’illustration 144. Quelque chose se passe et nous
       réagissons à ce que nous <emphasis>entendons</emphasis>, non pas à ce
       qui a été dit ou fait. Nous voyons et entendons tout à travers une part
@@ -296,15 +312,6 @@
       <emphasis>invitée</emphasis> à dire oui. Nous voulons naturellement
       contribuer et parce que nous voulons aussi avoir le choix, nous
       résistons naturellement aux exigences.</para>
-
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/10000201000003BD00000195538F7CD9C91FB215.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>144 : Les sentiments sont déclenchés par les messages
-      mais ne sont pas causés par eux. </emphasis></para>
 
       <para>La Communication NonViolente fait une distinction entre les
       demandes d'action et les demandes de connexion, ce qui est très utile à
@@ -431,24 +438,26 @@
       satisfaction de nos propres besoins. La première étape consiste donc à
       partager notre expérience.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="textcall">
+        <title>Partager son expérience en fonction des besoins. </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BD00000116A95726AA586FDB6D.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>145 : Partager son expérience en fonction des besoins.
-      </emphasis></para>
-
-      <para>Dans l'exemple 145, remarquons comment les deux personnes sont
-      capables de partager leur expérience sans étiqueter l'autre ni même y
-      référer. Une fois cette première étape de compréhension mutuelle
-      franchie, la voie est ouverte à une décision partagée. Les besoins de
-      chacun.e étant mis sur la table, on peut trouver une stratégie qui
-      fonctionne pour tout le monde. Convenir d'un moment pour parler au
-      téléphone ? Quitter le bureau pour passer un appel téléphonique lorsque
-      le collègue voisin immédiat a besoin de tranquillité ? Si le problème se
-      pose plus souvent, repenser l'espace de bureau partagé ?</para>
+      <para>Dans l'exemple 145 (<xref linkend="textcall"/>), remarquons
+      comment les deux personnes sont capables de partager leur expérience
+      sans étiqueter l'autre ni même y référer. Une fois cette première étape
+      de compréhension mutuelle franchie, la voie est ouverte à une décision
+      partagée. Les besoins de chacun.e étant mis sur la table, on peut
+      trouver une stratégie qui fonctionne pour tout le monde. Convenir d'un
+      moment pour parler au téléphone ? Quitter le bureau pour passer un appel
+      téléphonique lorsque le collègue voisin immédiat a besoin de
+      tranquillité ? Si le problème se pose plus souvent, repenser l'espace de
+      bureau partagé ?</para>
 
       <para>Nous sommes rarement à court de stratégies une fois que nous avons
       une idée claire de nos besoins. Plus nous disposons d'informations, plus
@@ -538,6 +547,16 @@
       nous a un radar très fin et peut sentir un jugement derrière tout ce qui
       est dit, même si les mots sont « gentils ».</para>
 
+      <figure xml:id="effectivefeedback">
+        <title>Rétroaction efficace</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BB000001590AFDC1452BE68727.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
+
       <para>Si cela est fait avec habileté (et reçu à cœur ouvert), exprimer
       des rétroactions les uns envers les autres peut être un moyen de
       favoriser la connexion de deux manières :</para>
@@ -570,14 +589,6 @@
           qu'<emphasis>il</emphasis> fait compte pour moi.</para>
         </listitem>
       </itemizedlist>
-
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/10000201000003BB000001590AFDC1452BE68727.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>146: Rétroaction efficace</emphasis></para>
 
       <para>N'utilisons pas les recommandations précédentes pour agir comme
       une « police » de la CNV<indexterm>
@@ -612,9 +623,24 @@
       ouvert pour faire des demandes à l'autre qui pourraient améliorer la
       communication et la connexion, à l’avenir.</para>
 
-      <para>L'encadré 147 est un exemple de formulaire de rétroaction utilisé
-      dans une organisation (légèrement modifié pour des raisons de
-      confidentialité).</para>
+      <para>L'encadré 147 (<xref linkend="feedbackform2"/>) est un exemple de
+      formulaire de rétroaction utilisé dans une organisation (légèrement
+      modifié pour des raisons de confidentialité).</para>
+
+      <figure xml:id="feedbackform2">
+        <title>Un formulaire de rétroaction. Voir page XOX pour un
+        modèle<indexterm>
+            <primary>faire un retour</primary>
+
+            <secondary>formulaire de rétroaction</secondary>
+          </indexterm></title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BE0000019B57D0556E267DB5FF.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
 
       <para>Chaque organisation peut convenir d'autres moyens pour donner (et
       recevoir) des retours. Si l'utilisation d'un formulaire de rétroaction
@@ -662,19 +688,6 @@
       incident afin de réduire l'anxiété liée à son utilisation lors de
       problèmes plus importants. Faire des retours est comme un muscle qui
       peut être entraîné. Faisons-le !</para>
-
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/10000201000003BE0000019B57D0556E267DB5FF.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>147 : Un formulaire de rétroaction. Voir page XOX pour
-      un modèle<indexterm>
-          <primary>faire un retour</primary>
-
-          <secondary>formulaire de rétroaction</secondary>
-        </indexterm></emphasis></para>
     </section>
   </section>
 
@@ -728,21 +741,23 @@
         </indexterm> — les données qu’elle fournit — peut nous dire si la
       politique réalise ce qu’elle est censée réaliser.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="requestsproposals">
+        <title>Demandes et propositions<indexterm>
+            <primary>proposition</primary>
+
+            <secondary>propositions et demandes</secondary>
+          </indexterm><indexterm>
+            <primary>demande</primary>
+
+            <secondary>propositions et demandes</secondary>
+          </indexterm> </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BB00000189EA15041D4D5ED983.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>148 : Demandes et propositions<indexterm>
-          <primary>proposition</primary>
-
-          <secondary>propositions et demandes</secondary>
-        </indexterm><indexterm>
-          <primary>demande</primary>
-
-          <secondary>propositions et demandes</secondary>
-        </indexterm> </emphasis></para>
+        </mediaobject>
+      </figure>
     </section>
 
     <section>
@@ -812,11 +827,11 @@
       <para>Lorsque quelqu’un propose une stratégie qui ne semble pas
       fonctionner pour tout le monde, c’est une excellente opportunité pour
       soulever une objection. Imaginons une proposition comme celle de
-      l'exemple 149 : au lieu de formuler calmement une objection, il peut
-      arriver que quelqu'un s'énerve. Si je crains de devoir quitter
-      l'organisation parce que je ne peux pas payer la cotisation annuelle, je
-      pourrais être triste, anxieux ou bouleversé parce que mon besoin
-      d'appartenance<indexterm>
+      l'exemple 149 (<xref linkend="textmembership"/>) : au lieu de formuler
+      calmement une objection, il peut arriver que quelqu'un s'énerve. Si je
+      crains de devoir quitter l'organisation parce que je ne peux pas payer
+      la cotisation annuelle, je pourrais être triste, anxieux ou bouleversé
+      parce que mon besoin d'appartenance<indexterm>
           <primary>appartenance (besoin)</primary>
         </indexterm><indexterm>
           <primary>besoins; exemples</primary>
@@ -826,25 +841,30 @@
       le(s) besoin(s) non satisfait(s), je pourrais m’objecter en les
       exprimant à voix haute afin qu'ils soient pris en compte.</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="textmembership">
+        <title>Une proposition et une réaction</title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C0000001182B92E05FC9E7E3A4.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>149 : Une proposition et une réaction </emphasis></para>
+      <figure xml:id="textmembership2">
+        <title>« Être bouleversé.e et pourtant être recevable dans mes
+        objections » </title>
 
-      <para><inlinemediaobject>
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003C3000001A31741FD84A5D001AF.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <literallayout><emphasis>
-150 : « Être bouleversé.e et pourtant être recevable dans mes objections » </emphasis></literallayout>
-
-      <para>Quelle est la différence entre les exemples 149 et 150 ? Dans le
-      premier cas, il n'y a pas de distance intérieure par rapport aux
+      <para>Quelle est la différence entre les exemples 149 (<xref
+      linkend="textmembership"/>) et 150 (<xref linkend="textmembership2"/>) ?
+      Dans le premier cas, il n'y a pas de distance intérieure par rapport aux
       sentiments. Ils sont interprétés comme une vérité absolue, et non comme
       des données avec lesquelles travailler. L'opportunité d'utiliser les
       sentiments comme indicateur d'un besoin est écartée, et nous devons
@@ -876,11 +896,11 @@
       cela a un coût élevé à long terme.</para>
 
       <para>Nous n'obtiendrons peut-être pas des membres du cercle une
-      contribution aussi claire que dans l'exemple 150. Mais nous pouvons
-      travailler ensemble pour y arriver. Un groupe compétent sera capable
-      d'aborder la question « quelque chose ici me rend anxieux mais je
-      n'arrive pas à mettre le doigt dessus » et devinera les besoins
-      sous-jacents.</para>
+      contribution aussi claire que dans l'exemple 150 (<xref
+      linkend="textmembership2"/>). Mais nous pouvons travailler ensemble pour
+      y arriver. Un groupe compétent sera capable d'aborder la question
+      « quelque chose ici me rend anxieux mais je n'arrive pas à mettre le
+      doigt dessus » et devinera les besoins sous-jacents.</para>
 
       <para>Un groupe plus avancé sera capable de traiter le sentiment brut,
       aidera le membre du groupe à se centrer, à identifier ses besoins et à
@@ -932,16 +952,29 @@
       qui soutiennent l'évolution : nous élaborons un plan, l’exécutons et
       évaluons ce que nous pouvons apprendre. Le pilotage s'inscrit dans
       d'innombrables boucles de type ORIENTER — EXÉCUTER — MESURER. Vous
-      trouverez quelques exemples dans l’encadré 151.</para>
+      trouverez quelques exemples dans l’encadré 151 (<xref
+      linkend="LDMexamples"/>).</para>
 
-      <para><inlinemediaobject>
+      <figure xml:id="LDMexamples">
+        <title>Exemples de boucles de rétroaction </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BC000001180FF20E92503E2E69.png"/>
           </imageobject>
-        </inlinemediaobject></para>
+        </mediaobject>
+      </figure>
 
-      <para><emphasis>151 : Exemples de boucles de rétroaction
-      </emphasis></para>
+      <figure xml:id="foreverloop">
+        <title>Les boucles ORIENTER — EXÉCUTER — MESURER opèrent de façon
+        continue alors que nous travaillons vers le but</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003B00000008C753F49892F5F40FA.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
 
       <para>La sociocratie met en évidence l'importance de la
       rétroaction<indexterm>
@@ -963,6 +996,17 @@
       avons montré comment, dans l'élaboration des politiques, un groupe peut
       passer rapidement d'une phase à l'autre en évaluant si une phase ou une
       étape est bien terminée.</para>
+
+      <figure xml:id="reviewlayers">
+        <title>ORIENTER — EXÉCUTER — MESURER se déroule à différents
+        niveaux</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003BF000000E6DEAE945D9949B0F5.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
     </section>
 
     <section>
@@ -1032,24 +1076,6 @@
       nombre variable de personnes peuvent collaborer. Nous pouvons obtenir
       l’avis de centaines de personnes, ou une proposition peut être rédigée
       par une seule personne.</para>
-
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/10000201000003B00000008C753F49892F5F40FA.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
-
-      <para>152 : Les boucles ORIENTER — EXÉCUTER — MESURER opèrent de façon
-      continue alors que nous travaillons vers le but</para>
-
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/10000201000003BF000000E6DEAE945D9949B0F5.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
-
-      <para>153 : ORIENTER — EXÉCUTER — MESURER se déroule à différents
-      niveaux </para>
 
       <para>D'une manière générale, dans le schéma
       « Comprendre-Explorer-Décider »  (également connu sous l’appellation
@@ -1205,7 +1231,7 @@
 
         <listitem>
           <para>Le cercle peut enfin demander l’apport d'un autre cercle (voir
-          l’illustration 154).</para>
+          l’illustration 154 (<xref linkend="supportsystem"/>)).</para>
 
           <itemizedlist>
             <listitem>
@@ -1238,15 +1264,16 @@
         </listitem>
       </itemizedlist>
 
-      <para><inlinemediaobject>
+      <figure xml:id="supportsystem">
+        <title>Le système de soutien interne et de rétroaction au cercle -
+        tout cercle peut être sollicité pour de l'aide. </title>
+
+        <mediaobject>
           <imageobject>
             <imagedata fileref="Pictures/10000201000003BB0000020E038EA4AB05A3BBD5.png"/>
           </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>154 : Le système de soutien interne et de rétroaction au
-      cercle - tout cercle peut être sollicité pour de l'aide.
-      </emphasis></para>
+        </mediaobject>
+      </figure>
 
       <para><inlinemediaobject>
           <imageobject>
@@ -1292,9 +1319,22 @@
 
       <para>Au cours du processus d'élaboration des politiques, il y a de bons
       moments pour inclure des voix extérieures au cercle. L’illustration 155
-      présente le processus d'élaboration des politiques. Théoriquement, nous
-      pouvons obtenir des apports tout au long du processus, à chaque étape.
-      Un cercle ne choisira de le faire que si cela est justifié.</para>
+      (<xref linkend="gettinginputfromoutside"/>) présente le processus
+      d'élaboration des politiques. Théoriquement, nous pouvons obtenir des
+      apports tout au long du processus, à chaque étape. Un cercle ne choisira
+      de le faire que si cela est justifié.</para>
+
+      <figure xml:id="gettinginputfromoutside">
+        <title>Moments pour recueillir des apports de l'extérieur du cercle
+        pendant le processus d’élaboration des politiques ; les meilleurs
+        moments sont en gras. </title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003C100000166A8F2C0D05FF1D5FC.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
 
       <itemizedlist>
         <listitem>
@@ -1502,15 +1542,6 @@
         alors elles doivent être modifiées. Cela peut se produire à tout
         moment. Si changer une politique est justifié, il n'y a aucune raison
         d'attendre sa date de révision.</para>
-
-        <para><inlinemediaobject>
-            <imageobject>
-              <imagedata fileref="Pictures/10000201000003BD000000CAF579122D8DDC4E86.png"/>
-            </imageobject>
-          </inlinemediaobject></para>
-
-        <para><emphasis>156 : Les phases « Comprendre - Explorer » appliquées
-        à la révision des politiques </emphasis></para>
       </section>
 
       <section>
@@ -1581,13 +1612,24 @@
           </listitem>
         </itemizedlist>
 
+        <figure xml:id="reviewsteps">
+          <title>Les phases « Comprendre - Explorer » appliquées à la révision
+          des politiques </title>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="Pictures/10000201000003BD000000CAF579122D8DDC4E86.png"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
+
         <para>La révision d’une politique suit les étapes familières de la
         compréhension de la politique actuelle (COMPRENDRE), de l'exploration
         des modifications possibles<indexterm>
             <primary>amendement</primary>
           </indexterm> (EXPLORER) et du consentement à la politique modifiée
-        (DÉCIDER), comme le montre le diagramme 156. Exprimer une
-        objection<indexterm>
+        (DÉCIDER), comme le montre le diagramme 156 (<xref
+        linkend="reviewsteps"/>). Exprimer une objection<indexterm>
             <primary>objection</primary>
           </indexterm> en faisant référence à un besoin donne également au
         cercle des informations sur la manière de répondre à l'objection, car
@@ -1826,14 +1868,16 @@
     décision de valider ce plan d'action par le cercle Appréciation de la
     personne-cible.</para>
 
-    <para><inlinemediaobject>
+    <figure xml:id="performancereviewArc">
+      <title>Orienter - Exécuter - Mesurer pour la revue de
+      performance</title>
+
+      <mediaobject>
         <imageobject>
           <imagedata fileref="Pictures/10000201000003BE0000014891990DD6EFCF7C70.png"/>
         </imageobject>
-      </inlinemediaobject></para>
-
-    <para><emphasis>157 : Orienter - Exécuter - Mesurer pour la revue de
-    performance</emphasis></para>
+      </mediaobject>
+    </figure>
 
     <section>
       <title>Qui fait partie du cercle de revue de performance ?</title>
@@ -1917,8 +1961,19 @@
       fonctionne exactement comme l'élaboration d'une politique, elle suit
       également le même schéma. Nous pouvons décomposer le processus selon le
       schéma habituel COMPRENDRE — EXPLORER — DÉCIDER (ENTRÉE — TRANSFORMATION
-      — SORTIE, pour la prise de décision), comme le montre l'exemple
-      158.</para>
+      — SORTIE, pour la prise de décision), comme le montre l'exemple 158
+      (<xref linkend="performancereview"/>).</para>
+
+      <figure xml:id="performancereview">
+        <title>Format par défaut d'une revue de performance si une réunion
+        entière est convoquée uniquement dans ce but.</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="Pictures/10000201000003B800000336D9034EE5A5CB9D4C.png"/>
+          </imageobject>
+        </mediaobject>
+      </figure>
 
       <para>Nous verrons que la trame de réunion pour les facilitateurs, en
       annexe à la page XxX, propose un format plus général qui peut être
@@ -1976,16 +2031,6 @@
           participant du cercle de revue de performance donne son point de vue
           sur ce que la personne-cible a bien accompli ; celle-ci prend la
           parole à la fin du tour et résume ce qu'elle a entendu.</para>
-
-          <para><inlinemediaobject>
-              <imageobject>
-                <imagedata fileref="Pictures/10000201000003B800000336D9034EE5A5CB9D4C.png"/>
-              </imageobject>
-            </inlinemediaobject></para>
-
-          <para><emphasis>158 : Format par défaut d'une revue de performance
-          si une réunion entière est convoquée uniquement dans ce
-          but.</emphasis></para>
 
           <para>Vous trouverez plus bas quelques déclarations possibles qui
           inclueraient une rétroaction efficace dans le premier tour de table,
