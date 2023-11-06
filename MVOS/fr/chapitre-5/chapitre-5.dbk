@@ -22,7 +22,7 @@
     <secondary>réunion de cercles</secondary>
   </indexterm>
 
-  <indexterm>
+  <indexterm significance="preferred">
     <primary>réunion de cercle</primary>
   </indexterm>
 
@@ -224,7 +224,7 @@
     <section>
       <title>Administratif : “ADMIN”</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>ADMIN</primary>
       </indexterm>
 
@@ -347,7 +347,7 @@
       </section>
 
       <section>
-        <title>Compte-rendu<indexterm>
+        <title>Compte-rendu<indexterm significance="preferred">
             <primary>ADMIN</primary>
 
             <secondary>compte-rendu de la réunion précédente</secondary>
@@ -497,7 +497,7 @@
 
               <secondary>exemple: phase ADMIN</secondary>
             </indexterm>Parcourir brièvement toutes les étapes de la phase
-          ADMIN. </title>
+          ADMIN.</title>
 
           <mediaobject>
             <imageobject>
@@ -661,7 +661,7 @@
       l’intelligence collective du groupe va y aider.</para>
 
       <figure xml:id="Consenttoagenda">
-        <title>Consentement sur l’ordre du jour </title>
+        <title>Consentement sur l’ordre du jour</title>
 
         <mediaobject>
           <imageobject>
@@ -704,7 +704,7 @@
     <section>
       <title>Élément de contenu : 3 résultats souhaités</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>résultat attendu</primary>
       </indexterm>
 
@@ -1096,7 +1096,7 @@
       réviser en profondeur.</para>
 
       <figure xml:id="reviewpolicy1">
-        <title>Cycle de vie des politiques </title>
+        <title>Cycle de vie des politiques</title>
 
         <mediaobject>
           <imageobject>
@@ -1194,7 +1194,7 @@
       5.4.1.)</para>
 
       <figure xml:id="examplemeasurecontent">
-        <title>Mesurer la phase de contenu de la réunion </title>
+        <title>Mesurer la phase de contenu de la réunion</title>
 
         <mediaobject>
           <imageobject>
@@ -1208,7 +1208,7 @@
   <section>
     <title>Clôture : évaluation de réunion</title>
 
-    <indexterm>
+    <indexterm significance="preferred">
       <primary>réunion</primary>
 
       <secondary>évaluation de la réunion</secondary>
@@ -1348,7 +1348,7 @@
     <title>Documents de référence : panier, ordre du jour,
     compte-rendu</title>
 
-    <indexterm>
+    <indexterm significance="preferred">
       <primary>ordre du jour</primary>
     </indexterm>
 
@@ -1365,7 +1365,7 @@
     <section>
       <title>Panier</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>panier</primary>
       </indexterm>
 
@@ -1462,8 +1462,8 @@
       la figure 171 (<xref linkend="whomakesagendaldf"/>).</para>
 
       <figure xml:id="whomakesagendaldf">
-        <title>L'ordre du jour réunit les besoins passés, futurs et présents
-        </title>
+        <title>L'ordre du jour réunit les besoins passés, futurs et
+        présents</title>
 
         <mediaobject>
           <imageobject>
@@ -1561,7 +1561,7 @@
       <section>
         <title>Sujet, durée, résultat souhaité</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>ordre du jour</primary>
         </indexterm>
 
@@ -1637,7 +1637,7 @@
         <section>
           <title>Définissez votre résultat souhaité</title>
 
-          <indexterm>
+          <indexterm significance="preferred">
             <primary>résultat attendu</primary>
           </indexterm>
 
@@ -1692,7 +1692,7 @@
     <section>
       <title>Compte-rendu de réunion</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>compte-rendu (compte-rendu d'une réunion)</primary>
       </indexterm>
 
@@ -1729,7 +1729,7 @@
         </indexterm>.</para>
 
       <figure xml:id="diagramminutes">
-        <title>Gardez vos comptes-rendus courts et pertinents </title>
+        <title>Gardez vos comptes-rendus courts et pertinents</title>
 
         <mediaobject>
           <imageobject>
@@ -1739,7 +1739,7 @@
       </figure>
 
       <figure xml:id="exampleminutes">
-        <title>Exemple de compte-rendu à rendre public. </title>
+        <title>Exemple de compte-rendu à rendre public.</title>
 
         <mediaobject>
           <imageobject>
@@ -1796,7 +1796,7 @@
     <section>
       <title>Approbation des comptes-rendus</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>compte-rendu (compte-rendu d'une réunion)</primary>
       </indexterm>
 
@@ -1907,7 +1907,7 @@
       <para>Si nous consentons à une politique lors d'une réunion, la nouvelle
       politique doit être ajoutée au document approprié (manuel de politique,
       accords organisationnels, règles et règlements) du journal de
-      bord<indexterm>
+      bord<indexterm significance="preferred">
           <primary>journal de bord</primary>
         </indexterm> de l'organisation. Les politiques ne sont utiles que si
       les gens les connaissent. Veillons à mettre en place un système de
@@ -1973,7 +1973,7 @@
     <section>
       <title>Les tours de parole</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>tour de parole</primary>
       </indexterm>
 
@@ -2194,7 +2194,7 @@
       (<xref linkend="allrounds"/>)).</para>
 
       <figure xml:id="tablerounds">
-        <title>Différents types de tours de parole et leur usage </title>
+        <title>Différents types de tours de parole et leur usage</title>
 
         <mediaobject>
           <imageobject>
@@ -2315,7 +2315,7 @@
           <see>tour de réactions</see>
         </indexterm>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>tour de réactions</primary>
         </indexterm>
 
@@ -2463,7 +2463,7 @@
       <section>
         <title>Tour de consentement</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>tour de consentement</primary>
         </indexterm>
 
@@ -2775,7 +2775,7 @@
         linkend="bubbleprocessround"/>).</para>
 
         <figure xml:id="bubbleprocessround">
-          <title>Décider ensemble du processus. </title>
+          <title>Décider ensemble du processus.</title>
 
           <mediaobject>
             <imageobject>
@@ -2940,7 +2940,7 @@
       <section>
         <title>Discussion croisée</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>discussions croisées</primary>
         </indexterm>
 

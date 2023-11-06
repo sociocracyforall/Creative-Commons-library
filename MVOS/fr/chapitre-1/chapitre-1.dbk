@@ -477,11 +477,11 @@
         <secondary>intégré l'équivalence et l'efficacité</secondary>
       </indexterm>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>équivalence</primary>
       </indexterm>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>efficacité</primary>
       </indexterm>
 

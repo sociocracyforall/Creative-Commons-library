@@ -11,7 +11,7 @@
     role="strong">feedback</emphasis></emphasis>) et apprentissages</title>
   </info>
 
-  <indexterm>
+  <indexterm significance="preferred">
     <primary>faire un retour</primary>
   </indexterm>
 
@@ -33,7 +33,7 @@
     <section>
       <title>Des besoins humains universels</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>besoins</primary>
       </indexterm>
 
@@ -125,7 +125,7 @@
 
       <figure xml:id="feelingsneeds">
         <title>Des besoins différents sont prioritaires à des moments
-        différents </title>
+        différents</title>
 
         <mediaobject>
           <imageobject>
@@ -138,7 +138,7 @@
         <title>Une liste partielle des besoins universels. Cette liste figure
         également sur la feuille de réunion pour les facilitateurs dans
         l'annexe de la page XxX et nous fournissons une liste incluant les
-        sentiments dans l'annexe de la page XxY. </title>
+        sentiments dans l'annexe de la page XxY.</title>
 
         <mediaobject>
           <imageobject>
@@ -259,7 +259,7 @@
 
       <figure xml:id="feelingsneedsmessages">
         <title>Les sentiments sont déclenchés par les messages mais ne sont
-        pas causés par eux. </title>
+        pas causés par eux.</title>
 
         <mediaobject>
           <imageobject>
@@ -302,7 +302,7 @@
     <section>
       <title>Demandes</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>demande</primary>
       </indexterm>
 
@@ -439,7 +439,7 @@
       partager notre expérience.</para>
 
       <figure xml:id="textcall">
-        <title>Partager son expérience en fonction des besoins. </title>
+        <title>Partager son expérience en fonction des besoins.</title>
 
         <mediaobject>
           <imageobject>
@@ -694,7 +694,7 @@
   <section>
     <title>La gouvernance compatissante est efficace</title>
 
-    <indexterm>
+    <indexterm significance="preferred">
       <primary>CNV (Communication NonViolente)</primary>
     </indexterm>
 
@@ -750,7 +750,7 @@
             <primary>demande</primary>
 
             <secondary>propositions et demandes</secondary>
-          </indexterm> </title>
+          </indexterm></title>
 
         <mediaobject>
           <imageobject>
@@ -853,7 +853,7 @@
 
       <figure xml:id="textmembership2">
         <title>« Être bouleversé.e et pourtant être recevable dans mes
-        objections » </title>
+        objections »</title>
 
         <mediaobject>
           <imageobject>
@@ -956,7 +956,7 @@
       linkend="LDMexamples"/>).</para>
 
       <figure xml:id="LDMexamples">
-        <title>Exemples de boucles de rétroaction </title>
+        <title>Exemples de boucles de rétroaction</title>
 
         <mediaobject>
           <imageobject>
@@ -1266,7 +1266,7 @@
 
       <figure xml:id="supportsystem">
         <title>Le système de soutien interne et de rétroaction au cercle -
-        tout cercle peut être sollicité pour de l'aide. </title>
+        tout cercle peut être sollicité pour de l'aide.</title>
 
         <mediaobject>
           <imageobject>
@@ -1327,7 +1327,7 @@
       <figure xml:id="gettinginputfromoutside">
         <title>Moments pour recueillir des apports de l'extérieur du cercle
         pendant le processus d’élaboration des politiques ; les meilleurs
-        moments sont en gras. </title>
+        moments sont en gras.</title>
 
         <mediaobject>
           <imageobject>
@@ -1614,7 +1614,7 @@
 
         <figure xml:id="reviewsteps">
           <title>Les phases « Comprendre - Explorer » appliquées à la révision
-          des politiques </title>
+          des politiques</title>
 
           <mediaobject>
             <imageobject>
@@ -1841,7 +1841,7 @@
   <section>
     <title>Revue de performance</title>
 
-    <indexterm>
+    <indexterm significance="preferred">
       <primary>revue de performance</primary>
     </indexterm>
 

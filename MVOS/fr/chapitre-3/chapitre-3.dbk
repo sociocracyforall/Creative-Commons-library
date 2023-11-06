@@ -474,7 +474,7 @@
     <section>
       <title>Le concept du consentement</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>consentement</primary>
       </indexterm>
 
@@ -532,11 +532,11 @@
     <section>
       <title>Zone de tolérance</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>zone de tolérance</primary>
       </indexterm>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>consentement</primary>
       </indexterm>
 
@@ -560,7 +560,8 @@
 
       <variablelist>
         <varlistentry>
-          <term><emphasis role="strong">Préférence personnelle<indexterm>
+          <term><emphasis role="strong">Préférence personnelle<indexterm
+              significance="preferred">
               <primary>préférence personnelle</primary>
             </indexterm> :</emphasis></term>
 
@@ -707,7 +708,7 @@
     <section xml:id="objections">
       <title>En quoi consistent les objections ?</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>objection</primary>
       </indexterm>
 
@@ -885,7 +886,7 @@
     <section>
       <title>Questions sur le consentement</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>consentement</primary>
       </indexterm>
 
@@ -1458,7 +1459,7 @@
       <section>
         <title>Orienter-exécuter-mesurer</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>orientation-exécution-mesure</primary>
         </indexterm>
 
@@ -1553,7 +1554,7 @@
         <title>ORIENTER-EXÉCUTER-MESURER <emphasis role="strong">et</emphasis>
         entrée – transformation – sortie</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>orientation-exécution-mesure</primary>
         </indexterm>
 
@@ -1735,7 +1736,7 @@
             </listitem>
           </itemizedlist>
 
-          <para><indexterm>
+          <para><indexterm significance="preferred">
               <primary>comprendre-explorer-décider</primary>
             </indexterm>La figure 91 (<xref linkend="MDFJHdecisionmaking"/>)
           montre comment les individus peuvent avancer en groupe de façon
@@ -2407,7 +2408,7 @@
           <title>Exploration des idées de proposition (élaboration de la
           proposition)</title>
 
-          <indexterm>
+          <indexterm significance="preferred">
             <primary>élaboration de proposition</primary>
           </indexterm>
 
@@ -2794,7 +2795,7 @@
       <section>
         <title>Prendre une décision : le processus de consentement</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>processus de consentement</primary>
         </indexterm>
 
@@ -3205,7 +3206,7 @@
         <section>
           <title>Synthétiser les réactions</title>
 
-          <indexterm>
+          <indexterm significance="preferred">
             <primary>amendement</primary>
           </indexterm>
 
@@ -3447,7 +3448,7 @@
               ;</para>
 
               <para><emphasis role="strong">Terminé quand : </emphasis>tout le
-              monde connaît la proposition<indexterm>
+              monde connaît la proposition<indexterm significance="preferred">
                   <primary>tour de consentement</primary>
                 </indexterm>.</para>
             </informalfigure></para>
@@ -3477,7 +3478,7 @@
             <secondary>consentement à une proposition</secondary>
           </indexterm>
 
-          <indexterm>
+          <indexterm significance="preferred">
             <primary>tour de consentement</primary>
           </indexterm>
 
@@ -4558,7 +4559,7 @@
   <section xml:id="processus-de-sélection">
     <title>Création et attribution des rôles (processus de sélection)</title>
 
-    <indexterm>
+    <indexterm significance="preferred">
       <primary>sélection</primary>
     </indexterm>
 
@@ -4782,7 +4783,7 @@
     <section>
       <title>Processus de sélection</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>sélection</primary>
       </indexterm>
 
@@ -5215,7 +5216,7 @@
         <section>
           <title>Noter les nominations</title>
 
-          <indexterm>
+          <indexterm significance="preferred">
             <primary>nomination</primary>
           </indexterm>
 
@@ -5395,7 +5396,7 @@
         <section>
           <title>Tour de confirmation de notre choix</title>
 
-          <indexterm>
+          <indexterm significance="preferred">
             <primary>tour de confirmation</primary>
           </indexterm>
 
@@ -5728,6 +5729,10 @@
     <section>
       <title>Questions fréquemment posées concernant les sélections</title>
 
+      <indexterm significance="preferred">
+        <primary>sélection</primary>
+      </indexterm>
+
       <section>
         <title>Peut-on faire une sélection pour plus d'un rôle à la fois
         ?</title>
@@ -5736,10 +5741,6 @@
           <primary>sélection</primary>
 
           <secondary>sélections multiples</secondary>
-        </indexterm>
-
-        <indexterm>
-          <primary>sélection</primary>
         </indexterm>
 
         <para>Oui. C'est logique si nos choix semblent interdépendants, par

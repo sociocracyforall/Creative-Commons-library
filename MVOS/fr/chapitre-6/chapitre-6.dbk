@@ -10,7 +10,7 @@
     <title>Implanter la sociocratie</title>
   </info>
 
-  <indexterm>
+  <indexterm significance="preferred">
     <primary>implantation</primary>
   </indexterm>
 
@@ -760,7 +760,7 @@
       organisations sociocratiques existantes du même type.)</para>
 
       <figure xml:id="aimstocircle">
-        <title>Former des cercles découlant de vos objectifs </title>
+        <title>Former des cercles découlant de vos objectifs</title>
 
         <mediaobject>
           <imageobject>
@@ -1108,7 +1108,7 @@
           </imageobject>
 
           <caption>
-            <para>Le CM forme le CG en nommant un leader de CG </para>
+            <para>Le CM forme le CG en nommant un leader de CG</para>
           </caption>
         </mediaobject>
 
@@ -1275,7 +1275,7 @@
   <section>
     <title>Organisations bénévoles</title>
 
-    <indexterm>
+    <indexterm significance="preferred">
       <primary>organisation</primary>
 
       <secondary>organisation bénévole</secondary>
@@ -1465,7 +1465,7 @@
 
     <figure xml:id="tinyorg">
       <title>Une organisation minuscule : un petit nombre de personnes
-      réparties entre plusieurs cercles </title>
+      réparties entre plusieurs cercles</title>
 
       <mediaobject>
         <imageobject>
@@ -2060,7 +2060,7 @@
         gouvernance comme la sociocratie.</para>
 
         <figure xml:id="implementationpolicy">
-          <title>Exemple de proposition d’implantation. </title>
+          <title>Exemple de proposition d’implantation.</title>
 
           <mediaobject>
             <imageobject>
@@ -2294,7 +2294,7 @@
         de chacun. Évidemment, aucun de ces résultats n’est souhaitable. Il
         est probable que tout le monde sera enclin à définir les domaines sans
         écarts. L’astuce est de se rappeler à quoi ressemblent les effets d’un
-        manque de clarté sur les domaines<indexterm>
+        manque de clarté sur les domaines<indexterm significance="preferred">
             <primary>domaine</primary>
           </indexterm> et les buts, de manière à pouvoir y répondre avec
         intentionnalité.</para>
@@ -2918,7 +2918,7 @@
       <section>
         <title>L'intimidation à donner et à solliciter des retours</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>faire un retour</primary>
         </indexterm>
 
@@ -3068,7 +3068,7 @@
 
         <figure xml:id="toolittletoomuch">
           <title>Trop d'information noie les gens; trop peu d'information
-          n'alimente pas assez </title>
+          n'alimente pas assez</title>
 
           <mediaobject>
             <imageobject>
@@ -3358,7 +3358,7 @@
 
       <figure xml:id="livecommentary">
         <title>Un processus de sélection avec des éléments de "commentaire en
-        direct" à visée éducative </title>
+        direct" à visée éducative</title>
 
         <mediaobject>
           <imageobject>

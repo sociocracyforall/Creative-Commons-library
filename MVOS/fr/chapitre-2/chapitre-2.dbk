@@ -84,7 +84,7 @@
   <section>
     <title>Le cercle</title>
 
-    <indexterm>
+    <indexterm significance="preferred">
       <primary>cercle</primary>
     </indexterm>
 
@@ -205,7 +205,8 @@
 
         <secondary>pouvoir réparti</secondary>
       </indexterm> présente de nombreux avantages. Un système dont le pouvoir
-    est distribué est résilient, rapide et agile. Chaque cercle<indexterm>
+    est distribué est résilient, rapide et agile. Chaque cercle<indexterm
+        significance="preferred">
         <primary>cercle</primary>
       </indexterm> fait partie d'un réseau de domaines<indexterm>
         <primary>domaine</primary>
@@ -309,7 +310,7 @@
     <section>
       <title>Buts</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>but</primary>
       </indexterm>
 
@@ -482,7 +483,7 @@
       </section>
 
       <section>
-        <title>Commencer par le but<indexterm>
+        <title>Commencer par le but<indexterm significance="preferred">
             <primary>but</primary>
           </indexterm> visé</title>
 
@@ -666,7 +667,7 @@
           <primary>autorité</primary>
         </indexterm> d'agir. Ils disposent enfin de ressources et du droit de
       modifier et de façonner l'environnement de manière à servir leurs
-      buts.<indexterm>
+      buts.<indexterm significance="preferred">
           <primary>domaine</primary>
         </indexterm></para>
 
@@ -687,7 +688,7 @@
         but.</para>
 
         <figure>
-          <title>Les critères d'un domaine bien défini </title>
+          <title>Les critères d'un domaine bien défini</title>
 
           <mediaobject>
             <imageobject>
@@ -758,7 +759,7 @@
       <section>
         <title>Sous-domaines d'application</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>domaine</primary>
 
           <secondary>sous-domaine</secondary>
@@ -808,7 +809,7 @@
         </informalexample>
 
         <figure xml:id="alldecisionsaboutpastryJH">
-          <title>Domaines imbriqués </title>
+          <title>Domaines imbriqués</title>
 
           <mediaobject>
             <imageobject>
@@ -850,7 +851,8 @@
             <primary>cercle</primary>
 
             <secondary>cercle Parent</secondary>
-          </indexterm> que si elle déborde du domaine<indexterm>
+          </indexterm> que si elle déborde du domaine<indexterm
+            significance="preferred">
             <primary>domaine</primary>
           </indexterm> du cercle d'origine.</para>
 
@@ -1162,7 +1164,7 @@
             </imageobject>
 
             <caption>
-              <para>Deux domaines avec escaliers attribués à l'un deux </para>
+              <para>Deux domaines avec escaliers attribués à l'un deux</para>
             </caption>
           </mediaobject>
         </figure>
@@ -1280,7 +1282,7 @@
       <section>
         <title>À propos de la hiérarchie en sociocratie</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>hiérarchie</primary>
         </indexterm>
 
@@ -1318,7 +1320,7 @@
         nous utilisons le terme « Cercle Mission ».</para>
 
         <figure xml:id="broadfocusspecificfocus">
-          <title>Du général au spécifique. Du spécifique au général. </title>
+          <title>Du général au spécifique. Du spécifique au général.</title>
 
           <mediaobject>
             <imageobject>
@@ -1377,7 +1379,8 @@
           </mediaobject>
         </figure>
 
-        <para>En sociocratie, il n’y a pas de hiérarchie<indexterm>
+        <para>En sociocratie, il n’y a pas de hiérarchie<indexterm
+            significance="preferred">
             <primary>hiérarchie</primary>
           </indexterm> de personnes : chaque cercle comporte une partie des
         buts et des domaines<indexterm>
@@ -1829,7 +1832,7 @@
   <section>
     <title>Opérations et structure interne d'un cercle : les rôles</title>
 
-    <indexterm>
+    <indexterm significance="preferred">
       <primary>rôle</primary>
     </indexterm>
 
@@ -2043,7 +2046,7 @@
       <section>
         <title>Leader</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>leader</primary>
         </indexterm>
 
@@ -2241,7 +2244,7 @@
       <section>
         <title>Délégué</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>délégué</primary>
         </indexterm>
 
@@ -2380,7 +2383,7 @@
           <figure xml:id="bubble-withdrawconsentonGC">
             <title>Faisons valoir nos droits de consentement, y compris quand
             il s'agit de choisir des délégués dans le cercle de niveau plus
-            général. </title>
+            général.</title>
 
             <mediaobject>
               <imageobject>
@@ -2394,7 +2397,7 @@
       <section>
         <title>Secrétaire</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>secrétaire</primary>
         </indexterm>
 
@@ -2427,7 +2430,7 @@
               <primary>secrétaire</primary>
 
               <secondary>check-list</secondary>
-            </indexterm> </title>
+            </indexterm></title>
 
           <mediaobject>
             <imageobject>
@@ -2459,7 +2462,7 @@
       <section>
         <title>Facilitateur</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>facilitateur</primary>
         </indexterm>
 
@@ -2553,7 +2556,7 @@
           l'organisation</secondary>
         </indexterm>
 
-        <para>Le gardien du journal de bord<indexterm>
+        <para>Le gardien du journal de bord<indexterm significance="preferred">
             <primary>gardien du journal de bord</primary>
           </indexterm> gère et tient à jour les comptes-rendus<indexterm>
             <primary>compte-rendu (compte-rendu d'une réunion)</primary>
@@ -2608,7 +2611,7 @@
     <section>
       <title>Rôles opérationnels</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>rôle</primary>
 
         <secondary>rôle opérationnel</secondary>
@@ -3093,7 +3096,7 @@
       des difficultés.</para>
 
       <figure>
-        <title>Hiérarchie dynamique </title>
+        <title>Hiérarchie dynamique</title>
 
         <mediaobject>
           <imageobject>
@@ -3191,7 +3194,7 @@
         <secondary>l'effet psychologique du double-lien</secondary>
       </indexterm>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>délégué</primary>
       </indexterm>
 
@@ -3346,7 +3349,7 @@
   <section>
     <title>Les types de cercles</title>
 
-    <indexterm>
+    <indexterm significance="preferred">
       <primary>cercle</primary>
     </indexterm>
 
@@ -3438,7 +3441,7 @@
     <section>
       <title>Le cercle général</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>cercle général</primary>
       </indexterm>
 
@@ -3473,7 +3476,7 @@
       :</para>
 
       <figure xml:id="generalcircleimg">
-        <title>Le cercle général (CG) </title>
+        <title>Le cercle général (CG)</title>
 
         <mediaobject>
           <imageobject>
@@ -3536,7 +3539,7 @@
     <section>
       <title>Le cercle Mission</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>cercle mission</primary>
       </indexterm>
 
@@ -3768,8 +3771,8 @@
           </indexterm>.</para>
 
         <figure xml:id="GCintoMCdouble">
-          <title>Un des leaders/délégués devient délégué au cercle Mission.
-          </title>
+          <title>Un des leaders/délégués devient délégué au cercle
+          Mission.</title>
 
           <mediaobject>
             <imageobject>
@@ -3798,7 +3801,7 @@
 
         <figure xml:id="upcyclingdelegate">
           <title>Un travailleur peut devenir délégué à toutes les couches de
-          l'organisation. </title>
+          l'organisation.</title>
 
           <mediaobject>
             <imageobject>
@@ -3918,7 +3921,7 @@
       <section>
         <title>Avons-nous besoin d'un cercle Mission ?</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>cercle mission</primary>
         </indexterm>
 
@@ -4114,7 +4117,7 @@
         </figure>
 
         <figure xml:id="topcirclenonprofitJH">
-          <title>Un exemple d'un cercle Mission pour un OBNL </title>
+          <title>Un exemple d'un cercle Mission pour un OBNL</title>
 
           <mediaobject>
             <imageobject>
@@ -4244,7 +4247,7 @@
     <section>
       <title>Les cercles de soutien</title>
 
-      <indexterm>
+      <indexterm significance="preferred">
         <primary>cercle de soutien</primary>
       </indexterm>
 
@@ -4280,7 +4283,7 @@
           <secondary>comment former un cercle de soutien</secondary>
         </indexterm>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>cercle de soutien</primary>
         </indexterm>
 
@@ -4305,7 +4308,7 @@
               <primary>cercle de soutien</primary>
 
               <secondary>former un cercle de soutien</secondary>
-            </indexterm> </title>
+            </indexterm></title>
 
           <mediaobject>
             <imageobject>
@@ -4317,6 +4320,10 @@
 
       <section>
         <title>Pourquoi former un cercle de soutien ?</title>
+
+        <indexterm significance="preferred">
+          <primary>cercle de soutien</primary>
+        </indexterm>
 
         <para>On peut former un cercle de soutien chaque fois qu'il est plus
         efficace de confier une question ou une tâche à quelques personnes
@@ -4790,7 +4797,7 @@
       <section>
         <title>Transmissions</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>transmission</primary>
         </indexterm>
 
@@ -4878,7 +4885,7 @@
       <section>
         <title>Transferts</title>
 
-        <indexterm>
+        <indexterm significance="preferred">
           <primary>transfert</primary>
         </indexterm>
 
@@ -5001,7 +5008,7 @@
   <section>
     <title>Autres groupes qui se réunissent</title>
 
-    <indexterm>
+    <indexterm significance="preferred">
       <primary>réseau</primary>
     </indexterm>
 
