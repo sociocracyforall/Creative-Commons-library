@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
+<chapter version="5.0" xml:id="decision-making"
+         xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:ns6="http://docbook.org/ns/transclusion"
          xmlns:ns5="http://www.w3.org/1998/Math/MathML"
@@ -65,12 +66,12 @@
 
     <mediaobject>
       <imageobject>
-        <imagedata fileref="Pictures/10000201000003BF0000013DFA8268F0A1AA40EE.png"/>
+        <imagedata fileref="../illustrations/operationalpolicy.jpg"/>
       </imageobject>
     </mediaobject>
   </figure>
 
-  <section>
+  <section xml:id="policy-reasons">
     <title>Pourquoi créer des politiques</title>
 
     <indexterm>
@@ -328,10 +329,10 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="methods-for-deciding">
     <title>Méthodes de prise de décision</title>
 
-    <section>
+    <section xml:id="decisionmakingmethods">
       <title>Les méthodes de prise de décision les plus courantes</title>
 
       <para>Examinons les formes les plus courantes de prise de décision avec
@@ -429,8 +430,9 @@
                 <secondary>pouvoir du consensus</secondary>
               </indexterm> aux individus qui souhaitent bloquer une décision
             pour tout un groupe — c’est la tyrannie de la minorité. (Voir la
-            section 3.2.5 pour en savoir plus sur le consensus par rapport au
-            consentement).</para>
+            section <xref linkend="consensus"
+            xrefstyle="select: labelnumber"/> pour en savoir plus sur le
+            consensus par rapport au consentement).</para>
           </listitem>
         </varlistentry>
       </variablelist>
@@ -438,9 +440,9 @@
       <para>Nous agissons rarement de manière réfléchie en ce qui concerne le
       choix d'une méthode de prise de décision. Cela s’observe lorsqu'un débat
       se transforme en discussion sur la méthode de prise de décision
-      elle-même, comme dans l'exemple 80 (<xref
-      linkend="examplediscussion"/>). Si la méthode de prise de décision n'est
-      pas claire, elle devient une question litigieuse.</para>
+      elle-même, comme dans l'exemple <xref linkend="examplediscussion"
+      xrefstyle="select: labelnumber"/>. Si la méthode de prise de décision
+      n'est pas claire, elle devient une question litigieuse.</para>
 
       <figure xml:id="examplediscussion">
         <title>Une discussion dans un groupe sans accord préalable sur la
@@ -448,7 +450,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BE00000220DCC7068E25ABD82D.png"/>
+            <imagedata fileref="../illustrations/5-examplediscussion.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -471,7 +473,7 @@
       et sont prises par consentement par le cercle.</para>
     </section>
 
-    <section>
+    <section xml:id="consentchapter">
       <title>Le concept du consentement</title>
 
       <indexterm significance="preferred">
@@ -553,7 +555,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BB000000E3B022F2230F86A9BB.png"/>
+            <imagedata fileref="../illustrations/rangeoftoleranceJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -620,7 +622,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BE000001842793001CFED1A381.png"/>
+            <imagedata fileref="../illustrations/overlapofrangeoftolerancesJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -628,14 +630,14 @@
       <para>En théorie, si nous ne travaillions que dans la zone de
       chevauchement des préférences personnelles, il serait difficile de
       trouver un terrain d'entente pour prendre une décision, voire impossible
-      dans certains cas. Le diagramme 82 (<xref
-      linkend="overlapofrangeoftoleranceplain2"/>) illustre le chevauchement
-      entre les préférences personnelles et celles des membres du groupe. Le
-      point de convergence (partie sombre) est l'intersection où toutes les
-      préférences coïncident ; moins un groupe est homogène, plus cette zone
-      sera petite, car les expériences et les préférences des personnes
-      diffèrent. En revanche, la « zone de tolérance/ non
-      objection »<indexterm>
+      dans certains cas. Le diagramme <xref
+      linkend="overlapofrangeoftoleranceplain2"
+      xrefstyle="select: labelnumber"/> illustre le chevauchement entre les
+      préférences personnelles et celles des membres du groupe. Le point de
+      convergence (partie sombre) est l'intersection où toutes les préférences
+      coïncident ; moins un groupe est homogène, plus cette zone sera petite,
+      car les expériences et les préférences des personnes diffèrent. En
+      revanche, la « zone de tolérance/ non objection »<indexterm>
           <primary>objection</primary>
         </indexterm> parmi les membres du groupe est assez large. Un groupe
       parviendra plus facilement à un accord sur des propositions lorsque la
@@ -728,7 +730,8 @@
         <para>Nous devons comprendre la notion de but<indexterm>
             <primary>but</primary>
           </indexterm> pour mieux saisir comment on définit les objections.
-        Comme indiqué dans la section 2.2, les buts définissent ce qu'un
+        Comme indiqué dans la section <xref linkend="VMAD"
+        xrefstyle="select: labelnumber page"/>, les buts définissent ce qu'un
         cercle<indexterm>
             <primary>cercle</primary>
           </indexterm> ou une organisation s'est fixé comme but, par exemple «
@@ -752,7 +755,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF0000019BC091F574860BC341.png"/>
+              <imagedata fileref="../illustrations/5-consentobjectionaimJH.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -867,10 +870,11 @@
             <primary>proposition</primary>
           </indexterm> discutée n'est pas retirée de la table. Le fait de
         pouvoir choisir la manière d'aller de l'avant en intégrant l'objection
-        (voir section 3,5) est l'une des forces fondamentales de la
-        sociocratie. Grâce à de nouvelles informations et à une orientation
-        plus claire, il sera plus facile de prendre des décisions réalistes et
-        durables.</para>
+        (voir section <xref linkend="objections-howto"
+        xrefstyle="select: labelnumber"/>) est l'une des forces fondamentales
+        de la sociocratie. Grâce à de nouvelles informations et à une
+        orientation plus claire, il sera plus facile de prendre des décisions
+        réalistes et durables.</para>
 
         <para>Les objections changent également la culture. Le fait de savoir
         que les objections peuvent être intégrées encourage les membres à
@@ -890,7 +894,7 @@
         <primary>consentement</primary>
       </indexterm>
 
-      <section>
+      <section xml:id="consensus">
         <title>Les différences entre consentement et consensus</title>
 
         <indexterm>
@@ -947,7 +951,7 @@
         efficacement.</para>
       </section>
 
-      <section>
+      <section xml:id="abstain">
         <title>Une personne peut-elle exprimer une préoccupation ? Peut-elle
         s’abstenir ?</title>
 
@@ -1109,7 +1113,7 @@
         préférence.</para>
       </section>
 
-      <section>
+      <section xml:id="absentmembers">
         <title>Peut-on prendre une décision si un membre du cercle est absent
         ?</title>
 
@@ -1130,8 +1134,9 @@
 
             <secondary>adoption d'une politique</secondary>
           </indexterm>. C'est une des raisons pour lesquelles la définition
-        des membres du cercle est si cruciale (voir section 6.10.3, page
-        X).<indexterm>
+        des membres du cercle est si cruciale (voir section <xref
+        linkend="lackofdefinedmembership"
+        xrefstyle="select: labelnumber page"/>).<indexterm>
             <primary>cercle</primary>
 
             <secondary>appartenance dans un cercle</secondary>
@@ -1199,7 +1204,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BB000000EC3C935864EF2C4689.png"/>
+              <imagedata fileref="../illustrations/ExpertboxJuttaJohn2.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1255,7 +1260,7 @@
         sur la manière dont nous traitons le retrait de consentement.</para>
       </section>
 
-      <section>
+      <section xml:id="Preconditions">
         <title>Conditions préalables au consentement</title>
 
         <indexterm>
@@ -1301,7 +1306,8 @@
               </indexterm>. Si nous ne savons pas quel est notre but commun,
             comment saurons-nous identifier une objection<indexterm>
                 <primary>objection</primary>
-              </indexterm>? (Voir aussi page XX).</para>
+              </indexterm>? (Voir aussi page <xref linkend="nosharedaim"
+            xrefstyle="select: pagenumber"/>).</para>
           </listitem>
 
           <listitem>
@@ -1327,12 +1333,14 @@
                 <primary>consentement</primary>
               </indexterm> est valide s’il est réalisé par tous les membres du
             cercle, et non pas uniquement par les personnes présentes dans la
-            pièce. (Voir également la section 2.2.3).</para>
+            pièce. (Voir également la section <xref
+            linkend="Definedmembership"
+            xrefstyle="select: labelnumber"/>).</para>
           </listitem>
         </itemizedlist>
       </section>
 
-      <section>
+      <section xml:id="limitationsofconsent">
         <title>Les limites du consentement</title>
 
         <indexterm>
@@ -1369,7 +1377,7 @@
     </section>
   </section>
 
-  <section xml:id="étape-par-étape">
+  <section xml:id="decision-making-steps">
     <title>Élaborer une politique - étape par étape</title>
 
     <indexterm>
@@ -1401,7 +1409,7 @@
       Plus les membres du cercle sont familiers avec le processus axé sur
       l'évaluation, plus la réunion sera fluide.</para>
 
-      <section>
+      <section xml:id="ITPsection">
         <title>Entrée-transformation-sortie</title>
 
         <indexterm>
@@ -1429,9 +1437,10 @@
 
           <listitem>
             <para>Si notre tâche consiste à fabriquer des étoiles à partir de
-            carrés à l'aide d'une machine magique [comme celle de la figure 85
-            (<xref linkend="inputtransformationoutput"/>)], les carrés sont
-            notre <emphasis>entrée</emphasis>, la
+            carrés à l'aide d'une machine magique [comme celle de la figure
+            <xref linkend="inputtransformationoutput"
+            xrefstyle="select: labelnumber"/>], les carrés sont notre
+            <emphasis>entrée</emphasis>, la
             <emphasis>transformation</emphasis> est ce que la machine magique
             exécute, et notre <emphasis>sortie</emphasis> est constituée
             d'étoiles.</para>
@@ -1450,13 +1459,13 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF00000199EE58D6811799C9DB.png"/>
+              <imagedata fileref="../illustrations/4-inputtransformationoutputJH.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
       </section>
 
-      <section>
+      <section xml:id="leaddomeasure">
         <title>Orienter-exécuter-mesurer</title>
 
         <indexterm significance="preferred">
@@ -1481,7 +1490,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003B40000012255DE96E707F2DE4E.png"/>
+              <imagedata fileref="../illustrations/4-backpackLDM.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1531,16 +1540,16 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BC00000104C4D6ADCC398347CA.png"/>
+              <imagedata fileref="../illustrations/4-LDMoverallJH.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
 
         <para>Supposons que nous voulions transformer des carrés en étoiles à
-        l'aide d'une machine magique comme dans la figure 87 (<xref
-        linkend="LDMoverall"/>). Nous pourrions élaborer un plan (orienter),
-        poser une action (exécuter) et vérifier ensuite si nous avons atteint
-        le résultat attendu (mesurer). Le cycle
+        l'aide d'une machine magique comme dans la figure <xref
+        linkend="LDMoverall" xrefstyle="select: labelnumber"/>. Nous pourrions
+        élaborer un plan (orienter), poser une action (exécuter) et vérifier
+        ensuite si nous avons atteint le résultat attendu (mesurer). Le cycle
         ORIENTER-EXÉCUTER-MESURER<indexterm>
             <primary>orientation-exécution-mesure</primary>
           </indexterm> est un principe de base sur lequel s’appuie la
@@ -1566,9 +1575,10 @@
         nous exécutons, puis nous évaluons si nous avons bouclé avant de
         passer à l'étape suivante.</para>
 
-        <para>Le diagramme 88 (<xref linkend="LDMITOstars"/>) illustre les
-        étapes du cycle ORIENTER-EXÉCUTER-MESURER dans le contexte de notre
-        machine à fabriquer des étoiles. Nous faisons un plan pour <emphasis
+        <para>Le diagramme <xref linkend="LDMITOstars"
+        xrefstyle="select: labelnumber"/> illustre les étapes du cycle
+        ORIENTER-EXÉCUTER-MESURER dans le contexte de notre machine à
+        fabriquer des étoiles. Nous faisons un plan pour <emphasis
         role="strong">l'entrée</emphasis>, effectuons l'action nécessaire
         (remplir la machine) et nous assurons que nous avons complété la phase
         d'entrée. Lors de la phase de <emphasis
@@ -1585,7 +1595,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C1000002F42229E7E343354A85.png"/>
+              <imagedata fileref="../illustrations/4-inputtransformationoutputLDM.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1609,11 +1619,11 @@
         commencer.</para>
 
         <figure xml:id="cookameal">
-          <title>89 : Cuisiner un repas</title>
+          <title>Cuisiner un repas</title>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C000000184FAB69CD0961D5FFD.png"/>
+              <imagedata fileref="../illustrations/3-cookamealJH.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1703,7 +1713,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BB000000672CCFEAF83B4D8BF1.png"/>
+                <imagedata fileref="../illustrations/ITOUED.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -1738,18 +1748,20 @@
 
           <para><indexterm significance="preferred">
               <primary>comprendre-explorer-décider</primary>
-            </indexterm>La figure 91 (<xref linkend="MDFJHdecisionmaking"/>)
-          montre comment les individus peuvent avancer en groupe de façon
-          sécuritaire à travers toutes ces étapes avec un sentiment de
-          fluidité : « être à la même page » et travailler plus ou moins au
-          même rythme. Tout le monde peut évoluer dans des directions
-          différentes - certains sont des penseurs linéaires, d'autres ont un
-          esprit qui pense en boucles, et certains d’entre nous prêtent
-          attention à des choses qui ont tendance à passer inaperçues. Et
-          c’est bien. L'important est que, pour chaque étape, nous commencions
-          ensemble et nous terminions ensemble. Nous pouvons faire de bons
-          progrès en suivant une feuille de route détaillée comme celle de la
-          figure 91 (<xref linkend="MDFJHdecisionmaking"/>).</para>
+            </indexterm>La figure <xref linkend="MDFJHdecisionmaking"
+          xrefstyle="select: labelnumber"/> montre comment les individus
+          peuvent avancer en groupe de façon sécuritaire à travers toutes ces
+          étapes avec un sentiment de fluidité : « être à la même page » et
+          travailler plus ou moins au même rythme. Tout le monde peut évoluer
+          dans des directions différentes - certains sont des penseurs
+          linéaires, d'autres ont un esprit qui pense en boucles, et certains
+          d’entre nous prêtent attention à des choses qui ont tendance à
+          passer inaperçues. Et c’est bien. L'important est que, pour chaque
+          étape, nous commencions ensemble et nous terminions ensemble. Nous
+          pouvons faire de bons progrès en suivant une feuille de route
+          détaillée comme celle de la figure <xref
+          linkend="MDFJHdecisionmaking"
+          xrefstyle="select: labelnumber"/>.</para>
 
           <figure xml:id="MDFJHdecisionmaking">
             <title>Comprendre - explorer - décider<indexterm>
@@ -1759,7 +1771,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003C1000000FFFD8C5122719837DC.png"/>
+                <imagedata fileref="../illustrations/MDFJHdecisionmaking.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -1769,13 +1781,14 @@
           avec une loupe, nous pouvons retrouver un autre cycle « comprendre
           -- explorer -- décider ». Plus nous prenons en compte les étapes
           intermédiaires, plus nous pouvons agir avec intention et être
-          efficaces. La nature fractale est illustrée à la figure 92 (<xref
-          linkend="MDFJHdecisionmakinginbetween"/>). Chaque étape correspond à
-          un ensemble de tours de parole. Les personnes du cercle parlent à
-          tour de rôle, ce qui rend la facilitation du groupe beaucoup plus
-          aisée. Avec de nombreux petits tours, lesquels ont une question et
-          une portée bien définies, chaque membre du cercle peut se concentrer
-          sur le sujet.</para>
+          efficaces. La nature fractale est illustrée à la figure <xref
+          linkend="MDFJHdecisionmakinginbetween"
+          xrefstyle="select: labelnumber"/>. Chaque étape correspond à un
+          ensemble de tours de parole. Les personnes du cercle parlent à tour
+          de rôle, ce qui rend la facilitation du groupe beaucoup plus aisée.
+          Avec de nombreux petits tours, lesquels ont une question et une
+          portée bien définies, chaque membre du cercle peut se concentrer sur
+          le sujet.</para>
 
           <figure xml:id="MDFJHdecisionmakinginbetween">
             <title>Les étapes se divisent en d’autres étapes plus fines, comme
@@ -1783,7 +1796,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BB000001047B654187B77B41AB.png"/>
+                <imagedata fileref="../illustrations/MDFJHdecisionmakinginbetween.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -1794,28 +1807,20 @@
 
           <itemizedlist>
             <listitem>
-              <blockquote>
-                <para>Pour la phase <emphasis
-                role="strong">comprendre,</emphasis> l’outil par défaut
-                combine les tours de rapports/questions de
-                clarification.</para>
-              </blockquote>
+              <para>Pour la phase <emphasis
+              role="strong">comprendre,</emphasis> l’outil par défaut combine
+              les tours de rapports/questions de clarification.</para>
             </listitem>
 
             <listitem>
-              <blockquote>
-                <para>Pour la phase <emphasis
-                role="strong">explorer</emphasis>, l’outil par défaut est un
-                tour visant à générer des réactions.</para>
-              </blockquote>
+              <para>Pour la phase <emphasis role="strong">explorer</emphasis>,
+              l’outil par défaut est un tour visant à générer des
+              réactions.</para>
             </listitem>
 
             <listitem>
-              <blockquote>
-                <para>Pour la phase <emphasis
-                role="strong">décider</emphasis>, l’outil par défaut est un
-                tour de consentement.</para>
-              </blockquote>
+              <para>Pour la phase <emphasis role="strong">décider</emphasis>,
+              l’outil par défaut est un tour de consentement.</para>
             </listitem>
           </itemizedlist>
 
@@ -1834,12 +1839,13 @@
         <section>
           <title>Mesurer</title>
 
-          <para>Comme le montre la figure 93 (<xref
-          linkend="MDFJHdecisionmakinginbetweenabstract"/>), chaque phase
-          s'inscrit dans des cycles ORIENTER-EXÉCUTER-MESURER. Nous demander :
-          « Tout le monde comprend-il le problème ? Avons-nous entendu les
-          idées de chacun ? Tout le monde est-il prêt à passer à l'étape
-          suivante ? » nous indique si nous avons franchi une étape.<emphasis>
+          <para>Comme le montre la figure <xref
+          linkend="MDFJHdecisionmakinginbetweenabstract"
+          xrefstyle="select: labelnumber"/>, chaque phase s'inscrit dans des
+          cycles ORIENTER-EXÉCUTER-MESURER. Nous demander : « Tout le monde
+          comprend-il le problème ? Avons-nous entendu les idées de chacun ?
+          Tout le monde est-il prêt à passer à l'étape suivante ? » nous
+          indique si nous avons franchi une étape.<emphasis>
           </emphasis></para>
 
           <figure xml:id="MDFJHdecisionmakinginbetweenabstract">
@@ -1898,7 +1904,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BC0000013863A96569EC81664E.png"/>
+            <imagedata fileref="../illustrations/4-understandexploredecide.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -1940,19 +1946,19 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C0000000BCFBFE8FC397130361.png"/>
+              <imagedata fileref="../illustrations/4-understandexploredecidewithstepsA.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
 
-        <section>
+        <section xml:id="trigger">
           <title>Comprendre le contexte</title>
 
           <para>Un problème arrive dans le cercle. Au démarrage, nous avons
           besoin de fournir aux membres du cercle un certain contexte. Comment
           ce sujet s'est-il retrouvé à l'ordre du jour ? Puis nous pouvons
           décrire le déclencheur qui a amené le sujet maintenant porté à la
-          connaissance du groupe.<informalfigure role="process">
+          connaissance du groupe.<informalfigure role="guide">
               <para><emphasis role="strong">Intention</emphasis> : Tout le
               monde comprend le problème.</para>
 
@@ -1979,14 +1985,16 @@
               déclencheur.</para>
             </informalfigure></para>
 
-          <para>L'exemple 96 (<xref
-          linkend="exampleunderstandneedstateissue"/>) montre ce que cela peut
-          donner. Notez que dans cet exemple, le facilitateur choisit de ne
-          pas demander un tour complet et se contente de demander si quelqu'un
-          a des questions. Cela fonctionne bien dans les cas simples. Sinon,
+          <para>L'exemple <xref linkend="exampleunderstandneedstateissue"
+          xrefstyle="select: labelnumber"/> montre ce que cela peut donner.
+          Notez que dans cet exemple, le facilitateur choisit de ne pas
+          demander un tour complet et se contente de demander si quelqu'un a
+          des questions. Cela fonctionne bien dans les cas simples. Sinon,
           nous pouvons demander un tour de clarification<indexterm>
               <primary>tour de questions de clarification</primary>
-            </indexterm> (voir section 5.5.2). Nous répondons à toutes les
+            </indexterm> (voir section <xref
+          linkend="clarifyingquestionsround"
+          xrefstyle="select: labelnumber"/>). Nous répondons à toutes les
           questions une par une, ou nous rassemblons d'abord les questions et
           y répondons ensuite - selon ce qui semble le plus facile.</para>
 
@@ -1995,13 +2003,13 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003C00000021D8D13A12179FB0F8A.png"/>
+                <imagedata fileref="../illustrations/example1.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
         </section>
 
-        <section>
+        <section xml:id="exploreneeds">
           <title>Explorer les besoins</title>
 
           <indexterm>
@@ -2015,7 +2023,8 @@
           données qui pointent vers les besoins sous-jacents. Dans un effort
           collectif pour donner un sens à ce que nous observons, nous
           cherchons dans cette phase à comprendre les besoins sous-jacents
-          afin de trouver des stratégies efficaces.<informalfigure>
+          afin de trouver des stratégies efficaces.<informalfigure
+              role="guide">
               <para><emphasis role="strong">Intention :</emphasis> Explorer
               les besoins sous-jacents au problème.</para>
 
@@ -2033,7 +2042,8 @@
                 <listitem>
                   <para>Faire un tour de table où les personnes offrent leur
                   interprétation ou formulent les besoins (liste des besoins,
-                  p. 262).</para>
+                  p. <xref linkend="meetingsheet"
+                  xrefstyle="select: pagenumber"/>).</para>
                 </listitem>
 
                 <listitem>
@@ -2060,19 +2070,20 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003C000000311448861CEDCC1180B.png"/>
+                <imagedata fileref="../illustrations/example2.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
 
-          <para>Notons comment, dans l'exemple 97 (<xref
-          linkend="exampleunderstandneedexploreneeds"/>) (page X), le cercle
-          examine la question sous différents angles, en explorant les besoins
-          des membres du cercle et ceux des personnes extérieures au
+          <para>Notons comment, dans l'exemple <xref
+          linkend="exampleunderstandneedexploreneeds"
+          xrefstyle="select: labelnumber page"/>, le cercle examine la
+          question sous différents angles, en explorant les besoins des
+          membres du cercle et ceux des personnes extérieures au
           cercle.</para>
         </section>
 
-        <section>
+        <section xml:id="needsassessment">
           <title>Énoncé des besoins</title>
 
           <indexterm>
@@ -2091,7 +2102,7 @@
               <primary>driver statement</primary>
             </indexterm> dans Sociocratie 3.0<indexterm>
               <primary>Sociocratie 3.0</primary>
-            </indexterm>).<informalfigure role="process">
+            </indexterm>).<informalfigure role="guide">
               <para><emphasis role="strong">Intention</emphasis> : nous
               faisons la synthèse de ce que nous savons sur les
               besoins.</para>
@@ -2137,13 +2148,14 @@
               suivre.</para>
             </informalfigure></para>
 
-          <para>Dans l'exemple 98 (<xref
-          linkend="exampleunderstandneedneedsassessment"/>), le facilitateur
-          demande à une personne du cercle de faire un énoncé pour gagner du
-          temps. Il y a généralement quelqu'un dans le cercle qui est capable
-          de synthétiser rapidement. Conservons toutefois l'énoncé des besoins
-          car on pourra l'utiliser comme argumentaire lors de la publication
-          de la politique.</para>
+          <para>Dans l'exemple <xref
+          linkend="exampleunderstandneedneedsassessment"
+          xrefstyle="select: labelnumber"/>, le facilitateur demande à une
+          personne du cercle de faire un énoncé pour gagner du temps. Il y a
+          généralement quelqu'un dans le cercle qui est capable de synthétiser
+          rapidement. Conservons toutefois l'énoncé des besoins car on pourra
+          l'utiliser comme argumentaire lors de la publication de la
+          politique.</para>
 
           <figure xml:id="exampleunderstandneedneedsassessment">
             <title>98 : Comprendre : synthétiser le problème/besoins dans un
@@ -2153,7 +2165,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BE000000E4701C5A9B2E651110.png"/>
+                <imagedata fileref="../illustrations/example3.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -2230,7 +2242,7 @@
         </section>
       </section>
 
-      <section>
+      <section xml:id="generateproposal">
         <title>Élaboration d'une proposition</title>
 
         <indexterm>
@@ -2268,12 +2280,12 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C0000000BC1C7168BB31EC3D3C.png"/>
+              <imagedata fileref="../illustrations/4-understandexploredecidewithstepsB.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
 
-        <section>
+        <section xml:id="pictureforming">
           <title>Comprendre la portée de la politique (l’esquisse
           d’image)</title>
 
@@ -2299,7 +2311,7 @@
           des opinions peut facilement détourner un groupe de la vision
           d'ensemble du problème. L’esquisse d'image offre une phase où nous
           nous centrons sur la compréhension du domaine avant de nous
-          concentrer sur les solutions.<informalfigure role="process">
+          concentrer sur les solutions.<informalfigure role="guide">
               <para><emphasis role="strong">Intention</emphasis> : comprendre
               la portée d'une proposition en identifiant les
               dimensions.</para>
@@ -2352,17 +2364,18 @@
               laisse » dans une politique concernant les chiens dans la
               communauté. Il s’agit là d’une dimension incontournable pour
               arriver à une proposition complète sur le sujet (voir exemple
-              102 (<xref linkend="dogpolicy"/>) à la page XX).</para>
+              <xref linkend="dogpolicy"
+              xrefstyle="select: labelnumber page"/>).</para>
             </informalfigure></para>
 
           <para>Les membres du cercle peuvent brièvement exposer le contexte
           de leur dimension. Il est utile, par exemple, de proposer deux
-          options : fait-on A ou B ? Voir l'exemple 100 (<xref
-          linkend="examplegeneratingproposalpictureforming"/>) à titre
-          d'illustration. Un groupe expérimenté rassemblera les mots-clés en
-          quelques minutes, puisque les groupes s'améliorent avec
-          l'expérience. La meilleure façon d'apprendre l’esquisse d'image est
-          de procéder par l'exemple.</para>
+          options : fait-on A ou B ? Voir l'exemple <xref
+          linkend="examplegeneratingproposalpictureforming"
+          xrefstyle="select: labelnumber"/> à titre d'illustration. Un groupe
+          expérimenté rassemblera les mots-clés en quelques minutes, puisque
+          les groupes s'améliorent avec l'expérience. La meilleure façon
+          d'apprendre l’esquisse d'image est de procéder par l'exemple.</para>
 
           <para>Si le groupe est novice dans le processus, une personne
           expérimentée commence par donner ses propres dimensions avant de
@@ -2391,7 +2404,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BF000002386E23476D5118838F.png"/>
+                <imagedata fileref="../illustrations/example4.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -2404,7 +2418,7 @@
           n'est exclu s'il y a encore des dimensions à ajouter.</para>
         </section>
 
-        <section>
+        <section xml:id="proposalshaping">
           <title>Exploration des idées de proposition (élaboration de la
           proposition)</title>
 
@@ -2434,7 +2448,7 @@
           être très créatif et productif. En même temps, comme aucun membre du
           cercle n'a à trouver seul la proposition parfaite et que tout le
           monde peut mettre ses idées en commun, la tâche devient plus
-          réalisable.<informalfigure role="process">
+          réalisable.<informalfigure role="guide">
               <para><emphasis role="strong">Intention</emphasis> : explorer
               des idées sur la manière de résoudre le problème.</para>
 
@@ -2536,9 +2550,10 @@
             </indexterm>, nous avons essayé de comprendre le problème et ses
           dimensions. Dans l'élaboration de la proposition<indexterm>
               <primary>élaboration de proposition</primary>
-            </indexterm>, nous voulons des opinions. L'exemple 101 (<xref
-          linkend="examplegeneratingproposalproposalshaping"/>) nous donne une
-          idée de ce à quoi cela peut ressembler.</para>
+            </indexterm>, nous voulons des opinions. L'exemple <xref
+          linkend="examplegeneratingproposalproposalshaping"
+          xrefstyle="select: labelnumber"/> nous donne une idée de ce à quoi
+          cela peut ressembler.</para>
 
           <figure xml:id="examplegeneratingproposalproposalshaping">
             <title>Explore : explorer des idées de proposition (élaboration de
@@ -2550,17 +2565,19 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BB000002FF8B6E4DDB03AB790C.png"/>
+                <imagedata fileref="../illustrations/example5.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
 
-          <para>Les exemples 102 (<xref linkend="dogpolicy"/>) et 103 (<xref
-          linkend="screenpolicy"/>) nous montrent comment les idées de
+          <para>Les exemples <xref linkend="dogpolicy"
+          xrefstyle="select: labelnumber"/> et <xref linkend="screenpolicy"
+          xrefstyle="select: labelnumber"/> nous montrent comment les idées de
           propositions peuvent se renforcer ou se contredire. (Les listes de
-          l'exemple 103 (<xref linkend="screenpolicy"/>) sont issues d'un
-          processus réel dans la famille de l’auteur, à propos d’une source
-          récurrente de dispute).</para>
+          l'exemple <xref linkend="screenpolicy"
+          xrefstyle="select: labelnumber"/> sont issues d'un processus réel
+          dans la famille de l’auteur, à propos d’une source récurrente de
+          dispute).</para>
 
           <figure xml:id="dogpolicy">
             <title>Énoncé des besoins, dimensions et idée de propositions à
@@ -2572,7 +2589,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003B70000026E96D22283E236E1CF.png"/>
+                <imagedata fileref="../illustrations/dogpolicy.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -2584,13 +2601,13 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003B70000026E7B17910D97BE9E5B.png"/>
+                <imagedata fileref="../illustrations/Screenpolicy.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
         </section>
 
-        <section>
+        <section xml:id="organizeproposalideas">
           <title>Synthétiser les idées de proposition</title>
 
           <indexterm>
@@ -2618,7 +2635,7 @@
           suivante au lieu de poursuivre une conversation sur des préférences
           personnelles. Nous formulons une proposition pour faire ressortir
           les objections (s’il y en a), et ce, plus tôt que
-          tard.<informalfigure role="process">
+          tard.<informalfigure role="guide">
               <para><emphasis role="strong">Intention</emphasis> : synthétiser
               les idées en une proposition.</para>
 
@@ -2683,11 +2700,12 @@
                 </indexterm></para>
             </informalfigure></para>
 
-          <para>Comme dans l'exemple 104 (<xref
-          linkend="examplegeneratingproposalorganize"/>), il est préférable de
-          demander à une ou deux personnes de rédiger la proposition entre les
-          réunions, ou de faire une courte pause pendant la réunion pour que
-          quelqu'un rédige une proposition. S'il y a des idées de proposition
+          <para>Comme dans l'exemple <xref
+          linkend="examplegeneratingproposalorganize"
+          xrefstyle="select: labelnumber"/>, il est préférable de demander à
+          une ou deux personnes de rédiger la proposition entre les réunions,
+          ou de faire une courte pause pendant la réunion pour que quelqu'un
+          rédige une proposition. S'il y a des idées de proposition
           contradictoires, il y a au moins trois options :</para>
 
           <itemizedlist>
@@ -2736,13 +2754,13 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BE0000012B179C9DD7FE843F55.png"/>
+                <imagedata fileref="../illustrations/example6.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
         </section>
 
-        <section>
+        <section xml:id="exploreshortcut">
           <title>Propositions rédigées par des individus</title>
 
           <para>Plus l'écriture de la proposition est co-créative, plus la
@@ -2792,7 +2810,7 @@
         </section>
       </section>
 
-      <section>
+      <section xml:id="consentprocess">
         <title>Prendre une décision : le processus de consentement</title>
 
         <indexterm significance="preferred">
@@ -2829,12 +2847,12 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF000001380C5DA14EE6C0E416.png"/>
+              <imagedata fileref="../illustrations/4-understandexploredecidewithstepsCA.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
 
-        <section>
+        <section xml:id="preparedecision">
           <title>Préparer la décision</title>
 
           <para>Avant de prendre une décision, il faut s'assurer que la
@@ -2851,13 +2869,13 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BB000000C172E762C68BDCB95E.png"/>
+                <imagedata fileref="../illustrations/4-understandexploredecidewithstepsCA2.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
         </section>
 
-        <section>
+        <section xml:id="clarifyingquestions">
           <title>Comprendre la proposition</title>
 
           <indexterm>
@@ -2891,7 +2909,7 @@
           C'est le moment de gagner en clarté, et non de remettre en question
           l’efficacité de la proposition – cela viendra plus tard.</para>
 
-          <informalfigure role="process">
+          <informalfigure role="guide">
             <para><emphasis role="strong">Intention </emphasis>: Tous les
             membres du cercle ont besoin de comprendre la proposition telle
             qu'elle est.</para>
@@ -2962,24 +2980,24 @@
           façon de procéder permet d'éviter les longues digressions qui
           peuvent rompre l'équivalence des tours, ainsi que les dérives vers
           des opinions avant que toutes les questions pour bien comprendre
-          n'aient été posées (voir exemple 107 (<xref
-          linkend="exampledecidingclarify"/>)). Lorsque toutes les questions
-          ont reçu une réponse, nous pouvons demander s'il y a d'autres
-          questions qui auraient pu surgir après avoir entendu les questions
-          et les réponses précédentes.</para>
+          n'aient été posées (voir exemple <xref
+          linkend="exampledecidingclarify" xrefstyle="select: labelnumber"/>).
+          Lorsque toutes les questions ont reçu une réponse, nous pouvons
+          demander s'il y a d'autres questions qui auraient pu surgir après
+          avoir entendu les questions et les réponses précédentes.</para>
 
           <figure xml:id="exampledecidingclarify">
             <title>Comprendre : comprendre la proposition</title>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003C000000248F71E5AC51DF9A20C.png"/>
+                <imagedata fileref="../illustrations/example7a.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
         </section>
 
-        <section>
+        <section xml:id="quickreactionsinconsent">
           <title>Explorer les « réactions rapides »</title>
 
           <indexterm>
@@ -2994,7 +3012,7 @@
           maximum. Si quelqu'un a une objection<indexterm>
               <primary>objection</primary>
             </indexterm>, il aura plus de temps pour s'exprimer plus
-          tard !<informalfigure role="process">
+          tard !<informalfigure role="guide">
               <para><emphasis role="strong">Intention </emphasis>: préparer le
               groupe et la proposition à la prise de décision.</para>
 
@@ -3020,8 +3038,8 @@
                   <para>certains groupes préfèrent exécuter deux tours
                   distincts : l'un pour les « réactions émotionnelles »,
                   l'autre, orienté vers les solutions, pour améliorer la
-                  proposition (voir figure 108 (<xref
-                  linkend="ExpertboxBarbara"/>)).</para>
+                  proposition (voir figure <xref linkend="ExpertboxBarbara"
+                  xrefstyle="select: labelnumber"/>).</para>
                 </listitem>
               </itemizedlist>
 
@@ -3114,8 +3132,9 @@
 
                 <listitem>
                   <para>si quelque chose émerge et se construit, et que nous
-                  voulons l'explorer (voir encadré 108 (<xref
-                  linkend="ExpertboxBarbara"/>)).</para>
+                  voulons l'explorer (voir encadré <xref
+                  linkend="ExpertboxBarbara"
+                  xrefstyle="select: labelnumber"/>).</para>
                 </listitem>
               </itemizedlist>
             </listitem>
@@ -3126,7 +3145,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BD00000150533992C21400200B.png"/>
+                <imagedata fileref="../illustrations/ExpertboxBarbara.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -3147,22 +3166,24 @@
           demeure important de s'assurer que chacun a été bien entendu.
           Cependant, il est utile que les déclarations restent brèves et
           pertinentes, car il est plus efficace de consacrer du temps à
-          répondre aux objections. L'exemple 109 (<xref
-          linkend="exampledecidingquickreactions"/>) montre un tour de
-          réaction rapide<indexterm>
+          répondre aux objections. L'exemple <xref
+          linkend="exampledecidingquickreactions"
+          xrefstyle="select: labelnumber"/> montre un tour de réaction
+          rapide<indexterm>
               <primary>tour de réactions</primary>
 
               <secondary>exemple de tour de réaction</secondary>
-            </indexterm>, et sa variante 110 (<xref
-          linkend="exampledecidingquickreactionswithobjection"/>) se dirigeant
-          vers une objection.</para>
+            </indexterm>, et sa variante <xref
+          linkend="exampledecidingquickreactionswithobjection"
+          xrefstyle="select: labelnumber"/> se dirigeant vers une
+          objection.</para>
 
           <figure xml:id="exampledecidingquickreactions">
             <title>Comprendre : explorer les réactions rapides</title>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BB0000011B182E472E1E276120.png"/>
+                <imagedata fileref="../illustrations/example7b.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -3177,20 +3198,20 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BE0000012B75D654E2F4235FE4.png"/>
+                <imagedata fileref="../illustrations/example7b2.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
 
-          <para>Notons comment, dans l’exemple 110 (<xref
-          linkend="exampledecidingquickreactionswithobjection"/>), le membre
-          du cercle résume le problème en une seule phrase. L’éventuel
-          objecteur sait qu'il sera entendu plus tard, donc une seule phrase
-          suffit pour que tout le monde ait une idée de ce qui se passe. Dire
-          simplement « je vais faire objection » sans donner de contexte peut
-          être déstabilisant dans un groupe ; mais ce n'est pas non plus la
-          bonne place pour dire plus que quelques phrases — alors soyons brefs
-          !</para>
+          <para>Notons comment, dans l’exemple <xref
+          linkend="exampledecidingquickreactionswithobjection"
+          xrefstyle="select: labelnumber"/>, le membre du cercle résume le
+          problème en une seule phrase. L’éventuel objecteur sait qu'il sera
+          entendu plus tard, donc une seule phrase suffit pour que tout le
+          monde ait une idée de ce qui se passe. Dire simplement « je vais
+          faire objection » sans donner de contexte peut être déstabilisant
+          dans un groupe ; mais ce n'est pas non plus la bonne place pour dire
+          plus que quelques phrases — alors soyons brefs !</para>
 
           <para>Remarquons également que le cercle poursuit le processus -
           entendre que quelqu'un va faire une objection n'arrête pas le tour.
@@ -3203,7 +3224,7 @@
           une par une.</para>
         </section>
 
-        <section>
+        <section xml:id="amendments">
           <title>Synthétiser les réactions</title>
 
           <indexterm significance="preferred">
@@ -3218,7 +3239,7 @@
               <secondary>l'état de préparation d'une proposition</secondary>
             </indexterm></para>
 
-          <informalfigure role="process">
+          <informalfigure role="guide">
             <para><emphasis role="strong">Intention </emphasis>: synthétiser
             les réactions rapides.</para>
 
@@ -3365,25 +3386,27 @@
           puis demandons de travailler sur de nouvelles propositions qui
           pourraient s'appuyer sur la proposition initiale. Si quelqu'un fait
           une contre-proposition, il faut être encore plus vigilant. (Voir la
-          section 5.5.3, page x, sur les contre-propositions).</para>
+          section <xref linkend="counterproposals"
+          xrefstyle="select: labelnumber page"/> sur les
+          contre-propositions).</para>
 
-          <para>Dans l'exemple 111 (<xref
-          linkend="exampledecidingreviewamendments"/>), le cas est simple -
-          seul un petit amendement doit être examiné et le facilitateur décide
-          de passer au tour de consentement.</para>
+          <para>Dans l'exemple <xref linkend="exampledecidingreviewamendments"
+          xrefstyle="select: labelnumber"/>, le cas est simple - seul un petit
+          amendement doit être examiné et le facilitateur décide de passer au
+          tour de consentement.</para>
 
           <figure xml:id="exampledecidingreviewamendments">
             <title>111 : Synthétiser les réactions</title>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BC000000A50B75877FEBF93A51.png"/>
+                <imagedata fileref="../illustrations/example7c.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
         </section>
 
-        <section>
+        <section xml:id="consentroundsection">
           <title>Décision</title>
 
           <para>La proposition est complétée et le cercle est prêt à prendre
@@ -3412,7 +3435,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003C0000000CFF70CD0D4FD28F2B4.png"/>
+                <imagedata fileref="../illustrations/4-understandexploredecidewithstepsCB.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -3423,7 +3446,7 @@
           clarté ou une frustration.</para>
         </section>
 
-        <section>
+        <section xml:id="restateproposal">
           <title>Reformuler la proposition</title>
 
           <indexterm>
@@ -3438,7 +3461,7 @@
           elle n'a pas changé du tout, reconnaissons cela et passons au tour
           de consentement. Plus il y a eu de changements, plus il est
           important de relire la proposition dans son contexte.<informalfigure
-              role="process">
+              role="guide">
               <para><emphasis role="strong">Intention :</emphasis> nous
               assurer que tout le monde a une idée claire de la proposition
               (éventuellement modifiée) ;</para>
@@ -3453,23 +3476,23 @@
                 </indexterm>.</para>
             </informalfigure></para>
 
-          <para>Dans l'exemple 113 (<xref
-          linkend="exampledecidingrestateproposal"/>), le facilitateur fait
-          référence à la version écrite de la proposition et ajoute oralement
-          un amendement.</para>
+          <para>Dans l'exemple <xref linkend="exampledecidingrestateproposal"
+          xrefstyle="select: labelnumber"/>, le facilitateur fait référence à
+          la version écrite de la proposition et ajoute oralement un
+          amendement.</para>
 
           <figure xml:id="exampledecidingrestateproposal">
             <title>Exploration : reformulation de la proposition</title>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003B8000000BCA8150407CFC3C38A.png"/>
+                <imagedata fileref="../illustrations/example8a.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
         </section>
 
-        <section>
+        <section xml:id="consentroundstep">
           <title>Tour de consentement</title>
 
           <indexterm>
@@ -3493,8 +3516,8 @@
               <primary>objection</primary>
             </indexterm>. Le consentement est binaire : soit on consent, soit
           on s’objecte. Dans le tour de consentement, nous nous concentrons
-          sur les objections. (Voir section 3.2.5, page X).<informalfigure
-              role="process">
+          sur les objections. (Voir section <xref linkend="consensus"
+          xrefstyle="select: labelnumber page"/>).<informalfigure role="guide">
               <para><emphasis role="strong">Intention </emphasis>: écouter les
               objections à la proposition.</para>
 
@@ -3551,9 +3574,9 @@
               monde a donné son consentement ou émis une objection.</para>
             </informalfigure></para>
 
-          <para>L'exemple 114 (<xref linkend="exampledecidingconsentround"/>)
-          montre à quoi ressemble un tour de consentement simple sans
-          objection, et avec objection.<indexterm>
+          <para>L'exemple <xref linkend="exampledecidingconsentround"
+          xrefstyle="select: labelnumber"/> montre à quoi ressemble un tour de
+          consentement simple sans objection, et avec objection.<indexterm>
               <primary>tour de consentement</primary>
 
               <secondary>exemple d'un tour de consentement sans
@@ -3571,13 +3594,13 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BF000000D6F5461C13C1854950.png"/>
+                <imagedata fileref="../illustrations/example8b.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
         </section>
 
-        <section>
+        <section xml:id="acknowledge">
           <title>Reconnaissance du consentement ou de l'objection</title>
 
           <para>Une fois que tout le monde a donné son consentement ou s'est
@@ -3585,13 +3608,15 @@
           objections. Pour les objections, suivons le processus
           d'objection<indexterm>
               <primary>objection</primary>
-            </indexterm> (voir section 3.5).<informalfigure role="process">
+            </indexterm> (voir section <xref linkend="objections-howto"
+          xrefstyle="select: labelnumber"/>).<informalfigure role="guide">
               <para><emphasis role="strong">Intention : </emphasis>évaluer et
               reconnaître le consentement ou les objections.</para>
 
               <para><emphasis role="strong">Outils : </emphasis>reconnaître le
-              consentement ou les objections (voir illustration 115 (<xref
-              linkend="exampledecidingacknowledgedecision"/>)).</para>
+              consentement ou les objections (voir illustration <xref
+              linkend="exampledecidingacknowledgedecision"
+              xrefstyle="select: labelnumber"/>).</para>
 
               <itemizedlist>
                 <listitem>
@@ -3620,13 +3645,13 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003C2000000AB9EF0CEA88C23E605.png"/>
+                <imagedata fileref="../illustrations/example8c.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
         </section>
 
-        <section>
+        <section xml:id="publishandimplement">
           <title>Communiquer la décision</title>
 
           <para>Communiquer une décision est une étape essentielle pour la
@@ -3639,13 +3664,13 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BE000000C0D6F077989D6ACFB7.png"/>
+                <imagedata fileref="../illustrations/4-understandexploredecidewithstepsCC.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
         </section>
 
-        <section>
+        <section xml:id="planpublication">
           <title>Plan de communication</title>
 
           <para>Une politique n'a de valeur que si les gens la connaissent.
@@ -3653,7 +3678,7 @@
           passer le message. Que doit-il advenir pour que les gens puissent
           suivre la politique ?</para>
 
-          <informalfigure role="process">
+          <informalfigure role="guide">
             <para><emphasis role="strong">Intention :</emphasis> établir un
             plan de communication et d'implantation de la politique.</para>
 
@@ -3666,13 +3691,12 @@
           </informalfigure>
         </section>
 
-        <section>
+        <section xml:id="publish">
           <title>Préparer le matériel pour la communication</title>
 
           <para>Nous préparons notre contenu (notification, feuille de calcul,
           journal de bord, feuille de suivi) ou tout autre objet physique afin
-          que la politique puisse être appliquée.<informalfigure
-              role="process">
+          que la politique puisse être appliquée.<informalfigure role="guide">
               <para><emphasis role="strong">Intention :</emphasis> Créer des
               documents à communiquer et à implanter.</para>
 
@@ -3690,19 +3714,20 @@
               préparé.</para>
             </informalfigure></para>
 
-          <para>L'exemple 117 (<xref linkend="exampleoutputpreparepolicy"/>)
-          montre une politique complète prête à être intégrée dans un journal
-          de bord<indexterm>
+          <para>L'exemple <xref linkend="exampleoutputpreparepolicy"
+          xrefstyle="select: labelnumber"/> montre une politique complète
+          prête à être intégrée dans un journal de bord<indexterm>
               <primary>journal de bord</primary>
-            </indexterm>, et l’exemple 118 (<xref linkend="completepolicy"/>)
-          fournit une liste de vérification.</para>
+            </indexterm>, et l’exemple <xref linkend="completepolicy"
+          xrefstyle="select: labelnumber"/> fournit une liste de
+          vérification.</para>
 
           <figure xml:id="exampleoutputpreparepolicy">
             <title>Exemple d'une politique complète</title>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BF000001AD90617B32E068FC53.png"/>
+                <imagedata fileref="../illustrations/exampleoutputpreparepolicy.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -3712,13 +3737,13 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BC000001C14B0FC6A8849F2CB0.png"/>
+                <imagedata fileref="../illustrations/4-completepolicyJH.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
         </section>
 
-        <section>
+        <section xml:id="publicationoutput">
           <title>Communiquer la politique</title>
 
           <indexterm>
@@ -3731,7 +3756,7 @@
           concernant notre nouvelle politique. Cette étape revient à appuyer
           sur le commutateur. La politique est maintenant activée.</para>
 
-          <informalfigure role="process">
+          <informalfigure role="guide">
             <para><emphasis role="strong">Intention </emphasis>: rendre notre
             politique publique.</para>
 
@@ -3771,8 +3796,8 @@
 
                     <secondary>check-list pour une politique</secondary>
                   </indexterm>, assurons-nous qu'elle est complète. La liste
-                de vérification (illustration 118 (<xref
-                linkend="completepolicy"/>)) sur la page X, montre les
+                de vérification (illustration <xref linkend="completepolicy"
+                xrefstyle="select: labelnumber"/>) sur la page X, montre les
                 informations dont nous pouvons avoir besoin ;</para>
               </listitem>
 
@@ -3815,14 +3840,15 @@
           <primary>processus axé sur l'évaluation</primary>
         </indexterm>
 
-        <para>Le tableau 119 (<xref linkend="decision-makingtoolsmeasures"/>)
-        à la page X donne un aperçu du processus complet. Sauter des phases ou
-        des étapes entières entraînera souvent trébuchements, confusions et
-        frustrations, car nous oublions d'écouter lorsque nous nous
-        précipitons dans un processus. Le rétablissement de la confiance (que
-        nous appelons parfois le « nettoyage émotionnel ») peut prendre
-        beaucoup de temps ou, pire encore, ne jamais se produire, épuiser les
-        gens et se transformer en souffrance socio-émotionnelle<indexterm>
+        <para>Le tableau <xref linkend="decision-makingtoolsmeasures"
+        xrefstyle="select: labelnumber"/> à la page X donne un aperçu du
+        processus complet. Sauter des phases ou des étapes entières entraînera
+        souvent trébuchements, confusions et frustrations, car nous oublions
+        d'écouter lorsque nous nous précipitons dans un processus. Le
+        rétablissement de la confiance (que nous appelons parfois le
+        « nettoyage émotionnel ») peut prendre beaucoup de temps ou, pire
+        encore, ne jamais se produire, épuiser les gens et se transformer en
+        souffrance socio-émotionnelle<indexterm>
             <primary>dette socio-émotionnelle</primary>
           </indexterm>.</para>
 
@@ -3832,7 +3858,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BE0000020CD2A885DD0496A93C.png"/>
+              <imagedata fileref="../illustrations/4-decision-makingwithmeasureALLJH.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -3847,7 +3873,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="measurement-and-feedback">
     <title>Améliorer le déploiement des politiques</title>
 
     <para>Nous pouvons améliorer la qualité des politiques et faciliter
@@ -3858,7 +3884,7 @@
     dimension des politiques que les cercles doivent garder à l'esprit lors de
     leur élaboration.</para>
 
-    <section>
+    <section xml:id="measurementplan">
       <title>Évaluation</title>
 
       <indexterm>
@@ -3991,7 +4017,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="objections-howto">
     <title>Intégrer les objections : le processus</title>
 
     <indexterm>
@@ -4033,7 +4059,7 @@
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="Pictures/10000201000003BD0000011B43CA4F329F11256F.png"/>
+          <imagedata fileref="../illustrations/4-understandexploredecidewithstepsCwithobjectionJH.jpg"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -4050,7 +4076,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C0000000C5C47B7AA9D15832F9.png"/>
+            <imagedata fileref="../illustrations/4-objectionstepsAA.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -4067,7 +4093,7 @@
         <para>Nous commençons avec curiosité en faisant notre possible pour
         bien comprendre l'objection.</para>
 
-        <informalfigure role="process">
+        <informalfigure role="guide">
           <para><emphasis role="strong">Intention : </emphasis>comprendre
           l'objection.</para>
 
@@ -4119,7 +4145,7 @@
         <para>Le cercle s'approprie l'objection et identifie comment les
         préoccupations sont liées à son but et à ses besoins.</para>
 
-        <informalfigure role="process">
+        <informalfigure role="guide">
           <para><emphasis role="strong">Intention :</emphasis> explorer la
           manière dont l’objection est reliée au but du cercle et comprendre
           les besoins sous-jacents.</para>
@@ -4185,10 +4211,11 @@
         <para>Après l'exploration vient la phase de synthèse de
         l'information.</para>
 
-        <informalfigure role="process">
+        <informalfigure role="guide">
           <para><emphasis role="strong">Intention :</emphasis> synthétiser et
           voir la nécessité d'amender la proposition (voir <xref
-          linkend="exampledecidingseekingunderstanding2"/> p. X).</para>
+          linkend="exampledecidingseekingunderstanding2"
+          xrefstyle="select: label page"/>).</para>
 
           <para><emphasis role="strong">Outils :</emphasis> Le facilitateur
           (ou un membre désigné du cercle) synthétise l'objection telle
@@ -4213,7 +4240,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C0000000C5FF01844BDD12A808.png"/>
+            <imagedata fileref="../illustrations/4-objectionstepsBBJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -4223,7 +4250,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003B5000002C5AA2E972AA8F298AA.png"/>
+            <imagedata fileref="../illustrations/exampleO1.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -4277,7 +4304,7 @@
         pouvons-nous faire pour que la préoccupation soulevée par l’objecteur
         puisse être utilisée pour améliorer la proposition ?</para>
 
-        <informalfigure role="process">
+        <informalfigure role="guide">
           <para><emphasis role="strong">Intention : </emphasis>explorons des
           idées d'amendements à la proposition.</para>
 
@@ -4295,9 +4322,11 @@
 
             <listitem>
               <para>aussi, le facilitateur peut passer en revue les stratégies
-              types pour répondre à une objection (voir section 3.5.3) afin de
-              donner aux membres du cercle encore plus d’idées et une vision
-              plus large des options ;</para>
+              types pour répondre à une objection (voir section <xref
+              linkend="optionsforamendments"
+              xrefstyle="select: labelnumber"/>) afin de donner aux membres du
+              cercle encore plus d’idées et une vision plus large des options
+              ;</para>
             </listitem>
 
             <listitem>
@@ -4326,7 +4355,7 @@
             <primary>processus de consentement</primary>
           </indexterm>.</para>
 
-        <informalfigure role="process">
+        <informalfigure role="guide">
           <para><emphasis role="strong">Intention :</emphasis> synthétisons
           les idées d'amendement en une nouvelle proposition.</para>
 
@@ -4346,14 +4375,14 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C3000002DA93A0259BF1969F52.png"/>
+              <imagedata fileref="../illustrations/exampleO2.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
       </section>
     </section>
 
-    <section>
+    <section xml:id="optionsforamendments">
       <title>Options pour les amendements</title>
 
       <indexterm>
@@ -4383,7 +4412,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C00000018284EF7994810A786F.png"/>
+            <imagedata fileref="../illustrations/5-modifytheproposal.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -4401,8 +4430,9 @@
         pour intégrer l'objection. Les options de révision du contenu sont
         innombrables et spécifiques à votre contexte. Nous ne pouvons pas
         lister ici toutes les façons dont on peut modifier une proposition.
-        L’encadré 125 (<xref linkend="modifytheproposal"/>) donne un aperçu de
-        quelques exemples possibles.</para>
+        L’encadré <xref linkend="modifytheproposal"
+        xrefstyle="select: labelnumber"/> donne un aperçu de quelques exemples
+        possibles.</para>
       </section>
 
       <section>
@@ -4414,7 +4444,8 @@
         mettre à l'essai pendant une période plus courte. Souvent, cela
         facilite le consentement des membres du cercle. Cette stratégie
         fonctionne mieux en combinaison avec la stratégie suivante :
-        l'évaluation de la préoccupation. (Voir la section 4.4.6, page X, sur
+        l'évaluation de la préoccupation. (Voir la section <xref
+        linkend="reviewingpolicy" xrefstyle="select: labelnumber page"/> sur
         les durées en vigueur des politiques).</para>
 
         <para>Raccourcir la durée d'une proposition signifie que la politique
@@ -4502,12 +4533,12 @@
         également compter les inscriptions, les plaintes, les clients ou les
         ventes. Tout ce qui ne peut pas être comptabilisé peut encore faire
         l'objet d'une enquête : membres, personnel, participants aux ateliers,
-        hôtes, clients. L'encadré 126 (<xref linkend="measuretheconcern"/>)
-        est un exemple de diminution de la durée de la politique, couplée à
-        une évaluation qui mesure si des inquiétudes ressortent. Un opposant à
-        la proposition peut donner son consentement dès lors que nous prenons
-        ses préoccupations au sérieux et que nous mettons en place de bonnes
-        mesures.</para>
+        hôtes, clients. L'encadré <xref linkend="measuretheconcern"
+        xrefstyle="select: labelnumber"/> est un exemple de diminution de la
+        durée de la politique, couplée à une évaluation qui mesure si des
+        inquiétudes ressortent. Un opposant à la proposition peut donner son
+        consentement dès lors que nous prenons ses préoccupations au sérieux
+        et que nous mettons en place de bonnes mesures.</para>
 
         <figure xml:id="measuretheconcern">
           <title>Évaluer les préoccupations et raccourcir la durée de la
@@ -4515,7 +4546,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BC00000140A8F8CB1F0B86537E.png"/>
+              <imagedata fileref="../illustrations/5-measuretheconcern.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4556,7 +4587,7 @@
     </section>
   </section>
 
-  <section xml:id="processus-de-sélection">
+  <section xml:id="selection">
     <title>Création et attribution des rôles (processus de sélection)</title>
 
     <indexterm significance="preferred">
@@ -4614,7 +4645,7 @@
         <secondary>réélection</secondary>
       </indexterm> autant de fois que le cercle l’estime nécessaire.</para>
 
-    <section>
+    <section xml:id="policyroles">
       <title>Créer des rôles</title>
 
       <indexterm>
@@ -4648,12 +4679,13 @@
         <title>La phase Comprendre</title>
 
         <para>Le processus de création de politiques, tel que décrit dans la
-        section 3.3, encourage les cercles à s'assurer que le besoin est
-        totalement compris avant de créer une politique. Il se peut que le
-        cercle comprenne suffisamment bien le problème et les besoins
-        sous-jacents et qu'il soit convaincu qu'un rôle pourrait être la
-        stratégie qui répondra le plus efficacement à ses besoins. Souvent, la
-        création de rôles n'est qu'une partie d'un contexte politique plus
+        section <xref linkend="decision-making-steps"
+        xrefstyle="select: labelnumber"/>, encourage les cercles à s'assurer
+        que le besoin est totalement compris avant de créer une politique. Il
+        se peut que le cercle comprenne suffisamment bien le problème et les
+        besoins sous-jacents et qu'il soit convaincu qu'un rôle pourrait être
+        la stratégie qui répondra le plus efficacement à ses besoins. Souvent,
+        la création de rôles n'est qu'une partie d'un contexte politique plus
         large. C'est le cas lorsqu'un cercle approuve une ligne directrice
         générale et crée un rôle pour prendre la mesure concernant cette ligne
         directrice. Par exemple, si une entreprise décide d'introduire un
@@ -4711,7 +4743,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BE000001BE29E694F20F08187A.png"/>
+                <imagedata fileref="../illustrations/dimensionsroles.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -4774,13 +4806,13 @@
           <para>Le leader du cercle, le facilitateur ou tout membre du cercle
           peut être délégué.e pour synthétiser les idées dans une proposition
           qui sera ensuite soumise au cercle, pour consentement de la manière
-          habituelle (voir le processus de consentement dans la section
-          3.3.2).</para>
+          habituelle (voir le processus de consentement dans la section <xref
+          linkend="consentprocess" xrefstyle="select: labelnumber"/>).</para>
         </section>
       </section>
     </section>
 
-    <section>
+    <section xml:id="selections">
       <title>Processus de sélection</title>
 
       <indexterm significance="preferred">
@@ -4827,18 +4859,22 @@
       proposition. (3) En dernier lieu, nous prenons une décision sur la
       proposition. S'il y a des objections, nous les traitons jusqu'à ce que
       tout le monde puisse donner son consentement à la proposition. La figure
-      128 (<xref linkend="selectionprocess"/>) en est un résumé.</para>
+      <xref linkend="selectionprocess" xrefstyle="select: labelnumber"/> en
+      est un résumé.</para>
 
       <para>Les lecteurs qui souhaitent comprendre plus en profondeur les
       étapes d'un processus de sélection sont invités à consulter les tableaux
-      200 et 201 aux pages X et Y.</para>
+      <xref linkend="selectionprocess3x3"
+      xrefstyle="select: labelnumber page"/> et <xref
+      linkend="selectionprocess3x3withskit"
+      xrefstyle="select: labelnumber page"/>.</para>
 
       <figure xml:id="selectionprocess">
         <title>Étapes complètes d'un processus de sélection</title>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BF000000BD20094B8B4781612E.png"/>
+            <imagedata fileref="../illustrations/4-understandexploredecideelectionsoverview.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -4887,7 +4923,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BB000000D2C5CFA7B65FDE7FAB.png"/>
+              <imagedata fileref="../illustrations/4-understandexploredecideelections.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4913,7 +4949,7 @@
           plus large se réunit-il, quel jour et à quelle heure ? Cela pourrait
           éclairer le processus de sélection.</para>
 
-          <informalfigure role="process">
+          <informalfigure role="guide">
             <para><emphasis role="strong">Intention :</emphasis> comprendre le
             rôle.</para>
 
@@ -4996,7 +5032,7 @@
             </listitem>
           </itemizedlist>
 
-          <informalfigure role="process">
+          <informalfigure role="guide">
             <para><emphasis role="strong">Intention :</emphasis> explorer les
             considérations relatives à la durée du rôle.</para>
 
@@ -5036,7 +5072,7 @@
               <secondary>rôle opérationnel</secondary>
             </indexterm> exige la disponibilité de travailler la fin de
           semaine ou le soir, soyons conscients que tout le monde n’est pas
-          forcément en mesure de le faire.<informalfigure role="process">
+          forcément en mesure de le faire.<informalfigure role="guide">
               <para><emphasis role="strong">Intention : </emphasis>Explorer
               les qualités que nous aimerions voir chez le titulaire d'un
               rôle.</para>
@@ -5069,16 +5105,16 @@
               personne n'a d'autre idée à proposer.</para>
             </informalfigure></para>
 
-          <para>L’encadré 130<indexterm>
+          <para>L’encadré <xref linkend="qualifications"
+          xrefstyle="select: labelnumber"/><indexterm>
               <primary>qualité</primary>
 
               <secondary>pour les rôles (exemples)</secondary>
-            </indexterm> (<xref linkend="qualifications"/>) propose une liste
-          possible des quatre rôles liés au processus. Notons qu'il s'agit
-          d'exemples. Chaque organisation/cercle pourrait établir des
-          priorités très différentes ! Chaque groupe doit compiler sa propre
-          liste, la tenir à jour et l'adapter en fonction des
-          besoins.<indexterm>
+            </indexterm> propose une liste possible des quatre rôles liés au
+          processus. Notons qu'il s'agit d'exemples. Chaque
+          organisation/cercle pourrait établir des priorités très différentes
+          ! Chaque groupe doit compiler sa propre liste, la tenir à jour et
+          l'adapter en fonction des besoins.<indexterm>
               <primary>facilitateur</primary>
 
               <secondary>qualités du facilitateur</secondary>
@@ -5102,7 +5138,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003C2000002629A516CD14352FBC5.png"/>
+                <imagedata fileref="../illustrations/3-facilitatorleaderqualificationsJH.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -5120,13 +5156,14 @@
           <para>Il est important de terminer ce processus par un tour de
           consentement. S'il y a une objection, nous l'explorons et voyons si
           nous pouvons trouver un ensemble de qualités auxquelles tout le
-          monde peut consentir. Par exemple, dans l’encadré 130 (<xref
-          linkend="qualifications"/>), l'élément « membre de longue date »
-          pour la personne délégué n'est pas nécessairement une qualité à
-          laquelle tout le monde consent. Quelqu'un aurait pu suggérer cela et
-          le faire inscrire sur la liste, mais nous devons encore voir si tout
-          le monde peut y consentir : « Pourquoi voulons-nous que quelqu'un
-          qui est un membre de longue date soit délégué(e) ? ».</para>
+          monde peut consentir. Par exemple, dans l’encadré <xref
+          linkend="qualifications" xrefstyle="select: labelnumber"/>,
+          l'élément « membre de longue date » pour la personne délégué n'est
+          pas nécessairement une qualité à laquelle tout le monde consent.
+          Quelqu'un aurait pu suggérer cela et le faire inscrire sur la liste,
+          mais nous devons encore voir si tout le monde peut y consentir : «
+          Pourquoi voulons-nous que quelqu'un qui est un membre de longue date
+          soit délégué(e) ? ».</para>
 
           <para>En conséquence, nous pourrions décider que nous voulons un
           facilitateur qui n'a que peu d'expérience sur le poste parce que,
@@ -5150,7 +5187,7 @@
           avoir la volonté et la capacité de séparer son rôle de facilitateur
           de son rôle de membre du cercle.</para>
 
-          <informalfigure role="process">
+          <informalfigure role="guide">
             <para><emphasis role="strong">Intention : </emphasis>atteindre le
             consentement en rapport avec la liste de qualités<indexterm>
                 <primary>qualité</primary>
@@ -5208,7 +5245,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BB000000D249BC18C63DD7ABDC.png"/>
+              <imagedata fileref="../illustrations/4-understandexploredecideelections2.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5227,7 +5264,7 @@
           </indexterm>
 
           <para>Chaque membre dans le cercle va maintenant proposer une
-          personne pour combler le rôle.<informalfigure role="process">
+          personne pour combler le rôle.<informalfigure role="guide">
               <para><emphasis role="strong">Intention :</emphasis> les membres
               du cercle réfléchissent à la personne qu’ils aimeraient voir
               occuper un rôle.</para>
@@ -5265,8 +5302,8 @@
           <para>Certains facilitateurs aiment rassembler les feuilles de
           nomination pour mieux savoir qui a proposé qui. Nous préférons quant
           à nous utiliser une grille pour avoir une idée de la ou des
-          nominations de chacun.e, comme dans le document 132 (<xref
-          linkend="nominationgrid0"/>).</para>
+          nominations de chacun.e, comme dans le document <xref
+          linkend="nominationgrid0" xrefstyle="select: labelnumber"/>.</para>
 
           <figure xml:id="nominationgrid0">
             <title>Grille pour les tours de nomination et de
@@ -5284,7 +5321,8 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BD0000012B00AFC46539FB9077.png"/>
+                <imagedata fileref="../illustrations/roundnominationgrid0.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -5317,7 +5355,7 @@
 
           <para>Le cercle entre maintenant dans la phase
           <emphasis>Explorer</emphasis> en vue d’échanger.<informalfigure
-              role="process">
+              role="guide">
               <para><emphasis role="strong">Intention : </emphasis>partager
               nos nominations et nos raisons ;</para>
 
@@ -5356,7 +5394,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BD0000012B36D3E7725A2EC731.png"/>
+                <imagedata fileref="../illustrations/roundnominationgrid1.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -5425,7 +5463,7 @@
           évoluer notre pensée ou nous a rappelé un fait significatif que nous
           connaissions sur quelqu'un ? Notons bien sûr que nous ne sommes pas
           <emphasis>obligés</emphasis> de changer d'avis.<informalfigure
-              role="process">
+              role="guide">
               <para><emphasis role="strong">Intention :</emphasis> évaluer les
               nominations après avoir entendu celles faites par chacun.e des
               membres.</para>
@@ -5474,7 +5512,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BE000001A5689C6BAE9D7D59C7.png"/>
+                <imagedata fileref="../illustrations/bubble-selectionJH.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -5530,7 +5568,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BD0000012BDC002419DC229F43.png"/>
+                <imagedata fileref="../illustrations/roundnominationgrid2.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -5555,7 +5593,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BB000000D2A22984D9127AC635.png"/>
+              <imagedata fileref="../illustrations/4-understandexploredecideelections3.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5572,7 +5610,7 @@
           pourrions tourner en rond sans fin, pesant toutes les raisons à la
           recherche du candidat idéal. Nous essayons d'éviter cela en faisant
           une proposition et en nous concentrant sur les
-          objections.<informalfigure role="process">
+          objections.<informalfigure role="guide">
               <para><emphasis role="strong">Intention :</emphasis> proposer un
               candidat.</para>
 
@@ -5628,7 +5666,7 @@
           <para>Le facilitateur invite maintenant à un tour de
           consentement.</para>
 
-          <informalfigure role="process">
+          <informalfigure role="guide">
             <para><emphasis role="strong">Intention :</emphasis> écoutons tout
             le monde, qu'il y ait consentement ou objection.</para>
 
@@ -5670,8 +5708,9 @@
 
               <listitem>
                 <para>S'il y a des objections, nous cherchons à les intégrer
-                (voir section 3.6.3 page X, sur les objections dans les
-                sélections).</para>
+                (voir section <xref linkend="objectionsselections"
+                xrefstyle="select: labelnumber page"/>, sur les objections
+                dans les sélections).</para>
               </listitem>
             </itemizedlist>
 
@@ -5686,7 +5725,7 @@
           <para>Le facilitateur évalue s'il y a consentement et annonce la
           décision.</para>
 
-          <informalfigure role="process">
+          <informalfigure role="guide">
             <para><emphasis role="strong">Intention : </emphasis>reconnaître
             et diffuser la décision.</para>
 
@@ -5721,7 +5760,8 @@
           </informalfigure>
 
           <para>Vous trouverez un exemple complet de ce processus de sélection
-          dans le tableau 200, page X.</para>
+          dans le tableau <xref linkend="selectionprocess3x3"
+          xrefstyle="select: labelnumber page"/>.</para>
         </section>
       </section>
     </section>
@@ -5760,10 +5800,11 @@
         nomme XZY dans le rôle de… parce que… et… dans le rôle de délégué(e)
         parce que… » </emphasis>et ainsi de suite.</para>
 
-        <para>Le tableau 137 (<xref linkend="complexselection"/>) montre
-        comment on dessine la grille pour un processus de sélection multiple
-        et simultanée, dans ce cas pour le facilitateur, le secrétaire et le
-        délégué(e). Le tour de confirmation du choix<indexterm>
+        <para>Le tableau <xref linkend="complexselection"
+        xrefstyle="select: labelnumber"/> montre comment on dessine la grille
+        pour un processus de sélection multiple et simultanée, dans ce cas
+        pour le facilitateur, le secrétaire et le délégué(e). Le tour de
+        confirmation du choix<indexterm>
             <primary>tour de confirmation</primary>
           </indexterm><indexterm>
             <primary>tour de parole</primary>
@@ -5786,7 +5827,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C000000185A126654926D4E166.png"/>
+              <imagedata fileref="../illustrations/complexselection.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5985,7 +6026,7 @@
         le souhaite.</para>
       </section>
 
-      <section>
+      <section xml:id="objectionsselections">
         <title>Peut-il y avoir des objections dans un processus de sélection
         ?</title>
 
@@ -6070,7 +6111,8 @@
         l'apprentissage du cercle ? Si oui, nous nous objectons. Dans le cas
         contraire, nous donnons notre consentement. (Sur le défi émotionnel
         que représente le fait de s'objecter à quelqu'un, voir la section
-        3.6.4).</para>
+        <xref linkend="emotionalchallenges"
+        xrefstyle="select: labelnumber"/>).</para>
 
         <para>Ne formulez <emphasis>jamais</emphasis> d'objection fondée sur
         une préférence personnelle<indexterm>
@@ -6296,8 +6338,9 @@
         le problème du vote à la majorité est que dans son résultat, jusqu'à
         49 p. cent des votes sont ignorés.</para>
 
-        <para>L’illustration 138 (<xref linkend="votingvsconsent"/>) montre
-        comment une décision de consentement<indexterm>
+        <para>L’illustration <xref linkend="votingvsconsent"
+        xrefstyle="select: labelnumber"/> montre comment une décision de
+        consentement<indexterm>
             <primary>vote majoritaire</primary>
 
             <secondary>consentement en opposé au vote majoritaire</secondary>
@@ -6329,7 +6372,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BE000001AA48E73C6D17D0E647.png"/>
+              <imagedata fileref="../illustrations/3-votingvsconsentJH.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -6356,20 +6399,21 @@
             <secondary>consentement en opposé au vote majoritaire</secondary>
           </indexterm>, nous devons en savoir un peu plus. Quelle est
         l'histoire sous-jacente ? Y a-t-il des objections de part et d'autre,
-        comme dans l’illustration 139 <emphasis>Scénario 1</emphasis> (<xref
-        linkend="votingvsconsenttie"/>), ou avons-nous réellement le
-        consentement des deux candidats, comme dans l’illustration 140
-        <emphasis>Scénario 2</emphasis> ? Dans l’illustration 139, la
-        proposition du candidat A nous permettra d'obtenir le consentement,
-        tandis que la proposition du candidat B suscitera des
-        objections.</para>
+        comme dans l’illustration <xref linkend="votingvsconsenttie"
+        xrefstyle="select: label"/>, ou avons-nous réellement le consentement
+        des deux candidats, comme dans l’illustration <xref
+        linkend="votingvsconsenttie" xrefstyle="select: label"/> ? Dans
+        l’illustration <xref linkend="votingvsconsenttie"
+        xrefstyle="select: label"/>, la proposition du candidat A nous
+        permettra d'obtenir le consentement, tandis que la proposition du
+        candidat B suscitera des objections.</para>
 
         <figure xml:id="votingvsconsenttie">
           <title>Scénario 1</title>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BC000001AA75F0C90AC1C9203D.png"/>
+              <imagedata fileref="../illustrations/3-votingvsconsenttie.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -6379,7 +6423,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF000001A839C36C42677F4E38.png"/>
+              <imagedata fileref="../illustrations/3-votingvsconsenttie2.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -6446,7 +6490,7 @@
       </section>
     </section>
 
-    <section xml:id="défis-émotionnels">
+    <section xml:id="emotionalchallenges">
       <title>Défis émotionnels</title>
 
       <indexterm>
@@ -6663,7 +6707,7 @@
         politiques sont difficiles à relever pour votre groupe, nous vous
         recommandons vivement de former votre équipe aux techniques de
         communication. Pour en savoir plus sur ce sujet, consulter le chapitre
-        4.</para>
+        <xref linkend="feedback" xrefstyle="select: labelnumber"/>.</para>
 
         <para>En général, nous encourageons les groupes à accepter et à
         reconnaître que des sentiments surgissent lorsque nous prenons des
@@ -6728,7 +6772,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BE000000E2CA4A0C16E3589C17.png"/>
+            <imagedata fileref="../illustrations/Stephaneexpertbox.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>

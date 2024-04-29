@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
+<chapter version="5.0" xml:id="overview" xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:ns6="http://docbook.org/ns/transclusion"
          xmlns:ns5="http://www.w3.org/1998/Math/MathML"
@@ -91,7 +91,7 @@
   sociocratie : un ensemble de principes de design pour répartir le pouvoir de
   façon qu'il soit dans le flux de la vie.</para>
 
-  <section>
+  <section xml:id="values">
     <title>Les valeurs sous-jacentes à la sociocratie</title>
 
     <indexterm>
@@ -283,13 +283,18 @@
               <primary>besoins; exemples</primary>
 
               <secondary>appartenance</secondary>
-            </indexterm>, équivalence</emphasis> : quand nous nous sentons
-          comme un individu au sein d'une organisation bien soudée, cela peut
-          accroître notre sentiment d'appartenance. La connexion et
-          l'appartenance sont des besoins essentiels pour tous les êtres
-          humains. Une communauté décentralisée et soudée est plus résiliente
-          qu'un système souple ou sans structure ou qu'un système hiérarchique
-          rigide.</para>
+            </indexterm>, équivalence et résilience<indexterm>
+              <primary>résilience (besoin)</primary>
+            </indexterm><indexterm>
+              <primary>besoins; exemples</primary>
+
+              <secondary>résilience</secondary>
+            </indexterm></emphasis> : quand nous nous sentons comme un
+          individu au sein d'une organisation bien soudée, cela peut accroître
+          notre sentiment d'appartenance. La connexion et l'appartenance sont
+          des besoins essentiels pour tous les êtres humains. Une communauté
+          décentralisée et soudée est plus résiliente qu'un système souple ou
+          sans structure ou qu'un système hiérarchique rigide.</para>
         </listitem>
       </itemizedlist>
     </section>
@@ -312,9 +317,10 @@
         <listitem>
           <para><emphasis role="strong">Équivalence</emphasis> : personne
           n'est ignoré. Le principe essentiel qui sous-tend la sociocratie.
-          (Définition dans la figure 3) Nous nous efforçons de tenir compte de
-          toutes les personnes concernées dans tout ce que nous faisons; aucun
-          individu ou groupe n'est ignoré.</para>
+          (Définition dans la <xref linkend="definitionequivalenceJH"/>) Nous
+          nous efforçons de tenir compte de toutes les personnes concernées
+          dans tout ce que nous faisons; aucun individu ou groupe n'est
+          ignoré.</para>
         </listitem>
 
         <listitem>
@@ -499,12 +505,12 @@
       connus, nous décidons collectivement de la façon la plus efficace de
       répondre à ces besoins, dans le respect des limites existantes.</para>
 
-      <figure>
+      <figure xml:id="definitionequivalenceJH">
         <title>Définition du terme équivalence</title>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BB000000EC922220F609C8AA7C.png"/>
+            <imagedata fileref="../illustrations/1-definitionequivalenceJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -536,7 +542,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BF000000B2D9AACC744E305160.png"/>
+            <imagedata fileref="../illustrations/1-definitioneffectivenessJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -598,7 +604,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="paradox">
     <title>Le paradoxe d'enseigner l'autogouvernance</title>
 
     <indexterm>
@@ -615,7 +621,7 @@
     comment nous composons avec ce paradoxe de l'enseignement de
     l'autogouvernance.</para>
 
-    <section>
+    <section xml:id="effectiveness">
       <title>Principes de conception versus outils</title>
 
       <para>Pour nous, il est plus important de diriger une
@@ -696,7 +702,7 @@
 
     <section>
       <title>Prenez ce qui vous semble utile — et plus vous en prenez, mieux
-      c'est !</title>
+      c'est !</title>
 
       <para>La sociocratie n'est pas une approche « tout ou rien ». Les
       lecteurs peuvent utiliser autant d'éléments et d'outils qu'ils le
@@ -737,8 +743,10 @@
           <primary>cercle</primary>
 
           <secondary>structure de cercles</secondary>
-        </indexterm> plus transparente. Les décisions prises en petits groupes
-      sont facilitées par la prise de décision par consentement<indexterm>
+        </indexterm> plus transparente (voir <xref linkend="double-linking"
+      xrefstyle="select: label quotedtitle page"/>). Les décisions prises en
+      petits groupes sont facilitées par la prise de décision par
+      consentement<indexterm>
           <primary>consentement</primary>
         </indexterm>. Toute omission sera comblée d’une façon ou d’une autre,
       et parfois par des pratiques qui ne soutiennent pas efficacement
@@ -836,14 +844,14 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003B9000000A63FB8BE242D08895C.png"/>
+            <imagedata fileref="../illustrations/sociocracyphonetics.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
     </section>
   </section>
 
-  <section>
+  <section xml:id="context">
     <title>La sociocratie en contexte</title>
 
     <section>
@@ -1056,7 +1064,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BC0000020EE8EC7BBCDE5A5B71.png"/>
+              <imagedata fileref="../illustrations/quotes.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1155,7 +1163,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="using-this-manual">
     <title>Comment utiliser ce manuel</title>
 
     <para>La gouvernance est délicate à enseigner. Le plus grand défi est que
@@ -1218,7 +1226,8 @@
     a une expérience directe. Si cela ne correspond pas à la façon dont vous
     préférez apprendre, nous pouvons vous aider à trouver d'autres façons
     d’apprendre ou vous mettre en lien avec un coach. (Voir les liens vers les
-    ressources dans la section Références de l'annexe).</para>
+    ressources dans la <xref linkend="contact-SoFA"
+    xrefstyle="select: label quotedtitle page"/> de l'annexe).</para>
 
     <section>
       <title>Ressources en ligne</title>
@@ -1244,7 +1253,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C000000230725AF02AD9935FA4.png"/>
+            <imagedata fileref="../illustrations/onlinecontent.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>

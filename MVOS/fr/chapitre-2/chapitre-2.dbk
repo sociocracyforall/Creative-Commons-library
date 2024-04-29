@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
+<chapter version="5.0" xml:id="organizational-structure"
+         xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:ns6="http://docbook.org/ns/transclusion"
          xmlns:ns5="http://www.w3.org/1998/Math/MathML"
@@ -81,7 +82,7 @@
   la décroissance) se font en douceur, selon la demande et l'intention de
   l'organisation.</para>
 
-  <section>
+  <section xml:id="circles">
     <title>Le cercle</title>
 
     <indexterm significance="preferred">
@@ -165,7 +166,7 @@
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="Pictures/10000201000003BB00000121AD67D6A4A4909500.png"/>
+          <imagedata fileref="../illustrations/circlesubcircle.jpg"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -187,14 +188,14 @@
       </indexterm> est le plus décentralisé possible, il est configuré
     sainement et chaque cercle est habilité à agir par lui-même.</para>
 
-    <figure>
+    <figure xml:id="distributepower">
       <title>Faire circuler le pouvoir jusqu'au cercle le plus
       spécialisé</title>
 
       <mediaobject>
         <imageobject>
           <imagedata depth="3.2638in"
-                     fileref="Pictures/10000201000003C0000001E252AB3C0E7339B6C4.png"
+                     fileref="../illustrations/distributepower.jpg"
                      width="6.5in"/>
         </imageobject>
       </mediaobject>
@@ -272,7 +273,7 @@
     doit répondre aux besoins de chacune de ses parties.</para>
   </section>
 
-  <section>
+  <section xml:id="VMAD">
     <title>Donner du pouvoir au cercle : buts, domaines et membres</title>
 
     <indexterm>
@@ -301,7 +302,7 @@
       <mediaobject>
         <imageobject>
           <imagedata depth="1.6807in"
-                     fileref="Pictures/10000201000003BD000000F778211F96183CF081.png"
+                     fileref="../illustrations/aimsdomainsmembers.jpg"
                      width="6.5in"/>
         </imageobject>
       </mediaobject>
@@ -359,8 +360,8 @@
             <primary>décision</primary>
 
             <secondary>adoption d'une politique</secondary>
-          </indexterm> que l'on prendra au sein de l'organisation (voir
-        section 3.2.4).</para>
+          </indexterm> que l'on prendra au sein de l'organisation (voir <xref
+        linkend="objections"/>).</para>
 
         <figure xml:id="samemissiondifferentaimsJH">
           <title>Exemple : même mission, « pour en finir avec le sans-abrisme
@@ -368,7 +369,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BE0000014E0D9E32A5CFFAAD21.png"/>
+              <imagedata fileref="../illustrations/samemissiondifferentaims.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -377,14 +378,15 @@
         Des organisations ayant la même mission et la même vision peuvent
         avoir des buts très différents. La mission « pour en finir avec le
         sans-abrisme » peut être accomplie par des buts différents qui sont
-        les stratégies que nous utilisons, comme le montre le tableau 12
-        (<xref linkend="samemissiondifferentaimsJH"/>). En revanche, nous
-        pourrions avoir des visions très différentes et être toujours capables
-        de nous rallier au même but (cela arrive probablement plus souvent
-        qu'on ne le réalise !) Par exemple, pour les bénévoles d'une soupe
-        populaire végétarienne, la préoccupation peut être la santé ou
-        l'environnement ou la notion de partage ; ainsi, la même stratégie
-        peut servir à répondre à des besoins très différents.</para>
+        les stratégies que nous utilisons, comme le montre le tableau <xref
+        linkend="samemissiondifferentaimsJH"
+        xrefstyle="select: labelnumber"/>. En revanche, nous pourrions avoir
+        des visions très différentes et être toujours capables de nous rallier
+        au même but (cela arrive probablement plus souvent qu'on ne le réalise
+        !) Par exemple, pour les bénévoles d'une soupe populaire végétarienne,
+        la préoccupation peut être la santé ou l'environnement ou la notion de
+        partage ; ainsi, la même stratégie peut servir à répondre à des
+        besoins très différents.</para>
 
         <para>Plus une organisation est homogène dans la vision / mission /
         but<indexterm>
@@ -420,7 +422,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BD000000C461387FAC8D1B0863.png"/>
+              <imagedata fileref="../illustrations/VMA.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -431,13 +433,13 @@
         plutôt formulés par des participes présents. Un équivalent peut être
         trouvé dans d’autres langues. Pour une organisation particulière, on
         peut également utiliser une formulation générique telle que proposée
-        dans l'encadré 13 (<xref linkend="VMAfigure"/>). Un autre exemple
-        serait : « Nous souhaitons que notre monde fournisse des aliments
-        frais et nutritifs pour tous. Notre mission est de fournir des
-        aliments sains et frais dans le comté de Madison. Nous commencerons
-        par faire de la pâtisserie et vendre des produits de boulangerie
-        devant un magasin de Huntsville. » Notre mission constitue notre
-        stratégie<indexterm>
+        dans l'encadré <xref linkend="VMAfigure"
+        xrefstyle="select: labelnumber"/>. Un autre exemple serait : « Nous
+        souhaitons que notre monde fournisse des aliments frais et nutritifs
+        pour tous. Notre mission est de fournir des aliments sains et frais
+        dans le comté de Madison. Nous commencerons par faire de la pâtisserie
+        et vendre des produits de boulangerie devant un magasin de
+        Huntsville. » Notre mission constitue notre stratégie<indexterm>
             <primary>stratégie</primary>
           </indexterm> globale pour nous rapprocher de notre vision. Les buts
         décrivent de manière simple ce qu'il faut faire pour rester fidèle à
@@ -449,34 +451,34 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF000000D6FD8B9233EF11E168.png"/>
+              <imagedata fileref="../illustrations/VMASoFA.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
 
         <para>Regardons de plus près la pratique de l'organisation à laquelle
         appartiennent les auteurs de ce livre, les fondateurs de Sociocracy
-        For All (SoFA). Comme le montre l'encadré 14 (<xref
-        linkend="VMASoFA"/>), la vision est un espace qui reflète là où nous
-        aspirons être. La mission est notre contribution sur la manière d'y
-        parvenir. Dans le cas de SoFA, il s'agit de rendre la connaissance
-        accessible. Nous voulons vivre dans un monde qui fait une place à
-        toutes et à tous (chaque voix importe) ; nous supposons que rendre la
-        sociocratie accessible contribue à un monde où chacun et chacune sont
-        considérés. Ce que nous choisissons comme stratégies raisonnables pour
-        agir dans le cadre de notre mission, constitue nos buts. Si SoFA
-        observe qu'il manque un but<indexterm>
+        For All (SoFA). Comme le montre l'encadré <xref linkend="VMASoFA"
+        xrefstyle="select: labelnumber"/>, la vision est un espace qui reflète
+        là où nous aspirons être. La mission est notre contribution sur la
+        manière d'y parvenir. Dans le cas de SoFA, il s'agit de rendre la
+        connaissance accessible. Nous voulons vivre dans un monde qui fait une
+        place à toutes et à tous (chaque voix importe) ; nous supposons que
+        rendre la sociocratie accessible contribue à un monde où chacun et
+        chacune sont considérés. Ce que nous choisissons comme stratégies
+        raisonnables pour agir dans le cadre de notre mission, constitue nos
+        buts. Si SoFA observe qu'il manque un but<indexterm>
             <primary>but</primary>
           </indexterm> qui pourrait contribuer à sa mission, cela peut être
-        ajouté. Les buts actuels de SoFA sont énumérés dans l'encadré 15
-        (<xref linkend="ASoFA"/>) qui suit :</para>
+        ajouté. Les buts actuels de SoFA sont énumérés dans l'encadré <xref
+        linkend="ASoFA" xrefstyle="select: labelnumber"/> qui suit :</para>
 
         <figure xml:id="ASoFA">
           <title>Sociocracy For All, les buts</title>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BE0000015A6544F1905CBAADDE.png"/>
+              <imagedata fileref="../illustrations/ASoFA.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -539,7 +541,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BD00000178E41B5D377ECF0D08.png"/>
+              <imagedata fileref="../illustrations/circleaimsTable.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -626,8 +628,8 @@
         pratiquaient et partageaient la sociocratie était une contribution
         essentielle de SoFA à sa diffusion. C'est alors que nous avons ajouté
         le dernier but de l'encadré SoFA à notre liste de buts (voir l'encadré
-        15, page xx (<xref linkend="ASoFA"/>)). Nous pouvions également
-        ajouter ou dissoudre des cercles<indexterm>
+        <xref linkend="ASoFA" xrefstyle="select: labelnumber page"/>). Nous
+        pouvions également ajouter ou dissoudre des cercles<indexterm>
             <primary>cercle</primary>
 
             <secondary>défaire un cercle</secondary>
@@ -649,7 +651,7 @@
       </section>
     </section>
 
-    <section xml:id="domaines">
+    <section xml:id="domains">
       <title>Domaines</title>
 
       <indexterm>
@@ -692,7 +694,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF00000165947187898F45B027.png"/>
+              <imagedata fileref="../illustrations/welldefineddomain.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -721,8 +723,9 @@
         un cercle dispose d'un budget qui est approuvé par le cercle supérieur
         immédiat. Dans les limites de son propre budget, le cercle a toute
         autorité sur la manière de dépenser l'argent et de répartir les heures
-        de travail. Voyons les encadrés 18 et 19 (<xref linkend="aimsincoop"/>
-        et <xref linkend="aimsincoho"/>) pour des exemples de cercles de
+        de travail. Voyons les encadrés <xref linkend="aimsincoop"
+        xrefstyle="select: labelnumber"/> et <xref linkend="aimsincoho"
+        xrefstyle="select: labelnumber"/> pour des exemples de cercles de
         départements, de buts et de domaines dans la production alimentaire
         (boulangerie) et dans une communauté.<indexterm>
             <primary>domaine</primary>
@@ -739,7 +742,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C0000001A25E7D91D7C7AE9659.png"/>
+              <imagedata fileref="../illustrations/2-ExampleaimsdomainscoopJH.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -798,12 +801,13 @@
               synonyme de « sur-cercle » ; de la même façon, lorsqu'il est
               fait mention de « cercle enfant », il s'agit d'un
               « sous-cercle ».</para>
-            </footnote> (voir l'illustration 20 (<xref
-          linkend="alldecisionsaboutpastryJH"/>)). Nous essayons de prendre
-          autant de décisions que possible dans le cercle Pâtisserie ; ce
-          dernier n'a donc pas besoin de l'approbation du cercle Production
-          pour les décisions à prendre tant qu'elles sont dans les limites de
-          son budget<indexterm>
+            </footnote> (voir l'illustration <xref
+          linkend="alldecisionsaboutpastryJH"
+          xrefstyle="select: labelnumber"/>). Nous essayons de prendre autant
+          de décisions que possible dans le cercle Pâtisserie ; ce dernier n'a
+          donc pas besoin de l'approbation du cercle Production pour les
+          décisions à prendre tant qu'elles sont dans les limites de son
+          budget<indexterm>
               <primary>budget</primary>
             </indexterm> en tant que sous-cercle.</para>
         </informalexample>
@@ -813,7 +817,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BE000001190A5F0E9C0DADEEC8.png"/>
+              <imagedata fileref="../illustrations/alldecisionsaboutpastry.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -940,8 +944,9 @@
         abordée dans le sous-cercle le plus « spécifique » que nous puissions
         trouver (par exemple, le niveau le plus « bas » identifié).</para>
 
-        <para>L'illustration 21 (<xref linkend="fulldomainsubdomain"/>) permet
-        de visualiser cela. Le domaine<indexterm>
+        <para>L'illustration <xref linkend="fulldomainsubdomain"
+        xrefstyle="select: labelnumber"/> permet de visualiser cela. Le
+        domaine<indexterm>
             <primary>domaine</primary>
           </indexterm> du cercle parent est divisé, il se vide au fur et à
         mesure que des sous-domaines<indexterm>
@@ -990,7 +995,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF0000016C2FA1F9B762CD6C8A.png"/>
+              <imagedata fileref="../illustrations/fulldomain-subdomain.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1019,7 +1024,7 @@
           </indexterm>.</para>
       </section>
 
-      <section>
+      <section xml:id="hierachyofdomains">
         <title>Clarté des domaines</title>
 
         <indexterm>
@@ -1067,7 +1072,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF000001671A5E1CF1565E86FE.png"/>
+              <imagedata fileref="../illustrations/overlapgapcomplaints.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1095,7 +1100,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BE000001513926B35B8BF63067.png"/>
+              <imagedata fileref="../illustrations/CHcircledomains.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1150,7 +1155,7 @@
 
           <mediaobject xml:id="CHcircledomainsstairs">
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C0000002B85A3D7F5C26215E8E.png"/>
+              <imagedata fileref="../illustrations/CHcircledomainsstairs.jpg"/>
             </imageobject>
 
             <caption>
@@ -1160,7 +1165,7 @@
 
           <mediaobject xml:id="CHcircledomainsstairsclear">
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C1000002BE0CE84F44B71D571F.png"/>
+              <imagedata fileref="../illustrations/CHcircledomainsstairsclear.jpg"/>
             </imageobject>
 
             <caption>
@@ -1218,11 +1223,11 @@
             <secondary>autorité sur les transferts</secondary>
           </indexterm>, c'est plutôt comme une course à relais où le bâton est
         passé d'un coureur à l'autre. Nous trouvons plus d'informations sur
-        les domaines, les transferts et les transmissions dans la section
-        2.6.3.</para>
+        les domaines, les transferts et les transmissions dans la <xref
+        linkend="handoff"/>.</para>
       </section>
 
-      <section>
+      <section xml:id="whosetsaims">
         <title>Qui fixe les buts<indexterm>
             <primary>but</primary>
           </indexterm> et les domaines ?</title>
@@ -1324,7 +1329,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C9000001A9944917679F3F8B31.png"/>
+              <imagedata fileref="../illustrations/broadfocusspecificfocusJH.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1343,12 +1348,13 @@
         liés.</para>
 
         <para>Nous utilisons souvent les termes « plus large » et « plus
-        spécifique » (comme dans l’illustration 25 (<xref
-        linkend="broadfocusspecificfocus"/>)) dans des contextes de formation
-        où nous avons plus de temps pour expliquer et éviter la confusion
-        autour de la terminologie. Mais ces termes semblent encombrants et il
-        y a de fortes chances que les participants soient rebutés parce que
-        cela semble compliqué. Notre but<indexterm>
+        spécifique » (comme dans l’illustration <xref
+        linkend="broadfocusspecificfocus" xrefstyle="select: labelnumber"/>)
+        dans des contextes de formation où nous avons plus de temps pour
+        expliquer et éviter la confusion autour de la terminologie. Mais ces
+        termes semblent encombrants et il y a de fortes chances que les
+        participants soient rebutés parce que cela semble compliqué. Notre
+        but<indexterm>
             <primary>but</primary>
           </indexterm> est de rendre la sociocratie accessible, pas de la
         rendre compliquée.</para>
@@ -1357,11 +1363,11 @@
         trois idées à prendre en considération.</para>
 
         <para>Toute organisation peut avoir différents organigrammes pour la
-        représenter. Les structures de l’encadré 26 (<xref
-        linkend="circlestructureangle"/>) l’illustrent bien : elles décrivent
-        une même organisation en abordant la hiérarchie de façon plus ou moins
-        prononcée, selon le cas. Nous pouvons éviter une hiérarchie
-        linéaire<indexterm>
+        représenter. Les structures de l’encadré <xref
+        linkend="circlestructureangle" xrefstyle="select: labelnumber"/>
+        l’illustrent bien : elles décrivent une même organisation en abordant
+        la hiérarchie de façon plus ou moins prononcée, selon le cas. Nous
+        pouvons éviter une hiérarchie linéaire<indexterm>
             <primary>hiérarchie</primary>
 
             <secondary>hiérarchie linéaire</secondary>
@@ -1374,7 +1380,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C0000002D0C15A1067B103129A.png"/>
+              <imagedata fileref="../illustrations/circlestructureangle1JH.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1413,12 +1419,12 @@
           </indexterm> et sur la manière dont la sociocratie remet en question
         les structures de pouvoir<indexterm>
             <primary>pouvoir</primary>
-          </indexterm> auxquelles nous sommes habitués, voir par exemple
-        6.10.5 à la page xxx)</para>
+          </indexterm> auxquelles nous sommes habitués, voir par exemple <xref
+        linkend="underestimate" xrefstyle="select: labelnumber page"/>)</para>
       </section>
     </section>
 
-    <section>
+    <section xml:id="Definedmembership">
       <title>Membership</title>
 
       <indexterm>
@@ -1496,10 +1502,10 @@
 
         <para>Dans les cercles en sociocratie, le consentement est la méthode
         de prise de décision des politiques par défaut. Une description en
-        détail est présentée dans la section 3.2.2, à partir de la page xxx.
-        Notons pour l'instant la définition suivante du consentement : à la
-        fin d'une discussion, une décision est prise si aucun membre du cercle
-        n'a d'objection<indexterm>
+        détail est présentée dans la section <xref linkend="consentchapter"
+        xrefstyle="select: labelnumber page"/>. Notons pour l'instant la
+        définition suivante du consentement : à la fin d'une discussion, une
+        décision est prise si aucun membre du cercle n'a d'objection<indexterm>
             <primary>objection</primary>
           </indexterm>.</para>
 
@@ -1534,7 +1540,8 @@
         implique toutefois une formule d'adhésion claire et explicite.</para>
 
         <para>(Pour en savoir plus sur l'absence de membership défini, voir la
-        section 6.10.3 à la page xxx)</para>
+        section <xref linkend="lackofdefinedmembership"
+        xrefstyle="select: labelnumber page"/>.)</para>
       </section>
 
       <section>
@@ -1562,19 +1569,20 @@
 
             <secondary>consentement à un nouveau membre</secondary>
           </indexterm> en vue d'accueillir le nouveau membre dans le cercle
-        (voir 3.3.2 à la page xxx sur les étapes reliées au
+        (voir <xref linkend="consentprocess"
+        xrefstyle="select: labelnumber page"/> sur les étapes reliées au
         consentement).</para>
 
         <para>La proposition pour accepter une personne en tant que membre est
-        simple, comme le montre l'encadré 27 (<xref linkend="newmember"/>)
-        :</para>
+        simple, comme le montre l'encadré <xref linkend="newmember"
+        xrefstyle="select: labelnumber"/> :</para>
 
         <figure xml:id="newmember">
           <title>Accepter un nouveau membre dans le cercle</title>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BB000000C16272C075943FE544.png"/>
+              <imagedata fileref="../illustrations/newmember.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1694,7 +1702,8 @@
             <secondary>parlement civique</secondary>
           </indexterm>, nous ne nous attendons pas à ce que chaque habitant
         fasse partie de l'administration. (Voir d'autres réflexions dans la
-        section 6.7 à la page xxx).</para>
+        section <xref linkend="few-and-many"
+        xrefstyle="select: labelnumber page"/>.)</para>
 
         <para>Une nuance s'impose ici : soyons conscients que la sociocratie
         n'a pas été conçue pour favoriser que de nombreux membres soient
@@ -1709,7 +1718,7 @@
         fasse sens pour eux.</para>
       </section>
 
-      <section>
+      <section xml:id="removesomeone">
         <title>Comment exclure un membre d'un cercle ?</title>
 
         <indexterm>
@@ -1823,13 +1832,15 @@
         par notre cercle sur ce sujet.</para>
 
         <para>(Voir d'autres commentaires sur le « congédiement » de bénévoles
-        d'un cercle spécifique à la page xxx, et sur la façon de faire un
-        retour au chapitre 4.)</para>
+        d'un cercle spécifique à la page <xref linkend="volunteers"
+        xrefstyle="select: pagenumber"/>, et sur la façon de faire un retour
+        au chapitre <xref linkend="feedback"
+        xrefstyle="select: labelnumber"/>.)</para>
       </section>
     </section>
   </section>
 
-  <section>
+  <section xml:id="roles">
     <title>Opérations et structure interne d'un cercle : les rôles</title>
 
     <indexterm significance="preferred">
@@ -1903,8 +1914,8 @@
     fonction de ses ressources et de ses compétences. Idéalement, nous
     aimerions que les rôles soient distribués entre plusieurs personnes, car
     cela permet de répartir le pouvoir, les responsabilités. (Sur la rotation
-    de l'animation ou des rôles en général, voir la section 2.3.4 à la page
-    xxx.)</para>
+    de l'animation ou des rôles en général, voir la section <xref
+    linkend="rotate" xrefstyle="select: labelnumber page"/>.)</para>
 
     <para>Il n'y a que deux rôles qui ne peuvent pas être remplis par la même
     personne : celui de leader<indexterm>
@@ -1915,7 +1926,8 @@
         <secondary>double-lien</secondary>
       </indexterm>, le leader et le délégué doivent être deux personnes
     distinctes. Référons les lecteurs qui ne sont pas familiers avec le
-    double-lien à la section 2.4 de la page xxx.</para>
+    double-lien à la section <xref linkend="double-linking"
+    xrefstyle="select: labelnumber page"/>.</para>
 
     <section>
       <title>Rôles en cercle</title>
@@ -2002,8 +2014,8 @@
           entre deux cercles. Le leader et le délégué<indexterm>
               <primary>délégué</primary>
             </indexterm> portent les informations entre les cercles, une
-          caractéristique que nous appelons le double-lien. (Voir la section
-          2.4)</para>
+          caractéristique que nous appelons le double-lien. (Voir la <xref
+          linkend="double-linking"/>.)</para>
         </listitem>
       </itemizedlist>
 
@@ -2013,7 +2025,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C8000001A50C56E5C42031AFD4.png"/>
+            <imagedata fileref="../illustrations/functionalroles.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -2043,7 +2055,7 @@
       établissant une pratique efficace, transparente et qui facilite
       l'équivalence avant, pendant et après les réunions.</para>
 
-      <section>
+      <section xml:id="leaderrole">
         <title>Leader</title>
 
         <indexterm significance="preferred">
@@ -2065,8 +2077,8 @@
 
             <secondary>rôle opérationnel</secondary>
           </indexterm> (lié aux opérations du domaine du cercle entier, voir
-        la section 2.3.2). Le leader opère dans le cadre de la politique
-        consentie par le cercle.</para>
+        la <xref linkend="operationalroles"/>). Le leader opère dans le cadre
+        de la politique consentie par le cercle.</para>
 
         <figure xml:id="tasksLeader">
           <title>29. Check-list<footnote>
@@ -2081,7 +2093,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C0000001200BCD48849C1C1975.png"/>
+              <imagedata fileref="../illustrations/leaderchecklist.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -2201,10 +2213,11 @@
 
               <secondary>cercle Parent</secondary>
             </indexterm>, le leader y étant le premier lien tandis que le
-          délégué est le second lien (voir la section 2.4 sur le double-lien).
-          Dans une organisation plus horizontale, le leader peut être proposé
-          par son propre cercle. Dans un cas comme dans l'autre, le cercle
-          doit donner son consentement quant à la sélection<indexterm>
+          délégué est le second lien (voir la <xref linkend="double-linking"/>
+          sur le double-lien). Dans une organisation plus horizontale, le
+          leader peut être proposé par son propre cercle. Dans un cas comme
+          dans l'autre, le cercle doit donner son consentement quant à la
+          sélection<indexterm>
               <primary>sélection</primary>
             </indexterm>.</para>
 
@@ -2214,18 +2227,18 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BB0000014E3D7324A0BD1594CA.png"/>
+                <imagedata fileref="../illustrations/selectionleader.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
 
-          <para>Les deux scénarios sont illustrés dans le diagramme 30 (<xref
-          linkend="selectionleader"/>). Étant donné que les rôles et
-          l'appartenance à un groupe sont toujours fondés sur le consentement
-          (un individu « consent » à faire partie d'un groupe, et un cercle
-          « consent » à tout nouveau membre), aucun des deux scénarios
-          illustrés n'implique qu'un des groupes exerce un pouvoir coercitif
-          sur l'autre<indexterm>
+          <para>Les deux scénarios sont illustrés dans le diagramme <xref
+          linkend="selectionleader" xrefstyle="select: labelnumber"/>. Étant
+          donné que les rôles et l'appartenance à un groupe sont toujours
+          fondés sur le consentement (un individu « consent » à faire partie
+          d'un groupe, et un cercle « consent » à tout nouveau membre), aucun
+          des deux scénarios illustrés n'implique qu'un des groupes exerce un
+          pouvoir coercitif sur l'autre<indexterm>
               <primary>cercle</primary>
 
               <secondary>appartenance dans un cercle</secondary>
@@ -2241,7 +2254,7 @@
         </section>
       </section>
 
-      <section>
+      <section xml:id="delegaterole">
         <title>Délégué</title>
 
         <indexterm significance="preferred">
@@ -2281,11 +2294,13 @@
             <primary>liaison</primary>
 
             <secondary>double-lien</secondary>
-          </indexterm>, voir la section 2.4.2 à la page xxx.</para>
+          </indexterm>, voir la section <xref linkend="psycho"
+        xrefstyle="select: labelnumber page"/>.</para>
 
         <para>Nous recommandons vivement d'avoir un délégué au moins dans nos
         cercles de niveau plus général. La nécessité ou non d'avoir un délégué
-        dépend de plusieurs facteurs. (Voir la section 2.4.3 à la page xxx,
+        dépend de plusieurs facteurs. (Voir la section <xref
+        linkend="doublelinkmandatory" xrefstyle="select: labelnumber page"/>,
         pour savoir si un cercle doit toujours avoir un double-lien<indexterm>
             <primary>liaison</primary>
 
@@ -2321,7 +2336,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C0000001200D1566680A143203.png"/>
+              <imagedata fileref="../illustrations/delegatechecklist.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -2344,7 +2359,7 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BD0000010747EFCB1792765E1C.png"/>
+                <imagedata fileref="../illustrations/selectiondelegate.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -2376,9 +2391,11 @@
             </indexterm> dysfonctionnel peut ralentir l'ensemble de
           l'organisation. Si un délégué ne soutient pas le travail du cercle
           général, il faut prendre cela au sérieux et y remédier. (Voir le
-          diagramme 32 (<xref linkend="selectiondelegate"/>) et l'exemple 33
-          (<xref linkend="bubble-withdrawconsentonGC"/>) pour lire une
-          histoire à ce sujet.)</para>
+          diagramme en <xref linkend="selectiondelegate"
+          xrefstyle="select: labelnumber"/> et l'exemple <xref
+          linkend="bubble-withdrawconsentonGC"
+          xrefstyle="select: labelnumber"/> pour lire une histoire à ce
+          sujet.)</para>
 
           <figure xml:id="bubble-withdrawconsentonGC">
             <title>Faisons valoir nos droits de consentement, y compris quand
@@ -2387,14 +2404,14 @@
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BC0000016B325BA25863EB8276.png"/>
+                <imagedata fileref="../illustrations/bubble-withdrawconsent.jpg"/>
               </imageobject>
             </mediaobject>
           </figure>
         </section>
       </section>
 
-      <section>
+      <section xml:id="secretaryrole">
         <title>Secrétaire</title>
 
         <indexterm significance="preferred">
@@ -2408,10 +2425,11 @@
         secrétaire (également appelé administrateur du cercle) peut aussi
         consister à annoncer les réunions du cercle, à préparer l'ordre du
         jour en consultation avec les autres membres du cercle (voir la
-        section 5.4 à la page xxx, concernant qui prépare l'ordre du jour de
-        la réunion), et à distribuer le matériel d'étude et les propositions.
-        Le secrétaire fait également le suivi à propos de ce qui doit figurer
-        à l'ordre du jour des réunions<indexterm>
+        section <xref linkend="meeting-documents"
+        xrefstyle="select: labelnumber page"/>, concernant qui prépare l'ordre
+        du jour de la réunion), et à distribuer le matériel d'étude et les
+        propositions. Le secrétaire fait également le suivi à propos de ce qui
+        doit figurer à l'ordre du jour des réunions<indexterm>
             <primary>ordre du jour</primary>
 
             <secondary>préparer l'ordre du jour</secondary>
@@ -2434,7 +2452,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C0000001204C4C4E714DB8FD8F.png"/>
+              <imagedata fileref="../illustrations/secretarychecklist.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -2459,7 +2477,7 @@
         accomplir.</para>
       </section>
 
-      <section>
+      <section xml:id="facilitatorrole">
         <title>Facilitateur</title>
 
         <indexterm significance="preferred">
@@ -2483,7 +2501,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C000000120FD3D2652BD0D934A.png"/>
+              <imagedata fileref="../illustrations/facilitatorchecklist.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -2534,13 +2552,13 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BD00000115E4EEDBA9D6F355E8.png"/>
+              <imagedata fileref="../illustrations/facilitatorleaderskills.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
       </section>
 
-      <section>
+      <section xml:id="logbookkeeper">
         <title>Le gardien du journal de bord</title>
 
         <indexterm>
@@ -2576,22 +2594,23 @@
         l'organisation, cela peut représenter un travail considérable. Nous
         voulons que les politiques récentes soient publiées et qu'elles soient
         faciles à trouver pour une communication transparente optimale.
-        L'exemple 37 (<xref linkend="logbookexample"/>) montre à quoi pourrait
-        ressembler un journal de bord.</para>
+        L'exemple <xref linkend="logbookexample"
+        xrefstyle="select: labelnumber"/> montre à quoi pourrait ressembler un
+        journal de bord.</para>
 
-        <para>Le tableau 38 (<xref linkend="logbookkeepertasks"/>) énumère les
-        tâches ; des dispositions plus spécifiques peuvent être prises par le
-        cercle général. Si on le souhaite, un cercle qui a beaucoup de
-        politiques à gérer peut définir, en plus du rôle de secrétaire, le
-        rôle de gardien du journal de bord, uniquement pour ses propres
-        politiques.</para>
+        <para>Le tableau <xref linkend="logbookkeepertasks"
+        xrefstyle="select: labelnumber"/> énumère les tâches ; des
+        dispositions plus spécifiques peuvent être prises par le cercle
+        général. Si on le souhaite, un cercle qui a beaucoup de politiques à
+        gérer peut définir, en plus du rôle de secrétaire, le rôle de gardien
+        du journal de bord, uniquement pour ses propres politiques.</para>
 
         <figure xml:id="logbookexample">
           <title>Un exemple de journal de bord</title>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BD000001D32DD88FE58253D554.png"/>
+              <imagedata fileref="../illustrations/logbookexample.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -2601,14 +2620,14 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003B9000001399228CF5A1196DEA7.png"/>
+              <imagedata fileref="../illustrations/logbookkeepertasks.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
       </section>
     </section>
 
-    <section>
+    <section xml:id="operationalroles">
       <title>Rôles opérationnels</title>
 
       <indexterm significance="preferred">
@@ -2621,8 +2640,8 @@
       des rôles opérationnels : des parties du domaine<indexterm>
           <primary>domaine</primary>
         </indexterm> du cercle sont supervisées par un membre (ou deux) du
-      cercle dans un rôle tel qu'illustré dans l'encadré 39 (<xref
-      linkend="operationalrolesJH"/>).</para>
+      cercle dans un rôle tel qu'illustré dans l'encadré <xref
+      linkend="operationalrolesJH" xrefstyle="select: labelnumber"/>.</para>
 
       <informalexample>
         <para>Imaginons un Cercle Entretien des équipements chez un imprimeur.
@@ -2653,7 +2672,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BD0000010DCB49496E9A4AA349.png"/>
+            <imagedata fileref="../illustrations/operationalroles.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -2749,7 +2768,8 @@
         </indexterm>, laquelle peut être générée de la même manière que les
       autres politiques : bref énoncé des besoins, faire une esquisse et
       élaboration de propositions. (Voir comment écrire les rôles dans la
-      section 3.6.1 à la page xxx.)</para>
+      section <xref linkend="policyroles"
+      xrefstyle="select: labelnumber page"/>.)</para>
 
       <para>La politique<indexterm>
           <primary>politique</primary>
@@ -2785,7 +2805,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C00000011ED42B9ECFEF572FB8.png"/>
+            <imagedata fileref="../illustrations/oprolechecklist.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -2798,9 +2818,9 @@
       personnes tiennent le même rôle, le risque est qu'elles supposent
       chacune que l'autre est responsable.</para>
 
-      <para>Une description de rôle peut ressembler à l'exemple 41 (<xref
-      linkend="examplelawnmoverliaison"/>). Un cercle consent à la description
-      du rôle<indexterm>
+      <para>Une description de rôle peut ressembler à l'exemple <xref
+      linkend="examplelawnmoverliaison" xrefstyle="select: labelnumber"/>. Un
+      cercle consent à la description du rôle<indexterm>
           <primary>rôle</primary>
 
           <secondary>description de rôle</secondary>
@@ -2820,7 +2840,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BC000001CB578D18F1AD288C08.png"/>
+            <imagedata fileref="../illustrations/bookingsystem.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -2877,7 +2897,7 @@
       modifiée comme tout autre aspect d'une proposition.</para>
     </section>
 
-    <section>
+    <section xml:id="rotate">
       <title>Sur la rotation ou le partage des rôles</title>
 
       <indexterm>
@@ -2963,7 +2983,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="double-linking">
     <title>Double-lien</title>
 
     <indexterm>
@@ -3016,7 +3036,8 @@
         <secondary>double-lien</secondary>
       </indexterm> est la manière sociocratique de relier deux cercles. Deux
     membres de cercle seront membres à part entière des deux cercles, comme le
-    montre le diagramme 42 (<xref linkend="linkedcircles"/>), à droite.</para>
+    montre le diagramme <xref linkend="linkedcircles"
+    xrefstyle="select: labelnumber"/>, à droite.</para>
 
     <figure xml:id="linkedcircles">
       <title>Cercles non liés en opposition à cercles liés</title>
@@ -3024,7 +3045,7 @@
       <informalfigure>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BE000001AAD2661F44AC02D949.png"/>
+            <imagedata fileref="../illustrations/unlinkedcircles.jpg"/>
           </imageobject>
         </mediaobject>
       </informalfigure>
@@ -3032,7 +3053,7 @@
       <informalfigure>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BD000001AB8E840F93138B6F97.png"/>
+            <imagedata fileref="../illustrations/linkedcircles.jpg"/>
           </imageobject>
         </mediaobject>
       </informalfigure>
@@ -3069,14 +3090,15 @@
     l'organisation plus large en signalant au cercle du dessus ce qu'il y a à
     savoir de lui (quelles décisions ont été prises, comment il se porte, ou
     l'impact sur lui des politiques adoptées par le cercle parent. (Voir le
-    diagramme 43 (<xref linkend="leaderdelegate"/>)).</para>
+    diagramme <xref linkend="leaderdelegate"
+    xrefstyle="select: labelnumber"/>).</para>
 
     <figure xml:id="leaderdelegate">
       <title>Leader et délégué</title>
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="Pictures/10000201000003C200000102879617C877B5C5AD.png"/>
+          <imagedata fileref="../illustrations/leaderdelegate.jpg"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -3100,7 +3122,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C0000002D0E971EFDBAE04E314.png"/>
+            <imagedata fileref="../illustrations/circularhierarchy.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -3145,7 +3167,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C1000001634EDF29D2D4BB967D.png"/>
+            <imagedata fileref="../illustrations/filtersystem.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -3185,7 +3207,7 @@
       </itemizedlist>
     </section>
 
-    <section>
+    <section xml:id="psycho">
       <title>L'effet psychologique du double-lien</title>
 
       <indexterm>
@@ -3259,7 +3281,7 @@
       compréhension mutuelle et le sentiment d'appartenance.</para>
     </section>
 
-    <section>
+    <section xml:id="doublelinkmandatory">
       <title>Le double-lien est-il obligatoire ?</title>
 
       <indexterm>
@@ -3346,7 +3368,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="circle-types">
     <title>Les types de cercles</title>
 
     <indexterm significance="preferred">
@@ -3364,7 +3386,8 @@
       Lorsque les tâches doivent être plus différenciées et/ou que
       l'organisation se développe, on passe à une structure plus complexe.
       Nous décrirons ici la structure de base. Notons qu'il y a quelques
-      commentaires sur les petites organisations dans la section 6.6.</para>
+      commentaires sur les petites organisations dans la section <xref
+      linkend="tiny-organizations" xrefstyle="select: labelnumber"/>.</para>
 
       <figure xml:id="basicstructure">
         <title>Une mise en œuvre de base<indexterm>
@@ -3373,7 +3396,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C0000002D07EDA18F3D1013373.png"/>
+            <imagedata fileref="../illustrations/basicstructure.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -3398,8 +3421,9 @@
       « cercles de division » ou « cercles centraux » ; nous pouvons, bien
       sûr, les appeler par tout autre nom que nous jugeons approprié.</para>
 
-      <para>Dans le diagramme 46 (<xref linkend="basicstructure"/>), il y a
-      trois cercles de département<indexterm>
+      <para>Dans le diagramme <xref linkend="basicstructure"
+      xrefstyle="select: labelnumber"/>, il y a trois cercles de
+      département<indexterm>
           <primary>cercle</primary>
 
           <secondary>cercle de département</secondary>
@@ -3438,7 +3462,7 @@
       dans toutes les directions tout en évitant les grands cercles.</para>
     </section>
 
-    <section>
+    <section xml:id="generalcircle">
       <title>Le cercle général</title>
 
       <indexterm significance="preferred">
@@ -3480,7 +3504,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C20000023834CA0B2A38E40E82.png"/>
+            <imagedata fileref="../illustrations/generalcircle.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -3524,9 +3548,9 @@
         </listitem>
       </itemizedlist>
 
-      <para>Dans le diagramme 47 (<xref linkend="generalcircleimg"/>), le CG
-      est composé des leaders et des délégués des trois cercles de
-      département<indexterm>
+      <para>Dans le diagramme <xref linkend="generalcircleimg"
+      xrefstyle="select: labelnumber"/>, le CG est composé des leaders et des
+      délégués des trois cercles de département<indexterm>
           <primary>cercle</primary>
 
           <secondary>cercle de département</secondary>
@@ -3536,7 +3560,7 @@
         </indexterm>.</para>
     </section>
 
-    <section>
+    <section xml:id="missioncircle">
       <title>Le cercle Mission</title>
 
       <indexterm significance="preferred">
@@ -3562,11 +3586,12 @@
 
           <see>cercle mission</see>
         </indexterm> (ainsi qu'à sa vision) et qu'elle demeure connectée à son
-      contexte organisationnel et culturel. Comme le montre le diagramme 48
-      (<xref linkend="MCandGCdifference"/>), le CM donne et soutient
-      l'orientation générale. Il peut exercer des responsabilités juridiques
-      et financières et soutient le leader opérationnel ; le CG quant à lui
-      soutient le travail lié aux buts.</para>
+      contexte organisationnel et culturel. Comme le montre le diagramme <xref
+      linkend="MCandGCdifference" xrefstyle="select: labelnumber"/>, le CM
+      donne et soutient l'orientation générale. Il peut exercer des
+      responsabilités juridiques et financières et soutient le leader
+      opérationnel ; le CG quant à lui soutient le travail lié aux
+      buts.</para>
 
       <figure xml:id="MCandGCdifference">
         <title>La différence entre le cercle Mission et le cercle
@@ -3574,7 +3599,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BE0000013F63D23244404B0B71.png"/>
+            <imagedata fileref="../illustrations/MCandGCdifference.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -3630,7 +3655,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BD0000026546E58CD9F0CDFE28.png"/>
+              <imagedata fileref="../illustrations/influencetopbottom.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -3642,12 +3667,14 @@
         possibilité d'influence réciproque. Grâce aux membres extérieurs du CM
         et aux contacts générés avec les membres de cercles spécifiques, voire
         les clients et les usagers, toute organisation exercera une influence
-        réciproque avec la communauté plus large, comme le montre la figure 49
-        (<xref linkend="influencetopbottom"/>). Il n'y a pas de « nous versus
-        les autres » dans une organisation sociocratique. Ceci est également
-        vrai pour la relation entre la communauté élargie et le CM. Le CM est
-        le lien avec et vers la communauté élargie. (En rapport avec ce sujet,
-        voir plus de détails sur les réseaux dans le chapitre 2.7.)</para>
+        réciproque avec la communauté plus large, comme le montre la figure
+        <xref linkend="influencetopbottom" xrefstyle="select: labelnumber"/>.
+        Il n'y a pas de « nous versus les autres » dans une organisation
+        sociocratique. Ceci est également vrai pour la relation entre la
+        communauté élargie et le CM. Le CM est le lien avec et vers la
+        communauté élargie. (En rapport avec ce sujet, voir plus de détails
+        sur les réseaux dans le section <xref linkend="networks"
+        xrefstyle="select: labelnumber"/>.)</para>
       </section>
 
       <section>
@@ -3751,7 +3778,8 @@
 
             <secondary>double-lien</secondary>
           </indexterm> avec le cercle Mission et qui représentent un groupe de
-        parties prenantes (voir la section 2.5.3, à la page xxx).</para>
+        parties prenantes (voir la section <xref linkend="circlesontopcircle"
+        xrefstyle="select: labelnumber page"/>).</para>
 
         <para>Le lien de coordination entre le CM et le CG est le leader
         opérationnel, le directeur général ou le PDG.<indexterm>
@@ -3776,13 +3804,13 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C30000028E74D434F7EC5D0C6C.png"/>
+              <imagedata fileref="../illustrations/GCintoMCdouble.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
 
-        <para>Comme le montre le diagramme 51 (<xref
-        linkend="upcyclingdelegate"/>), un travailleur du niveau le plus
+        <para>Comme le montre le diagramme <xref linkend="upcyclingdelegate"
+        xrefstyle="select: labelnumber"/>, un travailleur du niveau le plus
         spécifique peut être sélectionné comme délégué<indexterm>
             <primary>délégué</primary>
           </indexterm> dans le cercle de département, et de là devenir délégué
@@ -3805,7 +3833,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF00000298397BA76A89657F01.png"/>
+              <imagedata fileref="../illustrations/upcyclingdelegate.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -3844,7 +3872,8 @@
         réseaux<indexterm>
             <primary>réseau</primary>
           </indexterm> ou en associations. (Pour en savoir plus, consulter la
-        rubrique 2.7.<indexterm>
+        rubrique <xref linkend="networks"
+        xrefstyle="select: labelnumber"/>.<indexterm>
             <primary>organisation</primary>
 
             <secondary>organisation d'organisations</secondary>
@@ -3918,7 +3947,7 @@
         séparer.</para>
       </section>
 
-      <section>
+      <section xml:id="DoweneedTTC">
         <title>Avons-nous besoin d'un cercle Mission ?</title>
 
         <indexterm significance="preferred">
@@ -3940,19 +3969,20 @@
         essentiels.</para>
 
         <para>Si un groupe craint que la présence d'un CM ne surcharge
-        l'organisation à un moment donné, voir la section 6.4.3 à la page xxx
-        pour des solutions temporaires ou de rechange.</para>
+        l'organisation à un moment donné, voir la section <xref
+        linkend="GCandTC" xrefstyle="select: labelnumber page"/> pour des
+        solutions temporaires ou de rechange.</para>
 
         <informalfigure>
           <para><inlinemediaobject>
               <imageobject>
-                <imagedata fileref="Pictures/10000201000003BC000000BBD7B01ABEC58DB799.png"/>
+                <imagedata fileref="../illustrations/ExpertboxLeif2_page55.jpg"/>
               </imageobject>
             </inlinemediaobject></para>
         </informalfigure>
       </section>
 
-      <section>
+      <section xml:id="circlesontopcircle">
         <title>Représentation des parties prenantes dans le cercle
         Mission</title>
 
@@ -4032,17 +4062,17 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C1000001E684F8CBA889A4666A.png"/>
+              <imagedata fileref="../illustrations/topcircleforprofit.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
 
-        <para>Le diagramme 52 (<xref linkend="topcircleforprofit"/>) montre à
-        quoi peut ressembler une entreprise sociocratique à but lucratif.
-        Gardons à l'esprit que ce sont des exemples : le cercle de ce
-        fournisseur a un sens précis dans ce contexte et pas forcément dans
-        d'autres. L'organisation finale dépend des liens réels qui se créent
-        avec le cercle Mission.</para>
+        <para>Le diagramme <xref linkend="topcircleforprofit"
+        xrefstyle="select: labelnumber"/> montre à quoi peut ressembler une
+        entreprise sociocratique à but lucratif. Gardons à l'esprit que ce
+        sont des exemples : le cercle de ce fournisseur a un sens précis dans
+        ce contexte et pas forcément dans d'autres. L'organisation finale
+        dépend des liens réels qui se créent avec le cercle Mission.</para>
 
         <figure xml:id="topcircleowners">
           <title>Échantillon de structure d'une coopérative de
@@ -4050,13 +4080,14 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000002930000018C310F84E1F3F2E2FF.png"/>
+              <imagedata fileref="../illustrations/topcircleowners.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
 
-        <para>Le diagramme 53 (<xref linkend="topcircleowners"/>) montre une
-        partie de la structure d'une coopérative de travailleurs<indexterm>
+        <para>Le diagramme <xref linkend="topcircleowners"
+        xrefstyle="select: labelnumber"/> montre une partie de la structure
+        d'une coopérative de travailleurs<indexterm>
             <primary>coopératif</primary>
 
             <secondary>exemple d'une coopérative</secondary>
@@ -4081,21 +4112,22 @@
         membres d'autres entreprises liées à leur domaine, comme des
         fournisseurs.</para>
 
-        <para>Le diagramme 54(a) (<xref linkend="topcirclecommunity"/>)
-        illustre la structure d'une communauté intentionnelle. Trois experts
-        extérieurs y sont représentés. Par exemple, un représentant municipal
-        pourrait faire partie du cercle Mission de la communauté. Quelqu'un
-        d'une autre communauté intentionnelle, un agriculteur local, un expert
-        en permaculture, quelqu'un avec une expertise en soins aux personnes
+        <para>Le diagramme <xref linkend="topcirclecommunity"
+        xrefstyle="select: labelnumber"/> illustre la structure d'une
+        communauté intentionnelle. Trois experts extérieurs y sont
+        représentés. Par exemple, un représentant municipal pourrait faire
+        partie du cercle Mission de la communauté. Quelqu'un d'une autre
+        communauté intentionnelle, un agriculteur local, un expert en
+        permaculture, quelqu'un avec une expertise en soins aux personnes
         âgées, un communicateur, ou un expert en résolution de
         conflits.</para>
 
         <para>Pour compléter (même s'il n'y a pas beaucoup de différence),
         explorons une structure à but non lucratif telle qu'illustrée dans le
-        diagramme 54(b) (<xref linkend="topcirclenonprofitJH"/>). Selon la
-        nature des organisations à but non lucratif (OBNL), il peut y avoir un
-        ensemble pertinent de donateurs, suffisamment pour permettre de
-        choisir un délégué<indexterm>
+        diagramme <xref linkend="topcirclenonprofitJH"
+        xrefstyle="select: labelnumber"/>. Selon la nature des organisations à
+        but non lucratif (OBNL), il peut y avoir un ensemble pertinent de
+        donateurs, suffisamment pour permettre de choisir un délégué<indexterm>
             <primary>délégué</primary>
           </indexterm> parmi eux. Ces dernières peuvent avoir un expert du
         gouvernement local ou de l'administration scolaire ou d'une autre
@@ -4111,7 +4143,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000002BF000002B2CCD5EDD1E5D9A484.png"/>
+              <imagedata fileref="../illustrations/topcirclecommunity.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4121,7 +4153,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/100002010000029200000248EE7B4D0FB2F9AB6D.png"/>
+              <imagedata fileref="../illustrations/topcirclenonprofit.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4237,14 +4269,14 @@
                 <primary>cercle mission</primary>
 
                 <secondary>membres</secondary>
-              </indexterm>. (Voir encadré 54(a). (<xref
-            linkend="topcirclecommunity"/>))</para>
+              </indexterm>. (Voir encadré <xref linkend="topcirclecommunity"
+            xrefstyle="select: labelnumber"/>.)</para>
           </listitem>
         </itemizedlist>
       </section>
     </section>
 
-    <section>
+    <section xml:id="helpingcircles">
       <title>Les cercles de soutien</title>
 
       <indexterm significance="preferred">
@@ -4312,7 +4344,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF00000131F241C35E06A08AE3.png"/>
+              <imagedata fileref="../illustrations/helpingcircle.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4409,20 +4441,21 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BE000001ADF7AFFF280867BFA4.png"/>
+              <imagedata fileref="../illustrations/bubble-retreat.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
 
-        <para>L'exemple 56 (<xref linkend="bubble-retreat"/>) raconte
-        l'histoire d'une de nos organisations.</para>
+        <para>L'exemple <xref linkend="bubble-retreat"
+        xrefstyle="select: labelnumber"/> raconte l'histoire d'une de nos
+        organisations.</para>
 
         <para>Lorsque nous mettons en place un cercle de soutien, utilisons la
-        liste de vérification (voir l'encadré 57 (<xref
-        linkend="HCchecklist"/>)). Cela ne prend que quelques minutes pour
-        vérifier l'ensemble des éléments de la liste et nous permet de sauver
-        tellement de temps si certains éléments nous apparaissaient alors
-        absents.<indexterm>
+        liste de vérification (voir l'encadré <xref linkend="HCchecklist"
+        xrefstyle="select: labelnumber"/>). Cela ne prend que quelques minutes
+        pour vérifier l'ensemble des éléments de la liste et nous permet de
+        sauver tellement de temps si certains éléments nous apparaissaient
+        alors absents.<indexterm>
             <primary>cercle de soutien</primary>
 
             <secondary>check-list pour un cercle de soutien</secondary>
@@ -4439,7 +4472,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF000001638482038D1AA0FEC5.png"/>
+              <imagedata fileref="../illustrations/helpingcirclechecklist.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4455,15 +4488,16 @@
         <secondary>structure de cercles</secondary>
       </indexterm>
 
-      <para>Pour votre information, l'illustration 58 (<xref
-      linkend="fullfledged"/>) est un exemple complet de structure pour toute
-      organisation sociocratique, quelles que soient sa nature et ses
-      activités. Notons que tous les cercles n'ont pas à être présents dans
-      chaque application de la sociocratie : le diagramme présenté est
+      <para>Pour votre information, l'illustration <xref linkend="fullfledged"
+      xrefstyle="select: labelnumber"/> est un exemple complet de structure
+      pour toute organisation sociocratique, quelles que soient sa nature et
+      ses activités. Notons que tous les cercles n'ont pas à être présents
+      dans chaque application de la sociocratie : le diagramme présenté est
       intentionnellement asymétrique pour montrer la nature dynamique des
       structures en cercle. De plus, le diagramme comporte un cercle de
       soutien, ce qui permet de voir toutes les possibilités de cercles en un
-      diagramme. Lisons la section 6.4.2 sur le processus étape par étape
+      diagramme. Lisons la section <xref linkend="implementationcircles"
+      xrefstyle="select: labelnumber"/> sur le processus étape par étape
       concernant comment aborder la conception d'une structure
       organisationnelle.</para>
 
@@ -4472,14 +4506,14 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000002E6000002BBAEE3892F86603178.png"/>
+            <imagedata fileref="../illustrations/fullfledged.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
     </section>
   </section>
 
-  <section>
+  <section xml:id="structure-changes">
     <title>Transitions et variations</title>
 
     <indexterm>
@@ -4521,8 +4555,9 @@
 
             <listitem>
               <para>Définir un ou plusieurs nouveaux rôles opérationnels (voir
-              section 2.3.2) pour assumer certaines des responsabilités du
-              cercle qui émergent.</para>
+              section <xref linkend="operationalroles"
+              xrefstyle="select: labelnumber"/>) pour assumer certaines des
+              responsabilités du cercle qui émergent.</para>
             </listitem>
 
             <listitem>
@@ -4628,7 +4663,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C0000000BEE0825D8CBC236E11.png"/>
+            <imagedata fileref="../illustrations/ExpertboxLeif1.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -4644,7 +4679,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C0000001566E45E154E5241517.png"/>
+            <imagedata fileref="../illustrations/subcirclechecklist.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -4693,14 +4728,15 @@
       se replier, le domaine et le but<indexterm>
           <primary>but</primary>
         </indexterm> reviennent automatiquement sous la responsabilité du
-      cercle Parent, comme indiqué dans le diagramme 61 (<xref
-      linkend="foldingacircleintooperationalrole"/>). Si un cercle ne se
-      réunit que de temps en temps, cela convient, dans la mesure où cela
-      correspond aux attentes des membres du cercle qui guident le travail.
-      Par exemple, un cercle qui prépare les collectes de fonds du printemps
-      et de l'automne pour une école peut se réunir fréquemment à l'approche
-      de l'événement, et une fois après, puis finalement cesser pendant un
-      certain temps.</para>
+      cercle Parent, comme indiqué dans le diagramme <xref
+      linkend="foldingacircleintooperationalrole"
+      xrefstyle="select: labelnumber"/>. Si un cercle ne se réunit que de
+      temps en temps, cela convient, dans la mesure où cela correspond aux
+      attentes des membres du cercle qui guident le travail. Par exemple, un
+      cercle qui prépare les collectes de fonds du printemps et de l'automne
+      pour une école peut se réunir fréquemment à l'approche de l'événement,
+      et une fois après, puis finalement cesser pendant un certain
+      temps.</para>
 
       <figure xml:id="foldingacircleintooperationalrole">
         <title>Redésigner le rôle opérationnel d'un cercle : le but et le
@@ -4708,7 +4744,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C1000001002641019A2E1B0627.png"/>
+            <imagedata fileref="../illustrations/foldingacircleintooperationalrole.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -4763,7 +4799,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BC0000012CCE98BB96ACACEE45.png"/>
+            <imagedata fileref="../illustrations/branchexample1.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -4782,8 +4818,8 @@
       elle tombe dans le Cercle Infrastructure. Ce dernier sera responsable du
       nettoyage, car c'est de son ressort de maintenir les chemins
       utilisables. Jusqu'à présent, cet exemple va dans le sens de ce que nous
-      avons dit sur les domaines clairement définis dans la section
-      2.2.2.</para>
+      avons dit sur les domaines clairement définis dans la section <xref
+      linkend="domains" xrefstyle="select: labelnumber"/>.</para>
 
       <para>S'il s'agit d'un grand terrain et que des branches d'arbres
       tombent souvent, les deux cercles ne devraient-ils pas participer à la
@@ -4794,7 +4830,7 @@
       pour partager l'information, non pas pour la prise de décision
       partagée.</para>
 
-      <section>
+      <section xml:id="handoff">
         <title>Transmissions</title>
 
         <indexterm significance="preferred">
@@ -4825,7 +4861,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BE00000109DDB8B722C54C526E.png"/>
+              <imagedata fileref="../illustrations/changeinmembershipfee.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4863,7 +4899,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BC0000010822B848DBBB3E0877.png"/>
+              <imagedata fileref="../illustrations/changeinmembership.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4882,7 +4918,7 @@
           </indexterm>.</para>
       </section>
 
-      <section>
+      <section xml:id="handover">
         <title>Transferts</title>
 
         <indexterm significance="preferred">
@@ -4915,7 +4951,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003B9000000838CB2C110B852AFDB.png"/>
+              <imagedata fileref="../illustrations/handoffhandover.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5005,7 +5041,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="networks">
     <title>Autres groupes qui se réunissent</title>
 
     <indexterm significance="preferred">
@@ -5045,8 +5081,9 @@
       <para>Ce que tous les regroupements ont en commun, c'est qu'ils n'ont
       pas de domaines. La confusion peut naître du manque de clarté sur la
       différence entre les cercles et les groupes d'intérêts/communautés de
-      pratique. L'encadré 66 (<xref linkend="networkvscircle"/>) illustre la
-      différence entre un groupe d'intérêt et un cercle formel.</para>
+      pratique. L'encadré <xref linkend="networkvscircle"
+      xrefstyle="select: labelnumber"/> illustre la différence entre un groupe
+      d'intérêt et un cercle formel.</para>
 
       <para>Un regroupement ou un groupe d'intérêt/communauté de pratique ne
       peut pas prendre de décisions qui ont un impact sur les politiques de
@@ -5059,7 +5096,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BD0000015C5C8C3C14FA439527.png"/>
+            <imagedata fileref="../illustrations/networkvscircle.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -5070,7 +5107,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C10000025255E71EB211210835.png"/>
+            <imagedata fileref="../illustrations/networkinternal.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -5082,10 +5119,11 @@
           <primary>regroupement</primary>
         </indexterm> de tous les facilitateurs. Imaginons que ces derniers se
       réunissent pour échanger des expériences et des techniques ou des
-      directives, comme le montre le diagramme 67 (<xref
-      linkend="networkinternalsubmitproposals"/>). Ce groupe ne peut pas
-      prendre de décisions sur le fonctionnement des cercles, même dans le
-      domaine de la facilitation<indexterm>
+      directives, comme le montre le diagramme <xref
+      linkend="networkinternalsubmitproposals"
+      xrefstyle="select: labelnumber"/>. Ce groupe ne peut pas prendre de
+      décisions sur le fonctionnement des cercles, même dans le domaine de la
+      facilitation<indexterm>
           <primary>facilitation</primary>
         </indexterm> (parce que cela ne peut être décidé que par les cercles
       eux-mêmes ou par le cercle qui détient ce domaine dans l'organisation).
@@ -5127,7 +5165,7 @@
       de la sociocratie.</para>
     </section>
 
-    <section>
+    <section xml:id="networksoforgs">
       <title>Réseaux entre organisations</title>
 
       <indexterm>
@@ -5163,7 +5201,8 @@
 
           <secondary>appartenance dans un cercle</secondary>
         </indexterm> Voyons la comparaison entre les organisations et les
-      réseaux dans l'encadré 68 (<xref linkend="networksorgs"/>).<indexterm>
+      réseaux dans l'encadré <xref linkend="networksorgs"
+      xrefstyle="select: labelnumber"/>.<indexterm>
           <primary>réseau</primary>
 
           <secondary>différence entre une organisation et des
@@ -5180,7 +5219,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BF00000164A4D108CB042D31C2.png"/>
+            <imagedata fileref="../illustrations/orgvsnetwork.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -5199,7 +5238,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BE00000182564DC89F5CC0FBF1.png"/>
+              <imagedata fileref="../illustrations/topcircleslinked.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5207,10 +5246,11 @@
         <para>Ainsi chaque organisation dispose d'informations sur ce qui se
         passe dans l'autre organisation. (Nous avons déjà étudié cela lorsque
         nous avons vu la question des membres externes du CM, voyons la
-        section 2.5.3 à la page xxx). Relier deux cercles Mission est utile
-        lorsque les deux organisations sont dans des domaines connexes ou par
-        exemple dans une relation fournisseur-distributeur. Voici quelques
-        exemples :</para>
+        section <xref linkend="circlesontopcircle"
+        xrefstyle="select: labelnumber page"/>). Relier deux cercles Mission
+        est utile lorsque les deux organisations sont dans des domaines
+        connexes ou par exemple dans une relation fournisseur-distributeur.
+        Voici quelques exemples :</para>
 
         <itemizedlist>
           <listitem>
@@ -5241,7 +5281,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C2000001E9EF1038A0CBE510E9.png"/>
+              <imagedata fileref="../illustrations/2-topcircleclustered.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5261,9 +5301,10 @@
         </indexterm>
 
         <para>Nous pouvons également former des hubs pour fournir, par
-        exemple, des efforts d'impact collectif (voir le diagramme 71 (<xref
-        linkend="collectiveimpact"/>)). Un hub est un regroupement - et non
-        pas un groupe décisionnel - à un niveau inter-organisationnel.</para>
+        exemple, des efforts d'impact collectif (voir le diagramme <xref
+        linkend="collectiveimpact" xrefstyle="select: labelnumber"/>). Un hub
+        est un regroupement - et non pas un groupe décisionnel - à un niveau
+        inter-organisationnel.</para>
 
         <para>Le schéma ressemble à celui du cercle des
         facilitateurs<indexterm>
@@ -5302,7 +5343,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF000001F7600F6D31C1E227B0.png"/>
+              <imagedata fileref="../illustrations/2-collectiveimpact.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5395,8 +5436,8 @@
         organisations nationales peut avoir son propre cercle Mission pour
         s'assurer qu'elle reste fidèle à sa mission<indexterm>
             <primary>mission</primary>
-          </indexterm> (voir le diagramme 72 (<xref
-        linkend="orgsasworkcircles"/>)).</para>
+          </indexterm> (voir le diagramme <xref linkend="orgsasworkcircles"
+        xrefstyle="select: labelnumber"/>).</para>
 
         <figure xml:id="orgsasworkcircles">
           <title>Trois organisations en tant que cercles de travail en
@@ -5404,7 +5445,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C200000220B70A0A54BA31048E.png"/>
+              <imagedata fileref="../illustrations/2-orgasworkcircles.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5415,15 +5456,15 @@
 
             <secondary>sous-cercle</secondary>
           </indexterm>. Notez que, par exemple, le sous-cercle 1 du diagramme
-        73 (<xref linkend="orgsassubcircles"/>) ne peut pas prendre de
-        décisions concernant l'organisation D.</para>
+        <xref linkend="orgsassubcircles" xrefstyle="select: labelnumber"/> ne
+        peut pas prendre de décisions concernant l'organisation D.</para>
 
         <figure xml:id="orgsassubcircles">
           <title>Organisations en tant que sous-cercles</title>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C0000002D07173BF2C1E108358.png"/>
+              <imagedata fileref="../illustrations/2-orgsassubcircle.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5511,12 +5552,12 @@
             <primary>cercle</primary>
 
             <secondary>cercle de département</secondary>
-          </indexterm> géographique (diagramme 74 (<xref
-        linkend="geographicaltopical"/>)), ou à un cercle de parties
-        prenantes<indexterm>
+          </indexterm> géographique (diagramme <xref
+        linkend="geographicaltopical" xrefstyle="select: labelnumber"/>), ou à
+        un cercle de parties prenantes<indexterm>
             <primary>partie prenante</primary>
-          </indexterm> (diagramme 75 (<xref
-        linkend="geographicaltopical2"/>)), selon l'interaction et la
+          </indexterm> (diagramme <xref linkend="geographicaltopical2"
+        xrefstyle="select: labelnumber"/>), selon l'interaction et la
         dynamique souhaitées entre les cercles thématiques et géographiques.
         Pour renforcer la cohésion, nous pouvons exiger qu'au moins le leader
         et le délégué de chaque cercle géographique à différents niveaux
@@ -5532,7 +5573,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003C00000027655802167D00B76B3.png"/>
+              <imagedata fileref="../illustrations/2-geographicaltopical.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5542,7 +5583,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF0000027B3DA147A6D75F0359.png"/>
+              <imagedata fileref="../illustrations/2-geographicaltopical2.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5564,7 +5605,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="operations">
     <title>Opérations — Faire le travail</title>
 
     <indexterm>
@@ -5619,7 +5660,8 @@
       </indexterm> de travail constitue une décision qui a trait à sa façon de
     travailler en général, ce qu'on pourrait appeler une politique<indexterm>
         <primary>politique</primary>
-      </indexterm> (voyons le chapitre 3 sur la prise de décision pour la
+      </indexterm> (voyons le chapitre <xref linkend="decision-making"
+    xrefstyle="select: labelnumber"/> sur la prise de décision pour la
     création de procédure).</para>
 
     <section>
@@ -5641,7 +5683,8 @@
       chercher à 11h45 pour l'apporter sur le deuxième chantier. À moins qu'il
       ne s'agisse d'une décision que nous prenons souvent : dans ce cas, nous
       pourrions vouloir établir une politique en tant que décision
-      « d'ensemble » (voyons la section 3 à la page xxx).</para>
+      « d'ensemble » (voyons la chapitre <xref linkend="decision-making"
+      xrefstyle="select: labelnumber page"/>).</para>
 
       <para>Une décision opérationnelle<indexterm>
           <primary>décision</primary>
@@ -5666,7 +5709,8 @@
               <primary>rôle</primary>
 
               <secondary>rôle opérationnel</secondary>
-            </indexterm> (voir section 2.3.2) afin que les individus puissent
+            </indexterm> (voir section <xref linkend="operationalroles"
+          xrefstyle="select: labelnumber"/>) afin que les individus puissent
           agir librement dans le cadre des politiques du cercle. Le cercle
           détermine comment répartir l'autorité entre les membres du
           cercle.</para>
@@ -5731,22 +5775,13 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BE0000019AA499C257ABBC2FAC.png"/>
+            <imagedata fileref="../illustrations/JuttaStandup.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
-
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/10000201000003BF0000022262B3CC80B87740A6.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>77. Faites en sorte que vos réunions opérationnelles
-      soient courtes et pertinentes !</emphasis></para>
     </section>
 
-    <section>
+    <section xml:id="operationalmeetings">
       <title>Réunions opérationnelles</title>
 
       <indexterm>
@@ -5792,9 +5827,10 @@
         </indexterm>.</para>
 
       <para>Nous pouvons décider d'utiliser n'importe quel processus avec
-      lequel nous nous sentons à l'aise. Notons que le gabarit du tableau 77
-      (<xref linkend="operationalmeetingdiagram"/>) est une structure simple
-      et polyvalente avec laquelle travailler.</para>
+      lequel nous nous sentons à l'aise. Notons que le gabarit du tableau
+      <xref linkend="operationalmeetingdiagram"
+      xrefstyle="select: labelnumber"/> est une structure simple et
+      polyvalente avec laquelle travailler.</para>
 
       <figure xml:id="operationalmeetingdiagram">
         <title>Faites en sorte que vos réunions opérationnelles soient courtes
@@ -5802,7 +5838,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BF0000022262B3CC80B87740A6.png"/>
+            <imagedata fileref="../illustrations/operationalmeeting.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -5824,8 +5860,9 @@
       panier<indexterm>
           <primary>panier</primary>
         </indexterm> comme un enjeu de discussion à l'ordre du jour d'une
-      réunion de cercle à venir (comme dans l'exemple 78 (<xref
-      linkend="exampleoperationalmeeting"/>)).</para>
+      réunion de cercle à venir (comme dans l'exemple <xref
+      linkend="exampleoperationalmeeting"
+      xrefstyle="select: labelnumber"/>).</para>
 
       <para>La durée d'une réunion opérationnelle varie considérablement. Par
       exemple, si nous planifions un événement, nous pouvons travailler sur la
@@ -5839,7 +5876,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C20000036AA404C085BAF57EB0.png"/>
+            <imagedata fileref="../illustrations/2-exampleoperationalmeeting.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>

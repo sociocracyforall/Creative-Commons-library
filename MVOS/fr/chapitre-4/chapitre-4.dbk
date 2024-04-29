@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
+<chapter version="5.0" xml:id="feedback" xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:ns6="http://docbook.org/ns/transclusion"
          xmlns:ns5="http://www.w3.org/1998/Math/MathML"
@@ -15,7 +15,7 @@
     <primary>faire un retour</primary>
   </indexterm>
 
-  <section>
+  <section xml:id="feedback-basics">
     <title>Les concepts de base</title>
 
     <indexterm>
@@ -71,28 +71,12 @@
           <primary>besoins; exemples</primary>
 
           <secondary>d'être vu</secondary>
-        </indexterm>… tout cela compte<indexterm>
-          <primary>to matter (need)</primary>
-        </indexterm><indexterm role="TODO">
-          <primary>2023-10-18T00:00:00I didn't find this term at the
-          corresponding location in the text.-John Clarkthanks for
-          bringing this up - I wasn't certain - so in the corresponding French
-          text (original English page 157) we used in French: par égard à
-          l'autre.this is much much better.... you see the word "influence" in
-          another context could mean to matter...it can be tricky sometimes!So
-          please replace with : par égard à l'autre (besoin)and you can
-          resolve this after you're
-          done.@john.l.clark@sociocracyforall.org-Francine
-          Proulx-Kenzleinfluence (besoin)</primary>
-        </indexterm><indexterm>
-          <primary>needs; examples</primary>
-
-          <secondary>to matter</secondary>
+        </indexterm>… tout cela compte<indexterm role="TODO">
+          <primary>par égard à l'autre (besoin)</primary>
         </indexterm><indexterm>
           <primary>besoins; exemples</primary>
 
-          <secondary>2023-10-18T00:00:00this is now correct!-Francine
-          Proulx-Kenzlepar égard à l'autre</secondary>
+          <secondary>par égard à l'autre</secondary>
         </indexterm>. En ce qui a trait aux besoins, nous sommes tous
       connectés, car tous les besoins sont universels, comme un langage que
       tout le monde comprend.</para>
@@ -113,15 +97,15 @@
       membre de la famille pourrait faire ressortir notre besoin d'harmonie
       comme une priorité.</para>
 
-      <para>À l’illustration 142 (<xref linkend="feelingsneeds"/>), nous
-      pouvons imaginer le même individu dans différentes situations. La
-      coopération est un besoin qui tend à fluctuer pour cette personne, et
-      peut être déplacée par d'autres besoins, en fonction de la situation
-      rencontrée. D'autre part, dans cet exemple, la même situation vécue par
-      des individus différents fera apparaître des besoins très différents.
-      L'idée à retenir est que les besoins sont à la fois universels -
-      partagés par tous - en même temps que très personnels et
-      situationnels.</para>
+      <para>À l’illustration <xref linkend="feelingsneeds"
+      xrefstyle="select: labelnumber"/>, nous pouvons imaginer le même
+      individu dans différentes situations. La coopération est un besoin qui
+      tend à fluctuer pour cette personne, et peut être déplacée par d'autres
+      besoins, en fonction de la situation rencontrée. D'autre part, dans cet
+      exemple, la même situation vécue par des individus différents fera
+      apparaître des besoins très différents. L'idée à retenir est que les
+      besoins sont à la fois universels - partagés par tous - en même temps
+      que très personnels et situationnels.</para>
 
       <figure xml:id="feelingsneeds">
         <title>Des besoins différents sont prioritaires à des moments
@@ -129,7 +113,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BF000000F142717F322B8AD960.png"/>
+            <imagedata fileref="../illustrations/feelingsneedsJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -137,12 +121,14 @@
       <figure xml:id="needslist">
         <title>Une liste partielle des besoins universels. Cette liste figure
         également sur la feuille de réunion pour les facilitateurs dans
-        l'annexe de la page XxX et nous fournissons une liste incluant les
-        sentiments dans l'annexe de la page XxY.</title>
+        l'annexe de la page <xref linkend="meetingsheet"
+        xrefstyle="select: pagenumber"/> et nous fournissons une liste
+        incluant les sentiments dans l'annexe de la page <xref
+        linkend="feelingsneedslist" xrefstyle="select: pagenumber"/>.</title>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BF0000029819CC7FA05A5ABCB2.png"/>
+            <imagedata fileref="../illustrations/needslist.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -221,7 +207,7 @@
         </indexterm>.</para>
     </section>
 
-    <section>
+    <section xml:id="feelings">
       <title>Sentiments : « Tu ne peux pas me mettre en colère »</title>
 
       <indexterm>
@@ -249,7 +235,8 @@
           <secondary>connexion</secondary>
         </indexterm> est ce que nous désirons, nous nous sentirons
       probablement heureux ou excité. Vous trouverez la liste de sentiments
-      ainsi que la liste des besoins en annexe, à la page XxY.</para>
+      ainsi que la liste des besoins en annexe, à la page <xref
+      linkend="feelingsneedslist" xrefstyle="select: pagenumber"/>.</para>
 
       <para>Les sentiments sont causés par des besoins satisfaits ou non
       satisfaits, et non par des situations. Cela signifie que rien ni
@@ -263,7 +250,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BD00000195538F7CD9C91FB215.png"/>
+            <imagedata fileref="../illustrations/feelingsneedsmessagesJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -342,7 +329,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="feedback-and-change">
     <title>Créer le changement</title>
 
     <para>Le changement vient de l'évaluation des actions passées et de
@@ -443,21 +430,21 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BD00000116A95726AA586FDB6D.png"/>
+            <imagedata fileref="../illustrations/textcallJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
 
-      <para>Dans l'exemple 145 (<xref linkend="textcall"/>), remarquons
-      comment les deux personnes sont capables de partager leur expérience
-      sans étiqueter l'autre ni même y référer. Une fois cette première étape
-      de compréhension mutuelle franchie, la voie est ouverte à une décision
-      partagée. Les besoins de chacun.e étant mis sur la table, on peut
-      trouver une stratégie qui fonctionne pour tout le monde. Convenir d'un
-      moment pour parler au téléphone ? Quitter le bureau pour passer un appel
-      téléphonique lorsque le collègue voisin immédiat a besoin de
-      tranquillité ? Si le problème se pose plus souvent, repenser l'espace de
-      bureau partagé ?</para>
+      <para>Dans l'exemple <xref linkend="textcall"
+      xrefstyle="select: labelnumber"/>, remarquons comment les deux personnes
+      sont capables de partager leur expérience sans étiqueter l'autre ni même
+      y référer. Une fois cette première étape de compréhension mutuelle
+      franchie, la voie est ouverte à une décision partagée. Les besoins de
+      chacun.e étant mis sur la table, on peut trouver une stratégie qui
+      fonctionne pour tout le monde. Convenir d'un moment pour parler au
+      téléphone ? Quitter le bureau pour passer un appel téléphonique lorsque
+      le collègue voisin immédiat a besoin de tranquillité ? Si le problème se
+      pose plus souvent, repenser l'espace de bureau partagé ?</para>
 
       <para>Nous sommes rarement à court de stratégies une fois que nous avons
       une idée claire de nos besoins. Plus nous disposons d'informations, plus
@@ -465,7 +452,7 @@
       ce moment-là.</para>
     </section>
 
-    <section>
+    <section xml:id="feedbackisdata">
       <title>Faire des rétroactions efficaces</title>
 
       <indexterm>
@@ -552,7 +539,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BB000001590AFDC1452BE68727.png"/>
+            <imagedata fileref="../illustrations/effectivefeedbackJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -623,12 +610,14 @@
       ouvert pour faire des demandes à l'autre qui pourraient améliorer la
       communication et la connexion, à l’avenir.</para>
 
-      <para>L'encadré 147 (<xref linkend="feedbackform2"/>) est un exemple de
-      formulaire de rétroaction utilisé dans une organisation (légèrement
-      modifié pour des raisons de confidentialité).</para>
+      <para>L'encadré <xref linkend="feedbackform2"
+      xrefstyle="select: labelnumber"/> est un exemple de formulaire de
+      rétroaction utilisé dans une organisation (légèrement modifié pour des
+      raisons de confidentialité).</para>
 
       <figure xml:id="feedbackform2">
-        <title>Un formulaire de rétroaction. Voir page XOX pour un
+        <title>Un formulaire de rétroaction. Voir page <xref
+        linkend="feedbackformsheet" xrefstyle="select: pagenumber"/> pour un
         modèle<indexterm>
             <primary>faire un retour</primary>
 
@@ -637,7 +626,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BE0000019B57D0556E267DB5FF.png"/>
+            <imagedata fileref="../illustrations/feedbackform2JH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -646,7 +635,8 @@
       recevoir) des retours. Si l'utilisation d'un formulaire de rétroaction
       est déjà une stratégie convenue dans une organisation, il sera plus
       facile de le faire lorsque nous voudrons réellement le faire. Vous
-      trouverez en annexe, à la page XOX, un exemple de ce à quoi pourrait
+      trouverez en annexe, à la page <xref linkend="feedbackformsheet"
+      xrefstyle="select: pagenumber"/>, un exemple de ce à quoi pourrait
       ressembler un formulaire de rétroaction (fiche de pratique). Toute
       organisation pourrait vouloir concevoir le sien. C'est une bonne idée
       d'indiquer directement sur le formulaire les points à garder à
@@ -691,7 +681,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="compassion-and-governance">
     <title>La gouvernance compatissante est efficace</title>
 
     <indexterm significance="preferred">
@@ -754,7 +744,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BB00000189EA15041D4D5ED983.png"/>
+            <imagedata fileref="../illustrations/requestsproposalsJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -827,10 +817,11 @@
       <para>Lorsque quelqu’un propose une stratégie qui ne semble pas
       fonctionner pour tout le monde, c’est une excellente opportunité pour
       soulever une objection. Imaginons une proposition comme celle de
-      l'exemple 149 (<xref linkend="textmembership"/>) : au lieu de formuler
-      calmement une objection, il peut arriver que quelqu'un s'énerve. Si je
-      crains de devoir quitter l'organisation parce que je ne peux pas payer
-      la cotisation annuelle, je pourrais être triste, anxieux ou bouleversé
+      l'exemple <xref linkend="textmembership"
+      xrefstyle="select: labelnumber"/> : au lieu de formuler calmement une
+      objection, il peut arriver que quelqu'un s'énerve. Si je crains de
+      devoir quitter l'organisation parce que je ne peux pas payer la
+      cotisation annuelle, je pourrais être triste, anxieux ou bouleversé
       parce que mon besoin d'appartenance<indexterm>
           <primary>appartenance (besoin)</primary>
         </indexterm><indexterm>
@@ -846,7 +837,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C0000001182B92E05FC9E7E3A4.png"/>
+            <imagedata fileref="../illustrations/textmembershipJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -857,14 +848,15 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C3000001A31741FD84A5D001AF.png"/>
+            <imagedata fileref="../illustrations/textmembership2JH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
 
-      <para>Quelle est la différence entre les exemples 149 (<xref
-      linkend="textmembership"/>) et 150 (<xref linkend="textmembership2"/>) ?
-      Dans le premier cas, il n'y a pas de distance intérieure par rapport aux
+      <para>Quelle est la différence entre les exemples <xref
+      linkend="textmembership" xrefstyle="select: labelnumber"/> et <xref
+      linkend="textmembership2" xrefstyle="select: labelnumber"/> ? Dans le
+      premier cas, il n'y a pas de distance intérieure par rapport aux
       sentiments. Ils sont interprétés comme une vérité absolue, et non comme
       des données avec lesquelles travailler. L'opportunité d'utiliser les
       sentiments comme indicateur d'un besoin est écartée, et nous devons
@@ -896,11 +888,12 @@
       cela a un coût élevé à long terme.</para>
 
       <para>Nous n'obtiendrons peut-être pas des membres du cercle une
-      contribution aussi claire que dans l'exemple 150 (<xref
-      linkend="textmembership2"/>). Mais nous pouvons travailler ensemble pour
-      y arriver. Un groupe compétent sera capable d'aborder la question
-      « quelque chose ici me rend anxieux mais je n'arrive pas à mettre le
-      doigt dessus » et devinera les besoins sous-jacents.</para>
+      contribution aussi claire que dans l'exemple <xref
+      linkend="textmembership2" xrefstyle="select: labelnumber"/>. Mais nous
+      pouvons travailler ensemble pour y arriver. Un groupe compétent sera
+      capable d'aborder la question « quelque chose ici me rend anxieux mais
+      je n'arrive pas à mettre le doigt dessus » et devinera les besoins
+      sous-jacents.</para>
 
       <para>Un groupe plus avancé sera capable de traiter le sentiment brut,
       aidera le membre du groupe à se centrer, à identifier ses besoins et à
@@ -929,7 +922,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="feedback-suggestions">
     <title>Augmenter les rétroactions</title>
 
     <section>
@@ -952,15 +945,15 @@
       qui soutiennent l'évolution : nous élaborons un plan, l’exécutons et
       évaluons ce que nous pouvons apprendre. Le pilotage s'inscrit dans
       d'innombrables boucles de type ORIENTER — EXÉCUTER — MESURER. Vous
-      trouverez quelques exemples dans l’encadré 151 (<xref
-      linkend="LDMexamples"/>).</para>
+      trouverez quelques exemples dans l’encadré <xref linkend="LDMexamples"
+      xrefstyle="select: labelnumber"/>.</para>
 
       <figure xml:id="LDMexamples">
         <title>Exemples de boucles de rétroaction</title>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BC000001180FF20E92503E2E69.png"/>
+            <imagedata fileref="../illustrations/LDMexamplesJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -971,7 +964,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003B00000008C753F49892F5F40FA.png"/>
+            <imagedata fileref="../illustrations/foreverloop.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -1003,7 +996,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BF000000E6DEAE945D9949B0F5.png"/>
+            <imagedata fileref="../illustrations/reviewlayers.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -1065,7 +1058,7 @@
       rétroactions.</para>
     </section>
 
-    <section>
+    <section xml:id="howmanypeople">
       <title>Traitement des informations collectées</title>
 
       <para>Le chemin qui mène du problème à l'action ne doit pas
@@ -1231,7 +1224,8 @@
 
         <listitem>
           <para>Le cercle peut enfin demander l’apport d'un autre cercle (voir
-          l’illustration 154 (<xref linkend="supportsystem"/>)).</para>
+          l’illustration <xref linkend="supportsystem"
+          xrefstyle="select: labelnumber"/>).</para>
 
           <itemizedlist>
             <listitem>
@@ -1270,20 +1264,10 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BB0000020E038EA4AB05A3BBD5.png"/>
+            <imagedata fileref="../illustrations/supportsystem.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
-
-      <para><inlinemediaobject>
-          <imageobject>
-            <imagedata fileref="Pictures/10000201000003C100000166A8F2C0D05FF1D5FC.png"/>
-          </imageobject>
-        </inlinemediaobject></para>
-
-      <para><emphasis>155 : Moments pour recueillir des apports de l'extérieur
-      du cercle pendant le processus d’élaboration des politiques ; les
-      meilleurs moments sont en gras. </emphasis></para>
 
       <para>Nous encourageons chaque cercle à utiliser le système de soutien
       interne, mais aussi à s'adresser à l'extérieur de l'organisation – nous
@@ -1307,7 +1291,7 @@
         </indexterm> des autres membres de l'organisation.</para>
     </section>
 
-    <section>
+    <section xml:id="inputduringpolicyprocess">
       <title>Quand poser des questions pendant le processus d'élaboration des
       politiques ?</title>
 
@@ -1318,11 +1302,12 @@
       </indexterm>
 
       <para>Au cours du processus d'élaboration des politiques, il y a de bons
-      moments pour inclure des voix extérieures au cercle. L’illustration 155
-      (<xref linkend="gettinginputfromoutside"/>) présente le processus
-      d'élaboration des politiques. Théoriquement, nous pouvons obtenir des
-      apports tout au long du processus, à chaque étape. Un cercle ne choisira
-      de le faire que si cela est justifié.</para>
+      moments pour inclure des voix extérieures au cercle. L’illustration
+      <xref linkend="gettinginputfromoutside"
+      xrefstyle="select: labelnumber"/> présente le processus d'élaboration
+      des politiques. Théoriquement, nous pouvons obtenir des apports tout au
+      long du processus, à chaque étape. Un cercle ne choisira de le faire que
+      si cela est justifié.</para>
 
       <figure xml:id="gettinginputfromoutside">
         <title>Moments pour recueillir des apports de l'extérieur du cercle
@@ -1331,7 +1316,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C100000166A8F2C0D05FF1D5FC.png"/>
+            <imagedata fileref="../illustrations/gettinginputfromoutsideJH.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -1407,8 +1392,9 @@
       délais, la qualité, compter les entrées et les sorties, etc. Si la
       politique relève davantage du domaine d’un « code de conduite », nous
       pouvons comptabiliser les plaintes, « sonder le bonheur », etc. Nous
-      avons déjà parlé des indicateurs dans la section 3,5 sur l’évaluation
-      des préoccupations en lien avec les objections.</para>
+      avons déjà parlé des indicateurs dans la section <xref
+      linkend="objections-howto" xrefstyle="select: labelnumber"/> sur
+      l’évaluation des préoccupations en lien avec les objections.</para>
 
       <section>
         <title>Rétroaction de la politique en cours</title>
@@ -1418,7 +1404,8 @@
         </indexterm>
 
         <para>Devenons intentionnel quant aux indicateurs et établissons un
-        plan de mesure. (Voir aussi page XxX).</para>
+        plan de mesure. (Voir aussi page <xref linkend="measurementplan"
+        xrefstyle="select: pagenumber"/>.)</para>
 
         <itemizedlist>
           <listitem>
@@ -1475,7 +1462,7 @@
         </itemizedlist>
       </section>
 
-      <section>
+      <section xml:id="reviewingpolicy">
         <title>Fin de mandat, échéance et révision</title>
 
         <indexterm>
@@ -1544,7 +1531,7 @@
         d'attendre sa date de révision.</para>
       </section>
 
-      <section>
+      <section xml:id="reviewpolicyformat">
         <title>Comment faire la révision des politiques</title>
 
         <indexterm>
@@ -1570,7 +1557,8 @@
             consentement<indexterm>
                 <primary>processus de consentement</primary>
               </indexterm> (présentation de la proposition, questions de
-            clarification, etc., voir 3.3.2) et de progresser vers le
+            clarification, etc., voir <xref linkend="consentprocess"
+            xrefstyle="select: labelnumber"/>) et de progresser vers le
             consentement à une nouvelle échéance, éventuellement avec des
             modifications. Si les objections et les commentaires sont nombreux
             et que les choses semblent se compliquer à chaque tour, il est bon
@@ -1607,8 +1595,9 @@
             que nous proposions une approche totalement inédite, compte tenu
             des nouvelles informations et de l'expérience acquise, ou que nous
             nous contentions d'apporter des ajustements à la politique
-            existante. Le diagramme 207 en annexe présente ce processus plus
-            en détail.</para>
+            existante. Le diagramme <xref linkend="reviewprocess3x3"
+            xrefstyle="select: labelnumber"/> en annexe présente ce processus
+            plus en détail.</para>
           </listitem>
         </itemizedlist>
 
@@ -1618,7 +1607,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BD000000CAF579122D8DDC4E86.png"/>
+              <imagedata fileref="../illustrations/reviewsteps.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1628,15 +1617,16 @@
         des modifications possibles<indexterm>
             <primary>amendement</primary>
           </indexterm> (EXPLORER) et du consentement à la politique modifiée
-        (DÉCIDER), comme le montre le diagramme 156 (<xref
-        linkend="reviewsteps"/>). Exprimer une objection<indexterm>
+        (DÉCIDER), comme le montre le diagramme <xref linkend="reviewsteps"
+        xrefstyle="select: labelnumber"/>. Exprimer une objection<indexterm>
             <primary>objection</primary>
           </indexterm> en faisant référence à un besoin donne également au
         cercle des informations sur la manière de répondre à l'objection, car
         cela indique une direction : « <emphasis>Comment pourrions-nous
         amender/changer/tester la politique pour être sûrs que notre besoin
         puisse être satisfait ? »</emphasis>. Voici quelques exemples,
-        similaires à ceux déjà mentionnés dans la section 3.5 sur les
+        similaires à ceux déjà mentionnés dans la section <xref
+        linkend="objections-howto" xrefstyle="select: labelnumber"/> sur les
         objections :</para>
 
         <itemizedlist>
@@ -1674,7 +1664,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="feedback-on-meetings">
     <title>Évaluations de réunion</title>
 
     <para>Dans quelle mesure sommes-nous satisfaits du résultat de la réunion
@@ -1838,7 +1828,7 @@
     préparer la réunion suivante.</para>
   </section>
 
-  <section>
+  <section xml:id="performance-reviews">
     <title>Revue de performance</title>
 
     <indexterm significance="preferred">
@@ -1874,7 +1864,7 @@
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="Pictures/10000201000003BE0000014891990DD6EFCF7C70.png"/>
+          <imagedata fileref="../illustrations/performancereviewArc.jpg"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -1961,8 +1951,8 @@
       fonctionne exactement comme l'élaboration d'une politique, elle suit
       également le même schéma. Nous pouvons décomposer le processus selon le
       schéma habituel COMPRENDRE — EXPLORER — DÉCIDER (ENTRÉE — TRANSFORMATION
-      — SORTIE, pour la prise de décision), comme le montre l'exemple 158
-      (<xref linkend="performancereview"/>).</para>
+      — SORTIE, pour la prise de décision), comme le montre l'exemple <xref
+      linkend="performancereview" xrefstyle="select: labelnumber"/>.</para>
 
       <figure xml:id="performancereview">
         <title>Format par défaut d'une revue de performance si une réunion
@@ -1970,14 +1960,15 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003B800000336D9034EE5A5CB9D4C.png"/>
+            <imagedata fileref="../illustrations/performancereview.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
 
       <para>Nous verrons que la trame de réunion pour les facilitateurs, en
-      annexe à la page XxX, propose un format plus général qui peut être
-      utilisé comme un point à l'ordre du jour d'une réunion.</para>
+      annexe à la page <xref linkend="meetingsheet"
+      xrefstyle="select: pagenumber"/>, propose un format plus général qui
+      peut être utilisé comme un point à l'ordre du jour d'une réunion.</para>
 
       <section>
         <title>Comprendre</title>
@@ -2408,7 +2399,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="feedback-and-repair">
     <title>Des organisations qui s’autoréparent</title>
 
     <indexterm>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
+<chapter version="5.0" xml:id="appendix" xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:ns6="http://docbook.org/ns/transclusion"
          xmlns:ns5="http://www.w3.org/1998/Math/MathML"
@@ -10,7 +10,7 @@
     <title>Annexes</title>
   </info>
 
-  <section>
+  <section xml:id="contact-SoFA">
     <title>A propos de Sociocracy For All (SoFA)</title>
 
     <indexterm significance="preferred">
@@ -92,8 +92,8 @@
     auteurs de ce livre, après des années d'expérience préalable de la
     sociocratie, avec pour mission de diffuser largement la sociocratie afin
     que tout le monde - <emphasis>tout le monde !</emphasis> - en bénéficie.
-    Notre structure de cercles actuelle est présentée dans la figure 196
-    (<xref linkend="SoFAcircles"/>).</para>
+    Notre structure de cercles actuelle est présentée dans la figure <xref
+    linkend="SoFAcircles" xrefstyle="select: labelnumber"/>.</para>
 
     <figure xml:id="SoFAcircles">
       <title>La structure organisationnelle de SoFA (en date de début juin
@@ -104,7 +104,7 @@
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="Pictures/10000201000003C0000002D038E6AD80CFBA0107.png"/>
+          <imagedata fileref="../illustrations/SoFAcircles_2019.jpg"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -209,7 +209,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="authors">
     <title>Au sujet des auteurs</title>
 
     <section>
@@ -299,10 +299,10 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="beyond-this-book">
     <title>Ressources</title>
 
-    <section>
+    <section xml:id="literature">
       <title>Publications<footnote>
           <para><emphasis role="strong">NDT : On peut mentionner un autre
           livre écrit en français : Delstanche, Philippe
@@ -470,9 +470,9 @@
 
       <itemizedlist>
         <listitem>
-          <para>La feuille de réunion (<xref linkend="meetingsheet"/>) (voir
-          page xxx) en haute résolution et avec des traductions en différentes
-          langues.</para>
+          <para>La feuille de réunion (<xref linkend="meetingsheet"
+          xrefstyle="select: label page"/>) en haute résolution et avec des
+          traductions en différentes langues.</para>
         </listitem>
 
         <listitem>
@@ -485,8 +485,8 @@
 
         <listitem>
           <para>Les versions numériques de la liste des sentiments et de la
-          liste des besoins (voir page xxx (<xref
-          linkend="feelingsneedslist"/>)).</para>
+          liste des besoins (voir <xref linkend="feelingsneedslist"
+          xrefstyle="select: label page"/>).</para>
         </listitem>
 
         <listitem>
@@ -508,7 +508,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BC000004D9FB33F20F4A878928.png"/>
+            <imagedata fileref="../illustrations/feelingsneedslist.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -521,7 +521,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C4000004C90D055E8A90FA5A02.png"/>
+            <imagedata fileref="../illustrations/feedbackformsheet.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -534,7 +534,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/100002010000032100000474C19CBDDD8BE4F539.png"/>
+            <imagedata fileref="../illustrations/meetingsheet.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -554,7 +554,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C3000001EF4D28460F0BA8E5FF.png"/>
+            <imagedata fileref="../illustrations/7-selectionprocess3x3.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -567,17 +567,21 @@
             <secondary>exemple d'une sélection</secondary>
           </indexterm></title>
 
-        <para>Il s'agit d'une version plus détaillée de 200 - le niveau de
-        détail le plus raisonnable pour le processus de sélection. Les
-        colonnes de 200 sont maintenant disposées verticalement pour faciliter
-        la lecture. Chaque étape du schéma 200 se décompose maintenant en
-        trois étapes (orientation-exécution-évaluation). Nous avons également
-        ajouté les déclarations de cadrage pour chaque partie, telles qu'elles
-        se présenteraient en langage naturel.</para>
+        <para>Il s'agit d'une version plus détaillée de <xref
+        linkend="selectionprocess3x3" xrefstyle="select: labelnumber"/> - le
+        niveau de détail le plus raisonnable pour le processus de sélection.
+        Les colonnes de <xref linkend="selectionprocess3x3"
+        xrefstyle="select: labelnumber"/> sont maintenant disposées
+        verticalement pour faciliter la lecture. Chaque étape du schéma <xref
+        linkend="selectionprocess3x3" xrefstyle="select: labelnumber"/> se
+        décompose maintenant en trois étapes
+        (orientation-exécution-évaluation). Nous avons également ajouté les
+        déclarations de cadrage pour chaque partie, telles qu'elles se
+        présenteraient en langage naturel.</para>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C0000003D1980D824CF4C6DB7E.png"/>
+            <imagedata fileref="../illustrations/selectionskit3x3.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -592,13 +596,13 @@
           </indexterm></title>
 
         <para>Dans cette matrice, vous pouvez voir chaque étape utilisée dans
-        le processus d’élaboration et de décision des politiques. 203 (<xref
-        linkend="consentprocess3x3"/>) est le tableau plus détaillé du dernier
-        tiers de ce tableau.</para>
+        le processus d’élaboration et de décision des politiques. <xref
+        linkend="consentprocess3x3" xrefstyle="select: label"/> est le tableau
+        plus détaillé du dernier tiers de ce tableau.</para>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C1000001EC8D3B8DCB27408E16.png"/>
+            <imagedata fileref="../illustrations/7-policyprocess3x3.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -613,12 +617,12 @@
 
         <para>Dans cette matrice, vous pouvez voir chaque étape utilisée dans
         le processus d’élaboration et de décision des politiques. Il s'agit de
-        la version plus détaillée du dernier tiers de 202 (<xref
-        linkend="policyprocess3x3"/>).</para>
+        la version plus détaillée du dernier tiers de <xref
+        linkend="policyprocess3x3" xrefstyle="select: labelnumber"/>.</para>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C1000001ECB6782E0C3C26E0AB.png"/>
+            <imagedata fileref="../illustrations/7-consentprocess3x3.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -630,12 +634,12 @@
         <para>Il s'agit du processus de la compréhension du besoin, de
         l’élaboration de la politique et de décision sur la politique. Le
         dernier tiers, le processus de décision, est présenté de manière plus
-        détaillée dans le tableau 205 (<xref
-        linkend="consentprocess3x3withskit"/>), page xx.</para>
+        détaillée dans le tableau <xref linkend="consentprocess3x3withskit"
+        xrefstyle="select: labelnumber page"/>.</para>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C0000003D19A901FBFE6C96336.png"/>
+            <imagedata fileref="../illustrations/generatingproposalskit3x3.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -645,14 +649,15 @@
         scénario :</title>
 
         <para>Il s'agit d'une version plus détaillée du dernier tiers du
-        document 204 (<xref linkend="policyprocess3x3withskit"/>). Notez le
-        niveau de détail nécessaire dans le processus de prise de décision. La
-        phase de production peut être beaucoup plus simple dans une petite
+        document <xref linkend="policyprocess3x3withskit"
+        xrefstyle="select: labelnumber"/>. Notez le niveau de détail
+        nécessaire dans le processus de prise de décision. La phase de
+        production peut être beaucoup plus simple dans une petite
         organisation.</para>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C0000003D17878D77CFA263F21.png"/>
+            <imagedata fileref="../illustrations/consentskit3x3.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -667,7 +672,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C1000001EC4E6878AF9AC522D3.png"/>
+            <imagedata fileref="../illustrations/7-objectionsprocess3x3.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -682,7 +687,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C1000001EC41CAC39D5FAC4082.png"/>
+            <imagedata fileref="../illustrations/7-reviewprocess3x3.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>

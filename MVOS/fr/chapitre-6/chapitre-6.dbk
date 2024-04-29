@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
+<chapter version="5.0" xml:id="implementation"
+         xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:ns6="http://docbook.org/ns/transclusion"
          xmlns:ns5="http://www.w3.org/1998/Math/MathML"
@@ -54,7 +55,7 @@
   fois disposée à prendre le pouvoir et à y renoncer à tous les niveaux de
   l’organisation.</para>
 
-  <section>
+  <section xml:id="sharing-sociocracy">
     <title>Réflexions sur l’adoption de la sociocratie</title>
 
     <section>
@@ -197,7 +198,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="introducing-sociocracy">
     <title>Comment introduire la sociocratie</title>
 
     <indexterm>
@@ -499,7 +500,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="starting-to-organize">
     <title>Créer une nouvelle organisation</title>
 
     <para>Une organisation commence avec une idée. Commencez avec un but en
@@ -513,17 +514,18 @@
     avez votre mission, par exemple mettre un terme au sans-abrisme en
     construisant des maisons pour et avec les sans-abris dans cette région de
     ce pays. (Plus d’information sur la mission et les buts dans la section
-    2.2. en page xx). Pour (la mission) par (le but). La mission plus le but
-    est l’invitation. Vous pouvez maintenant appeler les personnes à vous
-    rejoindre comme bénévoles ou comme personnel payé. Ils savent ce qu’ils
-    vont faire et pourquoi. Ensuite, spécifiez encore davantage vos buts. Un
-    produit ou service, ou bien beaucoup. Qui sont les clients ? Concevez le
-    processus de travail “<emphasis>entrée - transformation -
-    sortie”</emphasis> en faisant l’esquisse puis l'élaboration de
-    propositions. Pour obtenir la sortie attendue, de quelles ressources
-    (personnes, compétences, matériaux bruts, outils, financement, etc.)
-    aurez-vous besoin ? Comment organiserez-vous ce travail ? De quels rôles
-    et sous-cercles avez-vous besoin ? Qui s’en occupera ?</para>
+    <xref linkend="VMAD" xrefstyle="select: labelnumber page"/>). Pour (la
+    mission) par (le but). La mission plus le but est l’invitation. Vous
+    pouvez maintenant appeler les personnes à vous rejoindre comme bénévoles
+    ou comme personnel payé. Ils savent ce qu’ils vont faire et pourquoi.
+    Ensuite, spécifiez encore davantage vos buts. Un produit ou service, ou
+    bien beaucoup. Qui sont les clients ? Concevez le processus de travail
+    “<emphasis>entrée - transformation - sortie”</emphasis> en faisant
+    l’esquisse puis l'élaboration de propositions. Pour obtenir la sortie
+    attendue, de quelles ressources (personnes, compétences, matériaux bruts,
+    outils, financement, etc.) aurez-vous besoin ? Comment organiserez-vous ce
+    travail ? De quels rôles et sous-cercles avez-vous besoin ? Qui s’en
+    occupera ?</para>
 
     <para>Le premier cercle aura comme “entrée” le<emphasis> but</emphasis> et
     le <emphasis>domaine</emphasis><indexterm>
@@ -556,7 +558,7 @@
     à démarrer.</para>
   </section>
 
-  <section>
+  <section xml:id="new-organizations">
     <title>Implanter la sociocratie dans des organisations naissantes</title>
 
     <indexterm>
@@ -587,14 +589,14 @@
     connexes, dynamiques, décentralisés.</para>
 
     <para>Une organisation sociocratique grandit d’un petit cercle à une
-    structure à part entière avec beaucoup de cercles. (Voir la section 6.4.1.
-    sur la sociocratie dans des organisations en croissance). Initier la
-    sociocratie dans une nouvelle organisation signifie que l’on devra
-    convaincre moins de monde au début lors de l’introduction de la
-    sociocratie parce qu’il n’y a pas encore tant de décideurs. Dans ce
-    contexte, il est important d’être ouvert et transparent sur votre système
-    de gouvernance. Pour certaines jeunes organisations, l’effort
-    d’embarquer<indexterm>
+    structure à part entière avec beaucoup de cercles. (Voir la section <xref
+    linkend="startupphase" xrefstyle="select: labelnumber"/>. sur la
+    sociocratie dans des organisations en croissance). Initier la sociocratie
+    dans une nouvelle organisation signifie que l’on devra convaincre moins de
+    monde au début lors de l’introduction de la sociocratie parce qu’il n’y a
+    pas encore tant de décideurs. Dans ce contexte, il est important d’être
+    ouvert et transparent sur votre système de gouvernance. Pour certaines
+    jeunes organisations, l’effort d’embarquer<indexterm>
         <primary>l'intégration</primary>
       </indexterm> de nouveaux membres est significatif, étant donné qu’il est
     peu probable que de nouveaux membres arrivent avec une expérience de la
@@ -606,7 +608,7 @@
     en vie un nouveau système de gouvernance demande de l’intention et de
     l’action.</para>
 
-    <section>
+    <section xml:id="startupphase">
       <title>Structures pour des petits groupes</title>
 
       <indexterm>
@@ -647,7 +649,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000002470000020093F3094C30E86380.png"/>
+            <imagedata fileref="../illustrations/6-metamorphosis1.jpg"/>
           </imageobject>
 
           <caption>
@@ -658,7 +660,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/1000020100000246000001FD25DC50670A70E17C.png"/>
+            <imagedata fileref="../illustrations/6-metamorphosis2.jpg"/>
           </imageobject>
 
           <caption>
@@ -669,7 +671,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/1000020100000247000001FE6C5971DAB1AB64E9.png"/>
+            <imagedata fileref="../illustrations/6-metamorphosis.jpg"/>
           </imageobject>
 
           <caption>
@@ -679,15 +681,16 @@
         </mediaobject>
       </figure>
 
-      <para>Le schéma 185 (<xref linkend="metamorphosis"/>) montre comment une
-      organisation peut débuter avec un seul cercle. C’est, par exemple, le
-      cas de 6 personnes qui se réunissent, forment un groupe et décident de
-      créer une entreprise. Au début, elles peuvent plus ou moins toutes
-      effectuer les mêmes tâches. Rapidement, cependant, elles vont avoir
-      chacune des domaines d’activité selon leur préférence ou leur expertise.
-      Une fait le marketing, une autre crée le site web, une troisième écrit
-      le pitch pour trouver des investisseurs, deux autres créent le produit.
-      Elles continuent éventuellement à prendre toutes les décisions
+      <para>Le schéma <xref linkend="metamorphosis"
+      xrefstyle="select: labelnumber"/> montre comment une organisation peut
+      débuter avec un seul cercle. C’est, par exemple, le cas de 6 personnes
+      qui se réunissent, forment un groupe et décident de créer une
+      entreprise. Au début, elles peuvent plus ou moins toutes effectuer les
+      mêmes tâches. Rapidement, cependant, elles vont avoir chacune des
+      domaines d’activité selon leur préférence ou leur expertise. Une fait le
+      marketing, une autre crée le site web, une troisième écrit le pitch pour
+      trouver des investisseurs, deux autres créent le produit. Elles
+      continuent éventuellement à prendre toutes les décisions
       stratégiques<indexterm>
           <primary>décision</primary>
 
@@ -721,9 +724,9 @@
       au classique “syndrome des fondateurs”<indexterm>
           <primary>syndrome des fondateurs</primary>
         </indexterm>. Les fondateurs doivent lâcher prise sinon ils vont
-      inhiber la croissance. L’organisation du schéma 185 (<xref
-      linkend="metamorphosis"/>) réussit à former des cercles par
-      département<indexterm>
+      inhiber la croissance. L’organisation du schéma <xref
+      linkend="metamorphosis" xrefstyle="select: labelnumber"/> réussit à
+      former des cercles par département<indexterm>
           <primary>cercle</primary>
 
           <secondary>cercle de département</secondary>
@@ -733,7 +736,7 @@
       à distribuer l’intégralité du pouvoir dès que possible.</para>
     </section>
 
-    <section>
+    <section xml:id="implementationcircles">
       <title>Concevoir une nouvelle structure organisationnelle</title>
 
       <indexterm>
@@ -764,7 +767,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BF0000026B2926519DAAC9D6F6.png"/>
+            <imagedata fileref="../illustrations/aimstocircle.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -779,8 +782,9 @@
       manque de clarté à la naissance de l’organisation, elle pourrait lutter
       avec ce conflit pour le reste de son existence, car ce conflit sera
       enraciné dans les buts personnels et dans les attentes de ses membres
-      (voir la section 6.10.4). En partant du but global de l’organisation,
-      nous passons à des buts particuliers<indexterm>
+      (voir la section <xref linkend="nosharedaim"
+      xrefstyle="select: labelnumber"/>). En partant du but global de
+      l’organisation, nous passons à des buts particuliers<indexterm>
           <primary>but</primary>
 
           <secondary>sous-but</secondary>
@@ -830,7 +834,8 @@
       <para>La structure organisationnelle est une politique. Utilisez le
       processus d’élaboration de propositions<indexterm>
           <primary>proposition</primary>
-        </indexterm> (voir chapitre 3, page xx). Comprenez quels sont les
+        </indexterm> (voir chapitre <xref linkend="decision-making"
+      xrefstyle="select: labelnumber page"/>). Comprenez quels sont les
       besoins de votre organisation, puis quelles sont les dimensions. Quelles
       sont les considérations pour élaborer une structure de cercles<indexterm>
           <primary>cercle</primary>
@@ -897,7 +902,7 @@
       </itemizedlist>
     </section>
 
-    <section>
+    <section xml:id="GCandTC">
       <title>Créer le Cercle Mission</title>
 
       <indexterm>
@@ -923,8 +928,8 @@
           <para>Les mêmes membres du CG seront les membres du CM. Cela peut
           marcher, cependant l’une de ces personnes devra s’assurer que le
           groupe consacre assez de temps à la réflexion globale. Les
-          stratégies sont (illustrations dans le diagramme 187a (<xref
-          linkend="TCGCpatterns1"/>)) :</para>
+          stratégies sont (illustrations dans le diagramme <xref
+          linkend="TCGCpatterns1" xrefstyle="select: labelnumber"/>) :</para>
 
           <itemizedlist>
             <listitem>
@@ -975,7 +980,8 @@
           perspective externe. Quand les arbres juste devant nous font en
           sorte qu’il est difficile de voir la forêt, les perspectives des
           membres extérieurs du Cercle Mission peuvent être utiles. (Voir
-          diagramme 187b (<xref linkend="TCGCpatterns2"/>))</para>
+          diagramme <xref linkend="TCGCpatterns2"
+          xrefstyle="select: labelnumber"/>)</para>
         </listitem>
 
         <listitem>
@@ -984,7 +990,8 @@
           groupe venant d’un contexte très horizontal où il y a du scepticisme
           sur le fait que le Cercle Mission puisse travailler dans l’intérêt
           de l’organisation, ou que le CM dérive vers une attitude de “pouvoir
-          sur”. (voir diagramme 187c (<xref linkend="TCGCpatterns3"/>))</para>
+          sur”. (voir diagramme <xref linkend="TCGCpatterns3"
+          xrefstyle="select: labelnumber"/>)</para>
         </listitem>
 
         <listitem>
@@ -1000,15 +1007,17 @@
 
               <see>leader</see>
             </indexterm>, et une personne déléguée du Cercle Général est le
-          lien ascendant dans le Cercle Mission (voir diagramme 187 (<xref
-          linkend="TCGCpatterns4"/>))</para>
+          lien ascendant dans le Cercle Mission (voir diagramme <xref
+          linkend="TCGCpatterns4" xrefstyle="select: labelnumber"/>)</para>
         </listitem>
 
         <listitem>
           <para>Les membres du Cercle Mission incluent aussi des personnes
           déléguées des cercles de parties prenantes (les parents pour une
           école, les clients pour un produit, les donateurs pour une
-          association à but non lucratif, voir section 2.5.3. page xx).</para>
+          association à but non lucratif, voir section <xref
+          linkend="circlesontopcircle"
+          xrefstyle="select: labelnumber page"/>).</para>
         </listitem>
       </orderedlist>
 
@@ -1018,7 +1027,7 @@
 
         <mediaobject xml:id="TCGCpatterns1">
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BD000002114688031C479734C0.png"/>
+            <imagedata fileref="../illustrations/6-TCGCpatterns1.jpg"/>
           </imageobject>
 
           <caption>
@@ -1028,7 +1037,7 @@
 
         <mediaobject xml:id="TCGCpatterns2">
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C0000002140331A421EA023633.png"/>
+            <imagedata fileref="../illustrations/6-TCGCpatterns2.jpg"/>
           </imageobject>
 
           <caption>
@@ -1044,7 +1053,7 @@
 
         <mediaobject xml:id="TCGCpatterns3">
           <imageobject>
-            <imagedata fileref="Pictures/100002010000029B000002B2A2203BEA0F8E8D2C.png"/>
+            <imagedata fileref="../illustrations/6-TCGCpatterns3.jpg"/>
           </imageobject>
 
           <caption>
@@ -1054,7 +1063,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BD000002B228EEC21B63DF1A53.png"/>
+            <imagedata fileref="../illustrations/6-TCGCpatterns4.jpg"/>
           </imageobject>
 
           <caption>
@@ -1075,7 +1084,8 @@
           <primary>cercle général</primary>
         </indexterm> (Directeur Exécutif ou PDG, selon le type d’organisation)
       pour former une équipe de travail. C’est ce qui est montré dans le
-      diagramme 189a (<xref linkend="metamorphosisTopDown1"/>).</para>
+      diagramme <xref linkend="metamorphosisTopDown1"
+      xrefstyle="select: labelnumber"/>.</para>
 
       <para>Si l’organisation grandit, le Cercle Général créera des cercles de
       département, leur assignera des buts et des domaines, et nommera des
@@ -1084,8 +1094,9 @@
           <primary>cercle général</primary>
         </indexterm>. Le Cercle Général enverra un délégué au Cercle Mission.
       Vous pouvez trouver davantage d'informations sur l'implantation de la
-      sociocratie dans les nouvelles organisations en section 6.4., page
-      xx.</para>
+      sociocratie dans les nouvelles organisations en section <xref
+      linkend="new-organizations"
+      xrefstyle="select: labelnumber page"/>.</para>
 
       <figure xml:id="ExpertboxJuttaJohn1">
         <title>Ce que d’autres disent<emphasis role="strong">
@@ -1093,7 +1104,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C0000001541B8EF957F07A584E.png"/>
+            <imagedata fileref="../illustrations/ExpertboxJuttaJohn1.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -1104,7 +1115,7 @@
 
         <mediaobject xml:id="metamorphosisTopDown1">
           <imageobject>
-            <imagedata fileref="Pictures/1000020100000154000002BBEB932D2F690BCDCB.png"/>
+            <imagedata fileref="../illustrations/2-metamorphosisTopDown1.jpg"/>
           </imageobject>
 
           <caption>
@@ -1114,7 +1125,7 @@
 
         <mediaobject xml:id="metamorphosisTopDown2">
           <imageobject>
-            <imagedata fileref="Pictures/100002010000021B000002BC9F3ED786A13CCE28.png"/>
+            <imagedata fileref="../illustrations/2-metamorphosisTopDown2.jpg"/>
           </imageobject>
 
           <caption>
@@ -1125,7 +1136,7 @@
 
         <mediaobject xml:id="metamorphosisTopDown">
           <imageobject>
-            <imagedata fileref="Pictures/1000020100000208000002B318F424003AF088D2.png"/>
+            <imagedata fileref="../illustrations/2-metamorphosisTopDown3.jpg"/>
           </imageobject>
 
           <caption>
@@ -1136,7 +1147,7 @@
       </figure>
     </section>
 
-    <section>
+    <section xml:id="incremental">
       <title>Implantations partielles</title>
 
       <indexterm>
@@ -1249,17 +1260,18 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003BC000005552139B78081AEEC4C.png"/>
+            <imagedata fileref="../illustrations/6-flowchart.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
 
-      <para>Le tableau 190 (<xref linkend="flowchart"/>) en page xxx montre
-      comment les processus et outils sociocratiques se complètent les uns les
-      autres – les pièces du puzzle. Le tableau présume que les organisations
-      existantes auront déjà des facilitateurs, des buts et une méthode de
-      prise de décision. Note : le tableau n’est <emphasis>pas</emphasis> une
-      carte recommandée pour l'implantation de la sociocratie.</para>
+      <para>Le tableau <xref linkend="flowchart"
+      xrefstyle="select: labelnumber page"/> montre comment les processus et
+      outils sociocratiques se complètent les uns les autres – les pièces du
+      puzzle. Le tableau présume que les organisations existantes auront déjà
+      des facilitateurs, des buts et une méthode de prise de décision. Note :
+      le tableau n’est <emphasis>pas</emphasis> une carte recommandée pour
+      l'implantation de la sociocratie.</para>
 
       <para>Il y a un danger dans les implantations partielles et
       incrémentales. Certaines personnes pourraient être déçues par une
@@ -1272,7 +1284,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="volunteers">
     <title>Organisations bénévoles</title>
 
     <indexterm significance="preferred">
@@ -1322,16 +1334,17 @@
 
         <secondary>appartenance dans un cercle</secondary>
       </indexterm> (un cercle peut choisir ses membres) que nous devons être
-    capables d’exclure des personnes des cercles (voir la section 2.2.3.).
-    Cela est vrai que la personne soit payée ou pas. Cela signifie que nous
-    pouvons être en situation de “renvoyer” une personne bénévole parce que
-    travailler avec elle affecte négativement la capacité du cercle à
-    accomplir son but. Certaines personnes trouvent cela difficile à faire
-    parce que nous voulons être reconnaissants envers toute personne donnant
-    du temps bénévolement. Cependant, rappelez-vous que toute organisation
-    basée sur le consentement demande que ses membres soient responsables et
-    constructifs. Si le comportement de quelqu’un ralentit significativement
-    le cercle, il peut être préférable de faire partir cette personne.</para>
+    capables d’exclure des personnes des cercles (voir la section <xref
+    linkend="removesomeone" xrefstyle="select: labelnumber"/>). Cela est vrai
+    que la personne soit payée ou pas. Cela signifie que nous pouvons être en
+    situation de “renvoyer” une personne bénévole parce que travailler avec
+    elle affecte négativement la capacité du cercle à accomplir son but.
+    Certaines personnes trouvent cela difficile à faire parce que nous voulons
+    être reconnaissants envers toute personne donnant du temps bénévolement.
+    Cependant, rappelez-vous que toute organisation basée sur le consentement
+    demande que ses membres soient responsables et constructifs. Si le
+    comportement de quelqu’un ralentit significativement le cercle, il peut
+    être préférable de faire partir cette personne.</para>
 
     <para>Nous pouvons exclure quelqu’un d’un cercle ou d’un rôle et lui
     demander de faire autre chose dans la même organisation. Dans ce cas, nous
@@ -1380,7 +1393,7 @@
     l’organisation.</para>
   </section>
 
-  <section>
+  <section xml:id="tiny-organizations">
     <title>La sociocratie dans des petits groupes</title>
 
     <indexterm>
@@ -1469,7 +1482,7 @@
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="Pictures/10000201000003C300000226063B46681B5F448D.png"/>
+          <imagedata fileref="../illustrations/6-tinyorg.jpg"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -1512,7 +1525,7 @@
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="Pictures/10000201000003BD000001193399FA2BACE7240A.png"/>
+          <imagedata fileref="../illustrations/6-circleofone.jpg"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -1574,7 +1587,7 @@
     définir.</para>
   </section>
 
-  <section>
+  <section xml:id="few-and-many">
     <title>Les organisations ayant peu de travailleurs et beaucoup de
     membres</title>
 
@@ -1691,7 +1704,8 @@
       préparer un processus de réévaluation d’une politique. Selon nous, c’est
       la meilleure façon d’inclure de nombreuses voix tout en conservant les
       bénéfices de groupes de décideurs petits et stables. (Voir aussi la
-      section 4.4.3. page xxx).</para>
+      section <xref linkend="howmanypeople"
+      xrefstyle="select: labelnumber page"/>).</para>
 
       <para>Une entreprise sociocratique d’informatique que nous connaissons a
       créé un système transparent consistant à inclure tous les employés au
@@ -1706,7 +1720,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="legal-issues">
     <title>Questions légales</title>
 
     <indexterm>
@@ -1781,7 +1795,7 @@
     </itemizedlist>
   </section>
 
-  <section>
+  <section xml:id="ownership-and-control">
     <title>Sociocratie, propriété et contrôle</title>
 
     <indexterm>
@@ -1868,12 +1882,13 @@
       People</emphasis>,” “<emphasis>BossaNova</emphasis>” et les écrits de
       Gerard Endenburg<indexterm>
           <primary>Endenburg, Gerard</primary>
-        </indexterm> (les références sont dans la section 7.3.1 de
+        </indexterm> (les références sont dans la section <xref
+      linkend="literature" xrefstyle="select: labelnumber"/> de
       l’appendice).</para>
     </section>
   </section>
 
-  <section>
+  <section xml:id="common-problems">
     <title>Écueils typiques dans l'implantation de la sociocratie</title>
 
     <indexterm>
@@ -1918,10 +1933,11 @@
     gouvernance : les gens parlent trop longtemps, manquent de responsabilité,
     se marchent sur les pieds, des tâches passent à travers les mailles du
     filet – la liste est longue. Vous vous rappelez que les émotions pointent
-    vers des besoins satisfaits ou insatisfaits ? (Voir la section 4.1.3.) Dès
-    que quelqu’un est énervé dans le contexte d’une organisation, prenez en
-    considération qu’il pourrait y avoir un problème de gouvernance qui
-    pourrait être traité. Est-ce que quelqu’un a fait un retour<indexterm>
+    vers des besoins satisfaits ou insatisfaits ? (Voir la section <xref
+    linkend="feelings" xrefstyle="select: labelnumber"/>.) Dès que quelqu’un
+    est énervé dans le contexte d’une organisation, prenez en considération
+    qu’il pourrait y avoir un problème de gouvernance qui pourrait être
+    traité. Est-ce que quelqu’un a fait un retour<indexterm>
         <primary>faire un retour</primary>
       </indexterm> ? Comment des problèmes similaires peuvent-ils être
     empêchés la prochaine fois ?</para>
@@ -2064,16 +2080,17 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003B9000000C7706234BFAC830739.png"/>
+              <imagedata fileref="../illustrations/implementationpolicy.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
 
         <para>Au lieu d’une période d’essai, faites une proposition comme dans
-        le schéma 193 (<xref linkend="implementationpolicy"/>). Voilà quelque
-        chose que nous avons appris par l’expérience. En référence aux
-        préconditions du consentement : la sociocratie demande la volonté de
-        parler jusqu’à ce que les objections soient intégrées<indexterm>
+        le schéma <xref linkend="implementationpolicy"
+        xrefstyle="select: labelnumber"/>. Voilà quelque chose que nous avons
+        appris par l’expérience. En référence aux préconditions du
+        consentement : la sociocratie demande la volonté de parler jusqu’à ce
+        que les objections soient intégrées<indexterm>
             <primary>objection</primary>
 
             <secondary>volonté d'intégrer les objections</secondary>
@@ -2094,7 +2111,7 @@
         l’organisation.</para>
       </section>
 
-      <section>
+      <section xml:id="boardnotonboard">
         <title>Les structures de pouvoir cachées</title>
 
         <indexterm>
@@ -2138,7 +2155,7 @@
       </section>
     </section>
 
-    <section>
+    <section xml:id="lackofdefinedmembership">
       <title>Manque de clarté dans l’appartenance</title>
 
       <indexterm>
@@ -2218,7 +2235,7 @@
       membres.</para>
     </section>
 
-    <section>
+    <section xml:id="nosharedaim">
       <title>Clarté des domaines / buts</title>
 
       <indexterm>
@@ -2278,8 +2295,10 @@
       heurter toujours au même mur.</para>
 
       <para>De manière similaire, les domaines gagnent à être clarifiés. Dans
-      la section 2.2.2., nous avons décrit comment deux domaines ne devraient
-      jamais avoir ni chevauchement ni écart entre eux.</para>
+      la section <xref linkend="hierachyofdomains"
+      xrefstyle="select: labelnumber"/>, nous avons décrit comment deux
+      domaines ne devraient jamais avoir ni chevauchement ni écart entre
+      eux.</para>
 
       <informalexample>
         <para>Imaginons un frigidaire dans un café-boulangerie. Est-ce que le
@@ -2319,7 +2338,7 @@
       transition aisée. Nous voyons que ça ne fonctionne pas. Cette section
       souligne les zones typiques qui demandent de l’attention.</para>
 
-      <section>
+      <section xml:id="underestimate">
         <title>Sous-estimer la culture prédominante</title>
 
         <para>La sociocratie signifie un changement culturel. Cela ne doit pas
@@ -2523,7 +2542,8 @@
         incarnent le sentiment que toutes les voix comptent. En nous
         connaissant mieux les uns les autres, les stéréotypes et les schémas
         de pouvoir sur / pouvoir sous reculent. (Voir “Pouvoir sous” dans les
-        références en page xx).</para>
+        références en page <xref linkend="literature"
+        xrefstyle="select: pagenumber"/>).</para>
 
         <para>De manière anecdotique, les élections sociocratiques semblent
         aller à l’encontre des modèles dominants, au moins jusqu’à un certain
@@ -2750,7 +2770,8 @@
         nous pouvons atteindre l’égalité.</para>
 
         <para>La formation doit être disponible dans la durée (voir section
-        6.11 pour la formation continue), et elle doit inclure non seulement
+        <xref linkend="continuing-education" xrefstyle="select: labelnumber"/>
+        pour la formation continue), et elle doit inclure non seulement
         <emphasis>comment</emphasis> faire les choses mais aussi
         <emphasis>pourquoi</emphasis> les faire. Les gens sont occupés à faire
         leur travail, et c’est le but de l’organisation, et non la méthode de
@@ -2827,7 +2848,7 @@
         décisionnaires. Le savoir est le pouvoir, une fois de plus.</para>
       </section>
 
-      <section>
+      <section xml:id="rigid">
         <title>La rigidité</title>
 
         <para>Dans des implantations nouvelles, ce qui se passe ça et là est
@@ -2923,12 +2944,12 @@
         </indexterm>
 
         <para>Nous avons déjà beaucoup parlé de donner une rétroaction
-        (<emphasis>feedback</emphasis>) dans le Chapitre 4. Arriver à un point
-        où la majorité des gens dans une organisation se sent à l'aise avec
-        faire un retour peut prendre beaucoup de temps. Nous avons entendu
-        parler de groupes qui implantent la sociocratie et se débarrassent de
-        tous les éléments touchant donner une rétroaction, même les
-        évaluations de réunion<indexterm>
+        (<emphasis>feedback</emphasis>) dans le <xref linkend="feedback"/>.
+        Arriver à un point où la majorité des gens dans une organisation se
+        sent à l'aise avec faire un retour peut prendre beaucoup de temps.
+        Nous avons entendu parler de groupes qui implantent la sociocratie et
+        se débarrassent de tous les éléments touchant donner une rétroaction,
+        même les évaluations de réunion<indexterm>
             <primary>réunion</primary>
 
             <secondary>évaluation de la réunion</secondary>
@@ -3072,7 +3093,7 @@
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Pictures/10000201000003BF000000E24FBEC2D6BE4D7600.png"/>
+              <imagedata fileref="../illustrations/6-toolittletoomuch.jpg"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -3241,8 +3262,9 @@
             <primary>rôle</primary>
 
             <secondary>rôle opérationnel</secondary>
-          </indexterm> (voir la section 2.3.2. en page xxx) et garder les
-        décisions de politique dans le cercle. Les opérations<indexterm>
+          </indexterm> (voir la section <xref linkend="operationalroles"
+        xrefstyle="select: labelnumber page"/>) et garder les décisions de
+        politique dans le cercle. Les opérations<indexterm>
             <primary>opérations</primary>
           </indexterm> peuvent être prises en charge par un ou deux membres
         (en binôme). De cette façon, le travail et l'attention sont retirés de
@@ -3276,7 +3298,7 @@
     </section>
   </section>
 
-  <section>
+  <section xml:id="continuing-education">
     <title>La formation continue</title>
 
     <indexterm>
@@ -3328,7 +3350,8 @@
       </listitem>
     </itemizedlist>
 
-    <para>Voir la section 7.3. pour d'autres ressources.</para>
+    <para>Voir la section <xref linkend="beyond-this-book"
+    xrefstyle="select: labelnumber"/> pour d'autres ressources.</para>
 
     <section>
       <title>Comment continuer à apprendre facilement : les commentaires en
@@ -3352,9 +3375,9 @@
           <secondary>commentaires en direct durant la facilitation</secondary>
         </indexterm> pendant les réunions. Par exemple, si nous avons une
       élection, cela aide si le facilitateur donne des explications sur ce qui
-      est en train de se passer. Voir l'exemple dans le schéma 195 (<xref
-      linkend="livecommentary"/>), avec tous les <emphasis>commentaires en
-      direct</emphasis> en gras.</para>
+      est en train de se passer. Voir l'exemple dans le schéma <xref
+      linkend="livecommentary" xrefstyle="select: labelnumber"/>, avec tous
+      les <emphasis>commentaires en direct</emphasis> en gras.</para>
 
       <figure xml:id="livecommentary">
         <title>Un processus de sélection avec des éléments de "commentaire en
@@ -3362,7 +3385,7 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="Pictures/10000201000003C1000001B5A57B99DEEABA38A7.png"/>
+            <imagedata fileref="../illustrations/livecommentary.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
