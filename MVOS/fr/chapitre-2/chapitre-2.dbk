@@ -760,7 +760,7 @@
       </section>
 
       <section>
-        <title>Sous-domaines d'application</title>
+        <title>Sous-domaines</title>
 
         <indexterm significance="preferred">
           <primary>domaine</primary>
@@ -871,10 +871,12 @@
             <primary>domaine</primary>
           </indexterm>. Comme indiqué plus haut, cela est vrai également pour
         les décisions qui concernent des personnes en dehors du cercle, pour
-        autant que ces décisions relèvent du domaine du cercle.</para>
+        autant que ces décisions relèvent du domaine du cercle.<remark>How is
+        the following informal example formatted in the English
+        book?</remark></para>
 
         <informalexample>
-          <para>Le Cercle Membership peut avoir autorité<indexterm>
+          <para>Le Cercle Adhésions peut avoir autorité<indexterm>
               <primary>autorité</primary>
 
               <secondary>dans le domaine</secondary>
@@ -896,7 +898,7 @@
             <primary>organisation</primary>
 
             <secondary>pouvoir dans une organisation</secondary>
-          </indexterm> fonctionne et comment le pouvoir est distribué.. Cela a
+          </indexterm> fonctionne et comment le pouvoir est distribué. Cela a
         une implication qui prend parfois par surprise ceux qui s'initient à
         la sociocratie. Si un domaine<indexterm>
             <primary>domaine</primary>
@@ -921,7 +923,7 @@
         systèmes interdépendants autocontrôlés (contrairement à une structure
         mue par un engrenage central). L'avantage de mandater des petits
         groupes est de favoriser leur focus. Personne dans l'organisation n'a
-        à s'occuper de tout. Avec une autonomie partagée et une information
+        à s'occuper de tout. Avec une autonomie distribuée et une information
         qui circule de façon fluide, on peut accomplir plus que ce que
         l'esprit d'une seule personne peut concevoir.</para>
 
@@ -974,8 +976,8 @@
           </indexterm> tombaient en panne ou avaient besoin de soutien.
         L'autorité<indexterm>
             <primary>autorité</primary>
-          </indexterm> suit le principe de ce que les linguistes appellent un
-        « <emphasis>elsewhere condition</emphasis><footnote>
+          </indexterm> suit le principe de ce que les linguistes appellent
+        « <foreignphrase>elsewhere condition</foreignphrase><footnote>
             <para><emphasis>NDLT L’expression “</emphasis>elsewhere condition”
             ressort du domaine linguistique. Le principe d'ailleurs est la
             proposition selon laquelle l'application d'une règle ou d'une
@@ -1040,7 +1042,7 @@
         domaines<indexterm>
             <primary>domaine</primary>
           </indexterm> de deux cercles, on risque de se marcher sur les pieds.
-        Comment s'en aperçoit-on ? Chaque fois qu'il y a argumentation, comme
+        Comment s'en aperçoit-on ? Chaque fois qu'il y a un conflit, comme
         dans les deux premiers modèles de l'illustration qui suit, nous
         comprenons alors qu'il y a soit un chevauchement, soit un manque de
         sensibilisation concernant les domaines.</para>
@@ -1221,9 +1223,9 @@
             <primary>autorité</primary>
 
             <secondary>autorité sur les transferts</secondary>
-          </indexterm>, c'est plutôt comme une course à relais où le bâton est
-        passé d'un coureur à l'autre. Nous trouvons plus d'informations sur
-        les domaines, les transferts et les transmissions dans la <xref
+          </indexterm>, c'est plutôt comme une course de relais où le bâton
+        est passé d'un coureur à l'autre. Nous trouvons plus d'informations
+        sur les domaines, les transferts et les transmissions dans la <xref
         linkend="handoff"/>.</para>
       </section>
 
@@ -1239,11 +1241,10 @@
 
             <secondary>sous-cercle</secondary>
           </indexterm> (cercle enfant<footnote>
-            <para><emphasis>NDLT L’expression “</emphasis>elsewhere condition”
-            ressort du domaine linguistique. Le principe d'ailleurs est la
-            proposition selon laquelle l'application d'une règle ou d'une
-            opération spécifique prévaut sur l'application d'une règle plus
-            générale.</para>
+            <para>NDLT Dans ce texte, l'expression « cercle enfant » est
+            synonyme de « sous-cercle » ; de la même façon, lorsqu'il est fait
+            mention de « cercle parent », il s'agit d'un « sur-cercle
+            ».</para>
           </footnote>) proviennent du cercle parent<indexterm>
             <primary>cercle</primary>
 
@@ -1304,7 +1305,7 @@
         l'idée d'une gouvernance d'égal à égal ?</para>
 
         <para>En sociocratie, la hiérarchie réfère à la spécificité des buts
-        et des domaines et non au pouvoir en lui-même. Un Cercle Lavage de
+        et des domaines et non à un pouvoir de domination. Un Cercle Lavage de
         vaisselle élabore très peu de politiques et effectue beaucoup de
         travail spécifique et opérationnel (la vaisselle !). Un conseil
         d'administration fait peu de travail opérationnel mais passe la
@@ -1376,7 +1377,8 @@
         (« en périphérie » ou « en marge » versus « au centre »).</para>
 
         <figure xml:id="circlestructureangle">
-          <title>Différentes structures de cercle.</title>
+          <title>Des structures de cercles présentées de différentes
+          manières.</title>
 
           <mediaobject>
             <imageobject>
@@ -1404,13 +1406,13 @@
 
             <secondary>organisation sociocratique</secondary>
           </indexterm>, tout individu peut faire partie à la fois d'un cercle
-        spécifique et d'un cercle général. Par exemple, une personne peut
+        spécifique et d'un cercle plus global. Par exemple, une personne peut
         réparer des vélos et, en même temps, faire partie du cercle qui fait
         la planification à long terme. L'idée est que le cercle qui exécute la
         réparation des vélos a un travail très tangible et spécifique, tandis
-        qu'un cercle général s'occupe de la planification à long terme, plus
-        abstraite. Une personne peut exécuter l'une et l'autre de ces
-        responsabilités, mais en mettant l'accent différemment, tenant compte
+        qu'un Conseil d'Administration s'occupe de la planification à long
+        terme, plus abstraite. Une personne peut exécuter l'une et l'autre de
+        ces responsabilités, mais sa perspective est différente, tenant compte
         du but du cercle où elle se retrouve. (Pour en savoir plus sur la
         dynamique du pouvoir<indexterm>
             <primary>pouvoir</primary>
@@ -1425,7 +1427,7 @@
     </section>
 
     <section xml:id="Definedmembership">
-      <title>Membership</title>
+      <title>Les membres d'un cercle</title>
 
       <indexterm>
         <primary>cercle</primary>
@@ -1461,7 +1463,7 @@
           <secondary>taille de cercles</secondary>
 
           <tertiary>combien de membres dans un cercle ?</tertiary>
-        </indexterm>:</para>
+        </indexterm> :</para>
 
       <itemizedlist>
         <listitem>
@@ -1494,7 +1496,7 @@
       </itemizedlist>
 
       <section>
-        <title>Définition du membership : quoi et pourquoi</title>
+        <title>La définition des membres : quoi et pourquoi</title>
 
         <indexterm>
           <primary>consentement</primary>
@@ -1526,18 +1528,18 @@
           </indexterm>. Dans une situation où les liens des personnes avec le
         groupe sont plus ou moins clairs, on ne peut savoir sur qui compter ni
         à qui demander le consentement en vue de prendre une décision. La
-        préservation de tout processus décisionnel de groupe représente une
-        priorité absolue dans la sociocratie, de sorte que la notion de
-        membership est une caractéristique essentielle des organisations
+        préservation de toute instance de prise de décision représente une
+        priorité absolue dans la sociocratie, de sorte que la définition des
+        membres est une caractéristique essentielle des organisations
         sociocratiques.</para>
 
-        <para>Un membership clairement<indexterm>
+        <para>Une définition claire des membres<indexterm>
             <primary>appartenance</primary>
 
             <secondary>définition du membership</secondary>
-          </indexterm> établi ne signifie pas une fermeture à toute nouvelle
-        adhésion : un cercle peut être ouvert à de nouveaux membres, ce qui
-        implique toutefois une formule d'adhésion claire et explicite.</para>
+          </indexterm> ne signifie pas une fermeture à toute nouvelle
+        inclusion : un cercle peut être ouvert à de nouveaux membres, ce qui
+        implique toutefois un processus d'inclusion clair et explicite.</para>
 
         <para>(Pour en savoir plus sur l'absence de membership défini, voir la
         section <xref linkend="lackofdefinedmembership"
@@ -1547,12 +1549,12 @@
       <section>
         <title>Comment devenir membre d'un cercle ?</title>
 
-        <para>Dans la sociocratie, personne ne peut être forcé à devenir
-        membre d'un cercle, et personne ne peut être forcé à en sortir.</para>
+        <para>En sociocratie, personne ne peut être forcé à devenir membre
+        d'un cercle, et personne ne peut être forcé à en sortir.</para>
 
         <para>Un cercle peut consentir à ce qu'une personne se joigne à lui.
-        Lorsqu'une personne exprime son intérêt à se joindre — que ce soit par
-        le biais d'une embauche ou d'un poste de bénévole<indexterm>
+        Lorsqu'une personne exprime son intérêt à le rejoindre — que ce soit
+        par le biais d'une embauche ou d'un poste de bénévole<indexterm>
             <primary>bénévole</primary>
           </indexterm> —, ceci est une proposition pour devenir membre du
         cercle. Pour accepter cette proposition<indexterm>
@@ -1627,19 +1629,19 @@
         pour le nouveau membre du cercle. Par ailleurs, l'expression honnête
         des membres demeure cruciale, afin de protéger le fonctionnement de
         base du cercle — par exemple, on peut réagir à quelqu'un qui veut
-        rejoindre le cercle en réunion, simplement pour des motivations
-        personnelles. Dans ce cas, ne donnons pas notre consentement. Choisir
-        avec qui le cercle va travailler constitue le privilège fondamental de
-        ses membres. Ceux-ci pouvant exprimer des objections<indexterm>
+        rejoindre le cercle pour une réunion, uniquement parce qu'il y a un
+        enjeu important pour elle. Dans ce cas, ne donnons pas notre
+        consentement. Nous faisons usage de notre droit de choisir avec qui
+        nous travaillons. Nous pourrions aussi à traiter des
+        objections<indexterm>
             <primary>objection</primary>
-          </indexterm> concernant les personnes avec qui ils auront à
-        travailler.</para>
+          </indexterm>.</para>
 
         <informalexample>
-          <para>Imaginons un Cercle Programmes d'études dans une école. Un
+          <para>Imaginons un Cercle Programmes d'études dans une école. Une
           personne -- Natalie -- aimerait rejoindre le cercle ; on effectue
           alors un tour de consentement pour étudier la possibilité de son
-          membership. Dans le cercle, un membre s'oppose à l'adhésion de
+          inclusion. Dans le cercle, un membre a une objection à l'adhésion de
           Natalie. Son souci est que Natalie, étant très occupée, ne pourra
           participer régulièrement aux réunions du cercle<indexterm>
               <primary>cercle</primary>
@@ -1653,8 +1655,8 @@
         <para>Si vous avez déjà fait partie d'un groupe où certaines personnes
         ne font que passer de temps en temps, vous savez à quel point cela
         peut rendre le travail de cercle instable. Dans cet exemple, nous
-        pouvons voir qu'il est important d'avoir des informations claires sur
-        les engagements des membres d'un cercle<indexterm>
+        pouvons voir qu'il est important de savoir clairement qui sont les
+        membres d'un cercle<indexterm>
             <primary>cercle</primary>
 
             <secondary>appartenance dans un cercle</secondary>
@@ -1686,17 +1688,17 @@
         cela sera plus courant (comme dans les coopératives) ; pour d'autres,
         cela sera inexistant (la plupart des entreprises à but lucratif). Les
         conditions d'adhésion à l'organisation déterminent si et de quelle
-        manière cela est possible. Le membership de l'organisation, avec ses
-        privilèges et ses responsabilités, peut être distinct de
+        manière cela est possible. L'appartenance à l'organisation, avec ses
+        privilèges et ses responsabilités, peut être distincte de
         l'appartenance au cercle.</para>
 
         <para>Par exemple, dans une communauté intentionnelle, un individu
         peut faire partie de la communauté et effectuer un travail (laver la
-        vaisselle, entrer des données, tondre la pelouse) sans faire partie
-        d'aucun des cercles décisionnels correspondants. Dans une coopérative,
-        tous les membres contributeurs ne feront pas partie d'un cercle de
-        travail qui définit sa politique de fonctionnement. Si nous imaginons
-        une ville gérée de manière sociocratique<indexterm>
+        vaisselle, écrire du code informatique, tondre la pelouse) sans faire
+        partie d'aucun des cercles décisionnels correspondants. Dans une
+        coopérative, tous les membres contributeurs ne feront pas partie d'un
+        cercle de travail qui définit sa politique de fonctionnement. Si nous
+        imaginons une ville gérée de manière sociocratique<indexterm>
             <primary>gouvernement</primary>
 
             <secondary>parlement civique</secondary>
@@ -1710,7 +1712,7 @@
         exclus du système des cercles. Assurons-nous d'entendre leur voix et
         de prendre en compte leurs besoins lors de toutes les prises de
         décisions - ce qui est plus difficile si quelqu'un est écarté de
-        l'élaboration des politiques Pour conclure brièvement sur un sujet
+        l'élaboration des politiques. Pour conclure brièvement sur un sujet
         complexe : non, tous les membres de l'organisation ne doivent pas
         nécessairement faire partie d'un cercle, mais il est plus facile de
         diriger une organisation inclusive si le plus grand nombre possible de
@@ -1736,28 +1738,27 @@
         <para>Il est également possible d'exclure un membre d'un cercle. Il
         est essentiel de disposer de cette option d'exclusion car le travail
         en commun ne fonctionne efficacement que si tous les membres du cercle
-        sont productifs. Si un membre n'est pas en mesure de bien travailler
-        avec les autres (quelle que soit la raison), la prise d'une décision
-        peut s'avérer difficile dans le cercle. Par exemple, le style de
-        communication sarcastique et accusateur d'un membre peut interférer
-        avec le bon fonctionnement du groupe.</para>
+        contribuent de la manière qui est nécessaire pour le cercle. Si un
+        membre n'est pas en mesure de bien travailler avec les autres (quelle
+        que soit la raison), prendre des décisions peut s'avérer difficile
+        dans le cercle. Par exemple, le style de communication sarcastique et
+        accusateur d'un membre peut interférer avec le bon fonctionnement du
+        groupe.</para>
 
-        <para>Si des membres productifs quittent le cercle parce qu'ils
-        n'aiment pas ce comportement, une conversation franche s'impose. Si le
+        <para>Si des membres engagés quittent le cercle parce qu'ils n'aiment
+        pas ce comportement, une conversation franche s'impose. Si le
         comportement d’un membre du cercle empêche le cercle de bien
-        fonctionner, ceci est aussi un exemple clair disant : « Nous ne
-        pouvons pas travailler comme cela », et ainsi représente
-        l'objection<indexterm>
+        fonctionner, ceci est aussi un exemple clair de « nous ne pouvons pas
+        vivre avec ça », et par conséquent d'une objection<indexterm>
             <primary>objection</primary>
 
             <secondary>objection à l'appartenance d'un membre</secondary>
-          </indexterm> d'un membre du cercle à maintenir son appartenance au
-        cercle. La sociocratie, tout en renforçant le pouvoir individuel,
-        protège également le groupe. Pour que la prise de décision par
-        consentement<indexterm>
+          </indexterm> à ce qu'un membre reste dans le cercle. La sociocratie,
+        tout en renforçant le pouvoir individuel, protège également le groupe.
+        Pour que la prise de décision par consentement<indexterm>
             <primary>consentement</primary>
           </indexterm> soit possible, les groupes doivent être protégés des
-        comportements dysfonctionnels.</para>
+        dysfonctionnements..</para>
 
         <para>Exclure quelqu'un d'un cercle, en ce qui a trait à la démarche
         comme telle, est une chose simple. Quelqu'un propose<indexterm>
@@ -1767,43 +1768,42 @@
             cercle</secondary>
           </indexterm> « le retrait du cercle de la personne en question »,
         expliquant pourquoi et stipulant la durée du retrait. Par exemple, un
-        membre peut par ailleurs continuer à agir en dehors des buts et du
-        domaine du cercle ou à favoriser continuellement ses projets, sans
-        avoir à se référer au point de vue des autres.</para>
+        membre peut agir de façon répétée en dehors des buts et du domaine du
+        cercle ou mettre en avant sans cesse ses projets favoris sans prendre
+        en compte le point de vue des autres.</para>
 
         <para>Après avoir présenté la proposition, on invite à poser des
         questions de clarification et on demande des réactions rapides. Le
-        membre du cercle qui pourrait être retiré peut aussi poser des
-        questions et donner ses réactions rapides. Lors du tour de
+        membre du cercle qui pourrait être exclu du cercle peut aussi poser
+        des questions et donner ses réactions rapides. Lors du tour de
         consentement<indexterm>
             <primary>tour de consentement</primary>
           </indexterm>, cette personne n’a pas de droit au consentement. Ce
-        dernier aspect rend la proposition légèrement plus spécifique par
-        rapport à une proposition habituelle, où chaque membre du cercle a
-        droit au consentement<indexterm>
+        dernier aspect rend la proposition un peu particulière par rapport à
+        une proposition habituelle, où chaque membre du cercle a droit au
+        consentement<indexterm>
             <primary>consentement</primary>
 
             <secondary>droit au consentement</secondary>
           </indexterm>.</para>
 
-        <para>Nous sommes conscients qu'exclure quelqu'un d'un cercle rappelle
-        au groupe les limites émotives de la discussion. Toutes et tous, nous
+        <para>Nous sommes conscients qu'exclure quelqu'un d'un cercle
+        déclenchera de fortes tensions émotionnelles. Toutes et tous, nous
         nous soucions des personnes avec qui nous travaillons ; ensemble, nous
         nous efforçons d'être en harmonie. Connaître cette option demeure
         crucial ainsi que savoir comment la mettre en œuvre. C'est pourquoi
-        nous recommandons vivement de définir les étapes qui mèneront à ce
-        processus avant qu'il n'ait lieu. Voici quelques suggestions dans ce
-        sens :</para>
+        nous recommandons vivement de <emphasis>définir les étapes</emphasis>
+        qui mèneront à ce processus <emphasis>avant</emphasis> qu'il n'ait
+        lieu. Voici quelques suggestions dans ce sens :</para>
 
         <itemizedlist>
           <listitem>
-            <para>Revues régulières et honnêtes de performance sur les
-            résultats, avec des demandes<indexterm>
+            <para>revues de performance<indexterm>
+                <primary>revue de performance</primary>
+              </indexterm> régulières et honnêtes, avec des demandes<indexterm>
                 <primary>demande</primary>
               </indexterm> concrètes et réalisables concernant le comportement
-            (voir revue de performance<indexterm>
-                <primary>revue de performance</primary>
-              </indexterm>) ;</para>
+            ;</para>
           </listitem>
 
           <listitem>
@@ -1812,7 +1812,7 @@
           </listitem>
 
           <listitem>
-            <para>médiation formelle/cercle de conciliation.</para>
+            <para>médiation formelle / cercle restauratif.</para>
           </listitem>
         </itemizedlist>
 
@@ -1827,12 +1827,12 @@
         soit une exigence fondamentale, mais tout le monde ne s'accorde pas
         sur ce à quoi ressemble le respect, et dans quelles conditions il
         convient de privilégier, par exemple, l'honnêteté plus que le respect.
-        Faisons un effort pour comprendre la personne quand elle parle
-        d'elle-même et veillons à équilibrer le temps de discussion à investir
-        par notre cercle sur ce sujet.</para>
+        Faisons un effort pour comprendre la personne depuis son propre point
+        de vue et veillons à équilibrer le temps de discussion à investir par
+        notre cercle sur ce sujet.</para>
 
-        <para>(Voir d'autres commentaires sur le « congédiement » de bénévoles
-        d'un cercle spécifique à la page <xref linkend="volunteers"
+        <para>(Voir d'autres commentaires sur le « renvoi » de bénévoles d'un
+        cercle spécifique à la page <xref linkend="volunteers"
         xrefstyle="select: pagenumber"/>, et sur la façon de faire un retour
         au chapitre <xref linkend="feedback"
         xrefstyle="select: labelnumber"/>.)</para>
@@ -1860,13 +1860,12 @@
         <primary>domaine</primary>
       </indexterm> qui définissent leur travail. En outre, les cercles ont
     besoin d'une certaine structure interne pour fonctionner efficacement.
-    Bien entendu, nous pouvons définir (par consentement) ce que ces
-    caractéristiques pourraient être dans une organisation particulière ;
-    toutefois, ce que nous décrivons plus bas est considéré comme une bonne
-    pratique et a été utilisé dans de nombreuses organisations sociocratiques.
-    Nous n'avons pas vu la nécessité de nous écarter de cette structure de
-    base, mais nous convenons que les lecteurs peuvent trouver leur propre
-    voie.</para>
+    Bien entendu, vous pouvez définir (par consentement) dans chacune de vos
+    organisations ce que ces caractéristiques pourraient être. Toutefois, ce
+    que nous décrivons plus bas est considéré comme une bonne pratique et a
+    été utilisé dans de nombreuses organisations sociocratiques. Nous n'avons
+    pas vu la nécessité de nous écarter de cette structure de base, mais nous
+    convenons que les lecteurs peuvent trouver leur propre voie.</para>
 
     <para>Pourquoi définissons-nous les rôles ? Pour la même raison que nous
     élaborons des politiques : pour l'efficacité<indexterm>
@@ -1875,10 +1874,9 @@
         <primary>clarté (besoin)</primary>
       </indexterm>. Nous élaborons une politique sur la manière d'accomplir
     les tâches répétitives parce que nous ne voulons pas réinventer la roue à
-    chaque fois. Non plus que nous ne voulons pas déterminer quel membre du
-    cercle va exécuter la tâche à chaque fois : c'est pourquoi nous
-    définissons les rôles. Cela vaut aussi bien pour les rôles du
-    cercle<indexterm>
+    chaque fois. Pas plus que nous ne voulons déterminer quel membre du cercle
+    va exécuter la tâche à chaque fois : c'est pourquoi nous définissons les
+    rôles. Cela vaut aussi bien pour les rôles du cercle<indexterm>
         <primary>rôle</primary>
 
         <secondary>rôle en cercle</secondary>
@@ -1886,36 +1884,36 @@
         <primary>rôle</primary>
 
         <secondary>rôle opérationnel</secondary>
-      </indexterm>.Il est inefficace de débuter chaque réunion en ayant à
+      </indexterm>. Il est inefficace de débuter chaque réunion en ayant à
     déterminer qui est le facilitateur<indexterm>
         <primary>facilitateur</primary>
-      </indexterm> ou le secrétaire de cette réunion. Nous souhaitons régler
-    tous ces rôles afin de pouvoir nous concentrer sur ce qui est pertinent.
-    De plus, en définissant un rôle, nous donnons à la personne qui le remplit
-    l'autorité<indexterm>
+      </indexterm> ou le secrétaire de cette réunion. Nous souhaitons
+    déterminer tous ces rôles afin de pouvoir nous concentrer sur ce qui est
+    pertinent. De plus, en définissant un rôle, nous donnons à la personne qui
+    le remplit l'autorité<indexterm>
         <primary>autorité</primary>
 
         <secondary>autorité dans un rôle</secondary>
       </indexterm> d'agir sans avoir à consulter le cercle, et la possibilité
     de développer son expertise dans ce rôle. Les rôles dans la sociocratie
-    sont généralement liés à l'autonomisation, au développement d'expertise et
+    sont généralement liés au pouvoir d'agir, au développement d'expertise et
     à la vigilance.</para>
 
     <para>Certaines personnes considèrent le cercle comme un « paquet » de
-    rôles comportant des tâches opérationnelles dans un domaine : les
-    personnes qui effectuent un travail dans un cercle détiennent un rôle avec
-    les tâches qui s'y rattachent. Amenons une autre façon de voir les choses
-    : considérons que tous les membres du cercle peuvent exécuter les
-    opérations du cercle, mais certaines tâches répétitives sont liées à des
-    rôles prédéterminés. Dans tous les cas, nous séparons les rôles,
-    appelons-les « chapeaux », des individus. Une personne peut porter
-    plusieurs chapeaux, mais chaque chapeau ne peut être porté que par une
-    seule personne. Un membre du cercle peut tenir plusieurs rôles, en
-    fonction de ses ressources et de ses compétences. Idéalement, nous
-    aimerions que les rôles soient distribués entre plusieurs personnes, car
-    cela permet de répartir le pouvoir, les responsabilités. (Sur la rotation
-    de l'animation ou des rôles en général, voir la section <xref
-    linkend="rotate" xrefstyle="select: labelnumber page"/>.)</para>
+    rôles opérationnels dans un domaine : les personnes qui effectuent un
+    travail dans un cercle détiennent un rôle avec les tâches qui s'y
+    rattachent. Amenons une autre façon de voir les choses : considérons que
+    tous les membres du cercle peuvent exécuter les opérations du cercle, mais
+    certaines tâches répétitives sont liées à des rôles prédéterminés. Dans
+    tous les cas, nous séparons les rôles, appelons-les « chapeaux », des
+    individus. Une personne peut porter plusieurs chapeaux, mais chaque
+    chapeau ne peut être porté que par une seule personne. Un membre du cercle
+    peut tenir plusieurs rôles, en fonction de ses ressources et de ses
+    compétences. Idéalement, nous aimerions que les rôles soient distribués
+    entre plusieurs personnes, car cela permet de répartir le pouvoir, les
+    responsabilités. (Sur la rotation de l'animation ou des rôles en général,
+    voir la section <xref linkend="rotate"
+    xrefstyle="select: labelnumber page"/>.)</para>
 
     <para>Il n'y a que deux rôles qui ne peuvent pas être remplis par la même
     personne : celui de leader<indexterm>
@@ -1930,7 +1928,7 @@
     xrefstyle="select: labelnumber page"/>.</para>
 
     <section>
-      <title>Rôles en cercle</title>
+      <title>Les rôles de cercle</title>
 
       <indexterm>
         <primary>rôle</primary>
@@ -1946,9 +1944,9 @@
 
       <itemizedlist>
         <listitem>
-          <para>Pour maintenir l'esprit de la direction que nous voulons
-          prendre plus tard, nous avons besoin de leadership. Le <emphasis
-          role="strong">leader</emphasis><indexterm>
+          <para>Afin de garder en tête la destination que nous voulons
+          atteindre à <emphasis>l'avenir</emphasis>, nous avons besoin de
+          leadership. Le <emphasis role="strong">leader</emphasis><indexterm>
               <primary>leader</primary>
             </indexterm> d'un cercle (également appelé premier lien) est
           attentif aux opérations<indexterm>
@@ -1977,9 +1975,9 @@
               <primary>facilitateur</primary>
             </indexterm>. Les facilitateurs<indexterm>
               <primary>facilitateur</primary>
-            </indexterm> dirigent les réunions selon la formule de réunion
+            </indexterm> dirigent les réunions selon la trame de réunion
           convenue et le mode de prise de décision adopté par le groupe. Le
-          leader et le facilitateur ont des rôles distincts, car la
+          leader et le facilitateur sont des rôles distincts, car la
           facilitation<indexterm>
               <primary>facilitation</primary>
             </indexterm> et la supervision des opérations sont des compétences
@@ -1988,16 +1986,16 @@
         </listitem>
 
         <listitem>
-          <para>Afin de gérer la continuité avec le passé du cercle, il
-          importe d'avoir des comptes rendus écrits. Le <emphasis
-          role="strong">secrétaire</emphasis><indexterm>
+          <para>Afin de gérer la continuité avec le <emphasis>passé</emphasis>
+          du cercle, il importe d'avoir des comptes rendus écrits. Le
+          <emphasis role="strong">secrétaire</emphasis><indexterm>
               <primary>secrétaire</primary>
             </indexterm> gère les notes pendant la réunion, s'assure que les
           comptes rendus<indexterm>
               <primary>compte-rendu (compte-rendu d'une réunion)</primary>
             </indexterm> sont disponibles, facilement accessibles. Cette
           personne gère également les archives du cercle et est l’interprète
-          des politiques.Les grandes organisations peuvent choisir d'avoir un
+          des politiques. Les grandes organisations peuvent choisir d'avoir un
           <emphasis role="strong">gardien du journal de
           bord</emphasis><indexterm>
               <primary>gardien du journal de bord</primary>
@@ -2032,18 +2030,17 @@
 
       <para>Le leader<indexterm>
           <primary>leader</primary>
-        </indexterm> soutient l'avancement du cercle en ce qui a trait aux
-      opérations<indexterm>
+        </indexterm> soutient l'avancement du cercle au niveau
+      opérationnel<indexterm>
           <primary>cercle</primary>
 
           <secondary>opérations</secondary>
         </indexterm><indexterm>
           <primary>opérations</primary>
-        </indexterm>. Cependant, en sociocratie, la notion
-      d'équivalence<indexterm>
+        </indexterm>. L'équivalence<indexterm>
           <primary>équivalence</primary>
-        </indexterm> s'ajoute : elle est établie par le double-lien entre le
-      leader et le délégué<indexterm>
+        </indexterm> s'incarne par le principe du double-lien composé du
+      leader et du délégué<indexterm>
           <primary>délégué</primary>
         </indexterm>. Nous augmentons ainsi les chances qu'un plus grand
       nombre de voix soient entendues lorsqu'une deuxième personne forme un
@@ -2071,17 +2068,18 @@
           </indexterm> et les décisions soient menées à bien, afin que le
         cercle puisse maintenir le cap quant à son but<indexterm>
             <primary>but</primary>
-          </indexterm>. Le rôle du leader est à la fois procédurier (soutenir
-        le bon fonctionnement du cercle) et opérationnel<indexterm>
+          </indexterm>. Le rôle du leader est à la fois un rôle de cercle
+        (soutenir le bon fonctionnement du cercle) et un rôle
+        opérationnel<indexterm>
             <primary>rôle</primary>
 
             <secondary>rôle opérationnel</secondary>
           </indexterm> (lié aux opérations du domaine du cercle entier, voir
-        la <xref linkend="operationalroles"/>). Le leader opère dans le cadre
+        la <xref linkend="operationalroles"/>). Le leader agit dans le cadre
         de la politique consentie par le cercle.</para>
 
         <figure xml:id="tasksLeader">
-          <title>29. Check-list<footnote>
+          <title>Check-list<footnote>
               <para><emphasis>NDLT le terme « check-list » utilisé dans cet
               ouvrage est synonyme pour « liste de vérification» qui est une
               expression moins courante.</emphasis></para>
@@ -2101,42 +2099,43 @@
         <para>Une partie du leadership opérationnel consiste à prêter
         attention à l'ensemble du cercle. Exemples : « Que faut-il faire
         ensuite ? Les membres du cercle font-ils ce qu'ils ont convenu de
-        faire ? Qui a besoin d'une validation, et que faut-il faire pour que
+        faire ? Qui a besoin de faire le point, et que faut-il faire pour que
         les opérations se déroulent plus efficacement ? Qu'est-ce qui,
-        provenant d'un cercle supérieur, devrait se reproduire ici ? »</para>
+        provenant d'un cercle supérieur, devrait être mis en œuvre ici
+        ? »</para>
 
         <informalexample>
-          <para>Imaginons un Cercle Membership. Toute opération s'inscrit dans
+          <para>Imaginons un Cercle Adhésions. Toute opération s'inscrit dans
           le cadre de la politique<indexterm>
               <primary>politique</primary>
-            </indexterm> établie par ce cercle. Ses opérations comprennent, la
-          mobilisation, l'engagement face aux orientations ainsi que la
-          formation continue<indexterm>
+            </indexterm> établie par ce cercle. Son travail comprend le
+          recrutement de nouveaux membres, leur accueil, et la formation
+          continue à propos du fonctionnement de l'organisation<indexterm>
               <primary>formation sur la gouvernance</primary>
             </indexterm>. Un responsable de la communication est nommé par le
-          cercle pour renseigner les personnes qui veulent y adhérer. Le
-          leader du Cercle Membership s'assure alors que cela se passe bien :
-          il vérifie auprès des membres ou exerce les mesures de contrôle
-          nécessaires pour que les choses se déroulent sans heurts. Ainsi, le
-          leader est attentif à l'ensemble.</para>
+          cercle pour renseigner les personnes à propos de l'adhésion à
+          l'organisation. Le leader du Cercle Adhésions s'assure alors que
+          cela se passe bien : il vérifie auprès des membres ou exerce les
+          mesures de contrôle nécessaires pour que les choses se déroulent
+          sans heurts. Ainsi, le leader est attentif à l'ensemble.</para>
         </informalexample>
 
-        <para>Il est absolument essentiel de considérer le
-        leadership<indexterm>
+        <para>Avoir un leader est absolument essentiel<indexterm>
             <primary>leadership</primary>
-          </indexterm>. Sans leadership défini, le cercle peut en effet
-        facilement être privé de la personne qui prête attention à l'ensemble
-        et fait avancer le cercle. Les cercles sans leader risquent de devenir
-        « dormants », de se mettre en mode « neutre » (fonctionner mais ne pas
-        avancer). Ayons à l'esprit que dans une approche de consentement, le
-        leader n'exige pas des membres du cercle qu'ils fassent des choses
+          </indexterm>. Sans leader défini, le cercle peut en effet facilement
+        être privé de la personne qui prête attention à l'ensemble et fait
+        avancer le cercle. Les cercles sans leader risquent de devenir
+        « dormants », de se mettre en mode « sur place » (fonctionner mais ne
+        pas avancer). Ayons à l'esprit que dans une approche de consentement,
+        le leader n'exige pas des membres du cercle qu'ils fassent des choses
         qu'ils ne veulent pas faire.</para>
 
         <para>Il ne s'agit pas d'un leadership coercitif. Le leadership
-        consensuel ou sociocratique s'apparente davantage à un partenaire de
-        course : il est celui qui veille à ce que nous nous présentions et qui
-        vérifie si nous sautons deux jours de course d'affilée. Ce partenaire
-        de course n'a pas de pouvoir<indexterm>
+        consenti ou sociocratique s'apparente davantage à un partenaire de
+        course à pied : c'est la personne qui veille à ce que nous soyons au
+        rendez-vous et qui prend des nouvelles si nous sautons deux jours de
+        course d'affilée. Ce partenaire de course à pied n'a pas de
+        pouvoir<indexterm>
             <primary>pouvoir</primary>
 
             <secondary>pouvoir de la sociocratie</secondary>
@@ -2148,11 +2147,10 @@
           </indexterm> à la façon dont le travail est effectué dans le cercle.
         Le leader est celui qui soutient les opérations<indexterm>
             <primary>opérations</primary>
-          </indexterm> et qui rassemble les membres, à la fois partenaire de
-        responsabilité et motivateur. Parce que nous avons beaucoup
-        d'expériences dans toutes sortes de milieux en ce qui concerne l'abus
-        de pouvoir, les réactions au leadership peuvent varier selon la
-        culture et le contexte de l'organisation.</para>
+          </indexterm>, qui rassemble les membres, et qui les aide à tenir
+        leurs engagements et les encourage. Parce que nous avons tous vécu des
+        situations d'abus de pouvoir, les réactions au leadership peuvent
+        varier selon la culture et le contexte de l'organisation.</para>
 
         <para>Il n'est pas facile pour les leaders expérimentés de trouver
         leur place dans une organisation sociocratique quand ils y entrent
@@ -2161,15 +2159,15 @@
         sociocratie. La sociocratie est parfaitement compatible avec un
         leadership fort, bien qu'elle comporte une gouvernance égalitaire. À
         notre avis, un leadership fort avec une bonne capacité d'écoute et un
-        bon mélange d'autoréflexion et de pragmatisme constitue une offre de
-        valeur au cercle. On ne le dira jamais assez : en matière de prise de
-        décision par consentement<indexterm>
+        bon mélange de réflexion personnelle et de pragmatisme rend
+        <emphasis>service</emphasis> au cercle. On ne le dira jamais assez :
+        en matière de prise de décision par consentement<indexterm>
             <primary>consentement</primary>
 
             <secondary>consentement et pouvoir</secondary>
-          </indexterm>, chacun dispose d'un pouvoir égal à celui des autres.
-        S'il existe des tensions autour des styles de leadership,
-        rappelons-nous trois façons de les aplanir :</para>
+          </indexterm>, personne ne peut être dominé par autrui. S'il existe
+        des tensions autour des styles de leadership, rappelons-nous trois
+        façons de les aplanir :</para>
 
         <orderedlist>
           <listitem>
@@ -2178,7 +2176,7 @@
           </listitem>
 
           <listitem>
-            <para>se donner de la rétroaction<indexterm>
+            <para>se donner mutuellement de la rétroaction<indexterm>
                 <primary>faire un retour</primary>
               </indexterm> ;</para>
           </listitem>
@@ -2194,7 +2192,7 @@
         <para>Ainsi, nous encourageons un échange ouvert et une réflexion sur
         les attentes des membres du cercle concernant le leadership. Il peut
         être éclairant dans le cercle de définir ensemble comment ses membres
-        veulent être dirigés.</para>
+        veulent être dirigés !</para>
 
         <section>
           <title>Qui propose le leader ?</title>
@@ -2206,9 +2204,8 @@
           </indexterm>
 
           <para>Le cercle va choisir son leader selon le type d'organisation
-          qu'il représente, hiérarchique ou horizontale : dans une
-          organisation hiérarchique, le leader sera proposé de haut en bas,
-          par le cercle parent<indexterm>
+          concerné. Dans une organisation hiérarchique, le leader sera proposé
+          de haut en bas, par le cercle parent<indexterm>
               <primary>cercle</primary>
 
               <secondary>cercle parent</secondary>
@@ -2216,8 +2213,8 @@
           délégué est le second lien (voir la <xref linkend="double-linking"/>
           sur le double-lien). Dans une organisation plus horizontale, le
           leader peut être proposé par son propre cercle. Dans un cas comme
-          dans l'autre, le cercle doit donner son consentement quant à la
-          sélection<indexterm>
+          dans l'autre, l'autre cercle doit confirmer ce choix par
+          consentement<indexterm>
               <primary>sélection</primary>
             </indexterm>.</para>
 
@@ -2235,10 +2232,10 @@
           <para>Les deux scénarios sont illustrés dans le diagramme <xref
           linkend="selectionleader" xrefstyle="select: labelnumber"/>. Étant
           donné que les rôles et l'appartenance à un groupe sont toujours
-          fondés sur le consentement (un individu « consent » à faire partie
-          d'un groupe, et un cercle « consent » à tout nouveau membre), aucun
-          des deux scénarios illustrés n'implique qu'un des groupes exerce un
-          pouvoir coercitif sur l'autre<indexterm>
+          fondés sur le consentement (un individu consent à faire partie d'un
+          groupe, et un cercle consent à tout nouveau membre), aucun des deux
+          scénarios illustrés n'implique qu'un des groupes exerce un pouvoir
+          coercitif sur l'autre<indexterm>
               <primary>cercle</primary>
 
               <secondary>appartenance dans un cercle</secondary>
@@ -2297,7 +2294,7 @@
           </indexterm>, voir la section <xref linkend="psycho"
         xrefstyle="select: labelnumber page"/>.</para>
 
-        <para>Nous recommandons vivement d'avoir un délégué au moins dans nos
+        <para>Nous recommandons vivement d'avoir un délégué au moins dans vos
         cercles de niveau plus général. La nécessité ou non d'avoir un délégué
         dépend de plusieurs facteurs. (Voir la section <xref
         linkend="doublelinkmandatory" xrefstyle="select: labelnumber page"/>,
@@ -2319,8 +2316,9 @@
             <primary>consentement</primary>
 
             <secondary>droit au consentement</secondary>
-          </indexterm> dans les deux cercles. Ceci est crucial pour établir et
-        maintenir l'équivalence entre les cercles<indexterm>
+          </indexterm> dans <emphasis>les deux</emphasis> cercles. Ceci est
+        crucial pour établir et maintenir l'équivalence entre les
+        cercles<indexterm>
             <primary>équivalence</primary>
 
             <secondary>entre cercles</secondary>
@@ -2344,9 +2342,9 @@
         <section>
           <title>Qui propose le délégué ?</title>
 
-          <para>Le délégué est sélectionné par son propre cercle et doit être
-          entériné par le cercle qui reçoit le délégué en tant que
-          membre.</para>
+          <para>Le délégué est sélectionné par son propre cercle
+          <emphasis>et</emphasis> doit être entériné par le cercle qui reçoit
+          le délégué en tant que membre.</para>
 
           <figure xml:id="selectiondelegate">
             <title>Un cercle sélectionne le délégué ; le cercle parent accepte
@@ -2363,8 +2361,8 @@
             </mediaobject>
           </figure>
 
-          <para>Cette disposition assure que chaque cercle doit avoir le plein
-          contrôle de ses membres<indexterm>
+          <para>Cette disposition assure que chaque cercle a le plein contrôle
+          sur qui sont ses membres<indexterm>
               <primary>cercle</primary>
 
               <secondary>appartenance dans un cercle</secondary>
@@ -4473,7 +4471,7 @@
           </indexterm></para>
 
         <figure xml:id="HCchecklist">
-          <title>57. Check-list pour former un cercle de soutien</title>
+          <title>Check-list pour former un cercle de soutien</title>
 
           <mediaobject>
             <imageobject>
@@ -5342,7 +5340,7 @@
         suivre les conseils développés dans le hub.</para>
 
         <figure xml:id="collectiveimpact">
-          <title>71. Organisations construisant un réseau<indexterm>
+          <title>Organisations construisant un réseau<indexterm>
               <primary>réseau</primary>
             </indexterm> avec un hub : il n'y a pas de prise de décision
           partagée mais un lieu central pour échanger l'information.</title>

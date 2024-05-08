@@ -7,7 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:ns="http://docbook.org/ns/docbook">
   <info>
-    <title>Pourquoi la sociocratie ? Qu'est-ce que c'est ? Pour qui ?</title>
+    <title>Pourquoi la sociocratie ? Qu'est-ce que c'est ? Pour qui ?</title>
   </info>
 
   <para>La sociocratie est un ensemble d'outils et de principes qui assurent
@@ -54,7 +54,7 @@
   la mission de l'organisation.</para>
 
   <para>Le pouvoir n'a pas qu'une seule source. Dans ce sens, il est différent
-  d'un système d'irrigation. Tous les membres de l'organisation la nourrissent
+  d'un système d'irrigation. Tous les membres de l'organisation le nourrissent
   de leurs initiatives et de leurs compétences, par le biais des équipes. Tout
   le monde est responsable de son propre pouvoir tout en comptant sur le
   pouvoir de l'autre. De là, le pouvoir, et les ressources qui l'accompagnent,
@@ -70,16 +70,16 @@
 
   <itemizedlist>
     <listitem>
-      <para>Nous répartissons le pouvoir de façon plus uniforme. Ceux qui
+      <para>nous répartissons le pouvoir de façon plus uniforme. Ceux qui
       intègrent l'organisation avec une faible propension à agir sont soutenus
       pour agir davantage. Ceux qui intègrent l'organisation avec un plus
       grand sens de l'action contribuent à l'ensemble sans diminuer le pouvoir
       de quiconque. Cela incite les équipes qui travaillent ensemble à
-      contribuer entre elles.</para>
+      contribuer entre elles ;</para>
     </listitem>
 
     <listitem>
-      <para>Nous laissons le pouvoir circuler. Cela signifie que la
+      <para>nous laissons le pouvoir circuler. Cela signifie que la
       répartition du pouvoir doit être ajustée et potentiellement modifiée au
       fil du temps. L'organisation sociocratique est adaptable et
       résiliente.</para>
@@ -88,8 +88,9 @@
 
   <para>Construire un système qui distribue le pouvoir en responsabilisant
   chaque individu exige de la réflexion et de la volonté. Voilà ce qu'est la
-  sociocratie : un ensemble de principes de design pour répartir le pouvoir de
-  façon qu'il soit dans le flux de la vie.</para>
+  sociocratie : un ensemble de principes de
+  <foreignphrase>design</foreignphrase> pour répartir le pouvoir de façon
+  qu'il soit dans le flux de la vie.</para>
 
   <section xml:id="values">
     <title>Les valeurs sous-jacentes à la sociocratie</title>
@@ -107,7 +108,7 @@
     </indexterm>
 
     <para>Dans quel monde voulons-nous vivre ? Notre réponse à cette question
-    est la suivante : nous voulons vivre dans un monde où les gens se
+    est la suivante : nous voulons vivre dans un monde où les gens se
     soutiennent les uns les autres, se considèrent mutuellement et
     s'entraident pour répondre à leurs besoins. Un monde collaboratif.</para>
 
@@ -147,49 +148,49 @@
 
       <itemizedlist>
         <listitem>
-          <para>Les systèmes vivants forment un tout et peuvent agir comme un
+          <para>les systèmes vivants forment un tout et peuvent agir comme un
           tout. Par exemple, un corps humain est un système complexe composé
           de petits systèmes complexes, mais il est perçu et agit comme un
-          tout.</para>
+          tout ;</para>
         </listitem>
 
         <listitem>
-          <para>Les systèmes vivants sont interdépendants de leur contexte. Il
+          <para>les systèmes vivants sont interdépendants de leur contexte. Il
           n'y a pas de système isolé. Cependant, dans les cultures
           occidentales, de nombreuses personnes ont été conditionnées à penser
           de manière individualiste, comme si nous étions séparés de notre
           contexte et que nous pouvions ignorer notre impact sur le monde qui
-          nous entoure.</para>
+          nous entoure ;</para>
         </listitem>
 
         <listitem>
-          <para>Les systèmes vivants sont interactifs et ouverts (dans
+          <para>les systèmes vivants sont interactifs et ouverts (dans
           certaines limites). Un organisme qui n'interagit pas avec son
           environnement extérieur ne pourra pas survivre. Les organismes
           fournissent une « membrane perméable » entre leur intérieur et leur
           extérieur. C'est la base de l'identité et de la capacité
-          d'agir.</para>
+          d'agir ;</para>
         </listitem>
 
         <listitem>
-          <para>Au sein d'un système, les parties sont interdépendantes et se
+          <para>au sein d'un système, les parties sont interdépendantes et se
           relient les unes aux autres pour répondre à leurs besoins. Cela est
           vrai à la fois pour certaines parties d'une cellule et pour une
-          société.</para>
+          société ;</para>
         </listitem>
 
         <listitem>
-          <para>Les systèmes vivants sont dynamiques, ils ne sont pas
+          <para>les systèmes vivants sont dynamiques, ils ne sont pas
           statiques. Ils changent au cours du temps en s'adaptant et en se
           modifiant constamment. Les systèmes vivants peuvent apprendre et se
-          guérir. Ils sont résilients.</para>
+          guérir. Ils sont résilients ;</para>
         </listitem>
 
         <listitem>
-          <para>Les systèmes vivants sont intrinsèquement structurés d'une
+          <para>les systèmes vivants sont intrinsèquement structurés d'une
           manière qui leur est propre. Une forêt, par exemple, a une
           structure. Il en va de même pour une organisation - les systèmes
-          vivants sont définis par le fait qu' ils créent plus d'ordre qu'il
+          vivants sont définis par le fait qu'ils créent plus d'ordre qu'il
           n'y en a déjà dans l'entropie de leur milieu. C'est exactement ce
           que font les organisations : s'organiser pour échanger de
           l'information et des ressources afin de répondre à leurs
@@ -200,17 +201,16 @@
       <para>Qu'est-ce qui aide les organisations à survivre et à prospérer ?
       Qu'est-ce qui aide les membres d'une organisation à survivre et à
       s'épanouir ? Quelles valeurs incarne la sociocratie ? Réduire
-      précipitamment la définition à un petit ensemble de valeurs c'est
+      précipitamment la définition à un petit ensemble de valeurs, c'est
       prendre le risque d'omettre de considérer des aspects qui auraient été
       significatifs pour les valeurs et les besoins<indexterm>
           <primary>besoins</primary>
-        </indexterm> d'autres personnes.</para>
-
-      <para>Cela étant dit, voici ce qui est important pour nous :</para>
+        </indexterm> d'autres personnes. Cela étant dit, voici ce qui est
+      important pour nous :</para>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis role="strong">Clarté</emphasis> : la clarté va de
+          <para><emphasis role="strong">clarté</emphasis> : la clarté va de
           pair avec prévisibilité, sécurité. Nous voulons des organisations
           dans lesquelles nous savons à quoi nous attendre, qui fait
           quoi<indexterm>
@@ -219,11 +219,11 @@
               <primary>besoins; exemples</primary>
 
               <secondary>clarté</secondary>
-            </indexterm> ;</para>
+            </indexterm> ;</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Choix</emphasis> : nous voulons avoir
+          <para><emphasis role="strong">choix</emphasis> : nous voulons avoir
           le choix de nos actions et non pas agir par soumission ou rébellion
           contre l'autorité<indexterm>
               <primary>choix (besoin)</primary>
@@ -231,11 +231,11 @@
               <primary>besoins; exemples</primary>
 
               <secondary>choix</secondary>
-            </indexterm> ;</para>
+            </indexterm> ;</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Considération</emphasis> : savoir que
+          <para><emphasis role="strong">considération</emphasis> : savoir que
           ce que nous pensons et ressentons compte pour ceux qui nous
           entourent<indexterm>
               <primary>considération (besoin)</primary>
@@ -243,22 +243,22 @@
               <primary>besoins; exemples</primary>
 
               <secondary>considération</secondary>
-            </indexterm> ;</para>
+            </indexterm> ;</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Pouvoir d'agir</emphasis> : savoir que
-          ce que nous réalisons a un impact positif <indexterm>
+          <para><emphasis role="strong">pouvoir d'agir</emphasis> : savoir que
+          ce que nous réalisons a un impact positif<indexterm>
               <primary>pouvoir d'agir (besoin)</primary>
             </indexterm><indexterm>
               <primary>besoins; exemples</primary>
 
               <secondary>pouvoir d'agir</secondary>
-            </indexterm>;</para>
+            </indexterm> ;</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Apprentissage</emphasis> : nous
+          <para><emphasis role="strong">apprentissage</emphasis> : nous
           voulons faire l'expérience de l'apprentissage et de la découverte
           les uns des autres, de nous-mêmes et de la façon dont le monde
           fonctionne<indexterm>
@@ -267,11 +267,11 @@
               <primary>besoins; exemples</primary>
 
               <secondary>apprentissage</secondary>
-            </indexterm> ;</para>
+            </indexterm> ;</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Connexion<indexterm>
+          <para><emphasis role="strong">connexion<indexterm>
               <primary>connexion (besoin)</primary>
             </indexterm><indexterm>
               <primary>besoins; exemples</primary>
@@ -306,32 +306,32 @@
         <primary>principles</primary>
       </indexterm>
 
-      <para>Appliquées à l'auto-gouvernance<indexterm>
+      <para>En lien avec l'autogouvernance<indexterm>
           <primary>gouvernance</primary>
 
           <secondary>autogouvernance</secondary>
         </indexterm>, chacune de ces valeurs se traduit par des principes qui
-      guident l'autogouvernance.</para>
+      en guident l'application :</para>
 
       <itemizedlist>
         <listitem>
-          <para><emphasis role="strong">Équivalence</emphasis> : personne
-          n'est ignoré. Le principe essentiel qui sous-tend la sociocratie.
-          (Définition dans la <xref linkend="definitionequivalenceJH"/>) Nous
-          nous efforçons de tenir compte de toutes les personnes concernées
-          dans tout ce que nous faisons; aucun individu ou groupe n'est
-          ignoré.</para>
+          <para><emphasis role="strong">équivalence</emphasis> : personne
+          n'est ignoré. Le principe essentiel qui sous-tend la sociocratie
+          (voir la définition dans la <xref
+          linkend="definitionequivalenceJH"/>). Nous nous efforçons de tenir
+          compte de toutes les personnes concernées dans tout ce que nous
+          faisons ; aucun individu ou groupe n'est ignoré.</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Leadership distribué</emphasis> : les
+          <para><emphasis role="strong">leadership distribué</emphasis> : les
           systèmes décentralisés sont moins vulnérables et donc plus
           résilients que les systèmes centralisés. Nous distribuons le
           leadership partout où nous le pouvons.</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Rechercher un résultat
+          <para><emphasis role="strong">rechercher un résultat
           gagnant-gagnant</emphasis> : chaque situation sera abordée en
           supposant qu'il existe une solution mutuellement bénéfique. La
           croyance qui dit que « si tu obtiens ce que tu veux, cela signifie
@@ -341,7 +341,7 @@
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">S'ouvrir à ce qui émerge</emphasis> :
+          <para><emphasis role="strong">s'ouvrir à ce qui émerge</emphasis> :
           accepter de ne pas savoir et ne pas chercher à obtenir un résultat.
           Moins l'ego est impliqué, plus on a de chance de voir une solution
           se présenter d'elle-même. Dans les systèmes complexes, nous ne
@@ -351,7 +351,7 @@
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Des environnements riches en
+          <para><emphasis role="strong">des environnements riches en
           rétroaction</emphasis> : la rétroaction et l'évaluation sont les
           fondements de l'apprentissage. Nous voulons que les organisations
           multiplient les occasions de faire des évaluations instructives.
@@ -366,24 +366,23 @@
         </listitem>
 
         <listitem>
-          <para>Peu nombreux à <emphasis role="strong">prendre des
-          décisions</emphasis>, nombreux à <emphasis
-          role="strong">contribuer</emphasis> : vouloir prendre en compte le
-          plus d'information possible ne signifie pas que les décisions
-          doivent être prises en grands groupes. Au contraire, nous pouvons
-          recueillir plus de rétroaction si nous faisons la distinction entre
-          les contributions et la prise de décision.</para>
+          <para><emphasis role="strong">peu nombreux à prendre des décisions,
+          nombreux à contribuer</emphasis> : vouloir prendre en compte le plus
+          d'information possible ne signifie pas que les décisions doivent
+          être prises en grands groupes. Au contraire, nous pouvons recueillir
+          plus de rétroaction si nous faisons la distinction entre les
+          contributions et la prise de décision.</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Flux omnidirectionnel
+          <para><emphasis role="strong">flux omnidirectionnel
           d'information</emphasis> : nous nous efforçons d'obtenir de
           l'information du plus grand nombre de sources possibles. Davantage
           d'information est toujours positif.</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">La transparence</emphasis> est
+          <para><emphasis role="strong">la transparence</emphasis> est
           importante parce qu'elle nous permet d'accéder aux faits, de
           comprendre et d'apprendre. Elle permet également des chances égales
           à tous parce qu'elle donne à chacun le même accès à l'information.
@@ -391,26 +390,27 @@
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">« Assez bien pour l'instant »
-          </emphasis>(<emphasis>Good enough for now</emphasis>) et<emphasis
-          role="strong"> « Assez sûr pour essayer »</emphasis> (<emphasis>Safe
-          enough to try</emphasis>)<emphasis role="strong"> </emphasis>sont
-          <emphasis role="strong">les deux devises-clé</emphasis> de la
-          sociocratie. Elles signifient que nous pouvons passer à l'action sur
-          la base d'une idée qui n'est pas parfaite. Ce principe nous incite à
-          l'action, nous met en mouvement et nous permet d'apprendre au lieu
-          de rester dans le statu quo.</para>
+          <para><emphasis role="strong">« assez bien pour l'instant »
+          </emphasis>(<foreignphrase>Good enough for now</foreignphrase>)
+          et<emphasis role="strong"> « assez sûr pour essayer »</emphasis>
+          (<foreignphrase>Safe enough to try</foreignphrase>)<emphasis
+          role="strong"> </emphasis>sont <emphasis role="strong">les deux
+          devises-clé</emphasis> de la sociocratie. Elles signifient que nous
+          pouvons passer à l'action sur la base d'une idée qui n'est pas
+          parfaite. Ce principe nous incite à l'action, nous met en mouvement
+          et nous permet d'apprendre au lieu de rester dans le statu
+          quo.</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Intentionnalité</emphasis> : quand
+          <para><emphasis role="strong">intentionnalité</emphasis> : quand
           nous accomplissons les choses avec une intention claire, nous
           disposons d'une force intérieure. Nous choisissons en conscience de
           faire ce que nous faisons.</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Les tensions révèlent un manque de
+          <para><emphasis role="strong">les tensions révèlent un manque de
           clarté</emphasis> : lorsque des tensions sont présentes, ce n'est
           pas parce que quelqu'un est à blâmer mais parce qu'il y a un manque
           de clarté par rapport aux domaines, aux rôles ou aux besoins de
@@ -423,9 +423,9 @@
         </listitem>
 
         <listitem>
-          <para><emphasis role="strong">Efficacité</emphasis> : nous voulons
+          <para><emphasis role="strong">efficacité</emphasis> : nous voulons
           savoir si ce que nous faisons donne les résultats escomptés, est
-          utile et a du sens, est pertinent.</para>
+          utile et a du sens.</para>
         </listitem>
       </itemizedlist>
 
@@ -569,11 +569,11 @@
     </section>
 
     <section>
-      <title><emphasis role="strong">À quoi ressemble la sociocratie : l'état
-      de</emphasis><emphasis role="strong">flow</emphasis></title>
+      <title>À quoi ressemble la sociocratie : l'état de
+      <foreignphrase>flow</foreignphrase></title>
 
-      <para>Dans <emphasis>Sociocracy For All</emphasis> (SoFA), nous recevons
-      des demandes<indexterm>
+      <para>À <foreignphrase>Sociocracy For All</foreignphrase> (SoFA), nous
+      recevons des demandes<indexterm>
           <primary>demande</primary>
         </indexterm> de la part de personnes qui aimeraient assister à des
       réunions sociocratiques pour voir comment ça se passe. Comme nous
@@ -1246,7 +1246,7 @@
       qui pourrait être utile aux autres soit accessible à tous.</para>
 
       <figure>
-        <title>7 : Contenu en ligne par Sociocracy For All<footnote>
+        <title>Contenu en ligne par Sociocracy For All<footnote>
             <para><emphasis>NDLR : Le contenu en ligne est en cours de
             traduction par l’équipe bénévole de SoFra.</emphasis></para>
           </footnote></title>

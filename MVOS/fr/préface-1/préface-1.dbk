@@ -7,14 +7,15 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:ns="http://docbook.org/ns/docbook">
   <info>
-    <title>Par les auteurs</title>
+    <title>Préface des auteurs</title>
   </info>
 
-  <para>Nous savons toutes et tous ce qu’est ressentir une connexion<indexterm>
+  <para>Nous savons toutes et tous comment c'est de ressentir une
+  connexion<indexterm>
       <primary>connexion (besoin)</primary>
     </indexterm> profonde. Nous le sentons lorsque nous parlons à un bon ami
-  qui nous apprécie sans condition. Nous savons tous ce qu'est ressentir une
-  profonde appartenance<indexterm>
+  qui nous apprécie sans condition. Nous savons tous comment c'est de
+  ressentir une profonde appartenance<indexterm>
       <primary>appartenance (besoin)</primary>
     </indexterm>, lorsque nous sommes dans un groupe et apprécions que les
   personnes présentes sont nos semblables. Nous savons tous ce que c'est que
@@ -54,8 +55,8 @@
   <blockquote>
     <attribution>Adrienne Rich</attribution>
 
-    <literallayout><emphasis>Plus je vis, plus je pense que
-deux personnes ensemble, c'est un miracle.</emphasis></literallayout>
+    <para>Plus je vis, plus je pense que deux personnes ensemble, c'est un
+    miracle.</para>
   </blockquote>
 
   <para>La sociocratie est l'un des nombreux systèmes qui fournissent des
@@ -100,12 +101,12 @@ deux personnes ensemble, c'est un miracle.</emphasis></literallayout>
     </listitem>
   </itemizedlist>
 
-  <para>Dans les organisations, nous nous réunissons pour atteindre un
-  objectif commun. En chantant ensemble, chaque voix contribue, apportant
-  l’harmonie avec sa tonalité et son timbre propres. Nous chantons chacun
-  notre partition et l’ensemble est plus riche que la voix d'un individu seul.
-  D'où le titre du livre : <citetitle>Many Voices One Song</citetitle>,
-  traduit en français par <citetitle>Chaque voix compte.</citetitle></para>
+  <para>Dans les organisations, nous nous réunissons pour atteindre un but
+  commun. En chantant ensemble, chaque voix contribue, apportant l’harmonie
+  avec sa tonalité et son timbre propres. Nous chantons chacun notre partition
+  et l’ensemble est plus riche que la voix d'un individu seul. D'où le titre
+  du livre : <citetitle>Many Voices One Song</citetitle>, traduit en français
+  par <citetitle>Chaque voix compte.</citetitle></para>
 
   <address><personname>Ted et Jerry</personname></address>
 </preface>
