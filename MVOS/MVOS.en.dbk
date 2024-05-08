@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<book version="5.1" xmlns="http://docbook.org/ns/docbook">
+<book version="5.1" xmlns="http://docbook.org/ns/docbook"
+      xmlns:ns7="http://docbook.org/ns/transclusion"
+      xmlns:ns6="http://www.w3.org/2000/svg"
+      xmlns:ns5="http://www.w3.org/1999/xhtml"
+      xmlns:ns4="http://www.w3.org/1998/Math/MathML"
+      xmlns:ns2="http://www.w3.org/1999/xlink"
+      xmlns:ns="http://docbook.org/ns/docbook">
   <info>
     <title>Many Voices One Song</title>
 
@@ -851,10 +857,10 @@ based on mutual giving from the heart.</literallayout>
         guide self-governance.<itemizedlist>
             <listitem>
               <para>Equivalence: no one ignored. The essential principle
-              underlying sociocracy. (Definition in figure <xref
-              linkend="definitionequivalenceJH"/>.) We try to consider
-              everyone affected in everything we do; no individual or group is
-              disregarded.</para>
+              underlying sociocracy. (Definition in <xref
+              linkend="definitionequivalenceJH" xrefstyle="select: label"/>.)
+              We try to consider everyone affected in everything we do; no
+              individual or group is disregarded.</para>
             </listitem>
 
             <listitem>
@@ -1229,8 +1235,8 @@ based on mutual giving from the heart.</literallayout>
             <primary>double-linking</primary>
 
             <see>linking</see>
-          </indexterm> (see section <xref linkend="double-linking"/> on page
-        <xref linkend="double-linking"/>) makes a circle structure<indexterm>
+          </indexterm> (see <xref linkend="double-linking"
+        xrefstyle="select: label page"/>) makes a circle structure<indexterm>
             <primary>circle</primary>
 
             <secondary>circle structure</secondary>
@@ -1644,7 +1650,8 @@ based on mutual giving from the heart.</literallayout>
       sense once one has first-hand experience. If this does not correspond to
       how you prefer to learn, we can work with you in finding different ways
       to learn, or we can refer you to a coach. (See links to resources in
-      section <xref linkend="contact-SoFA"/> in the appendix.)</para>
+      <xref linkend="contact-SoFA" xrefstyle="select: label page"/> in the
+      appendix.)</para>
 
       <section>
         <title>Online resources</title>
@@ -2049,15 +2056,15 @@ based on mutual giving from the heart.</literallayout>
               <primary>decision</primary>
 
               <secondary>policy decision</secondary>
-            </indexterm> one makes in the organization (see section <xref
-          linkend="objections"/>).</para>
+            </indexterm> one makes in the organization (see <xref
+          linkend="objections" xrefstyle="select: label"/>).</para>
 
           <para>It is not enough to only define the vision and mission.
           Organizations with the same mission and vision might have very
           different aims. The mission of “ending homelessness” can be
           accomplished by different aims which are the strategies we are
-          using, as shown in <xref
-          linkend="samemissiondifferentaimsJH"/>.</para>
+          using, as shown in <xref linkend="samemissiondifferentaimsJH"
+          xrefstyle="select: labelnumber"/>.</para>
 
           <figure xml:id="samemissiondifferentaimsJH">
             <title>Example: same mission <emphasis role="from-text">“to end
@@ -2112,11 +2119,11 @@ based on mutual giving from the heart.</literallayout>
           expressed in <emphasis role="from-text">-ing</emphasis> forms, or
           whatever their counterpart might be in your language. One can also
           try the fill-in-the-blank statement for a specific organization in
-          figure <xref linkend="VMAfigure"/>. Another example would be “I wish
-          this world was a world with nutritious and fresh food for everyone.
-          Our mission is to provide healthy and fresh food in Madison County
-          and we intend to begin by baking and selling baked goods at a
-          storefront in Huntsville”.</para>
+          <xref linkend="VMAfigure" xrefstyle="select: label"/>. Another
+          example would be “I wish this world was a world with nutritious and
+          fresh food for everyone. Our mission is to provide healthy and fresh
+          food in Madison County and we intend to begin by baking and selling
+          baked goods at a storefront in Huntsville”.</para>
 
           <figure xml:id="VMAfigure">
             <title>Vision, mission, aims</title>
@@ -2148,13 +2155,13 @@ based on mutual giving from the heart.</literallayout>
             </mediaobject>
           </figure>
 
-          <para>As shown in Box <xref linkend="VMASoFA"/>, The vision is an
-          inspirational place where we want to be. The mission is our
-          contribution of how to get there. In SoFA’s case, it is about making
-          knowledge accessible. We want to live in a world that works for
-          everyone (no one is ignored) and we are guessing that making
-          sociocracy accessible is a way to contribute to a world where
-          everyone is considered.</para>
+          <para>As shown in Box <xref linkend="VMASoFA"
+          xrefstyle="select: labelnumber"/>, The vision is an inspirational
+          place where we want to be. The mission is our contribution of how to
+          get there. In SoFA’s case, it is about making knowledge accessible.
+          We want to live in a world that works for everyone (no one is
+          ignored) and we are guessing that making sociocracy accessible is a
+          way to contribute to a world where everyone is considered.</para>
 
           <para>What we choose as reasonable strategies to <emphasis
           role="from-text">act</emphasis> on our mission are the aims. If SoFA
@@ -2162,7 +2169,8 @@ based on mutual giving from the heart.</literallayout>
           toward our mission, another aim<indexterm>
               <primary>aim</primary>
             </indexterm> might be added. The current aims of SoFA are listed
-          in table <xref linkend="ASoFA"/>.</para>
+          in table <xref linkend="ASoFA"
+          xrefstyle="select: labelnumber"/>.</para>
 
           <figure xml:id="ASoFA">
             <title>Sociocracy For All aims</title>
@@ -2225,7 +2233,7 @@ based on mutual giving from the heart.</literallayout>
               <primary>aim</primary>
             </indexterm>aim determines the nature of the product or service.
           We can see how an aim breaks into sub-aims in table <xref
-          linkend="examplepermaMA"/>.</para>
+          linkend="examplepermaMA" xrefstyle="select: labelnumber"/>.</para>
 
           <figure xml:id="examplepermaMA">
             <title>Organization aim and circle aims</title>
@@ -2313,10 +2321,9 @@ based on mutual giving from the heart.</literallayout>
             </indexterm> was founded, we realized that networking among people
           who were practicing and sharing sociocracy was a key contribution
           SoFA was making to the spread of sociocracy. It was then that we
-          added the last aim in figure <xref linkend="ASoFA"/> on page <xref
-          linkend="ASoFA"/><remark> @@TODO@@: Again, need to figure out page
-          references here.</remark> to our list of aims. We might also add or
-          dissolve circles<indexterm>
+          added the last aim in figure <xref linkend="ASoFA"
+          xrefstyle="select: labelnumber page"/> to our list of aims. We might
+          also add or dissolve circles<indexterm>
               <primary>circle</primary>
 
               <secondary>dissolving a circle</secondary>
@@ -2408,10 +2415,11 @@ based on mutual giving from the heart.</literallayout>
             </indexterm>: a circle has a budget which is agreed upon by the
           next-higher circle. Within the limits of their own budget, the
           circle has full authority over how to spend the money and allocate
-          labor hours. See table <xref linkend="aimsincoop"/> and <xref
-          linkend="aimsincoho"/> for a examples of (department) circles, aims
-          and domains in food production (bakery) and in a community.
-          <indexterm>
+          labor hours. See table <xref linkend="aimsincoop"
+          xrefstyle="select: labelnumber"/> and <xref linkend="aimsincoho"
+          xrefstyle="select: labelnumber"/> for a examples of (department)
+          circles, aims and domains in food production (bakery) and in a
+          community. <indexterm>
               <primary>domain</primary>
 
               <secondary>examples for domains</secondary>
@@ -2493,7 +2501,8 @@ based on mutual giving from the heart.</literallayout>
 
                 <secondary>parent circle</secondary>
               </indexterm> (see figure <xref
-            linkend="alldecisionsaboutpastryJH"/>). We try to make as many
+            linkend="alldecisionsaboutpastryJH"
+            xrefstyle="select: labelnumber"/>). We try to make as many
             decisions as possible in that Pastry Circle. Pastry Circle does
             not need Baking Circle’s approval for decisions in their own
             domain as long as they are within their own budget<indexterm>
@@ -2625,7 +2634,8 @@ based on mutual giving from the heart.</literallayout>
           it).</para>
 
           <para>A way to visualize this is figure <xref
-          linkend="fulldomainsubdomain"/>. The <indexterm>
+          linkend="fulldomainsubdomain" xrefstyle="select: labelnumber"/>. The
+          <indexterm>
               <primary>domain</primary>
             </indexterm>domain of the parent circle gets split up ‘‘emptied
           out’’ as we form sub-domains<indexterm>
@@ -2707,8 +2717,9 @@ based on mutual giving from the heart.</literallayout>
 
           <para>When we define the aims and domains and how they relate to
           each other, we have to be careful to make sure there is a good fit.
-          Figure <xref linkend="overlapgapcomplaints"/> shows the cases of
-          gaps and overlap. If there is overlap between the <indexterm>
+          Figure <xref linkend="overlapgapcomplaints"
+          xrefstyle="select: labelnumber"/> shows the cases of gaps and
+          overlap. If there is overlap between the <indexterm>
               <primary>domain</primary>
             </indexterm>domains of two given circles, the circles might step
           on each other’s toes. How do we notice if they do? Every time there
@@ -2888,7 +2899,8 @@ based on mutual giving from the heart.</literallayout>
               <secondary>authority in handover</secondary>
             </indexterm>. It is more like a relay race where the baton is
           passed from one runner to another. See more on domains, handovers
-          and hand-offs in section <xref linkend="handoff"/>.</para>
+          and hand-offs in section <xref linkend="handoff"
+          xrefstyle="select: labelnumber"/>.</para>
         </section>
 
         <section xml:id="whosetsaims">
@@ -3002,19 +3014,19 @@ based on mutual giving from the heart.</literallayout>
           planners, although their domains are related.</para>
 
           <para>We often use “broad” vs. “specific” (as in Figure <xref
-          linkend="broadfocusspecificfocus"/>) in training contexts where we
-          have more time to explain and can avoid confusion around the
-          terminology. But those terms seem cumbersome and chances are, people
-          might be driven away because it sounds complicated. Our overall
-          <indexterm>
+          linkend="broadfocusspecificfocus" xrefstyle="select: labelnumber"/>)
+          in training contexts where we have more time to explain and can
+          avoid confusion around the terminology. But those terms seem
+          cumbersome and chances are, people might be driven away because it
+          sounds complicated. Our overall <indexterm>
               <primary>aim</primary>
             </indexterm>aim is to make sociocracy accessible, not to make it
           sound complicated.</para>
 
           <para>Whatever words an organization uses, here are three ideas to
           consider. Every organizational structure can be drawn in different
-          ways. The structures in diagram <xref
-          linkend="circlestructureangle"/> describe the exact same
+          ways. The structures in diagram <xref linkend="circlestructureangle"
+          xrefstyle="select: labelnumber"/> describe the exact same
           organizational design for an organization, some looking more
           hierarchical, some less so. We can avoid a perception of linear
           hierarchy<indexterm>
@@ -3068,9 +3080,8 @@ based on mutual giving from the heart.</literallayout>
           power<indexterm>
               <primary>power</primary>
             </indexterm> structures we are used to, see for example <xref
-          linkend="underestimate"/> on page <xref
-          linkend="underestimate"/>.<remark> @@TODO@@: Figure out page
-          references.</remark>)</para>
+          linkend="underestimate"
+          xrefstyle="select: labelnumber page"/>.)</para>
         </section>
       </section>
 
@@ -3146,9 +3157,10 @@ based on mutual giving from the heart.</literallayout>
 
           <para>Circles make policy decisions by consent. Consent is the
           default decision-making method in sociocracy that will be described
-          in detail in section <xref linkend="consentchapter"/>, starting on
-          page <xref linkend="consentchapter"/>. The definition of consent is
-          that a decision is made if no circle member has an
+          in detail in section <xref linkend="consentchapter"
+          xrefstyle="select: labelnumber"/>, starting <xref
+          linkend="consentchapter" xrefstyle="select: page"/>. The definition
+          of consent is that a decision is made if no circle member has an
           objection.<indexterm>
               <primary>objection</primary>
             </indexterm></para>
@@ -3183,10 +3195,8 @@ based on mutual giving from the heart.</literallayout>
           membership.</para>
 
           <para>(See more on lack of defined membership in section <xref
-          linkend="lackofdefinedmembership"/> on page <xref
-          linkend="lackofdefinedmembership"/>.<remark> @@TODO@@: We need to
-          work on making the page reference work (in contexts where that makes
-          sense).</remark>)</para>
+          linkend="lackofdefinedmembership"
+          xrefstyle="select: labelnumber page"/>.)</para>
         </section>
 
         <section>
@@ -3213,12 +3223,12 @@ based on mutual giving from the heart.</literallayout>
 
               <secondary>consent to new member</secondary>
             </indexterm> to welcome the new member into the circle (see <xref
-          linkend="consentprocess"/> on page <xref
-          linkend="consentprocess"/><remark> @@TODO@@: Figure out page
-          references.</remark> on the consent process).</para>
+          linkend="consentprocess" xrefstyle="select: labelnumber page"/> on
+          the consent process).</para>
 
           <para>The proposal to accept someone as a member is simple, as shown
-          in figure <xref linkend="newmember"/>:</para>
+          in figure <xref linkend="newmember"
+          xrefstyle="select: labelnumber"/>:</para>
 
           <figure xml:id="newmember">
             <title>Accepting a new member into the circle</title>
@@ -3333,9 +3343,8 @@ based on mutual giving from the heart.</literallayout>
               <secondary>town government</secondary>
             </indexterm>, we would not expect every resident to be part of the
           administration. (See more thoughts in section <xref
-          linkend="few-and-many"/> on page <xref
-          linkend="few-and-many"/><remark> @@TODO@@: Figure out page
-          references.</remark>.)</para>
+          linkend="few-and-many"
+          xrefstyle="select: labelnumber page"/>.)</para>
 
           <para>The tricky point here is that we have to be aware that
           sociocracy was not designed for cases of many members that are not
@@ -3447,9 +3456,9 @@ based on mutual giving from the heart.</literallayout>
           understand what their self-conception looks like and find good
           balance on how much time your circle is willing to devote. (See some
           more comments on “firing” volunteers from only one circle on page
-          <xref linkend="volunteers"/><remark> @@TODO@@: Figure out page
-          references.</remark>, and more on how to give feedback in chapter
-          <xref linkend="feedback"/>.)</para>
+          <xref linkend="volunteers" xrefstyle="select: pagenumber"/>, and
+          more on how to give feedback in chapter <xref linkend="feedback"
+          xrefstyle="select: labelnumber"/>.)</para>
         </section>
       </section>
     </section>
@@ -3519,8 +3528,8 @@ based on mutual giving from the heart.</literallayout>
       worn by one person. One circle member can hold many roles, depending on
       resources and skills. Ideally, we would like to see roles distributed
       among several people as this distributes power. (On rotating
-      facilitation, or roles in general, see section <xref linkend="rotate"/>
-      on page <xref linkend="rotate"/>.)</para>
+      facilitation, or roles in general, see section <xref linkend="rotate"
+      xrefstyle="select: labelnumber page"/>.)</para>
 
       <para>There are only two roles that can’t be filled by the same person:
       leader<indexterm>
@@ -3531,8 +3540,8 @@ based on mutual giving from the heart.</literallayout>
           <secondary>double-linking</secondary>
         </indexterm> requires the leader and delegate to be two separate
       individuals. Readers not familiar with double-linking are referred to
-      section <xref linkend="double-linking"/> on page <xref
-      linkend="double-linking"/>.</para>
+      section <xref linkend="double-linking"
+      xrefstyle="select: labelnumber page"/>.</para>
 
       <section>
         <title>Circle roles</title>
@@ -3621,7 +3630,8 @@ based on mutual giving from the heart.</literallayout>
                   <primary>delegate</primary>
                 </indexterm> carry information into the circle and out of the
               circle, a feature we call <emphasis>double-linking</emphasis>.
-              (See section <xref linkend="double-linking"/>.)</para>
+              (See <xref linkend="double-linking"
+              xrefstyle="select: label"/>.)</para>
             </listitem>
           </itemizedlist></para>
 
@@ -3683,9 +3693,9 @@ based on mutual giving from the heart.</literallayout>
 
               <secondary>operational role</secondary>
             </indexterm> (paying attention to operations in the entire
-          circle’s domain, see section <xref linkend="operationalroles"/>).
-          The leader operates within the frame of policy to which the circle
-          has consented.</para>
+          circle’s domain, see <xref linkend="operationalroles"
+          xrefstyle="select: label"/>). The leader operates within the frame
+          of policy to which the circle has consented.</para>
 
           <figure xml:id="tasksLeader">
             <title>Checklist for the role of the leader</title>
@@ -3795,11 +3805,12 @@ based on mutual giving from the heart.</literallayout>
 
                 <secondary>parent circle</secondary>
               </indexterm>. Traditionally, the leader is the top-down link
-            while the delegate is the bottom-up link (see section <xref
-            linkend="double-linking"/> on double-linking). In a more
-            horizontal organization, the leader can be proposed by the circle.
-            Either way, the <emphasis role="from-text">receiving</emphasis>
-            circle has to give consent to the selection<indexterm>
+            while the delegate is the bottom-up link (see <xref
+            linkend="double-linking" xrefstyle="select: label"/> on
+            double-linking). In a more horizontal organization, the leader can
+            be proposed by the circle. Either way, the <emphasis
+            role="from-text">receiving</emphasis> circle has to give consent
+            to the selection<indexterm>
                 <primary>selection</primary>
               </indexterm>.</para>
 
@@ -3814,10 +3825,11 @@ based on mutual giving from the heart.</literallayout>
             </figure>
 
             <para>The two scenarios are shown in diagram <xref
-            linkend="selectionleader"/>. Since roles and membership of a group
-            are always based on consent (an individual consents to being part
-            of a group, and a circle consents to any new member), neither of
-            the two scenarios involves power-over.<indexterm>
+            linkend="selectionleader" xrefstyle="select: labelnumber"/>. Since
+            roles and membership of a group are always based on consent (an
+            individual consents to being part of a group, and a circle
+            consents to any new member), neither of the two scenarios involves
+            power-over.<indexterm>
                 <primary>circle</primary>
 
                 <secondary>circle membership</secondary>
@@ -3872,16 +3884,15 @@ based on mutual giving from the heart.</literallayout>
               <primary>linking</primary>
 
               <secondary>double-linking</secondary>
-            </indexterm> in section <xref linkend="psycho"/> on page <xref
-          linkend="psycho"/><remark> @@TODO@@: Figure out page
-          references.</remark>.</para>
+            </indexterm> in section <xref linkend="psycho"
+          xrefstyle="select: labelnumber page"/>.</para>
 
           <para>We strongly recommend having a delegate at the very least on
           your highest-level circles. Whether or not having a delegate is
           necessary depends on several factors. (See section <xref
-          linkend="doublelinkmandatory"/> on page <xref
-          linkend="doublelinkmandatory"/> for a discussion on whether a circle
-          always needs to be double-linked<indexterm>
+          linkend="doublelinkmandatory" xrefstyle="select: labelnumber page"/>
+          for a discussion on whether a circle always needs to be
+          double-linked<indexterm>
               <primary>linking</primary>
 
               <secondary>double-linking</secondary>
@@ -3965,9 +3976,9 @@ based on mutual giving from the heart.</literallayout>
               </indexterm> can slow down the entire organization – if a
             delegate is not supporting the work of the general circle, this
             needs to be taken seriously and addressed. See diagram in <xref
-            linkend="selectiondelegate"/> and example <xref
-            linkend="bubble-withdrawconsentonGC"/> for a story around
-            this.</para>
+            linkend="selectiondelegate" xrefstyle="select: labelnumber"/> and
+            example <xref linkend="bubble-withdrawconsentonGC"
+            xrefstyle="select: labelnumber"/> for a story around this.</para>
 
             <figure xml:id="bubble-withdrawconsentonGC">
               <title>Make use of your consent rights, including for delegates
@@ -4007,11 +4018,10 @@ based on mutual giving from the heart.</literallayout>
           role of the secretary (also called the circle administrator) might
           also involve announcing circle meetings, preparing the agenda in
           consultation with other circle members (see section <xref
-          linkend="meeting-documents"/> on page <xref
-          linkend="meeting-documents"/><remark> @@TODO@@: Figure out page
-          references.</remark> on your options of who prepares the meeting
-          agenda), and distributing study materials and proposals. The
-          secretary also tracks what needs to be on meeting agendas<indexterm>
+          linkend="meeting-documents" xrefstyle="select: labelnumber page"/>
+          on your options of who prepares the meeting agenda), and
+          distributing study materials and proposals. The secretary also
+          tracks what needs to be on meeting agendas<indexterm>
               <primary>agenda</primary>
 
               <secondary>prepare the agenda</secondary>
@@ -4177,11 +4187,13 @@ based on mutual giving from the heart.</literallayout>
           have access to the logbook etc. Depending on the size of the
           organization, this can be a big job. We want to have only policies
           that are current and want to have them easy to find for maximum
-          transparency. Example <xref linkend="logbookexample"/> shows what a
-          logbook might look like.</para>
+          transparency. Example <xref linkend="logbookexample"
+          xrefstyle="select: labelnumber"/> shows what a logbook might look
+          like.</para>
 
-          <para>Table <xref linkend="logbookkeepertasks"/> lists the tasks;
-          more specific arrangements can be made by the general circle.</para>
+          <para>Table <xref linkend="logbookkeepertasks"
+          xrefstyle="select: labelnumber"/> lists the tasks; more specific
+          arrangements can be made by the general circle.</para>
 
           <para>If desired, any circle that has a lot of policies to maintain
           can define a role of a logbook keeper just for their own policies
@@ -4223,7 +4235,7 @@ based on mutual giving from the heart.</literallayout>
             <primary>domain</primary>
           </indexterm>domain of the circle that are overseen by individual (or
         paired) circle members in a role as shown in figure <xref
-        linkend="operationalrolesJH"/>.</para>
+        linkend="operationalrolesJH" xrefstyle="select: labelnumber"/>.</para>
 
         <informalexample>
           <para>Imagining a machine maintenance circle in a printing business,
@@ -4339,9 +4351,8 @@ based on mutual giving from the heart.</literallayout>
           </indexterm>role description. A role description can be generated in
         the same way other policies are generated – defining a brief needs
         statement, picture forming and proposal shaping. (See how to write
-        roles in section <xref linkend="policyroles"/> on page <xref
-        linkend="policyroles"/><remark> @@TODO@@: Figure out page
-        references.</remark>.)</para>
+        roles in section <xref linkend="policyroles"
+        xrefstyle="select: labelnumber page"/>.)</para>
 
         <para>Policy<indexterm>
             <primary>policy</primary>
@@ -4388,8 +4399,8 @@ based on mutual giving from the heart.</literallayout>
         the other one is responsible.</para>
 
         <para>A role description might look like example <xref
-        linkend="examplelawnmoverliaison"/>. A circle consents to the role
-        description.<indexterm>
+        linkend="examplelawnmoverliaison" xrefstyle="select: labelnumber"/>. A
+        circle consents to the role description.<indexterm>
             <primary>role</primary>
 
             <secondary>role description</secondary>
@@ -4580,9 +4591,9 @@ based on mutual giving from the heart.</literallayout>
       each other’s work?</para>
 
       <para>What we need is a way to connect the circles. Let’s assume that in
-      image <xref linkend="linkedcircles"/> (a), the domains of the two
-      circles are related. Circle 2’s domain is a piece of circle 1’s domain.
-      Circle 2 will be a sub-circle<indexterm>
+      image <xref linkend="linkedcircles" xrefstyle="select: labelnumber"/>
+      (a), the domains of the two circles are related. Circle 2’s domain is a
+      piece of circle 1’s domain. Circle 2 will be a sub-circle<indexterm>
           <primary>circle</primary>
 
           <secondary>sub-circle</secondary>
@@ -4594,7 +4605,9 @@ based on mutual giving from the heart.</literallayout>
         </indexterm> is the sociocratic way of connecting two circles. Two
       circle members will be <emphasis>full</emphasis> members of
       <emphasis>both</emphasis> circles as shown in diagram <xref
-      linkend="linkedcircles"/> on the right.</para>
+      linkend="linkedcircles" xrefstyle="select: labelnumber"/> on the
+      right.<remark>Good example to come back to of side-by-side
+      graphics:</remark></para>
 
       <figure xml:id="linkedcircles">
         <title>Unlinked vs. linked circles</title>
@@ -4644,7 +4657,7 @@ based on mutual giving from the heart.</literallayout>
       ‘higher’ sub-circle what there is to know from the sub-circle (what
       decisions have been made, how the sub-circle is doing, the impact on the
       sub-circle of policies made in the parent circle etc.; see diagram <xref
-      linkend="leaderdelegate"/>).</para>
+      linkend="leaderdelegate" xrefstyle="select: labelnumber"/>).</para>
 
       <figure xml:id="leaderdelegate">
         <title>Leader and delegate</title>
@@ -4931,7 +4944,7 @@ based on mutual giving from the heart.</literallayout>
         need to be more differentiated and/or the organization grows, we grow
         into a more complex structure. We will describe the generic set-up
         here. There are some comments on tiny organizations in section <xref
-        linkend="tiny-organizations"/>.</para>
+        linkend="tiny-organizations" xrefstyle="select: labelnumber"/>.</para>
 
         <figure xml:id="basicstructure">
           <title>A basic implementation</title>
@@ -4966,8 +4979,9 @@ based on mutual giving from the heart.</literallayout>
         circles are “main circles”, “division circles”, or “core circle”. We
         can, of course, call them by any other suitable name.</para>
 
-        <para>In diagram <xref linkend="basicstructure"/>, there are three
-        department circles<indexterm>
+        <para>In diagram <xref linkend="basicstructure"
+        xrefstyle="select: labelnumber"/>, there are three department
+        circles<indexterm>
             <primary>circle</primary>
 
             <secondary>department circle</secondary>
@@ -5091,9 +5105,9 @@ based on mutual giving from the heart.</literallayout>
               concerns the aims/domains of more than one department circle, it
               can be explored and decisions can be made in the GC.</para>
             </listitem>
-          </itemizedlist>In Diagram <xref linkend="generalcircleimg"/>, the GC
-        would consist of the leaders and delegates of the three department
-        circles<indexterm>
+          </itemizedlist>In Diagram <xref linkend="generalcircleimg"
+        xrefstyle="select: labelnumber"/>, the GC would consist of the leaders
+        and delegates of the three department circles<indexterm>
             <primary>circle</primary>
 
             <secondary>department circle</secondary>
@@ -5130,8 +5144,8 @@ based on mutual giving from the heart.</literallayout>
 
             <see>mission circle</see>
           </indexterm> (and vision) and connected in its organizational and
-        cultural context. As shown in Fig. <xref
-        linkend="MCandGCdifference"/>, the MC gives general direction and
+        cultural context. As shown in Fig. <xref linkend="MCandGCdifference"
+        xrefstyle="select: labelnumber"/>, the MC gives general direction and
         support, may have legal and financial responsibilities and supports
         the operational leader. The GC (general circle) supports the
         aim-related work.</para>
@@ -5191,7 +5205,8 @@ based on mutual giving from the heart.</literallayout>
           organization. Thanks to outside members in the MC and to contact
           with clients, customers, users or members in specific circles, any
           organization will have mutual influence with the larger community,
-          and as shown in figure <xref linkend="influencetopbottom"/>.</para>
+          and as shown in figure <xref linkend="influencetopbottom"
+          xrefstyle="select: labelnumber"/>.</para>
 
           <figure xml:id="influencetopbottom">
             <title>Mutual influence between organization and outside world on
@@ -5210,8 +5225,8 @@ based on mutual giving from the heart.</literallayout>
           vs. others</emphasis> within a sociocratic organization. This is
           also true for the relationship between the larger community and the
           MC. The MC is the link with and to the larger community. (Related to
-          this topic, see more on networks in chapter <xref
-          linkend="networks"/>.)</para>
+          this topic, see more on networks in <xref linkend="networks"
+          xrefstyle="select: label"/>.)</para>
         </section>
 
         <section>
@@ -5303,8 +5318,8 @@ based on mutual giving from the heart.</literallayout>
 
               <secondary>double-linking</secondary>
             </indexterm> to the MC and represent a stakeholder group (see
-          section <xref linkend="circlesontopcircle"/> on page <xref
-          linkend="circlesontopcircle"/>).</para>
+          section <xref linkend="circlesontopcircle"
+          xrefstyle="select: labelnumber page"/>).</para>
 
           <para>The link for coordination between MC and GC is the operational
           leader, or Executive Director or CEO. <indexterm>
@@ -5335,9 +5350,9 @@ based on mutual giving from the heart.</literallayout>
             </mediaobject>
           </figure>
 
-          <para>As shown in diagram <xref linkend="upcyclingdelegate"/>, a
-          worker from the most specific level might be selected
-          delegate<indexterm>
+          <para>As shown in diagram <xref linkend="upcyclingdelegate"
+          xrefstyle="select: labelnumber"/>, a worker from the most specific
+          level might be selected delegate<indexterm>
               <primary>delegate</primary>
             </indexterm> into the department circle, and from there become
           delegate into the <indexterm>
@@ -5484,7 +5499,7 @@ based on mutual giving from the heart.</literallayout>
 
           <para>If a group is afraid that having an MC will stretch the
           organization too thin in a given moment, see section <xref
-          linkend="GCandTC"/> on page <xref linkend="GCandTC"/> for
+          linkend="GCandTC" xrefstyle="select: labelnumber page"/> for
           workarounds and temporary solutions.</para>
 
           <informalfigure>
@@ -5577,11 +5592,12 @@ based on mutual giving from the heart.</literallayout>
             </mediaobject>
           </figure>
 
-          <para>Diagram <xref linkend="topcircleforprofit"/> shows what a
-          sociocratic for-profit can look like. Please keep in mind that these
-          are examples – a supplier circle makes sense in some contexts and
-          not in others. The actual organization depends on what constellation
-          works well in the mission circle.</para>
+          <para>Diagram <xref linkend="topcircleforprofit"
+          xrefstyle="select: labelnumber"/> shows what a sociocratic
+          for-profit can look like. Please keep in mind that these are
+          examples – a supplier circle makes sense in some contexts and not in
+          others. The actual organization depends on what constellation works
+          well in the mission circle.</para>
 
           <figure xml:id="topcircleowners">
             <title>A sample structure of a worker cooperative</title>
@@ -5593,8 +5609,9 @@ based on mutual giving from the heart.</literallayout>
             </mediaobject>
           </figure>
 
-          <para>Diagram <xref linkend="topcircleowners"/> shows part of the
-          structure of a worker-cooperative<indexterm>
+          <para>Diagram <xref linkend="topcircleowners"
+          xrefstyle="select: labelnumber"/> shows part of the structure of a
+          worker-cooperative<indexterm>
               <primary>cooperative</primary>
 
               <secondary>example of a cooperative</secondary>
@@ -5618,18 +5635,21 @@ based on mutual giving from the heart.</literallayout>
           enterprises that are related to their field, like suppliers.</para>
 
           <para>An example of an intentional community is shown in Fig. <xref
-          linkend="topcirclecommunity"/>. There are three outside experts
-          shown. For example, a member of town government could be on the
-          community’s mission circle. Someone from a different intentional
-          community, a local farmer, a permaculture design expert, someone
-          with expertise in elder care or in communication skills or in
-          conflict resolution.</para>
+          linkend="topcirclecommunity"
+          xrefstyle="select: labelnumber"/><remark>In the print book, this is
+          referenced as 54a; how did Ted do that in the LaTeX?</remark>. There
+          are three outside experts shown. For example, a member of town
+          government could be on the community’s mission circle. Someone from
+          a different intentional community, a local farmer, a permaculture
+          design expert, someone with expertise in elder care or in
+          communication skills or in conflict resolution.</para>
 
           <para>For completeness (even though there is not much of a
           difference), let’s explore a non-profit structure as illustrated in
-          Fig. <xref linkend="topcirclenonprofitJH"/>. Depending on the nature
-          of the non-profit, there might be a coherent set of donors.
-          (Coherent enough to select a delegate<indexterm>
+          Fig. <xref linkend="topcirclenonprofitJH"
+          xrefstyle="select: labelnumber"/>. Depending on the nature of the
+          non-profit, there might be a coherent set of donors. (Coherent
+          enough to select a delegate<indexterm>
               <primary>delegate</primary>
             </indexterm> among them.) They might have an expert from local
           government or school administration or from another organization
@@ -5637,7 +5657,8 @@ based on mutual giving from the heart.</literallayout>
               <primary>membership</primary>
             </indexterm> base which meets occasionally. The membership may
           select a delegate to serve on the mission circle to represent the
-          interests of the members.</para>
+          interests of the members.<remark> Check this to ensure that the
+          figure numbering works for this.</remark></para>
 
           <informalfigure>
             <figure xml:id="topcirclecommunity">
@@ -5757,8 +5778,8 @@ based on mutual giving from the heart.</literallayout>
                     <primary>mission circle</primary>
 
                     <secondary>members</secondary>
-                  </indexterm> (see Fig. <xref
-                linkend="topcirclecommunity"/>).</para>
+                  </indexterm> (see Fig. <xref linkend="topcirclecommunity"
+                xrefstyle="select: labelnumber"/>).</para>
               </listitem>
             </itemizedlist></para>
         </section>
@@ -5920,11 +5941,12 @@ based on mutual giving from the heart.</literallayout>
             </mediaobject>
           </figure>
 
-          <para>Example <xref linkend="bubble-retreat"/> tells a story from
-          one of our organizations. When setting up a helping circle, use the
-          checklist in <xref linkend="HCchecklist"/>. If all boxes are
-          checked, it just takes a minute. If not, we’ll be glad we noticed!
-          <indexterm>
+          <para>Example <xref linkend="bubble-retreat"
+          xrefstyle="select: labelnumber"/> tells a story from one of our
+          organizations. When setting up a helping circle, use the checklist
+          in <xref linkend="HCchecklist" xrefstyle="select: labelnumber"/>. If
+          all boxes are checked, it just takes a minute. If not, we’ll be glad
+          we noticed! <indexterm>
               <primary>helping circle</primary>
 
               <secondary>checklist for a helping circle</secondary>
@@ -5956,14 +5978,16 @@ based on mutual giving from the heart.</literallayout>
           <secondary>circle structure</secondary>
         </indexterm>
 
-        <para>For you reference, Figure <xref linkend="fullfledged"/> is a
-        complete example organizational structure in a generic form. Note that
-        not all circles have to be present in every implementation, and it is
-        intentionally slightly asymmetrical to show the organic nature of
-        circles structures. Notice it also has a helping circle, so one can
-        see all circle types in one structure at a glance. See section <xref
-        linkend="implementationcircles"/> for a step-by-step process on how to
-        approach designing an organizational structure.</para>
+        <para>For you reference, Figure <xref linkend="fullfledged"
+        xrefstyle="select: labelnumber"/> is a complete example organizational
+        structure in a generic form. Note that not all circles have to be
+        present in every implementation, and it is intentionally slightly
+        asymmetrical to show the organic nature of circles structures. Notice
+        it also has a helping circle, so one can see all circle types in one
+        structure at a glance. See section <xref
+        linkend="implementationcircles" xrefstyle="select: labelnumber"/> for
+        a step-by-step process on how to approach designing an organizational
+        structure.</para>
 
         <figure xml:id="fullfledged">
           <title>A full structure</title>
@@ -6012,8 +6036,9 @@ based on mutual giving from the heart.</literallayout>
 
                   <listitem>
                     <para>Define one or more new operational roles (see
-                    section <xref linkend="operationalroles"/>) to take on
-                    some of the circle’s responsibilities.</para>
+                    section <xref linkend="operationalroles"
+                    xrefstyle="select: labelnumber"/>) to take on some of the
+                    circle’s responsibilities.</para>
                   </listitem>
 
                   <listitem>
@@ -6055,7 +6080,8 @@ based on mutual giving from the heart.</literallayout>
           </itemizedlist>To form a sub-circle, define its <indexterm>
             <primary>aim</primary>
           </indexterm>aim/domain and select the convener or leader. See the
-        checklist in <xref linkend="subcirclechecklist"/> for <indexterm>
+        checklist in <xref linkend="subcirclechecklist"
+        xrefstyle="select: labelnumber"/> for <indexterm>
             <primary>circle</primary>
 
             <secondary>forming a sub-circle</secondary>
@@ -6088,7 +6114,8 @@ based on mutual giving from the heart.</literallayout>
               secretary, leader and delegate are not implemented for the sake
               of formality, they are implemented for accountability, full
               transparency, to save time and to keep good records. (See box in
-              <xref linkend="ExpertboxLeif2"/>.)</para>
+              <xref linkend="ExpertboxLeif2"
+              xrefstyle="select: labelnumber"/>.)</para>
             </listitem>
 
             <listitem>
@@ -6162,7 +6189,8 @@ based on mutual giving from the heart.</literallayout>
         If a sub-circle decides to fold, the domain and the <indexterm>
             <primary>aim</primary>
           </indexterm>aim automatically fall back to the parent circle as
-        shown in <xref linkend="foldingacircleintooperationalrole"/>.</para>
+        shown in <xref linkend="foldingacircleintooperationalrole"
+        xrefstyle="select: labelnumber"/>.</para>
 
         <figure xml:id="foldingacircleintooperationalrole">
           <title>Folding a circle into an operational role: aim and domain are
@@ -6249,7 +6277,8 @@ based on mutual giving from the heart.</literallayout>
         Circle. It would be responsible for clean-up because it is in its
         domain to keep the paths usable. So far, this example is well along
         the lines of what we have said about clearly defined domains in
-        section <xref linkend="domains"/>.</para>
+        section <xref linkend="domains"
+        xrefstyle="select: labelnumber"/>.</para>
 
         <para>If this is a big piece of land and tree branches fall often,
         shouldn’t both circles be involved in policy around that? Shouldn’t
@@ -6489,8 +6518,8 @@ based on mutual giving from the heart.</literallayout>
         all gatherings have in common is that they don’t have a domain.
         Confusion can arise from the lack of clarity about the difference
         between circles and gatherings/communities of practice. Diagram <xref
-        linkend="networkvscircle"/> shows the difference between an interest
-        group and a formal circle.</para>
+        linkend="networkvscircle" xrefstyle="select: labelnumber"/> shows the
+        difference between an interest group and a formal circle.</para>
 
         <para>A gathering or interest group/community of practice cannot make
         decisions that impact the policies in the organization; of course,
@@ -6526,9 +6555,10 @@ based on mutual giving from the heart.</literallayout>
           </indexterm> of all the facilitators. Let’s imagine all facilitators
         of one organization meet to exchange experiences and techniques or
         guidelines as shown in figure <xref
-        linkend="networkinternalsubmitproposals"/>. This group cannot make
-        decisions about how any of the circles would be run, even in the
-        domain of facilitation<indexterm>
+        linkend="networkinternalsubmitproposals"
+        xrefstyle="select: labelnumber"/>. This group cannot make decisions
+        about how any of the circles would be run, even in the domain of
+        facilitation<indexterm>
             <primary>facilitation</primary>
           </indexterm> (because that can only be decided by the circles
         themselves or by the circle that holds this domain in the
@@ -6598,7 +6628,8 @@ based on mutual giving from the heart.</literallayout>
 
             <secondary>membership in a circle</secondary>
           </indexterm>. See the comparison between organizations and networks
-        in table <xref linkend="networksorgs"/>.<indexterm>
+        in table <xref linkend="networksorgs"
+        xrefstyle="select: labelnumber"/>.<indexterm>
             <primary>network</primary>
 
             <secondary>difference between networks and
@@ -6641,11 +6672,10 @@ based on mutual giving from the heart.</literallayout>
 
           <para>Now every organization has information on what is going on in
           the other organization. (We have already looked when addressing
-          external MC members, see section <xref
-          linkend="circlesontopcircle"/> on page <xref
-          linkend="circlesontopcircle"/>.) Connecting two mission circles is
-          useful when the two organizations are in related fields or for
-          example in a supplier-distributor relationship. Some
+          external MC members, see section <xref linkend="circlesontopcircle"
+          xrefstyle="select: labelnumber page"/>.) Connecting two mission
+          circles is useful when the two organizations are in related fields
+          or for example in a supplier-distributor relationship. Some
           examples:<itemizedlist>
               <listitem>
                 <para>A for-profit organization has a network association with
@@ -6689,9 +6719,9 @@ based on mutual giving from the heart.</literallayout>
           </indexterm>
 
           <para>We can also form hubs, for example for collective impact
-          efforts (see figure <xref linkend="collectiveimpact"/>). A hub is a
-          gathering (i.e. not a decision-making group) on an
-          inter-organizational level.</para>
+          efforts (see figure <xref linkend="collectiveimpact"
+          xrefstyle="select: labelnumber"/>). A hub is a gathering (i.e. not a
+          decision-making group) on an inter-organizational level.</para>
 
           <para>The pattern looks like the example of the
           facilitator<indexterm>
@@ -6816,8 +6846,8 @@ based on mutual giving from the heart.</literallayout>
           those department organizations can have its own mission circle to
           make sure every organization stays true to its mission<indexterm>
               <primary>mission</primary>
-            </indexterm>. (See diagram in <xref
-          linkend="orgsasworkcircles"/>.)</para>
+            </indexterm>. (See diagram in <xref linkend="orgsasworkcircles"
+          xrefstyle="select: labelnumber"/>.)</para>
 
           <figure xml:id="orgsasworkcircles">
             <title>Organizations as work circles with a general circle</title>
@@ -6834,8 +6864,8 @@ based on mutual giving from the heart.</literallayout>
 
               <secondary>sub-circle</secondary>
             </indexterm>. Note that, for example, sub-circle 1 in diagram
-          <xref linkend="orgsassubcircles"/> cannot make decisions about
-          organization <parameter
+          <xref linkend="orgsassubcircles" xrefstyle="select: labelnumber"/>
+          cannot make decisions about organization <parameter
           role="replacement(Math)">D</parameter>.</para>
 
           <figure xml:id="orgsassubcircles">
@@ -6851,8 +6881,8 @@ based on mutual giving from the heart.</literallayout>
           <para>If we have several organizations linked together as member
           organizations, then we have to be clear about domains so that we
           know who makes which decisions. Let us imagine that the organization
-          in figure <xref linkend="orgsassubcircles"/> is a global
-          organization<indexterm>
+          in figure <xref linkend="orgsassubcircles"
+          xrefstyle="select: labelnumber"/> is a global organization<indexterm>
               <primary>global organizations</primary>
             </indexterm>. Each department circle<indexterm>
               <primary>circle</primary>
@@ -6922,14 +6952,15 @@ based on mutual giving from the heart.</literallayout>
 
               <secondary>department circle</secondary>
             </indexterm>department circle (in <xref
-          linkend="geographicaltopical"/>), or a stakeholder<indexterm>
+          linkend="geographicaltopical" xrefstyle="select: labelnumber"/>), or
+          a stakeholder<indexterm>
               <primary>stakeholder</primary>
-            </indexterm> circle (in <xref linkend="geographicaltopical2"/>)
-          depending on how much interaction there is between and momentum in,
-          the topical and the geographical circles. To strengthen cohesion, we
-          can make a requirement that at least leader and delegate from every
-          geographical circle at a certain level be a member of a topical
-          circle as well.</para>
+            </indexterm> circle (in <xref linkend="geographicaltopical2"
+          xrefstyle="select: labelnumber"/>) depending on how much interaction
+          there is between and momentum in, the topical and the geographical
+          circles. To strengthen cohesion, we can make a requirement that at
+          least leader and delegate from every geographical circle at a
+          certain level be a member of a topical circle as well.</para>
 
           <figure xml:id="geographicaltopical">
             <title>Geographical circles as a stakeholder circle<indexterm>
@@ -7021,8 +7052,9 @@ based on mutual giving from the heart.</literallayout>
         </indexterm> is a decision about how they do work in general, which
       makes it policy<indexterm>
           <primary>policy</primary>
-        </indexterm> (see chapter <xref linkend="decision-making"/> on policy
-      making for creating workflow).</para>
+        </indexterm> (see chapter <xref linkend="decision-making"
+      xrefstyle="select: labelnumber"/> on policy making for creating
+      workflow).</para>
 
       <section>
         <title>Coordinating operational work</title>
@@ -7041,9 +7073,8 @@ based on mutual giving from the heart.</literallayout>
         1 can have the tool at 8.30am and member 2 will pick it up at 11.45am
         to bring it to the second construction site unless this is a decision
         we make often (in which case we might want to make policy as a “bulk”
-        decision, see section <xref linkend="decision-making"/> on page <xref
-        linkend="decision-making"/><remark> @@TODO@@: Figure out page
-        references.</remark>).</para>
+        decision, see <xref linkend="decision-making"
+        xrefstyle="select: label page"/>).</para>
 
         <para>Any members who are directly affected by a decision in their
         work will be part of an operational decision<indexterm>
@@ -7066,9 +7097,9 @@ based on mutual giving from the heart.</literallayout>
 
                   <secondary>operational role</secondary>
                 </indexterm>operational roles (see section <xref
-              linkend="operationalroles"/>) so individuals can act freely
-              within circle policies. The circle shapes how to distribute
-              authority among circle members.</para>
+              linkend="operationalroles" xrefstyle="select: labelnumber"/>) so
+              individuals can act freely within circle policies. The circle
+              shapes how to distribute authority among circle members.</para>
             </listitem>
 
             <listitem>
@@ -7182,8 +7213,9 @@ based on mutual giving from the heart.</literallayout>
           </indexterm>.</para>
 
         <para>We can decide to use any process we feel comfortable with, but
-        the diagram in template <xref linkend="operationalmeetingdiagram"/> is
-        a simple and versatile structure to work with.</para>
+        the diagram in template <xref linkend="operationalmeetingdiagram"
+        xrefstyle="select: labelnumber"/> is a simple and versatile structure
+        to work with.</para>
 
         <figure xml:id="operationalmeetingdiagram">
           <title>Keep your operational meetings short and relevant</title>
@@ -7209,7 +7241,8 @@ based on mutual giving from the heart.</literallayout>
             <primary>backlog</primary>
           </indexterm> as a potential policy issue for the agenda of a future
         circle meeting (as in example <xref
-        linkend="exampleoperationalmeeting"/>).</para>
+        linkend="exampleoperationalmeeting"
+        xrefstyle="select: labelnumber"/>).</para>
 
         <para>The length of an operational meeting varies considerably. For
         example, if we plan an event, we might work on coordination of
@@ -7617,16 +7650,16 @@ based on mutual giving from the heart.</literallayout>
                     <secondary>power in consensus</secondary>
                   </indexterm> to individuals who can block a decision for an
                 entire group – a tyranny of the minority. (See more on
-                consensus vs. consent in section <xref
-                linkend="consensus"/>.)</para>
+                consensus vs. consent in section <xref linkend="consensus"
+                xrefstyle="select: labelnumber"/>.)</para>
               </listitem>
             </varlistentry>
           </variablelist>We often don’t operate with intentionality around our
         choice of a decision-making method. This is noticeable when an
         argument turns into an argument about the methods of decision making
-        as in example <xref linkend="examplediscussion"/>. If the
-        decision-making method is unclear, the method itself becomes a
-        contentious issue.</para>
+        as in example <xref linkend="examplediscussion"
+        xrefstyle="select: labelnumber"/>. If the decision-making method is
+        unclear, the method itself becomes a contentious issue.</para>
 
         <figure xml:id="examplediscussion">
           <title>A discussion in a group with no agreed-upon method of
@@ -7816,12 +7849,13 @@ based on mutual giving from the heart.</literallayout>
           <primary>range of tolerance</primary>
         </indexterm>
 
-        <para>Diagram <xref linkend="overlapofrangeoftoleranceplain2"/>
-        illustrates the overlap between the personal preference of the group
-        members. The sweet spot (darkest) is the intersection where all
-        preferences coincide; The less homogenous a group is, the smaller this
-        area will be because people’s experiences and preferences differ. By
-        contrast, the range of tolerance/area of ‘‘no objection’’<indexterm>
+        <para>Diagram <xref linkend="overlapofrangeoftoleranceplain2"
+        xrefstyle="select: labelnumber"/> illustrates the overlap between the
+        personal preference of the group members. The sweet spot (darkest) is
+        the intersection where all preferences coincide; The less homogenous a
+        group is, the smaller this area will be because people’s experiences
+        and preferences differ. By contrast, the range of tolerance/area of
+        ‘‘no objection’’<indexterm>
             <primary>objection</primary>
           </indexterm> amongst group members is quite large. A group will
         reach consent to proposals more easily when the decision is based on
@@ -7907,9 +7941,9 @@ based on mutual giving from the heart.</literallayout>
           <para>We need to understand the notion of an <indexterm>
               <primary>aim</primary>
             </indexterm>aim to understand how objections are being defined. As
-          stated in section <xref linkend="VMAD"/> (page <xref
-          linkend="VMAD"/><remark> @@TODO@@: Figure out page
-          references.</remark>), aims define what a circle<indexterm>
+          stated in section <xref linkend="VMAD"
+          xrefstyle="select: labelnumber page"/>, aims define what a
+          circle<indexterm>
               <primary>circle</primary>
             </indexterm> or an organization set out to achieve, for example
           <emphasis role="from-text">“baking and selling healthy bread and
@@ -8043,9 +8077,10 @@ based on mutual giving from the heart.</literallayout>
               <primary>proposal</primary>
             </indexterm>proposal is not off the table. Having options of how
           to move forward by incorporating the objection (see section <xref
-          linkend="objections-howto"/>) is a core strength of sociocracy. With
-          new information and clearer focus, it will be easier to make
-          realistic and sustainable decisions.</para>
+          linkend="objections-howto" xrefstyle="select: labelnumber"/>) is a
+          core strength of sociocracy. With new information and clearer focus,
+          it will be easier to make realistic and sustainable
+          decisions.</para>
 
           <para>Objections also change culture. Knowing that objections can be
           integrated encourages members to speak up. We can ease into a place
@@ -8289,8 +8324,8 @@ based on mutual giving from the heart.</literallayout>
 
               <secondary>policy decision</secondary>
             </indexterm>. This is a reason why defined membership is so
-          crucial (see section <xref linkend="lackofdefinedmembership"/> on
-          page <xref linkend="lackofdefinedmembership"/>).<indexterm>
+          crucial (see section <xref linkend="lackofdefinedmembership"
+          xrefstyle="select: labelnumber page"/>).<indexterm>
               <primary>circle</primary>
 
               <secondary>circle membership</secondary>
@@ -8315,8 +8350,8 @@ based on mutual giving from the heart.</literallayout>
 
                     <secondary>approving minutes</secondary>
                   </indexterm>. Otherwise, we would assume consent. (See
-                example <xref linkend="ExpertboxJuttaJohn2"/>.) ‘‘Lazy
-                consent’’<indexterm>
+                example <xref linkend="ExpertboxJuttaJohn2"
+                xrefstyle="select: labelnumber"/>.) ‘‘Lazy consent’’<indexterm>
                     <primary>consent</primary>
 
                     <secondary>lazy consent</secondary>
@@ -8441,9 +8476,8 @@ based on mutual giving from the heart.</literallayout>
                   </indexterm>aim is, how will we know what an objection
                 is<indexterm>
                     <primary>objection</primary>
-                  </indexterm>? (See also page <xref
-                linkend="nosharedaim"/><remark>@@TODO@@: Figure out page
-                references.</remark>.)</para>
+                  </indexterm>? (See also page <xref linkend="nosharedaim"
+                xrefstyle="select: pagenumber"/>.)</para>
               </listitem>
 
               <listitem>
@@ -8466,7 +8500,8 @@ based on mutual giving from the heart.</literallayout>
                     <primary>consent</primary>
                   </indexterm>consent means consent by everyone in the circle,
                 not the people present in the room. (See also section <xref
-                linkend="Definedmembership"/>.)</para>
+                linkend="Definedmembership"
+                xrefstyle="select: labelnumber"/>.)</para>
               </listitem>
             </itemizedlist></para>
         </section>
@@ -8562,7 +8597,8 @@ based on mutual giving from the heart.</literallayout>
               <listitem>
                 <para>If our task at hand is making stars out of squares using
                 a machine like in figure <xref
-                linkend="inputtransformationoutput"/>, then squares are our
+                linkend="inputtransformationoutput"
+                xrefstyle="select: labelnumber"/>, then squares are our
                 <emphasis role="from-text">input</emphasis>, <emphasis
                 role="from-text">transformation</emphasis> is whatever the
                 magic machine does, and our <emphasis
@@ -8664,9 +8700,10 @@ based on mutual giving from the heart.</literallayout>
           </figure>
 
           <para>Let’s assume we want to turn squares into stars using a magic
-          machine like in figure <xref linkend="LDMoverall"/>. We would make a
-          plan (lead), perform the action (do) and then check whether we
-          reached the desired outcome (measure). As <indexterm>
+          machine like in figure <xref linkend="LDMoverall"
+          xrefstyle="select: labelnumber"/>. We would make a plan (lead),
+          perform the action (do) and then check whether we reached the
+          desired outcome (measure). As <indexterm>
               <primary>lead - do - measure</primary>
             </indexterm><emphasis role="from-text">lead – do –
           measure</emphasis> is a standard mindset in sociocracy, it is
@@ -8692,9 +8729,10 @@ based on mutual giving from the heart.</literallayout>
           that step, do it, and then evaluate whether we have completed the
           step before we move to the next step.</para>
 
-          <para>The diagram in <xref linkend="LDMITOstars"/> shows the steps
-          of <emphasis role="from-text">lead – do – measure</emphasis> in the
-          context of our star-making machine.</para>
+          <para>The diagram in <xref linkend="LDMITOstars"
+          xrefstyle="select: labelnumber"/> shows the steps of <emphasis
+          role="from-text">lead – do – measure</emphasis> in the context of
+          our star-making machine.</para>
 
           <figure xml:id="LDMITOstars">
             <title>Input – transformation – output with lead – do –
@@ -8845,16 +8883,18 @@ based on mutual giving from the heart.</literallayout>
                 </listitem>
               </itemizedlist><indexterm>
                 <primary>understand - explore - decide</primary>
-              </indexterm>Figure <xref linkend="MDFJHdecisionmaking"/> shows
-            how individuals can move as a group safely through all those steps
-            with a sense of flow: being on the same page and working more or
-            less at the same pace. Everyone might be running in different
-            directions – some might be linear thinkers, some of us have minds
-            that go in little loops, and some of us pay attention to things
-            that tend to go unnoticed. That’s ok. The important thing is that
-            for every milestone (1) we start out together and (2) we finish
-            together. We can make good progress following a broad roadmap like
-            in <xref linkend="MDFJHdecisionmaking"/>.</para>
+              </indexterm>Figure <xref linkend="MDFJHdecisionmaking"
+            xrefstyle="select: labelnumber"/> shows how individuals can move
+            as a group safely through all those steps with a sense of flow:
+            being on the same page and working more or less at the same pace.
+            Everyone might be running in different directions – some might be
+            linear thinkers, some of us have minds that go in little loops,
+            and some of us pay attention to things that tend to go unnoticed.
+            That’s ok. The important thing is that for every milestone (1) we
+            start out together and (2) we finish together. We can make good
+            progress following a broad roadmap like in <xref
+            linkend="MDFJHdecisionmaking"
+            xrefstyle="select: labelnumber"/>.</para>
 
             <figure xml:id="MDFJHdecisionmaking">
               <title><emphasis role="from-text">Understand -- explore --
@@ -8875,12 +8915,12 @@ based on mutual giving from the heart.</literallayout>
             one phase, we find <emphasis role="from-text">understand – explore
             – decide</emphasis> again. The more in-between steps we consider,
             the more intentional and effective we can be. The fractal nature
-            is shown in figure <xref linkend="MDFJHdecisionmakinginbetween"/>.
-            Each step now correlates to (a set of) rounds (people in the
-            circle speaking in turn) – which makes facilitation in this format
-            very simple. With many small rounds, each with a well-defined
-            question and scope, every circle member can focus on the content
-            at hand.</para>
+            is shown in figure <xref linkend="MDFJHdecisionmakinginbetween"
+            xrefstyle="select: labelnumber"/>. Each step now correlates to (a
+            set of) rounds (people in the circle speaking in turn) – which
+            makes facilitation in this format very simple. With many small
+            rounds, each with a well-defined question and scope, every circle
+            member can focus on the content at hand.</para>
 
             <figure xml:id="MDFJHdecisionmakinginbetween">
               <title>The steps fall into more fine-grained steps, like
@@ -8932,13 +8972,13 @@ based on mutual giving from the heart.</literallayout>
             <title>Measures</title>
 
             <para>As shown in Fig. <xref
-            linkend="MDFJHdecisionmakinginbetweenabstract"/>, each phase is
-            wrapped into <emphasis role="from-text">lead – do –
-            measure</emphasis> cycles. Measures like <emphasis
-            role="from-text">“Does everyone understand the issue? Have we
-            heard everyone’s ideas? Is everyone ready to move to the next
-            step?”</emphasis> tell us whether we have reached a
-            milestone.</para>
+            linkend="MDFJHdecisionmakinginbetweenabstract"
+            xrefstyle="select: labelnumber"/>, each phase is wrapped into
+            <emphasis role="from-text">lead – do – measure</emphasis> cycles.
+            Measures like <emphasis role="from-text">“Does everyone understand
+            the issue? Have we heard everyone’s ideas? Is everyone ready to
+            move to the next step?”</emphasis> tell us whether we have reached
+            a milestone.</para>
 
             <figure xml:id="MDFJHdecisionmakinginbetweenabstract">
               <title>Every step has its own <emphasis role="from-text">lead –
@@ -9045,7 +9085,7 @@ based on mutual giving from the heart.</literallayout>
             we do anything else, we give the circle members some context. How
             did this topic get on the agenda? Then we describe the trigger
             that has prompted the topic to come to the awareness of the
-            group.<informalfigure role="process">
+            group.<informalfigure role="guide">
                 <para><emphasis role="bold">Intention:</emphasis> Everyone
                 understands the issue.</para>
 
@@ -9067,14 +9107,16 @@ based on mutual giving from the heart.</literallayout>
                 <para><emphasis role="bold">Complete when:</emphasis> No one
                 has any more questions about the context or trigger.</para>
               </informalfigure>Example <xref
-            linkend="exampleunderstandneedstateissue"/> shows what this could
-            sound like. Note that in this example, the facilitator chooses not
-            to call for a full round and just asks whether anyone has
-            questions. This works well in easy cases. Alternatively, we can
-            call for a clarifying questions round<indexterm>
+            linkend="exampleunderstandneedstateissue"
+            xrefstyle="select: labelnumber"/> shows what this could sound
+            like. Note that in this example, the facilitator chooses not to
+            call for a full round and just asks whether anyone has questions.
+            This works well in easy cases. Alternatively, we can call for a
+            clarifying questions round<indexterm>
                 <primary>clarifying questions round</primary>
               </indexterm> (see section <xref
-            linkend="clarifyingquestionsround"/>). We answer all the questions
+            linkend="clarifyingquestionsround"
+            xrefstyle="select: labelnumber"/>). We answer all the questions
             one by one, or we gather questions first and answer them after –
             whatever seems easiest.</para>
 
@@ -9118,8 +9160,8 @@ based on mutual giving from the heart.</literallayout>
 
                   <listitem>
                     <para>A round where people offer their interpretation or
-                    guess needs (needs list p. <xref
-                    linkend="meetingsheet"/>).</para>
+                    guess needs (needs list p. <xref linkend="meetingsheet"
+                    xrefstyle="select: pagenumber"/>).</para>
                   </listitem>
 
                   <listitem>
@@ -9151,9 +9193,8 @@ based on mutual giving from the heart.</literallayout>
             </figure>
 
             <para>Note how in example <xref
-            linkend="exampleunderstandneedexploreneeds"/> (page <xref
-            linkend="exampleunderstandneedexploreneeds"/><remark> @@TODO@@:
-            Figure out page references.</remark>), the circle is looking at
+            linkend="exampleunderstandneedexploreneeds"
+            xrefstyle="select: labelnumber page"/>, the circle is looking at
             the issue from different angles, exploring needs of the circle
             members and the needs of those outside of the circle.</para>
           </section>
@@ -9222,11 +9263,12 @@ based on mutual giving from the heart.</literallayout>
             </informalfigure>
 
             <para>In example <xref
-            linkend="exampleunderstandneedneedsassessment"/>, the facilitator
-            asks someone in the circle to make a statement as a way to save
-            time. There is typically someone in the circle who is quick at
-            synthesizing. Keep the needs statement as you can use it as
-            rationale when publishing the policy.</para>
+            linkend="exampleunderstandneedneedsassessment"
+            xrefstyle="select: labelnumber"/>, the facilitator asks someone in
+            the circle to make a statement as a way to save time. There is
+            typically someone in the circle who is quick at synthesizing. Keep
+            the needs statement as you can use it as rationale when publishing
+            the policy.</para>
 
             <figure xml:id="exampleunderstandneedneedsassessment">
               <title>Understand: synthesize issue/needs into a needs
@@ -9420,21 +9462,21 @@ based on mutual giving from the heart.</literallayout>
             “leashes/no leashes” in a policy about dogs in a community;
             everyone will agree that “leashes/no leashes” is a dimension of
             any complete proposal on this topic (see example <xref
-            linkend="dogpolicy"/> on page <xref linkend="dogpolicy"/><remark>
-            @@TODO@@: Figure out page references.</remark>).</para>
+            linkend="dogpolicy"
+            xrefstyle="select: labelnumber page"/>).</para>
 
             <para>Circle members may explain a bit about the background of
             their dimension. It helps, for example, to name two options
             (<emphasis role="from-text">“do we do A or B?”</emphasis>). See
-            example <xref linkend="examplegeneratingproposalpictureforming"/>
-            for illustration. An experienced group will gather keywords fairly
-            quickly, within a few minutes. Groups get better with experience.
-            The best way to learn picture forming is by example. If the group
-            is new to the process, then someone with experience might model by
-            giving their own dimensions before asking for the group’s
-            suggestions. With inexperienced groups, we might have to explain
-            more and perhaps extract dimensions from opinions they
-            share.</para>
+            example <xref linkend="examplegeneratingproposalpictureforming"
+            xrefstyle="select: labelnumber"/> for illustration. An experienced
+            group will gather keywords fairly quickly, within a few minutes.
+            Groups get better with experience. The best way to learn picture
+            forming is by example. If the group is new to the process, then
+            someone with experience might model by giving their own dimensions
+            before asking for the group’s suggestions. With inexperienced
+            groups, we might have to explain more and perhaps extract
+            dimensions from opinions they share.</para>
 
             <para>Caution: if there are a lot of dimensions, we might be
             dealing with a question that is too big. We will get way too many
@@ -9600,8 +9642,9 @@ based on mutual giving from the heart.</literallayout>
             dimensions. In proposal shaping<indexterm>
                 <primary>proposal shaping</primary>
               </indexterm>, we want opinions. Example <xref
-            linkend="examplegeneratingproposalproposalshaping"/> gives us an
-            idea of what this might sound like.</para>
+            linkend="examplegeneratingproposalproposalshaping"
+            xrefstyle="select: labelnumber"/> gives us an idea of what this
+            might sound like.</para>
 
             <figure xml:id="examplegeneratingproposalproposalshaping">
               <title>Explore: explore policy ideas (proposal shaping)</title>
@@ -9613,11 +9656,13 @@ based on mutual giving from the heart.</literallayout>
               </mediaobject>
             </figure>
 
-            <para>Examples <xref linkend="dogpolicy"/> and <xref
-            linkend="screenpolicy"/> show how proposal ideas can build or
-            contradict each other. (The lists in <xref
-            linkend="screenpolicy"/> are from a real-life process in our
-            family on a chronic source of arguing!)</para>
+            <para>Examples <xref linkend="dogpolicy"
+            xrefstyle="select: labelnumber"/> and <xref linkend="screenpolicy"
+            xrefstyle="select: labelnumber"/> show how proposal ideas can
+            build or contradict each other. (The lists in <xref
+            linkend="screenpolicy" xrefstyle="select: labelnumber"/> are from
+            a real-life process in our family on a chronic source of
+            arguing!)</para>
 
             <figure xml:id="dogpolicy">
               <title>Needs statement, dimensions and proposal ideas for a dog
@@ -9745,12 +9790,12 @@ based on mutual giving from the heart.</literallayout>
             </informalfigure>
 
             <para>As in example <xref
-            linkend="examplegeneratingproposalorganize"/>, it works well to
-            either have an individual or two people work on wording the
-            proposal between meetings, or we might take a short break during
-            the meeting to have someone write something up. If there are
-            contradictory proposal ideas, there are at least three
-            options:<itemizedlist>
+            linkend="examplegeneratingproposalorganize"
+            xrefstyle="select: labelnumber"/>, it works well to either have an
+            individual or two people work on wording the proposal between
+            meetings, or we might take a short break during the meeting to
+            have someone write something up. If there are contradictory
+            proposal ideas, there are at least three options:<itemizedlist>
                 <listitem>
                   <para>We can do reaction rounds<indexterm>
                       <primary>reaction round</primary>
@@ -10006,7 +10051,8 @@ based on mutual giving from the heart.</literallayout>
             long digressions that may break the equivalence of doing rounds,
             and also may prevent drifting into opinions before all the
             questions for understanding have been asked (see example <xref
-            linkend="exampledecidingclarify"/>). When all questions are
+            linkend="exampledecidingclarify"
+            xrefstyle="select: labelnumber"/>). When all questions are
             answered, we can ask whether there are more questions that might
             have come up after hearing the previous questions and
             answers.</para>
@@ -10061,7 +10107,8 @@ based on mutual giving from the heart.</literallayout>
                   <para>Some groups prefer doing two separate rounds: one for
                   emotional reactions (“reactions”), and one for improving the
                   proposal (“solutions round”; see Fig. <xref
-                  linkend="ExpertboxBarbara"/>.)</para>
+                  linkend="ExpertboxBarbara"
+                  xrefstyle="select: labelnumber"/>.)</para>
                 </listitem>
               </itemizedlist>
 
@@ -10136,7 +10183,8 @@ based on mutual giving from the heart.</literallayout>
                       <listitem>
                         <para>there is emergence and something is building and
                         we want to explore it. (See box <xref
-                        linkend="ExpertboxBarbara"/>.)</para>
+                        linkend="ExpertboxBarbara"
+                        xrefstyle="select: labelnumber"/>.)</para>
                       </listitem>
                     </itemizedlist></para>
                 </listitem>
@@ -10167,15 +10215,16 @@ based on mutual giving from the heart.</literallayout>
             important to make sure that everyone has been heard sufficiently.
             However, it is also important to keep statements brief and
             relevant since it is most effective to devote time to addressing
-            objections. Example <xref
-            linkend="exampledecidingquickreactions"/> shows a quick reaction
+            objections. Example <xref linkend="exampledecidingquickreactions"
+            xrefstyle="select: labelnumber"/> shows a quick reaction
             round<indexterm>
                 <primary>reaction round</primary>
 
                 <secondary>example of a reaction round</secondary>
               </indexterm> and its variant in <xref
-            linkend="exampledecidingquickreactionswithobjection"/>, heading
-            toward an objection.</para>
+            linkend="exampledecidingquickreactionswithobjection"
+            xrefstyle="select: labelnumber"/>, heading toward an
+            objection.</para>
 
             <figure xml:id="exampledecidingquickreactions">
               <title>Understand: explore quick reactions</title>
@@ -10205,14 +10254,15 @@ based on mutual giving from the heart.</literallayout>
             </indexterm>
 
             <para>Note how in <xref
-            linkend="exampledecidingquickreactionswithobjection"/>, the circle
-            member summarizes the concern in one sentence. The objector-to-be
-            knows he is going to be heard later, so one sentence is enough to
-            give everyone a sense of where this is going. Just saying
-            <emphasis role="from-text">“I will object”</emphasis> without
-            giving any context might be unsettling for a group; but it is also
-            not the right place to say a lot more than a few sentences, so
-            keep it short!</para>
+            linkend="exampledecidingquickreactionswithobjection"
+            xrefstyle="select: labelnumber"/>, the circle member summarizes
+            the concern in one sentence. The objector-to-be knows he is going
+            to be heard later, so one sentence is enough to give everyone a
+            sense of where this is going. Just saying <emphasis
+            role="from-text">“I will object”</emphasis> without giving any
+            context might be unsettling for a group; but it is also not the
+            right place to say a lot more than a few sentences, so keep it
+            short!</para>
 
             <para>Also notice how the circle just continues with the process
             -- hearing that someone will object does not stop the round. For
@@ -10367,13 +10417,14 @@ based on mutual giving from the heart.</literallayout>
             original proposal and then ask for new proposals that might build
             on the just-approved proposal. If someone is making a
             counter-proposal, we have to be even more alert. (See section
-            <xref linkend="counterproposals"/> on page <xref
-            linkend="counterproposals"/> on counter-proposals.)</para>
+            <xref linkend="counterproposals"
+            xrefstyle="select: labelnumber page"/> on
+            counter-proposals.)</para>
 
-            <para>In example <xref
-            linkend="exampledecidingreviewamendments"/>, things are easy –
-            only a small amendment needs to be considered and the facilitator
-            decides to move to the consent round.</para>
+            <para>In example <xref linkend="exampledecidingreviewamendments"
+            xrefstyle="select: labelnumber"/>, things are easy – only a small
+            amendment needs to be considered and the facilitator decides to
+            move to the consent round.</para>
 
             <figure xml:id="exampledecidingreviewamendments">
               <title>Synthesize reactions</title>
@@ -10452,8 +10503,9 @@ based on mutual giving from the heart.</literallayout>
                     <primary>consent round</primary>
                   </indexterm>.</para>
               </informalfigure>In example <xref
-            linkend="exampledecidingrestateproposal"/>, the facilitator refers
-            to the written version of the proposal and verbally adds an
+            linkend="exampledecidingrestateproposal"
+            xrefstyle="select: labelnumber"/>, the facilitator refers to the
+            written version of the proposal and verbally adds an
             amendment.</para>
 
             <figure xml:id="exampledecidingrestateproposal">
@@ -10491,8 +10543,9 @@ based on mutual giving from the heart.</literallayout>
                 <primary>objection</primary>
               </indexterm>. Consent is binary: one either consents or objects.
             In the consent round, we focus on objections. (See section <xref
-            linkend="consensus"/> on page <xref
-            linkend="consensus"/>.)<informalfigure role="process">
+            linkend="consensus"
+            xrefstyle="select: labelnumber page"/>.)<informalfigure
+                role="process">
                 <para><emphasis role="bold">Intention:</emphasis> Hearing
                 objections to the proposal.</para>
 
@@ -10539,8 +10592,9 @@ based on mutual giving from the heart.</literallayout>
                 <para><emphasis role="bold">Complete when:</emphasis> Everyone
                 has either consented or objected.</para>
               </informalfigure>Example <xref
-            linkend="exampledecidingconsentround"/> shows what a simple
-            consent round without and with an objection sounds like.<indexterm>
+            linkend="exampledecidingconsentround"
+            xrefstyle="select: labelnumber"/> shows what a simple consent
+            round without and with an objection sounds like.<indexterm>
                 <primary>consent round</primary>
 
                 <secondary>example of consent round without an
@@ -10572,13 +10626,15 @@ based on mutual giving from the heart.</literallayout>
             through the objection<indexterm>
                 <primary>objection</primary>
               </indexterm> process (see section <xref
-            linkend="objections-howto"/>).<informalfigure role="process">
+            linkend="objections-howto"
+            xrefstyle="select: labelnumber"/>).<informalfigure role="process">
                 <para><emphasis role="bold">Intention:</emphasis> Assess and
                 acknowledge consent/objections.</para>
 
                 <para><emphasis role="bold">Tools:</emphasis> Acknowledge
                 consent or the objection(s) like in <xref
-                linkend="exampledecidingacknowledgedecision"/>).<itemizedlist>
+                linkend="exampledecidingacknowledgedecision"
+                xrefstyle="select: labelnumber"/>).<itemizedlist>
                     <listitem>
                       <para>It helps to say something like <emphasis
                       role="from-text">“We have consent, thank you
@@ -10673,11 +10729,12 @@ based on mutual giving from the heart.</literallayout>
                 <para><emphasis role="bold">Complete when:</emphasis> Whatever
                 is needed for publication/implementation is prepared.</para>
               </informalfigure>Example <xref
-            linkend="exampleoutputpreparepolicy"/> shows a complete policy
-            that is ready to go into a logbook<indexterm>
+            linkend="exampleoutputpreparepolicy"
+            xrefstyle="select: labelnumber"/> shows a complete policy that is
+            ready to go into a logbook<indexterm>
                 <primary>logbook</primary>
-              </indexterm>, and <xref linkend="completepolicy"/> provides a
-            checklist.</para>
+              </indexterm>, and <xref linkend="completepolicy"
+            xrefstyle="select: labelnumber"/> provides a checklist.</para>
 
             <figure xml:id="exampleoutputpreparepolicy">
               <title>Example of a complete policy</title>
@@ -10750,9 +10807,9 @@ based on mutual giving from the heart.</literallayout>
 
                           <secondary>checklist for policy</secondary>
                         </indexterm>, we want to make sure it is complete. The
-                      checklist in <xref linkend="completepolicy"/> on page
-                      <xref linkend="completepolicy"/> shows the information
-                      we might need.</para>
+                      checklist in <xref linkend="completepolicy"
+                      xrefstyle="select: labelnumber page"/> shows the
+                      information we might need.</para>
                     </listitem>
 
                     <listitem>
@@ -10787,9 +10844,10 @@ based on mutual giving from the heart.</literallayout>
             <primary>measurement-driven process</primary>
           </indexterm>
 
-          <para>The table in <xref linkend="decision-makingtoolsmeasures"/> on
-          page <xref linkend="decision-makingtoolsmeasures"/> gives an
-          overview of a complete process.</para>
+          <para>The table in <xref linkend="decision-makingtoolsmeasures"
+          xrefstyle="select: labelnumber page"/> gives an overview of a
+          complete process.<remark>In the print book, this table is
+          rotated:</remark></para>
 
           <figure xml:id="decision-makingtoolsmeasures">
             <title>Understand–explore–decide with small steps, tools and
@@ -11120,7 +11178,8 @@ based on mutual giving from the heart.</literallayout>
           information.<informalfigure role="process">
               <para><emphasis role="bold">Intention:</emphasis> Synthesizing
               whether there is a need to amend the proposal (see <xref
-              linkend="exampledecidingseekingunderstanding2"/>).</para>
+              linkend="exampledecidingseekingunderstanding2"
+              xrefstyle="select: labelnumber"/>).</para>
 
               <para><emphasis role="bold">Tools:</emphasis> The facilitator
               (or an appointed circle member) synthesizes the objection the
@@ -11214,9 +11273,9 @@ based on mutual giving from the heart.</literallayout>
                   <listitem>
                     <para>Additionally, the facilitator might review the
                     typical strategies for addressing an objection (see
-                    section <xref linkend="optionsforamendments"/>) to give
-                    circle members more ideas and wider view on
-                    options.</para>
+                    section <xref linkend="optionsforamendments"
+                    xrefstyle="select: labelnumber"/>) to give circle members
+                    more ideas and wider view on options.</para>
                   </listitem>
 
                   <listitem>
@@ -11316,10 +11375,8 @@ based on mutual giving from the heart.</literallayout>
           objection. The options for revisions of content are countless and
           specific to your context. This section cannot possibly cover all the
           ways one might be changing proposals. Figure <xref
-          linkend="modifytheproposal"/> on page <xref
-          linkend="modifytheproposal"/><remark> @@TODO@@: Figure out page
-          references.</remark> lists examples of possible
-          modifications.</para>
+          linkend="modifytheproposal" xrefstyle="select: labelnumber page"/>
+          lists examples of possible modifications.</para>
         </section>
 
         <section>
@@ -11331,9 +11388,9 @@ based on mutual giving from the heart.</literallayout>
           shorter time. Oftentimes, this makes it easier for circle members to
           consent. This strategy works best in combination with the next
           strategy, <emphasis role="from-text">measure the concern</emphasis>.
-          (See section <xref linkend="reviewingpolicy"/> on page <xref
-          linkend="reviewingpolicy"/><remark> @@TODO@@: Figure out page
-          references.</remark> on term ends for policy.)</para>
+          (See section <xref linkend="reviewingpolicy"
+          xrefstyle="select: labelnumber page"/> on term ends for
+          policy.)</para>
 
           <para>Shortening the term of a proposal means the policy will be
           revisited sooner. We will then see whether the policy brought
@@ -11424,10 +11481,10 @@ based on mutual giving from the heart.</literallayout>
           registrations, complaints, count clients or sales. Everything that
           cannot be counted can still be surveyed: members, staff, workshop
           participants, hosts, customers. Example <xref
-          linkend="measuretheconcern"/> is an example of a shorter term and a
-          measurement to see whether concerns are borne out. A habitual
-          nay-sayer may consent if we take their concerns seriously and put
-          good measures in place.</para>
+          linkend="measuretheconcern" xrefstyle="select: labelnumber"/> is an
+          example of a shorter term and a measurement to see whether concerns
+          are borne out. A habitual nay-sayer may consent if we take their
+          concerns seriously and put good measures in place.</para>
 
           <figure xml:id="measuretheconcern">
             <title>Measure the concern and shorten the term to address an
@@ -11557,17 +11614,17 @@ based on mutual giving from the heart.</literallayout>
           <title>Understand phase</title>
 
           <para>The policy-generating process, as described in section <xref
-          linkend="decision-making-steps"/>, encourages circles to make sure
-          the need is fully understood before creating policy. The circle
-          might understand the issue and underlying needs well enough and feel
-          confident that a role might be the strategy that would meet their
-          needs most effectively. Often, creating roles is one part of a
-          larger policy context. This is true when a circle approves a general
-          guideline <emphasis role="from-text">and</emphasis> creates a role
-          to track measures for that guideline. For example if an office is
-          deciding to introduce a new tool for customer relationship
-          management, they might also want to create a role to oversee this
-          process.</para>
+          linkend="decision-making-steps" xrefstyle="select: labelnumber"/>,
+          encourages circles to make sure the need is fully understood before
+          creating policy. The circle might understand the issue and
+          underlying needs well enough and feel confident that a role might be
+          the strategy that would meet their needs most effectively. Often,
+          creating roles is one part of a larger policy context. This is true
+          when a circle approves a general guideline <emphasis
+          role="from-text">and</emphasis> creates a role to track measures for
+          that guideline. For example if an office is deciding to introduce a
+          new tool for customer relationship management, they might also want
+          to create a role to oversee this process.</para>
         </section>
 
         <section>
@@ -11676,7 +11733,8 @@ based on mutual giving from the heart.</literallayout>
             <para>The circle leader, facilitator or any circle member can be
             delegated to synthesize the ideas into a proposal that will then
             go to the circle for consent in the usual way (see consent process
-            in section <xref linkend="consentprocess"/>).</para>
+            in section <xref linkend="consentprocess"
+            xrefstyle="select: labelnumber"/>).</para>
           </section>
         </section>
       </section>
@@ -11723,15 +11781,14 @@ based on mutual giving from the heart.</literallayout>
         feedback so we can form a proposal. (3) Lastly, we decide about the
         proposal. In cases where there are objections, we deal with the
         objections until everyone can consent to the proposal. Figure <xref
-        linkend="selectionprocess"/> is a summary.</para>
+        linkend="selectionprocess" xrefstyle="select: labelnumber"/> is a
+        summary.</para>
 
         <para>Readers who want to understand the steps of a selection process
-        more deeply are referred to matrix <xref
-        linkend="selectionprocess3x3"/> and <xref
-        linkend="selectionprocess3x3withskit"/> on pages <xref
-        linkend="selectionprocess3x3withskit"/> and <xref
-        linkend="selectionprocess3x3"/><remark> @@TODO@@: Figure out page
-        references.</remark>.</para>
+        more deeply are referred to matrix <xref linkend="selectionprocess3x3"
+        xrefstyle="select: labelnumber page"/> and <xref
+        linkend="selectionprocess3x3withskit"
+        xrefstyle="select: labelnumber page"/>.</para>
 
         <figure xml:id="selectionprocess">
           <title>All steps of a selection process</title>
@@ -11950,7 +12007,8 @@ based on mutual giving from the heart.</literallayout>
                 when:</emphasis> No one has another idea to contribute.</para>
               </informalfigure></para>
 
-            <para>Figure <xref linkend="qualifications"/><indexterm>
+            <para>Figure <xref linkend="qualifications"
+            xrefstyle="select: labelnumber"/><indexterm>
                 <primary>qualification</primary>
 
                 <secondary>for roles (examples)</secondary>
@@ -12002,16 +12060,16 @@ based on mutual giving from the heart.</literallayout>
             there is an objection, we explore it and see if we can find a set
             of qualifications everyone can consent to.</para>
 
-            <para>For example, in figure <xref linkend="qualifications"/>, the
-            item “long-standing member” for the delegate is not necessarily a
-            qualification everyone will consent to. Someone might have
-            suggested it, it gets written on the list, but we still need to
-            see whether everyone can consent to that. <emphasis
-            role="from-text">“Why do you want someone who is a long-standing
-            member as a delegate?”</emphasis> Accordingly, we might decide
-            that we want a facilitator with only little experience on the job
-            because in that phase of the organization, we might want to put
-            our attention to spreading <indexterm>
+            <para>For example, in figure <xref linkend="qualifications"
+            xrefstyle="select: labelnumber"/>, the item “long-standing member”
+            for the delegate is not necessarily a qualification everyone will
+            consent to. Someone might have suggested it, it gets written on
+            the list, but we still need to see whether everyone can consent to
+            that. <emphasis role="from-text">“Why do you want someone who is a
+            long-standing member as a delegate?”</emphasis> Accordingly, we
+            might decide that we want a facilitator with only little
+            experience on the job because in that phase of the organization,
+            we might want to put our attention to spreading <indexterm>
                 <primary>leadership</primary>
               </indexterm>leadership and we are confident we can work with an
             inexperienced facilitator. As another example, in training
@@ -12141,7 +12199,8 @@ based on mutual giving from the heart.</literallayout>
             <para>Some facilitators like to collect the nomination sheets so
             they can track better who nominated whom. We prefer a grid to get
             a picture of everyone’s nomination(s), as in <xref
-            linkend="nominationgrid0"/>.</para>
+            linkend="nominationgrid0"
+            xrefstyle="select: labelnumber"/>.</para>
 
             <figure xml:id="nominationgrid0">
               <title>Grid for nomination round and change round</title>
@@ -12529,9 +12588,9 @@ based on mutual giving from the heart.</literallayout>
 
                     <listitem>
                       <para>If there are objections, we aim to integrate them
-                      (see section <xref linkend="objectionsselections"/> on
-                      page <xref linkend="objectionsselections"/> on
-                      objections in selections).</para>
+                      (see section <xref linkend="objectionsselections"
+                      xrefstyle="select: labelnumber page"/> on objections in
+                      selections).</para>
                     </listitem>
                   </itemizedlist><emphasis role="bold">Complete
                 when:</emphasis> The circle knows whether there is
@@ -12578,8 +12637,8 @@ based on mutual giving from the heart.</literallayout>
                   </indexterm>.</para>
               </informalfigure>There is a complete example of this selection
             process in the appendix on page <xref
-            linkend="selectionprocess3x3"/><remark> @@TODO@@: Figure out page
-            references.</remark>.</para>
+            linkend="selectionprocess3x3"
+            xrefstyle="select: pagenumber"/>.</para>
           </section>
         </section>
       </section>
@@ -12617,10 +12676,10 @@ based on mutual giving from the heart.</literallayout>
           role="from-text">“I nominate XZY for…because…, and …for delegate
           because…”</emphasis> and so on.</para>
 
-          <para>The grid in diagram <xref linkend="complexselection"/> shows
-          how we draw the grid for a multiple simultaneous selection process,
-          in this case for facilitator, secretary and delegate. The change
-          round<indexterm>
+          <para>The grid in diagram <xref linkend="complexselection"
+          xrefstyle="select: labelnumber"/> shows how we draw the grid for a
+          multiple simultaneous selection process, in this case for
+          facilitator, secretary and delegate. The change round<indexterm>
               <primary>change round</primary>
             </indexterm><indexterm>
               <primary>round</primary>
@@ -12900,7 +12959,8 @@ based on mutual giving from the heart.</literallayout>
           for example, selecting Victor as a facilitator potentially harm the
           circle’s work/learning? If so, then we object. If not, then we
           consent. (On the emotional challenge of objecting to someone, see
-          section <xref linkend="emotionalchallenges"/>.)</para>
+          section <xref linkend="emotionalchallenges"
+          xrefstyle="select: labelnumber"/>.)</para>
 
           <para><emphasis role="from-text">Never</emphasis> object based on a
           personal preference<indexterm>
@@ -13101,8 +13161,8 @@ based on mutual giving from the heart.</literallayout>
           <para>If we elect an individual into a role by majority vote, then
           the person with the most votes wins. In general, the issue with
           majority vote is that in its outcome, up to 49% of the votes are
-          being ignored. In diagram <xref linkend="votingvsconsent"/> we show
-          how a consent<indexterm>
+          being ignored. In diagram <xref linkend="votingvsconsent"
+          xrefstyle="select: labelnumber"/> we show how a consent<indexterm>
               <primary>consent</primary>
 
               <secondary>consent vs. majority vote</secondary>
@@ -13182,9 +13242,9 @@ based on mutual giving from the heart.</literallayout>
             </mediaobject>
           </figure>
 
-          <para>In scenario 1 in diagram <xref linkend="votingvsconsenttie"/>,
-          proposing candidate A will get us consent while proposing candidate
-          B will bring objections.</para>
+          <para>In scenario 1 in diagram <xref linkend="votingvsconsenttie"
+          xrefstyle="select: labelnumber"/>, proposing candidate A will get us
+          consent while proposing candidate B will bring objections.</para>
 
           <para>The facilitator’s<indexterm>
               <primary>facilitator</primary>
@@ -13435,7 +13495,8 @@ based on mutual giving from the heart.</literallayout>
             </indexterm> framework as a backdrop. If the emotional challenges
           around any governance decision are hard for your group, we strongly
           recommend educating your group on communication skills. See more on
-          this topic in section <xref linkend="feedback"/>.</para>
+          this topic in chapter <xref linkend="feedback"
+          xrefstyle="select: labelnumber"/>.</para>
 
           <para>In general, we encourage groups to accept and acknowledge that
           feelings come up when we make decisions together. Better to be open
@@ -13585,15 +13646,15 @@ based on mutual giving from the heart.</literallayout>
         member might bring out our need for harmony to a higher
         priority.</para>
 
-        <para>In diagram <xref linkend="feelingsneeds"/>, we can imagine the
-        same individual in different situations. Cooperation is a need that
-        tends to rise for that person, but it can be trumped by other needs,
-        depending on what is going on. On the other hand, if we imagine the
-        same diagram showing the same situation for different individuals, it
-        shows how the same situation can bring up different needs for
-        different people. The point is that needs are at the same time
-        universal – everyone has them – and highly personal and
-        situational.</para>
+        <para>In diagram <xref linkend="feelingsneeds"
+        xrefstyle="select: labelnumber"/>, we can imagine the same individual
+        in different situations. Cooperation is a need that tends to rise for
+        that person, but it can be trumped by other needs, depending on what
+        is going on. On the other hand, if we imagine the same diagram showing
+        the same situation for different individuals, it shows how the same
+        situation can bring up different needs for different people. The point
+        is that needs are at the same time universal – everyone has them – and
+        highly personal and situational.</para>
 
         <figure xml:id="feelingsneeds">
           <title>Different needs take priority in different moments</title>
@@ -13605,15 +13666,17 @@ based on mutual giving from the heart.</literallayout>
           </mediaobject>
         </figure>
 
-        <para>Table <xref linkend="needslist"/> shows a list of the most
-        common needs.</para>
+        <para>Table <xref linkend="needslist"
+        xrefstyle="select: labelnumber"/> shows a list of the most common
+        needs.</para>
 
         <figure xml:id="needslist">
           <title>A partial list of universal needs. The list is also on the
           meeting sheet for facilitators in the appendix on page <xref
-          linkend="meetingsheet"/> and we are providing a list including
-          feelings in the appendix on page <xref
-          linkend="feelingsneedslist"/>.</title>
+          linkend="meetingsheet" xrefstyle="select: pagenumber"/> and we are
+          providing a list including feelings in the appendix on page <xref
+          linkend="feelingsneedslist"
+          xrefstyle="select: pagenumber"/>.</title>
 
           <mediaobject>
             <imageobject>
@@ -13716,18 +13779,19 @@ based on mutual giving from the heart.</literallayout>
             <secondary>connection</secondary>
           </indexterm> was what we were longing for, we will probably feel
         happy or excited. There is a list of feelings in the appendix together
-        with the needs list on page <xref
-        linkend="feelingsneedslist"/>.</para>
+        with the needs list on page <xref linkend="feelingsneedslist"
+        xrefstyle="select: pagenumber"/>.</para>
 
         <para>Feelings are caused by met or unmet needs, not by situations.
         That means that no one and nothing can directly cause your feelings.
         <emphasis role="from-text">“You made me angry”</emphasis> is not an
         accurate description of what is going on. Let’s look at the figure in
-        <xref linkend="feelingsneedsmessages"/>. Something happens and we
-        react to what we <emphasis role="from-text">hear</emphasis>, not to
-        what has been said or done. We see and hear everything through a layer
-        of interpretation. But for this chapter, it is even more important to
-        see the next step, what happens <emphasis
+        <xref linkend="feelingsneedsmessages"
+        xrefstyle="select: labelnumber"/>. Something happens and we react to
+        what we <emphasis role="from-text">hear</emphasis>, not to what has
+        been said or done. We see and hear everything through a layer of
+        interpretation. But for this chapter, it is even more important to see
+        the next step, what happens <emphasis
         role="from-text">after</emphasis> we receive (and interpret) a
         message. Consciously, or unconsciously, we evaluate. How does what
         happened to contribute to my needs being met or not met? It is the
@@ -13895,9 +13959,10 @@ based on mutual giving from the heart.</literallayout>
           </mediaobject>
         </figure>
 
-        <para>In example <xref linkend="textcall"/>, notice how both people
-        are able to share their experience without labeling the other person
-        or even talking about the other person. Once that first step of mutual
+        <para>In example <xref linkend="textcall"
+        xrefstyle="select: labelnumber"/>, notice how both people are able to
+        share their experience without labeling the other person or even
+        talking about the other person. Once that first step of mutual
         understanding is complete, the path is open to a shared decision. With
         everyone’s needs on the table, a strategy may be found that works for
         everyone. Maybe arrange a time to talk on the phone? Leaving the
@@ -14053,16 +14118,17 @@ based on mutual giving from the heart.</literallayout>
         making requests of each other that could improve communication and
         connection going forward.</para>
 
-        <para>Box <xref linkend="feedbackform2"/> is an example of a feedback
-        form that was used in an organization (slightly changed for privacy).
-        Every organization can agree on additional ways to give (and receive)
+        <para>Box <xref linkend="feedbackform2"
+        xrefstyle="select: labelnumber"/> is an example of a feedback form
+        that was used in an organization (slightly changed for privacy). Every
+        organization can agree on additional ways to give (and receive)
         feedback. If using a feedback form is already an agreed-upon strategy
         in an organization, it will be easier to do it when we want to
         actually do it.</para>
 
         <figure xml:id="feedbackform2">
-          <title>A feedback form. See page <xref linkend="feedbackformsheet"/>
-          for a template</title>
+          <title>A feedback form. See page <xref linkend="feedbackformsheet"
+          xrefstyle="select: pagenumber"/> for a template</title>
 
           <mediaobject>
             <imageobject>
@@ -14077,14 +14143,14 @@ based on mutual giving from the heart.</literallayout>
           <secondary>feedback form</secondary>
         </indexterm>
 
-        <para>In the appendix on page <xref linkend="feedbackformsheet"/> is
-        an example of what a practice sheet and feedback form could look like.
-        Any organization might want to design their own. It is a good idea to
-        put the pointers about what to keep in mind for filling out a feedback
-        form right on the form. Remember that everyone who fills out a
-        feedback form will be in a triggered state in some way, so making it
-        as easy as possible for them to act in an effective, constructive
-        manner is key here.</para>
+        <para>In the appendix on page <xref linkend="feedbackformsheet"
+        xrefstyle="select: pagenumber"/> is an example of what a practice
+        sheet and feedback form could look like. Any organization might want
+        to design their own. It is a good idea to put the pointers about what
+        to keep in mind for filling out a feedback form right on the form.
+        Remember that everyone who fills out a feedback form will be in a
+        triggered state in some way, so making it as easy as possible for them
+        to act in an effective, constructive manner is key here.</para>
 
         <para>Even if the person is not ready to receive your
         feedback<indexterm>
@@ -14257,7 +14323,8 @@ based on mutual giving from the heart.</literallayout>
         <para>If the strategy someone is proposing does not work for everyone,
         this is the basis for objections. Instead of calmly stating an
         objection, it may happen that someone gets upset. Imagine a proposal
-        like in example <xref linkend="textmembership"/>.</para>
+        like in example <xref linkend="textmembership"
+        xrefstyle="select: labelnumber"/>.</para>
 
         <figure xml:id="textmembership">
           <title>A proposal and a reaction</title>
@@ -14292,9 +14359,10 @@ based on mutual giving from the heart.</literallayout>
         so they can be considered.</para>
 
         <para>What is the difference between example <xref
-        linkend="textmembership"/> and <xref linkend="textmembership2"/>? In
-        the first example, there is no inner distance from the feelings. They
-        are interpreted as absolute truth, not as data to work with. The
+        linkend="textmembership" xrefstyle="select: labelnumber"/> and <xref
+        linkend="textmembership2" xrefstyle="select: labelnumber"/>? In the
+        first example, there is no inner distance from the feelings. They are
+        interpreted as absolute truth, not as data to work with. The
         opportunity to use the feelings as an indicator of a need gets
         concealed, and we have to restore trust and respect in the group.
         Since restoring trust and respect takes time, we have lost time and
@@ -14323,7 +14391,8 @@ based on mutual giving from the heart.</literallayout>
         has a high long-term cost.</para>
 
         <para>We may not get input from circle members that is as clear as in
-        example <xref linkend="textmembership2"/>. But we can work together to
+        example <xref linkend="textmembership2"
+        xrefstyle="select: labelnumber"/>. But we can work together to
         complete the picture. A skillful group will be able to deal with
         <emphasis role="from-text">“something here leaves me anxious but I
         can’t put my finger on it”</emphasis> and will guess the underlying
@@ -14370,7 +14439,7 @@ based on mutual giving from the heart.</literallayout>
         the evolution: we make a plan, we carry it out, and we evaluate what
         we can learn. Steering falls into countless loops of <emphasis
         role="from-text">lead – do – measure</emphasis>. A few examples are in
-        <xref linkend="LDMexamples"/>.</para>
+        <xref linkend="LDMexamples" xrefstyle="select: labelnumber"/>.</para>
 
         <figure xml:id="LDMexamples">
           <title>Examples for feedback loops</title>
@@ -14403,13 +14472,14 @@ based on mutual giving from the heart.</literallayout>
         role="from-text">doing</emphasis>. We can often get ourselves to
         <emphasis role="from-text">lead/plan</emphasis> – but taking the time
         to evaluate is done too seldom. The diagram in <xref
-        linkend="reviewlayers"/> shows how <emphasis role="from-text">lead –
-        do – measure</emphasis> happens on very different scales but its
-        nature is always the same. Sociocracy creates habits around giving
-        feedback, which we fledge out as milestones in this book – intentional
-        stops to make sure we have shared reality. We showed how in
-        policy-making, a group can move swiftly from one phase to the next if
-        we measure whether a phase or step is completed.</para>
+        linkend="reviewlayers" xrefstyle="select: labelnumber"/> shows how
+        <emphasis role="from-text">lead – do – measure</emphasis> happens on
+        very different scales but its nature is always the same. Sociocracy
+        creates habits around giving feedback, which we fledge out as
+        milestones in this book – intentional stops to make sure we have
+        shared reality. We showed how in policy-making, a group can move
+        swiftly from one phase to the next if we measure whether a phase or
+        step is completed.</para>
 
         <figure xml:id="reviewlayers">
           <title><emphasis role="from-text">Lead – do – measure
@@ -14623,7 +14693,8 @@ based on mutual giving from the heart.</literallayout>
 
             <listitem>
               <para>They can ask another circle for input (see diagram in
-              <xref linkend="supportsystem"/>).<itemizedlist>
+              <xref linkend="supportsystem"
+              xrefstyle="select: labelnumber"/>).<itemizedlist>
                   <listitem>
                     <para>A sibling circle, for example if the topic is close
                     or touches the other circle’s. <indexterm>
@@ -14697,7 +14768,8 @@ based on mutual giving from the heart.</literallayout>
 
         <para>During the policy process, there are good moments to include
         voices from outside of the circle. Diagram <xref
-        linkend="gettinginputfromoutside"/> shows the policy process.</para>
+        linkend="gettinginputfromoutside" xrefstyle="select: labelnumber"/>
+        shows the policy process.</para>
 
         <figure xml:id="gettinginputfromoutside">
           <title>Moments to gather input from outside the circle during the
@@ -14784,8 +14856,9 @@ based on mutual giving from the heart.</literallayout>
         inputs and outputs. If the policy is more in the realm of “code of
         conduct”, we can count complaints, survey happiness and so on. We have
         already talked about metrics in section <xref
-        linkend="objections-howto"/> on <emphasis role="from-text">measure the
-        concern</emphasis> around objections.</para>
+        linkend="objections-howto" xrefstyle="select: labelnumber"/> on
+        <emphasis role="from-text">measure the concern</emphasis> around
+        objections.</para>
 
         <section>
           <title>Feedback while the policy is in place</title>
@@ -14795,7 +14868,8 @@ based on mutual giving from the heart.</literallayout>
           </indexterm>
 
           <para>Become intentional about metrics and make a measurement plan.
-          (See also page <xref linkend="measurementplan"/>.)<itemizedlist>
+          (See also page <xref linkend="measurementplan"
+          xrefstyle="select: pagenumber"/>.)<itemizedlist>
               <listitem>
                 <para>We think about what metrics we want to measure (and if
                 necessary, we start collecting the data). We collect the data
@@ -14923,10 +14997,11 @@ based on mutual giving from the heart.</literallayout>
                 of the consent process<indexterm>
                     <primary>consent process</primary>
                   </indexterm> (present the proposal, clarifying questions
-                etc., see <xref linkend="consentprocess"/>) and work your way
-                toward consenting to a new term, possibly with modifications.
-                If there are many objections and comments and things seem to
-                be getting more complicated with every turn, it’s good to back
+                etc., see <xref linkend="consentprocess"
+                xrefstyle="select: labelnumber"/>) and work your way toward
+                consenting to a new term, possibly with modifications. If
+                there are many objections and comments and things seem to be
+                getting more complicated with every turn, it’s good to back
                 off and either delegate the review process to a helping
                 circle<indexterm>
                     <primary>helping circle</primary>
@@ -14956,7 +15031,8 @@ based on mutual giving from the heart.</literallayout>
                 new approach, given the new information and more experience
                 gained, or we might just make tweaks to the existing policy. A
                 3x3 chart of this is shown in chart <xref
-                linkend="reviewprocess3x3"/> in the appendix.</para>
+                linkend="reviewprocess3x3" xrefstyle="select: labelnumber"/>
+                in the appendix.</para>
               </listitem>
             </itemizedlist></para>
 
@@ -14964,7 +15040,8 @@ based on mutual giving from the heart.</literallayout>
           current policy, exploring possible amendments<indexterm>
               <primary>amendment</primary>
             </indexterm> and consenting to the modified policy, as shown in
-          diagram <xref linkend="reviewsteps"/>.</para>
+          diagram <xref linkend="reviewsteps"
+          xrefstyle="select: labelnumber"/>.</para>
 
           <figure xml:id="reviewsteps">
             <title><emphasis role="from-text">Understand - explore
@@ -14984,8 +15061,8 @@ based on mutual giving from the heart.</literallayout>
           a direction: <emphasis role="from-text">“How could we
           amend/change/test the policy to be sure your need can be
           met?”</emphasis> Here are a few examples, similar to the ones
-          already mentioned in section <xref linkend="objections-howto"/> on
-          objections<itemizedlist>
+          already mentioned in section <xref linkend="objections-howto"
+          xrefstyle="select: labelnumber"/> on objections<itemizedlist>
               <listitem>
                 <para><emphasis role="from-text">“I am concerned that if we
                 form another sub-circle, we might be stretched too thin. I am
@@ -15290,8 +15367,8 @@ based on mutual giving from the heart.</literallayout>
         pattern. We can break the process into the usual <emphasis
         role="from-text">understand–explore–decide</emphasis> (<emphasis
         role="from-text">input–transformation–output</emphasis> for decision
-        making) as shown in example <xref
-        linkend="performancereview"/>.</para>
+        making) as shown in example <xref linkend="performancereview"
+        xrefstyle="select: labelnumber"/>.</para>
 
         <figure xml:id="performancereview">
           <title>A default format of a performance review if a whole meeting
@@ -15305,9 +15382,9 @@ based on mutual giving from the heart.</literallayout>
         </figure>
 
         <para>We will see that in the meeting sheet for facilitators in the
-        appendix on page <xref linkend="meetingsheet"/>, there is a more
-        general format that can be done as an agenda item within a
-        meeting.</para>
+        appendix on page <xref linkend="meetingsheet"
+        xrefstyle="select: pagenumber"/>, there is a more general format that
+        can be done as an agenda item within a meeting.</para>
 
         <section>
           <title>Understand</title>
@@ -15834,8 +15911,9 @@ based on mutual giving from the heart.</literallayout>
     behind every phase of a meeting, what the appropriate tools are and how to
     measure completion of the phase.</para>
 
-    <para>Figure <xref linkend="meetingtemplate2"/> shows a schematic diagram
-    of a typical meeting. It will boost the effectiveness<indexterm>
+    <para>Figure <xref linkend="meetingtemplate2"
+    xrefstyle="select: labelnumber"/> shows a schematic diagram of a typical
+    meeting. It will boost the effectiveness<indexterm>
         <primary>effectiveness</primary>
 
         <secondary>of meetings</secondary>
@@ -15844,10 +15922,11 @@ based on mutual giving from the heart.</literallayout>
     follow for everyone, increasing every circle member’s sense of empowerment
     and trust.</para>
 
-    <para>Making the meeting sheet in <xref linkend="meetingsheet"/> in the
-    appendix visible to everyone in the circle, is a good way of achieving a
-    shared understanding of the process. (See also downloadable sheets on the
-    book page <uri>www.manyvoicesonesong.com</uri>.)</para>
+    <para>Making the meeting sheet in <xref linkend="meetingsheet"
+    xrefstyle="select: labelnumber"/> in the appendix visible to everyone in
+    the circle, is a good way of achieving a shared understanding of the
+    process. (See also downloadable sheets on the book page
+    <uri>www.manyvoicesonesong.com</uri>.)</para>
 
     <figure xml:id="meetingtemplate2">
       <title>A basic meeting template with example agenda items</title>
@@ -16068,8 +16147,9 @@ based on mutual giving from the heart.</literallayout>
               are accounted for.</para>
             </informalfigure></para>
 
-          <para>Example <xref linkend="exampleattendance"/> shows a tiny but
-          useful tweak that makes this step much easier in the minutes.</para>
+          <para>Example <xref linkend="exampleattendance"
+          xrefstyle="select: labelnumber"/> shows a tiny but useful tweak that
+          makes this step much easier in the minutes.</para>
 
           <figure xml:id="exampleattendance">
             <title>Example of taking attendance in the meeting notes. Make an
@@ -16133,10 +16213,10 @@ based on mutual giving from the heart.</literallayout>
           forward when we have agreement on the status quo.</para>
 
           <para>Consent to minutes can be given between meetings – see section
-          <xref linkend="meetingminutes"/> on page <xref
-          linkend="meetingminutes"/>. Within ADMIN, we only acknowledge
-          whether or not consent has been given and whether extra action needs
-          to be taken during the meeting.</para>
+          <xref linkend="meetingminutes"
+          xrefstyle="select: labelnumber page"/>. Within ADMIN, we only
+          acknowledge whether or not consent has been given and whether extra
+          action needs to be taken during the meeting.</para>
 
           <para><informalfigure role="process">
               <para><emphasis role="bold">Intention:</emphasis> Acknowledging
@@ -16256,8 +16336,9 @@ based on mutual giving from the heart.</literallayout>
           it. The confusion and straightening out we have to do if we miss
           these simple steps will cost us much more time in the long run. That
           said, this phase does not have to take long. It could just sound
-          like in example <xref linkend="exampleALERT"/>. The acronym (ADMIN)
-          helps us be consistent, even with no meeting sheet present.</para>
+          like in example <xref linkend="exampleALERT"
+          xrefstyle="select: labelnumber"/>. The acronym (ADMIN) helps us be
+          consistent, even with no meeting sheet present.</para>
 
           <figure xml:id="exampleALERT">
             <title>Briefly going through all the steps of the ADMIN
@@ -16318,8 +16399,8 @@ based on mutual giving from the heart.</literallayout>
         <para>The decision of what we are going to talk about in a meeting is
         significant. The agenda proposal may have been prepared by someone in
         the circle, for example the facilitator (see section <xref
-        linkend="meeting-documents"/>), or it might be created in the
-        moment.</para>
+        linkend="meeting-documents" xrefstyle="select: labelnumber"/>), or it
+        might be created in the moment.</para>
 
         <para>Before we start talking about agenda items, we consent to the
         agenda.<indexterm>
@@ -16352,9 +16433,10 @@ based on mutual giving from the heart.</literallayout>
         for each agenda item and identifies what the desired outcome<indexterm>
             <primary>desired outcome</primary>
           </indexterm> is (understanding, exploration, decision – see section
-        <xref linkend="contentblock"/> below). A checklist for complete
-        agendas is given in figure <xref
-        linkend="agendachecklist"/>.<informalfigure role="process">
+        <xref linkend="contentblock" xrefstyle="select: labelnumber"/> below).
+        A checklist for complete agendas is given in figure <xref
+        linkend="agendachecklist"
+        xrefstyle="select: labelnumber"/>.<informalfigure role="process">
             <para><emphasis role="bold">Intention:</emphasis> Deciding what
             will be talked about in the meeting, and how much time will be
             allotted to each agenda item.</para>
@@ -16411,9 +16493,9 @@ based on mutual giving from the heart.</literallayout>
         about that topic, is absent. We might decide to postpone an agenda
         item because we do not have enough information or because we are
         prioritizing other agenda items. The example in <xref
-        linkend="Consenttoagenda"/> shows that this does not have to be a
-        complicated process and that it benefits from all minds put
-        together.</para>
+        linkend="Consenttoagenda" xrefstyle="select: labelnumber"/> shows that
+        this does not have to be a complicated process and that it benefits
+        from all minds put together.</para>
 
         <figure xml:id="Consenttoagenda">
           <title>Consenting to the agenda</title>
@@ -16460,18 +16542,19 @@ based on mutual giving from the heart.</literallayout>
         </indexterm>
 
         <para>For every agenda item, there are exactly three possible outcomes
-        as shown in figure <xref linkend="buildingblocks"/> on page <xref
-        linkend="buildingblocks"/>: <emphasis role="from-text">understanding a
-        report, exploring an issue</emphasis> or <emphasis
-        role="from-text">making a decision</emphasis>. That means that any
-        agenda item will be one of those three, and it’s best if a group is
-        able to name which one it is before talking about the agenda
+        as shown in figure <xref linkend="buildingblocks"
+        xrefstyle="select: labelnumber page"/>: <emphasis
+        role="from-text">understanding a report, exploring an issue</emphasis>
+        or <emphasis role="from-text">making a decision</emphasis>. That means
+        that any agenda item will be one of those three, and it’s best if a
+        group is able to name which one it is before talking about the agenda
         item.</para>
 
-        <para>As one can see in diagram <xref linkend="buildingblocks"/>, the
-        desired outcomes build on each other. Every agenda item starts with
-        <emphasis role="from-text">understanding</emphasis>, and for a report
-        that is all we do. If the desired outcome is to ask for feedback, the
+        <para>As one can see in diagram <xref linkend="buildingblocks"
+        xrefstyle="select: labelnumber"/>, the desired outcomes build on each
+        other. Every agenda item starts with <emphasis
+        role="from-text">understanding</emphasis>, and for a report that is
+        all we do. If the desired outcome is to ask for feedback, the
         <emphasis role="from-text">understanding</emphasis> phase is followed
         by a phase of exploration. If we are aiming to make a decision, we go
         through <emphasis role="from-text">understand</emphasis> and <emphasis
@@ -16521,9 +16604,10 @@ based on mutual giving from the heart.</literallayout>
         desired outcome<indexterm>
             <primary>desired outcome</primary>
           </indexterm>. The most important ones are mentioned in figure <xref
-        linkend="buildingblocks"/>. These steps align with the different kinds
-        of rounds we use but there is no 1:1 match – there are different ways
-        to hold these agenda items.</para>
+        linkend="buildingblocks" xrefstyle="select: labelnumber"/>. These
+        steps align with the different kinds of rounds we use but there is no
+        1:1 match – there are different ways to hold these agenda
+        items.</para>
 
         <para>Extra clarity can be gained if, for every agenda item, we end by
         measuring whether we have achieved the desired outcome. Facilitators
@@ -16739,8 +16823,8 @@ based on mutual giving from the heart.</literallayout>
         operational, case-by-case decisions and what to make policy on. There
         can be agreements on doing operational-only meetings, but most policy
         meetings will contain some talking about operations. (See more on
-        operational meetings in section <xref linkend="operationalmeetings"/>
-        on page <xref linkend="operationalmeetings"/>.)</para>
+        operational meetings in section <xref linkend="operationalmeetings"
+        xrefstyle="select: labelnumber page"/>.)</para>
 
         <para>That said, the first agenda item of a meeting might be
         finalizing policy around topic A and assigning tasks. The second
@@ -16750,7 +16834,8 @@ based on mutual giving from the heart.</literallayout>
         a review of a policy.</para>
 
         <para>An operational agenda item can be very brief (see Example <xref
-        linkend="exampleoperationalagendaitem"/>).</para>
+        linkend="exampleoperationalagendaitem"
+        xrefstyle="select: labelnumber"/>).</para>
 
         <figure xml:id="exampleoperationalagendaitem">
           <title>Example of an operational agenda item within a circle
@@ -16767,12 +16852,12 @@ based on mutual giving from the heart.</literallayout>
         <para>If a discussion about an operational tasks triggers the need for
         more talking and maybe policy (you can tell by the fact that there is
         a discussion flaring up, see Ex. <xref
-        linkend="examplepolicyflaringup"/>), remain intentional in your
-        process. Many decisions can be made as a one-time decision. If it
-        seems worthwhile to make a guideline for operations (i.e. policy),
-        decide together (by consent) whether to modify your meeting agenda to
-        fit in a policy decision or whether to put the policy decision on the
-        backlog.</para>
+        linkend="examplepolicyflaringup" xrefstyle="select: labelnumber"/>),
+        remain intentional in your process. Many decisions can be made as a
+        one-time decision. If it seems worthwhile to make a guideline for
+        operations (i.e. policy), decide together (by consent) whether to
+        modify your meeting agenda to fit in a policy decision or whether to
+        put the policy decision on the backlog.</para>
 
         <para>For example, the circle could create a role for a publicity
         manager that would take all the kinds of action steps discussed.
@@ -16797,14 +16882,16 @@ based on mutual giving from the heart.</literallayout>
         </figure>
 
         <para>Remember that a typical policy decision-making process (as
-        described in section <xref linkend="decision-making-steps"/>) goes
-        through different phases: (1) understanding the issue, (2) generating
-        a proposal, (3) making a decision. How a group spreads out those
-        phases into meetings is entirely up to the circle. One can go through
-        all the decision-making steps in one meeting, or spread them out over
-        several meetings. Then we see what happens as we implement the policy.
-        Once we review it we make changes if needed, following the same
-        consent process (see figure <xref linkend="reviewpolicy1"/>).</para>
+        described in section <xref linkend="decision-making-steps"
+        xrefstyle="select: labelnumber"/>) goes through different phases: (1)
+        understanding the issue, (2) generating a proposal, (3) making a
+        decision. How a group spreads out those phases into meetings is
+        entirely up to the circle. One can go through all the decision-making
+        steps in one meeting, or spread them out over several meetings. Then
+        we see what happens as we implement the policy. Once we review it we
+        make changes if needed, following the same consent process (see figure
+        <xref linkend="reviewpolicy1"
+        xrefstyle="select: labelnumber"/>).</para>
 
         <para>All policy decisions<indexterm>
             <primary>policy</primary>
@@ -16839,10 +16926,11 @@ based on mutual giving from the heart.</literallayout>
             <primary>backlog</primary>
           </indexterm> is a list of topics that require reports, explorations
         or decisions to gain the clarity needed to do good work. (More
-        information in section <xref linkend="sectionbacklog"/>.) At the
-        <emphasis role="from-text">begining</emphasis> of the content phase of
-        a meeting, decided what to address. We might generate new backlog
-        items, postponed items or completed topics. Now, at the <emphasis
+        information in section <xref linkend="sectionbacklog"
+        xrefstyle="select: labelnumber"/>.) At the <emphasis
+        role="from-text">beginning</emphasis> of the content phase of a
+        meeting, decided what to address. We might generate new backlog items,
+        postponed items or completed topics. Now, at the <emphasis
         role="from-text">end</emphasis> of the content block, we assess where
         we are at. What remains to be done? Within a few minutes, we note this
         down in the backlog while it is fresh on our mind.</para>
@@ -16901,8 +16989,8 @@ based on mutual giving from the heart.</literallayout>
               </indexterm></para>
           </informalfigure>The backlog is vital data to use for the planning
         of the next agenda. Think of your updated backlog as the hand-off from
-        one meeting to the other. (See section <xref
-        linkend="sectionbacklog"/>.)</para>
+        one meeting to the other. (See section <xref linkend="sectionbacklog"
+        xrefstyle="select: labelnumber"/>.)</para>
 
         <figure xml:id="examplemeasurecontens">
           <title>Measuring the content phase of the meeting</title>
@@ -16948,10 +17036,11 @@ based on mutual giving from the heart.</literallayout>
       our meetings. We can either talk about content, process, or
       interpersonal dynamics.</para>
 
-      <para>The diagram in <xref linkend="meetingevaluation"/> illustrates
-      what people can touch on during the evaluation round. The intention is
-      not to cover <emphasis role="from-text">all</emphasis> those areas but
-      to show the variety of topics to evaluate.</para>
+      <para>The diagram in <xref linkend="meetingevaluation"
+      xrefstyle="select: labelnumber"/> illustrates what people can touch on
+      during the evaluation round. The intention is not to cover <emphasis
+      role="from-text">all</emphasis> those areas but to show the variety of
+      topics to evaluate.</para>
 
       <para>If we want to address something interpersonal, remember that
       effective feedback<indexterm>
@@ -16964,8 +17053,8 @@ based on mutual giving from the heart.</literallayout>
       There are many ways to address behavior, but the meeting evaluation can
       be the first and easiest one. More examples of things to say during
       meeting evaluations can be found in section <xref
-      linkend="feedback-on-meetings"/> on page <xref
-      linkend="feedback-on-meetings"/>.</para>
+      linkend="feedback-on-meetings"
+      xrefstyle="select: labelnumber page"/>.</para>
 
       <para>If something needs attention, the circle will set some time aside
       in a <emphasis role="from-text">future</emphasis> meeting to address it;
@@ -17078,10 +17167,10 @@ based on mutual giving from the heart.</literallayout>
         file, or on a whiteboard or on a digital or physical board.</para>
 
         <para>Between meetings, new ideas for agenda items can be put on the
-        backlog so they can be remembered and tracked. <xref
-        linkend="backlog"/> is an example of a backlog. Use whatever sorting
-        supports the group in addressing topics effectively without creating a
-        lot of need for maintenance.</para>
+        backlog so they can be remembered and tracked. <xref linkend="backlog"
+        xrefstyle="select: labelnumber"/> is an example of a backlog. Use
+        whatever sorting supports the group in addressing topics effectively
+        without creating a lot of need for maintenance.</para>
 
         <figure xml:id="backlog">
           <title>An example of a backlog to be carried at the end of the
@@ -17159,7 +17248,7 @@ based on mutual giving from the heart.</literallayout>
             <primary>agenda</primary>
           </indexterm> is made by secretary, facilitator and leader, bringing
         together past, present and future as shown in figure <xref
-        linkend="whomakesagendaldf"/>.</para>
+        linkend="whomakesagendaldf" xrefstyle="select: labelnumber"/>.</para>
 
         <figure xml:id="whomakesagendaldf">
           <title>The agenda unites past, future and present needs</title>
@@ -17208,9 +17297,8 @@ based on mutual giving from the heart.</literallayout>
               our review dates into our backlog<indexterm>
                   <primary>backlog</primary>
                 </indexterm> and keep them there (see figure <xref
-              linkend="backlog"/> on page <xref linkend="backlog"/><remark>
-              @@TODO@@: Figure out page references.</remark>). Some circles
-              select all their roles on the same day each year. Some
+              linkend="backlog" xrefstyle="select: labelnumber page"/>). Some
+              circles select all their roles on the same day each year. Some
               organizations ask all their circles to review the policies in
               their domain at the same time, for example from September to
               October of odd number years. These are easy ways to support
@@ -17272,7 +17360,8 @@ based on mutual giving from the heart.</literallayout>
 
               <listitem>
                 <para>Desired outcome: understanding, exploration, or decision
-                (see section <xref linkend="contentblock"/>).</para>
+                (see section <xref linkend="contentblock"
+                xrefstyle="select: labelnumber"/>).</para>
               </listitem>
 
               <listitem>
@@ -17330,12 +17419,11 @@ based on mutual giving from the heart.</literallayout>
             <para>For a more general look at content during meeting agendas it
             helps to think back to the three possible content items or desired
             outcomes as described earlier in section <xref
-            linkend="contentblock"/> on page <xref
-            linkend="contentblock"/><remark> @@TODO@@: Figure out page
-            references.</remark>: reports/understanding, exploration and
-            making decisions (synthesis or output). Each agenda item needs to
-            be assigned one of these desired outcomes. The desired outcomes
-            are measurements for each agenda item.</para>
+            linkend="contentblock" xrefstyle="select: labelnumber page"/>:
+            reports/understanding, exploration and making decisions (synthesis
+            or output). Each agenda item needs to be assigned one of these
+            desired outcomes. The desired outcomes are measurements for each
+            agenda item.</para>
 
             <para>Don’t aim too high. Sometimes just getting to a shared
             understanding of the status quo is a success! Whatever we do, this
@@ -17401,9 +17489,9 @@ based on mutual giving from the heart.</literallayout>
         which is a document on the secretary’s computer or in the cloud. We do
         not write detailed minutes (no <emphasis role="from-text">“who said
         what”</emphasis>) but write down only decisions and any content we
-        generate together, as shown in example <xref
-        linkend="diagramminutes"/>. This includes policy decisions (in their
-        exact wording), selections<indexterm>
+        generate together, as shown in example <xref linkend="diagramminutes"
+        xrefstyle="select: labelnumber"/>. This includes policy decisions (in
+        their exact wording), selections<indexterm>
             <primary>selection</primary>
           </indexterm>, action items for operational decisions<indexterm>
             <primary>decision</primary>
@@ -17507,9 +17595,8 @@ based on mutual giving from the heart.</literallayout>
         were not there to witness what has been decided, unless they object to
         how a report got recorded. (They might object to decisions made but
         that is different and it is covered in section <xref
-        linkend="absentmembers"/> on page <xref
-        linkend="absentmembers"/><remark> @@TODO@@: Figure out page
-        references.</remark>.)</para>
+        linkend="absentmembers"
+        xrefstyle="select: labelnumber page"/>.)</para>
 
         <para>The earlier we can approve the minutes, the better. Minutes need
         to be approved before the content phase of the next meeting begins.
@@ -17528,7 +17615,8 @@ based on mutual giving from the heart.</literallayout>
 
                   <secondary>lazy consent</secondary>
                 </indexterm>); otherwise assume consent, as described in the
-              example in <xref linkend="minutesapprove"/>.</para>
+              example in <xref linkend="minutesapprove"
+              xrefstyle="select: labelnumber"/>.</para>
             </listitem>
 
             <listitem>
@@ -17595,8 +17683,8 @@ based on mutual giving from the heart.</literallayout>
         organization. In sociocracy, in large organizations, there is the
         additional role of a logbook keeper <indexterm>
             <primary>logbook keeper</primary>
-          </indexterm> (see section <xref linkend="logbookkeeper"/>) so the
-        <indexterm>
+          </indexterm> (see section <xref linkend="logbookkeeper"
+        xrefstyle="select: labelnumber"/>) so the <indexterm>
             <primary>logbook</primary>
           </indexterm>logbook remains up to date and accessible to everyone in
         the organization (or even to the public). Note: It is useful to do
@@ -17840,8 +17928,9 @@ based on mutual giving from the heart.</literallayout>
 
         <para>Although all rounds are very similar, these are some differences
         in the nature of a round, depending on where in the decision process
-        they take place (see <xref linkend="tablerounds"/> and <xref
-        linkend="allrounds"/>).</para>
+        they take place (see <xref linkend="tablerounds"
+        xrefstyle="select: labelnumber"/> and <xref linkend="allrounds"
+        xrefstyle="select: labelnumber"/>).</para>
 
         <figure xml:id="tablerounds">
           <title>Different rounds and their uses</title>
@@ -18051,8 +18140,8 @@ based on mutual giving from the heart.</literallayout>
           <emphasis role="from-text">if</emphasis> what people contribute
           seems rich and productive and contributions seem to build on each
           other. (For reactions to proposals in the consent process see
-          section <xref linkend="quickreactionsinconsent"/>.) The
-          facilitator<indexterm>
+          section <xref linkend="quickreactionsinconsent"
+          xrefstyle="select: labelnumber"/>.) The facilitator<indexterm>
               <primary>facilitator</primary>
             </indexterm> can end the round asking if there is anything anyone
           wants to add. <emphasis role="from-text">“We did two rounds now and
@@ -18109,7 +18198,7 @@ based on mutual giving from the heart.</literallayout>
 
           <para>Note that in consent decision making there is no third option
           of standing aside or passing. (See more on that in section <xref
-          linkend="abstain"/> on page <xref linkend="abstain"/>).</para>
+          linkend="abstain" xrefstyle="select: labelnumber page"/>).</para>
 
           <para>We can get consent, especially on uncontroversial decisions
           (like for example a non-controversial agenda) in a non-verbal way.
@@ -18245,16 +18334,16 @@ based on mutual giving from the heart.</literallayout>
 
               <listitem>
                 <para>Nomination rounds (see section <xref
-                linkend="selections"/> on selection process): no passing. We
-                need everyone’s information for a co-created nomination
-                proposal.</para>
+                linkend="selections" xrefstyle="select: labelnumber"/> on
+                selection process): no passing. We need everyone’s information
+                for a co-created nomination proposal.</para>
               </listitem>
 
               <listitem>
                 <para>Consent rounds. We need to hear from everyone to make
                 sure we hear all objections. (See more on abstentions in
-                section <xref linkend="abstain"/> on page <xref
-                linkend="abstain"/>).<indexterm>
+                section <xref linkend="abstain"
+                xrefstyle="select: labelnumber page"/>).<indexterm>
                     <primary>consent round</primary>
                   </indexterm></para>
               </listitem>
@@ -18311,9 +18400,9 @@ based on mutual giving from the heart.</literallayout>
           </figure>
 
           <para>It can wear on the group morale when no progress is made. The
-          flowchart <xref linkend="strategieswhenstuck"/> shows four ways out
-          of blockages, no matter on what level they might lie. More
-          details:<itemizedlist>
+          flowchart <xref linkend="strategieswhenstuck"
+          xrefstyle="select: labelnumber"/> shows four ways out of blockages,
+          no matter on what level they might lie. More details:<itemizedlist>
               <listitem>
                 <para>Make a proposal on content: do not wait until a proposal
                 on your topic forms magically because chances are it won’t (or
@@ -18366,8 +18455,8 @@ based on mutual giving from the heart.</literallayout>
             </itemizedlist></para>
 
           <para>In general: If we do not know what to do, we do a round!
-          Examples of that are shown in <xref
-          linkend="bubbleprocessround"/>.</para>
+          Examples of that are shown in <xref linkend="bubbleprocessround"
+          xrefstyle="select: labelnumber"/>.</para>
 
           <figure xml:id="bubbleprocessround">
             <title>Deciding on process together.</title>
@@ -18419,8 +18508,9 @@ based on mutual giving from the heart.</literallayout>
               </listitem>
             </itemizedlist>We are never victims of circumstances, but always
           agents with choices. Example <xref
-          linkend="examplecallingaprocessround"/> shows what this may sound
-          like with more context.</para>
+          linkend="examplecallingaprocessround"
+          xrefstyle="select: labelnumber"/> shows what this may sound like
+          with more context.</para>
 
           <figure xml:id="examplecallingaprocessround">
             <title>A member calls for a process round</title>
@@ -18508,12 +18598,13 @@ based on mutual giving from the heart.</literallayout>
               </listitem>
             </itemizedlist>If we decide to do a round, we put the person who
           is most affected emotionally in the middle of the round (like in
-          example <xref linkend="exampleSomeoneUpset"/>) so they have enough
-          time to get back on their feet but are not the “problem person”
-          speaking at the end. Doing so will be a manifestation of everyone’s
-          voice mattering: those with strong feelings and everyone else. We
-          embody the principle that everyone can take responsibility for their
-          feelings and behavior.</para>
+          example <xref linkend="exampleSomeoneUpset"
+          xrefstyle="select: labelnumber"/>) so they have enough time to get
+          back on their feet but are not the “problem person” speaking at the
+          end. Doing so will be a manifestation of everyone’s voice mattering:
+          those with strong feelings and everyone else. We embody the
+          principle that everyone can take responsibility for their feelings
+          and behavior.</para>
         </section>
 
         <section>
@@ -19722,17 +19813,16 @@ based on mutual giving from the heart.</literallayout>
       or deliver that? Answer and you have your mission, for example to end
       homelessness by building houses for and with the homeless in this region
       of this country. (See more on mission and aims in section <xref
-      linkend="VMAD"/> on page <xref linkend="VMAD"/><remark> @@TODO@@: Figure
-      out page references.</remark>.) To (mission) by (aim). The mission plus
-      aim is the invitation. You can now call for people to join you as
-      volunteers or as paid staff. They know what they would be doing and why.
-      Next, make your aims ever more specific. One product or service or many.
-      Who are the customers? Design the <emphasis role="from-text">input –
-      transformation – output</emphasis> workflow doing picture forming and
-      proposal shaping. To get to the desired output, what resources (people,
-      skills, raw materials, tools, funding, etc.) will you need? How will you
-      organize the work? What roles and subcircles do you need? Who will fill
-      them?</para>
+      linkend="VMAD" xrefstyle="select: labelnumber page"/>.) To (mission) by
+      (aim). The mission plus aim is the invitation. You can now call for
+      people to join you as volunteers or as paid staff. They know what they
+      would be doing and why. Next, make your aims ever more specific. One
+      product or service or many. Who are the customers? Design the <emphasis
+      role="from-text">input – transformation – output</emphasis> workflow
+      doing picture forming and proposal shaping. To get to the desired
+      output, what resources (people, skills, raw materials, tools, funding,
+      etc.) will you need? How will you organize the work? What roles and
+      subcircles do you need? Who will fill them?</para>
 
       <para>The first circle will have as input the <emphasis
       role="from-text">aim</emphasis> and <emphasis
@@ -19793,12 +19883,13 @@ based on mutual giving from the heart.</literallayout>
 
       <para>A sociocratic organization grows from one small circle to a
       full-fledged structure with many circles. (See section <xref
-      linkend="startupphase"/> on sociocracy in growing organizations.)
-      Starting sociocracy in a new organization means one will have to
-      convince fewer people in the beginning when introducing sociocracy
-      because there are not as many decision-makers yet. In this context, it
-      is important to be open and transparent about your governance system.
-      For some young organizations, the effort of onboarding<indexterm>
+      linkend="startupphase" xrefstyle="select: labelnumber"/> on sociocracy
+      in growing organizations.) Starting sociocracy in a new organization
+      means one will have to convince fewer people in the beginning when
+      introducing sociocracy because there are not as many decision-makers
+      yet. In this context, it is important to be open and transparent about
+      your governance system. For some young organizations, the effort of
+      onboarding<indexterm>
           <primary>onboarding</primary>
         </indexterm> new members is significant, given that it is unlikely
       that new members come with experience in sociocracy. One can have the
@@ -19882,14 +19973,15 @@ based on mutual giving from the heart.</literallayout>
           </mediaobject>
         </figure>
 
-        <para>The figures in <xref linkend="metamorphosis"/> show how an
-        organization can start out as one circle. This, for example, is the
-        scenario of 6 people getting together, forming a group and deciding to
-        start a business. At first, they might all more or less do the same
-        tasks. Quickly, however, they will each have their work area of
-        preference or expertise. One does marketing, one builds the website,
-        one writes pitches to find investors, two build the product. They
-        might still make all the policy decisions<indexterm>
+        <para>The figures in <xref linkend="metamorphosis"
+        xrefstyle="select: labelnumber"/> show how an organization can start
+        out as one circle. This, for example, is the scenario of 6 people
+        getting together, forming a group and deciding to start a business. At
+        first, they might all more or less do the same tasks. Quickly,
+        however, they will each have their work area of preference or
+        expertise. One does marketing, one builds the website, one writes
+        pitches to find investors, two build the product. They might still
+        make all the policy decisions<indexterm>
             <primary>decision</primary>
 
             <secondary>policy decision</secondary>
@@ -19968,8 +20060,9 @@ based on mutual giving from the heart.</literallayout>
         clarity at the birth of the organization, it may struggle with that
         conflict for the rest of the organization’s life because that conflict
         will be rooted in the personal aims and expectations of members (see
-        section <xref linkend="nosharedaim"/>). From the overall
-        organization’s aim, we go to sub-aims<indexterm>
+        section <xref linkend="nosharedaim"
+        xrefstyle="select: labelnumber"/>). From the overall organization’s
+        aim, we go to sub-aims<indexterm>
             <primary>aim</primary>
 
             <secondary>sub-aim</secondary>
@@ -20024,11 +20117,10 @@ based on mutual giving from the heart.</literallayout>
         proposal<indexterm>
             <primary>proposal</primary>
           </indexterm> generation process (see chapter <xref
-        linkend="decision-making"/> on page <xref
-        linkend="decision-making"/><remark> @@TODO@@: Figure out page
-        references.</remark>). Understand what the needs are for your
-        particular organization and then what the dimensions are. What are the
-        considerations for a circle structure<indexterm>
+        linkend="decision-making" xrefstyle="select: labelnumber page"/>).
+        Understand what the needs are for your particular organization and
+        then what the dimensions are. What are the considerations for a circle
+        structure<indexterm>
             <primary>circle</primary>
 
             <secondary>circle structure</secondary>
@@ -20113,8 +20205,8 @@ based on mutual giving from the heart.</literallayout>
               <para>The same members of the GC will be members of the MC. This
               can work, however, one will have to make sure the group spends
               enough time on big-picture thinking. Strategies are
-              (illustrations in diagram <xref
-              linkend="TCGCpatterns1"/>):<itemizedlist>
+              (illustrations in diagram <xref linkend="TCGCpatterns1"
+              xrefstyle="select: labelnumber"/>):<itemizedlist>
                   <listitem>
                     <para>Scheduling a separate, extra meeting. This might be
                     the best option. The potential downside is over-burdening
@@ -20163,7 +20255,8 @@ based on mutual giving from the heart.</literallayout>
               outside perspective. When the trees right in front of us make it
               hard to see the forest, the external mission circle members’
               perspectives might help. (See diagram <xref
-              linkend="TCGCpatterns2"/>.)</para>
+              linkend="TCGCpatterns2"
+              xrefstyle="select: labelnumber"/>.)</para>
             </listitem>
 
             <listitem>
@@ -20172,8 +20265,8 @@ based on mutual giving from the heart.</literallayout>
               a group from a very horizontal context where there is skepticism
               on whether the mission circle would be operating in the
               organization’s interest or whether the MC would drift into a
-              power-over attitude. (See diagram <xref
-              linkend="TCGCpatterns3"/>.)</para>
+              power-over attitude. (See diagram <xref linkend="TCGCpatterns3"
+              xrefstyle="select: labelnumber"/>.)</para>
             </listitem>
 
             <listitem>
@@ -20192,16 +20285,16 @@ based on mutual giving from the heart.</literallayout>
                   <see>leader</see>
                 </indexterm>, and a delegate from the general circle is the
               bottom-up link to the mission circle. (See diagram <xref
-              linkend="TCGCpatterns4"/>.)</para>
+              linkend="TCGCpatterns4"
+              xrefstyle="select: labelnumber"/>.)</para>
             </listitem>
 
             <listitem>
               <para>Mission circle members may also include delegates from
               stakeholder circles (parent for a school, customers of a
-              product, funders for a non-profit, see section. <xref
-              linkend="circlesontopcircle"/> on page <xref
-              linkend="circlesontopcircle"/><remark> @@TODO@@: Figure out page
-              references.</remark>.</para>
+              product, funders for a non-profit, see section <xref
+              linkend="circlesontopcircle"
+              xrefstyle="select: labelnumber page"/>.</para>
             </listitem>
           </orderedlist></para>
 
@@ -20267,7 +20360,8 @@ based on mutual giving from the heart.</literallayout>
             <primary>general circle</primary>
           </indexterm> (ED or CEO, depending on the type of organization) to
         form a work team. This is what is shown in diagram <xref
-        linkend="metamorphosisTopDown1"/>.</para>
+        linkend="metamorphosisTopDown1"
+        xrefstyle="select: labelnumber"/>.</para>
 
         <para>If the organization grows, the general circle would create
         department circles, assign them aims and domains and appoint leaders.
@@ -20325,8 +20419,8 @@ based on mutual giving from the heart.</literallayout>
         </figure>
 
         <para>Find more information on implementation in new organizations in
-        section <xref linkend="new-organizations"/> on page <xref
-        linkend="new-organizations"/>.</para>
+        section <xref linkend="new-organizations"
+        xrefstyle="select: labelnumber page"/>.</para>
       </section>
 
       <section xml:id="incremental">
@@ -20429,12 +20523,11 @@ based on mutual giving from the heart.</literallayout>
         chicken-egg problem of any implementation (as in, who will facilitate
         the selection process to select the first facilitator?).</para>
 
-        <para>Chart <xref linkend="flowchart"/> on page <xref
-        linkend="flowchart"/><remark> @@TODO@@: Figure out page
-        references.</remark> shows how sociocratic processes and tools build
-        on each other - the related puzzle pieces. The flowchart assumes that
-        existing organizations will have facilitators, aims and a
-        decision-making method in place.</para>
+        <para>Chart <xref linkend="flowchart"
+        xrefstyle="select: labelnumber page"/> shows how sociocratic processes
+        and tools build on each other - the related puzzle pieces. The
+        flowchart assumes that existing organizations will have facilitators,
+        aims and a decision-making method in place.</para>
 
         <figure xml:id="flowchart">
           <title>How some of the sociocratic features build on each
@@ -20507,15 +20600,15 @@ based on mutual giving from the heart.</literallayout>
           <secondary>membership in a circle</secondary>
         </indexterm> of circles (a circle can choose its members) that we have
       to be able to remove people from circles (see section <xref
-      linkend="removesomeone"/>). This is true no matter whether that person
-      is paid or not. That means we might be in a situation where we “fire” a
-      volunteer because working with them negatively affects the circle’s
-      ability to work toward their aim. Some find that hard to do because we
-      want to be grateful for anyone putting in their volunteer time. However,
-      remember that any organization based on consent requires its members to
-      be accountable and constructive. If someone’s behavior is slowing down
-      the circle significantly, it might be better to let that person
-      go.</para>
+      linkend="removesomeone" xrefstyle="select: labelnumber"/>). This is true
+      no matter whether that person is paid or not. That means we might be in
+      a situation where we “fire” a volunteer because working with them
+      negatively affects the circle’s ability to work toward their aim. Some
+      find that hard to do because we want to be grateful for anyone putting
+      in their volunteer time. However, remember that any organization based
+      on consent requires its members to be accountable and constructive. If
+      someone’s behavior is slowing down the circle significantly, it might be
+      better to let that person go.</para>
 
       <para>We can remove someone from a circle or a role and ask them to do
       other jobs within the same organization. In this case, we are not
@@ -20840,9 +20933,8 @@ based on mutual giving from the heart.</literallayout>
           </indexterm>, and we can hear many people leading up to a review
         process of a policy. In our view, this is the best way to include many
         voices and still benefit from small and solid groups of
-        decision-makers. (See also section <xref linkend="howmanypeople"/> on
-        page <xref linkend="howmanypeople"/><remark> @@TODO@@: Figure out page
-        references.</remark>.)</para>
+        decision-makers. (See also section <xref linkend="howmanypeople"
+        xrefstyle="select: labelnumber page"/>.)</para>
 
         <para>A sociocratic IT business we are aware of created a transparent
         system of including all employees over time by replacing circle
@@ -20996,8 +21088,8 @@ based on mutual giving from the heart.</literallayout>
         more extensive discussion on those topics see ‘‘We the People,’’
         ‘’‘BossaNova’’ and the writings of Gerard Endenburg<indexterm>
             <primary>Endenburg, Gerard</primary>
-          </indexterm> (for references see section <xref
-        linkend="literature"/> in the appendix).</para>
+          </indexterm> (for references see section <xref linkend="literature"
+        xrefstyle="select: labelnumber"/> in the appendix).</para>
       </section>
     </section>
 
@@ -21043,9 +21135,10 @@ based on mutual giving from the heart.</literallayout>
       issues: people who talk too long, lack of accountability, people
       stepping on each other’s toes, tasks falling through the cracks – the
       list is long. Remember how feelings are pointers to met or unmet needs?
-      (See section <xref linkend="feelings"/>.) Whenever someone gets upset in
-      the context of an organization, consider that there might be a
-      governance issue one could address. Did someone give feedback?<indexterm>
+      (See section <xref linkend="feelings"
+      xrefstyle="select: labelnumber"/>.) Whenever someone gets upset in the
+      context of an organization, consider that there might be a governance
+      issue one could address. Did someone give feedback?<indexterm>
           <primary>feedback</primary>
         </indexterm> How can similar issues be prevented next time?</para>
 
@@ -21171,7 +21264,8 @@ based on mutual giving from the heart.</literallayout>
           systems like sociocracy.</para>
 
           <para>Instead of a trial period, do a proposal like figure <xref
-          linkend="implementationpolicy"/>.</para>
+          linkend="implementationpolicy"
+          xrefstyle="select: labelnumber"/>.</para>
 
           <figure xml:id="implementationpolicy">
             <title>Example implementation proposal.</title>
@@ -21376,8 +21470,9 @@ based on mutual giving from the heart.</literallayout>
         hitting the same wall again and again.</para>
 
         <para>In a similar way, domains benefit from clarity. In section <xref
-        linkend="hierachyofdomains"/>, we described how two domains should
-        neither have overlap nor gaps between them.<informalexample>
+        linkend="hierachyofdomains" xrefstyle="select: labelnumber"/>, we
+        described how two domains should neither have overlap nor gaps between
+        them.<informalexample>
             <para>Imagine a fridge in a bakery café. Does the Front Desk
             Circle maintain the baked goods in the front desk fridge, or the
             circle that produces the baked goods?</para>
@@ -21599,7 +21694,7 @@ based on mutual giving from the heart.</literallayout>
           embody the sense of everyone’s voice mattering. As we get to know
           each other more, stereotypes and power-over/power-under patterns
           recede. (See “Power Under” in references on page <xref
-          linkend="literature"/>.)</para>
+          linkend="literature" xrefstyle="select: pagenumber"/>.)</para>
 
           <para>Anecdotally, sociocratic elections seem to run counter to the
           mainstream patterns at least to some extent. We have seen numerous
@@ -21802,20 +21897,20 @@ based on mutual giving from the heart.</literallayout>
           governance structure, can we reach equality.</para>
 
           <para>Education has to be available over time (see section <xref
-          linkend="continuing-education"/> for continuous education), and it
-          has to include not only <emphasis role="from-text">how</emphasis> we
-          do things but also <emphasis role="from-text">why</emphasis> we do
-          things. People are busy doing their work, and it is the aim, not the
-          governance method, that drives the work. They might not hold the
-          information on the how and why of processes because it is not in
-          their focus. That is why we explain “in the moment” and educate only
-          on what is relevant to people. For example, the more the members of
-          an organization know about <emphasis role="from-text">why</emphasis>
-          we do elections the way we do them, the more likely they are to
-          stick to a format. They will be more willing to teach it to each
-          other. They will be more skilled in adapting processes to their
-          context because they will know which pieces are important and
-          why.</para>
+          linkend="continuing-education" xrefstyle="select: labelnumber"/> for
+          continuous education), and it has to include not only <emphasis
+          role="from-text">how</emphasis> we do things but also <emphasis
+          role="from-text">why</emphasis> we do things. People are busy doing
+          their work, and it is the aim, not the governance method, that
+          drives the work. They might not hold the information on the how and
+          why of processes because it is not in their focus. That is why we
+          explain “in the moment” and educate only on what is relevant to
+          people. For example, the more the members of an organization know
+          about <emphasis role="from-text">why</emphasis> we do elections the
+          way we do them, the more likely they are to stick to a format. They
+          will be more willing to teach it to each other. They will be more
+          skilled in adapting processes to their context because they will
+          know which pieces are important and why.</para>
 
           <para>If we fail on educating enough members on governance, this can
           lead into power struggles when the group falls into camps (those who
@@ -21963,11 +22058,12 @@ based on mutual giving from the heart.</literallayout>
             <primary>feedback</primary>
           </indexterm>
 
-          <para>We have already talked a lot about feedback in Chapter <xref
-          linkend="feedback"/>. Getting to a point where most of the people in
-          an organization feel comfortable with feedback can take a long time.
-          We have heard of groups who implement sociocracy and get rid of all
-          the elements around feedback, even meeting evaluations<indexterm>
+          <para>We have already talked a lot about feedback in <xref
+          linkend="feedback" xrefstyle="select: label"/>. Getting to a point
+          where most of the people in an organization feel comfortable with
+          feedback can take a long time. We have heard of groups who implement
+          sociocracy and get rid of all the elements around feedback, even
+          meeting evaluations<indexterm>
               <primary>meeting</primary>
 
               <secondary>meeting evaluation</secondary>
@@ -22252,10 +22348,9 @@ based on mutual giving from the heart.</literallayout>
               <primary>role</primary>
 
               <secondary>operational role</secondary>
-            </indexterm> role (see section <xref linkend="operationalroles"/>
-          on page <xref linkend="operationalroles"/><remark> @@TODO@@: Figure
-          out page references.</remark>) and leave policy-making in the
-          circle. Operations<indexterm>
+            </indexterm> role (see section <xref linkend="operationalroles"
+          xrefstyle="select: labelnumber page"/>) and leave policy-making in
+          the circle. Operations<indexterm>
               <primary>operations</primary>
             </indexterm> can be taken care of by one or two (pair) members.
           That way, work and attention are taken off the plate for the circle,
@@ -22331,8 +22426,8 @@ based on mutual giving from the heart.</literallayout>
             only when we know why we do something, we will honor the process
             and be able to adjust it and make it better.</para>
           </listitem>
-        </itemizedlist>See section <xref linkend="beyond-this-book"/> for more
-      resources.</para>
+        </itemizedlist>See section <xref linkend="beyond-this-book"
+      xrefstyle="select: labelnumber"/> for more resources.</para>
 
       <section>
         <title>An easy way to keep learning: live commentary</title>
@@ -22358,8 +22453,9 @@ based on mutual giving from the heart.</literallayout>
         commentary</emphasis> during meetings. For example, if we have an
         election, it is helpful if the facilitator gives some explanations on
         what is happening. See the example in Figure <xref
-        linkend="livecommentary"/>, with all <emphasis role="from-text">live
-        commentaries</emphasis> in bold.</para>
+        linkend="livecommentary" xrefstyle="select: labelnumber"/>, with all
+        <emphasis role="from-text">live commentaries</emphasis> in
+        bold.</para>
 
         <para>In an inexperienced group, this style would be very helpful.
         Every piece of information is delivered right when it is needed. It
@@ -22605,8 +22701,8 @@ based on mutual giving from the heart.</literallayout>
       authors of this book, after years of previous experience with
       sociocracy, with the mission of spreading sociocracy widely so everyone
       – <emphasis role="from-text">everyone!</emphasis> – benefits. Our
-      current circle structure is shown in <xref
-      linkend="SoFAcircles"/>.</para>
+      current circle structure is shown in <xref linkend="SoFAcircles"
+      xrefstyle="select: labelnumber"/>.</para>
 
       <figure xml:id="SoFAcircles">
         <title>SoFA’s organizational structure (as of early June 2018). Note
@@ -22946,8 +23042,8 @@ based on mutual giving from the heart.</literallayout>
         <para>The materials that are or will become available with this book
         are:<itemizedlist>
             <listitem>
-              <para>The meeting sheet (see page <xref
-              linkend="meetingsheet"/>) in high resolution and with
+              <para>The meeting sheet (see page <xref linkend="meetingsheet"
+              xrefstyle="select: pagenumber"/>) in high resolution and with
               translations into different languages.</para>
             </listitem>
 
@@ -22960,7 +23056,8 @@ based on mutual giving from the heart.</literallayout>
 
             <listitem>
               <para>Digital versions of the feelings list and needs list (see
-              page <xref linkend="feelingsneedslist"/>).</para>
+              page <xref linkend="feelingsneedslist"
+              xrefstyle="select: pagenumber"/>).</para>
             </listitem>
 
             <listitem>
@@ -23037,12 +23134,14 @@ based on mutual giving from the heart.</literallayout>
           <title>3x9 Matrix for the selection process with skit</title>
 
           <para>This is a more detailed version of <xref
-          linkend="selectionprocess3x3"/> – the most reasonable level of
-          detail for the selection process. The columns in <xref
-          linkend="selectionprocess3x3"/> are now arranged vertically to allow
-          the reading flow. Each step in <xref linkend="selectionprocess3x3"/>
-          now falls into three steps (lead-do-measure). We also added the
-          framing statements for each part as they would sound like in natural
+          linkend="selectionprocess3x3" xrefstyle="select: labelnumber"/> –
+          the most reasonable level of detail for the selection process. The
+          columns in <xref linkend="selectionprocess3x3"
+          xrefstyle="select: labelnumber"/> are now arranged vertically to
+          allow the reading flow. Each step in <xref
+          linkend="selectionprocess3x3" xrefstyle="select: labelnumber"/> now
+          falls into three steps (lead-do-measure). We also added the framing
+          statements for each part as they would sound like in natural
           language.</para>
 
           <mediaobject>
@@ -23062,8 +23161,9 @@ based on mutual giving from the heart.</literallayout>
           <title>3x3 matrix for the policy process</title>
 
           <para>In this matrix, you can see each step used in the policy
-          generation and decision process. <xref linkend="consentprocess3x3"/>
-          is the more detailed chart of the last third of this chart.</para>
+          generation and decision process. <xref linkend="consentprocess3x3"
+          xrefstyle="select: labelnumber"/> is the more detailed chart of the
+          last third of this chart.</para>
 
           <mediaobject>
             <imageobject>
@@ -23083,7 +23183,8 @@ based on mutual giving from the heart.</literallayout>
 
           <para>In this matrix, you can see each step used in the policy
           generation and decision process. This is the more detailed version
-          of the last third of <xref linkend="policyprocess3x3"/>.</para>
+          of the last third of <xref linkend="policyprocess3x3"
+          xrefstyle="select: labelnumber"/>.</para>
 
           <mediaobject>
             <imageobject>
@@ -23103,8 +23204,8 @@ based on mutual giving from the heart.</literallayout>
 
           <para>This is the flow of understanding the need, generating policy
           and decision about policy. The last third, the decision process, is
-          shown in more detail in <xref linkend="consentprocess3x3withskit"/>
-          on page <xref linkend="consentprocess3x3withskit"/>.</para>
+          shown in more detail in <xref linkend="consentprocess3x3withskit"
+          xrefstyle="select: labelnumber page"/>.</para>
 
           <mediaobject>
             <imageobject>
@@ -23117,9 +23218,10 @@ based on mutual giving from the heart.</literallayout>
           <title>3x9 Matrix for the consent process with skit</title>
 
           <para>This is the more detailed version of the last third of <xref
-          linkend="policyprocess3x3withskit"/>. Note the level of detail
-          needed in the decision-making process. The output phase might be
-          much simpler in a small organization.</para>
+          linkend="policyprocess3x3withskit"
+          xrefstyle="select: labelnumber"/>. Note the level of detail needed
+          in the decision-making process. The output phase might be much
+          simpler in a small organization.</para>
 
           <mediaobject>
             <imageobject>
