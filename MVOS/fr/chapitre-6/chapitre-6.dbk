@@ -649,7 +649,8 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="../illustrations/6-metamorphosis1.jpg"/>
+            <imagedata fileref="../illustrations/6-metamorphosis1.jpg"
+                       width="30%"/>
           </imageobject>
 
           <caption>
@@ -660,7 +661,8 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="../illustrations/6-metamorphosis2.jpg"/>
+            <imagedata fileref="../illustrations/6-metamorphosis2.jpg"
+                       width="30%"/>
           </imageobject>
 
           <caption>
@@ -671,7 +673,8 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="../illustrations/6-metamorphosis.jpg"/>
+            <imagedata fileref="../illustrations/6-metamorphosis.jpg"
+                       width="30%"/>
           </imageobject>
 
           <caption>
@@ -1027,7 +1030,8 @@
 
         <mediaobject xml:id="TCGCpatterns1">
           <imageobject>
-            <imagedata fileref="../illustrations/6-TCGCpatterns1.jpg"/>
+            <imagedata fileref="../illustrations/6-TCGCpatterns1.jpg"
+                       width="44%"/>
           </imageobject>
 
           <caption>
@@ -1037,7 +1041,8 @@
 
         <mediaobject xml:id="TCGCpatterns2">
           <imageobject>
-            <imagedata fileref="../illustrations/6-TCGCpatterns2.jpg"/>
+            <imagedata fileref="../illustrations/6-TCGCpatterns2.jpg"
+                       width="44%"/>
           </imageobject>
 
           <caption>
@@ -1053,7 +1058,8 @@
 
         <mediaobject xml:id="TCGCpatterns3">
           <imageobject>
-            <imagedata fileref="../illustrations/6-TCGCpatterns3.jpg"/>
+            <imagedata fileref="../illustrations/6-TCGCpatterns3.jpg"
+                       width="44%"/>
           </imageobject>
 
           <caption>
@@ -1063,7 +1069,8 @@
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="../illustrations/6-TCGCpatterns4.jpg"/>
+            <imagedata fileref="../illustrations/6-TCGCpatterns4.jpg"
+                       width="44%"/>
           </imageobject>
 
           <caption>
@@ -1115,7 +1122,8 @@
 
         <mediaobject xml:id="metamorphosisTopDown1">
           <imageobject>
-            <imagedata fileref="../illustrations/2-metamorphosisTopDown1.jpg"/>
+            <imagedata fileref="../illustrations/2-metamorphosisTopDown1.jpg"
+                       width="24%"/>
           </imageobject>
 
           <caption>
@@ -1125,7 +1133,8 @@
 
         <mediaobject xml:id="metamorphosisTopDown2">
           <imageobject>
-            <imagedata fileref="../illustrations/2-metamorphosisTopDown2.jpg"/>
+            <imagedata fileref="../illustrations/2-metamorphosisTopDown2.jpg"
+                       width="38%"/>
           </imageobject>
 
           <caption>
@@ -1136,7 +1145,8 @@
 
         <mediaobject xml:id="metamorphosisTopDown">
           <imageobject>
-            <imagedata fileref="../illustrations/2-metamorphosisTopDown3.jpg"/>
+            <imagedata fileref="../illustrations/2-metamorphosisTopDown3.jpg"
+                       width="38%"/>
           </imageobject>
 
           <caption>

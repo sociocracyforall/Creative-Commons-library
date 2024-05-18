@@ -302,12 +302,13 @@
     </glossentry>
   </glosslist>
 
-  <para><inlinemediaobject>
+  <figure>
+    <title>Terminologie alternative utilisée dans ce livre</title>
+
+    <mediaobject>
       <imageobject>
         <imagedata fileref="Pictures/10000201000003C0000002D01105C74BFD380638.png"/>
       </imageobject>
-    </inlinemediaobject></para>
-
-  <para><emphasis>1: Terminologie alternative utilisée dans ce
-  livre</emphasis></para>
+    </mediaobject>
+  </figure>
 </glossary>

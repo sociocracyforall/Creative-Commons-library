@@ -871,9 +871,7 @@
             <primary>domaine</primary>
           </indexterm>. Comme indiqué plus haut, cela est vrai également pour
         les décisions qui concernent des personnes en dehors du cercle, pour
-        autant que ces décisions relèvent du domaine du cercle.<remark>How is
-        the following informal example formatted in the English
-        book?</remark></para>
+        autant que ces décisions relèvent du domaine du cercle.</para>
 
         <informalexample>
           <para>Le Cercle Adhésions peut avoir autorité<indexterm>
@@ -1066,7 +1064,7 @@
         <para>Le chevauchement ou une lacune entre les domaines peuvent
         susciter des réactions. L'attitude la plus productive toutefois serait
         la curiosité et l'ouverture : « Je me demande si nos domaines sont
-        suffisamment bien définis ? »</para>
+        suffisamment bien définis ? »</para>
 
         <figure xml:id="overlapgapcomplaints">
           <title>Chevauchement, lacune, domaines définis de façon claire et
@@ -1109,8 +1107,8 @@
 
         <para>Aussi ordonné que cela puisse paraître, il peut y avoir des
         frictions. Pour reprendre cet exemple du Cercle Rez-de-chaussée et du
-        Cercle Sous-sol, on peut se demander : qui s'occupe des escaliers
-        ?</para>
+        Cercle Sous-sol, on peut se demander : qui s'occupe des
+        escaliers ?</para>
 
         <itemizedlist>
           <listitem>
@@ -1148,7 +1146,8 @@
             les domaines en conséquence. Ou nous pourrions avoir des raisons
             de penser que l'équipe de nettoyage du Cercle Rez-de-chaussée doit
             le faire, puisqu'elle est plus active et que les escaliers ont
-            besoin d'un nettoyage plus fréquent.</para>
+            besoin d'un nettoyage plus
+            fréquent.<remark>subfigures</remark></para>
           </listitem>
         </itemizedlist>
 
@@ -1157,7 +1156,8 @@
 
           <mediaobject xml:id="CHcircledomainsstairs">
             <imageobject>
-              <imagedata fileref="../illustrations/CHcircledomainsstairs.jpg"/>
+              <imagedata fileref="../illustrations/CHcircledomainsstairs.jpg"
+                         width="49%"/>
             </imageobject>
 
             <caption>
@@ -1167,7 +1167,8 @@
 
           <mediaobject xml:id="CHcircledomainsstairsclear">
             <imageobject>
-              <imagedata fileref="../illustrations/CHcircledomainsstairsclear.jpg"/>
+              <imagedata fileref="../illustrations/CHcircledomainsstairsclear.jpg"
+                         width="49%"/>
             </imageobject>
 
             <caption>
@@ -3040,21 +3041,18 @@
     <figure xml:id="linkedcircles">
       <title>Cercles non reliés versus cercles reliés</title>
 
-      <informalfigure>
-        <mediaobject>
-          <imageobject>
-            <imagedata fileref="../illustrations/unlinkedcircles.jpg"/>
-          </imageobject>
-        </mediaobject>
-      </informalfigure>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="../illustrations/unlinkedcircles.jpg"
+                     width="45%"/>
+        </imageobject>
+      </mediaobject>
 
-      <informalfigure>
-        <mediaobject>
-          <imageobject>
-            <imagedata fileref="../illustrations/linkedcircles.jpg"/>
-          </imageobject>
-        </mediaobject>
-      </informalfigure>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="../illustrations/linkedcircles.jpg" width="45%"/>
+        </imageobject>
+      </mediaobject>
     </figure>
 
     <para>Plus précisément, nous allons considérer l'un des deux liens comme
@@ -4140,31 +4138,37 @@
         réunissent occasionnellement et peuvent choisir un délégué pour siéger
         au cercle mission afin de représenter leurs intérêts.</para>
 
-        <figure xml:id="topcirclecommunity">
-          <title>Des experts externes d'un CM d'une communauté
-          intentionnelle</title>
+        <figure>
+          <title/>
 
-          <mediaobject>
+          <mediaobject xml:id="topcirclecommunity">
             <imageobject>
-              <imagedata fileref="../illustrations/topcirclecommunity.jpg"/>
+              <imagedata fileref="../illustrations/topcirclecommunity.jpg"
+                         width="49%"/>
             </imageobject>
+
+            <caption>
+              <para>Des experts externes d'un CM d'une communauté
+              intentionnelle</para>
+            </caption>
           </mediaobject>
-        </figure>
 
-        <figure xml:id="topcirclenonprofitJH">
-          <title>Un exemple d'un cercle Mission pour un OBNL</title>
-
-          <mediaobject>
+          <mediaobject xml:id="topcirclenonprofitJH">
             <imageobject>
-              <imagedata fileref="../illustrations/topcirclenonprofit.jpg"/>
+              <imagedata fileref="../illustrations/topcirclenonprofit.jpg"
+                         width="49%"/>
             </imageobject>
+
+            <caption>
+              <para>Un exemple d'un cercle Mission pour un OBNL</para>
+            </caption>
           </mediaobject>
         </figure>
 
         <para>Il existe de nombreuses façons de lier ensemble les groupes de
         parties prenantes<indexterm>
             <primary>partie prenante</primary>
-          </indexterm>. Quelques idées :</para>
+          </indexterm>. Quelques idées :</para>
 
         <itemizedlist>
           <listitem>
@@ -4183,7 +4187,7 @@
           </listitem>
         </itemizedlist>
 
-        <para>Rappelons-nous ceci :</para>
+        <para>Rappelons-nous ceci :</para>
 
         <itemizedlist>
           <listitem>
