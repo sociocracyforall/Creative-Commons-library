@@ -336,10 +336,38 @@
 \usepackage{chngcntr}
 \counterwithout{figure}{chapter}
 
+\linespread{1.08}
+
 \usepackage[justification=centering,font={small,it}]{caption}  
 \renewcommand{\figurename}{}   
 \def\figurename{}
 
+\makeatletter
+\renewenvironment{quote}{%
+  \vskip 8\p@
+  \parindent\z@
+  \list{}{\rightmargin\leftmargin}%
+  \item\relax
+}{%
+  \endlist
+}
+\def\d@ublerule{\hrule\@width\hsize\kern 1.5\p@\hrule\@width\hsize}
+\makeatother
+
+%\titleformat*{\section}{\Large\bfseries\textsf}
+\titleformat*{\subsubsection}{\large\bfseries}
+\titleformat*{\paragraph}{\bfseries}
+
+\setlength{\parindent}{15pt}
+
+% reduce linspread slightly between itemized items
+\setlist[1]{itemsep=-2pt}
+
+\usepackage{rotating}
+\usepackage{shorttoc}
+\usepackage{longtable}
+\usepackage{fontspec}
+\setmainfont{XCharter}
 \renewcommand\frenchfigurename{}
 
 \hyphenation{entoure socio-cratie}
