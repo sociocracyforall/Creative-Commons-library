@@ -1,0 +1,53 @@
+dblatex = "#{ENV['HOME']}/development/dblatex/scripts/dblatex"
+
+def chdir_then(filename)
+  dirname, localname = File.split(filename)
+
+  Dir.chdir(dirname) do
+    yield localname
+  end
+end
+
+def latexmk(filename)
+  chdir_then filename do |localname|
+    sh 'latexmk', '-xelatex', localname
+  end
+end
+
+desc 'Generate the French LaTeX source...'
+file 'fr/Chaque-voix-compte.dbk.tex' => ['fr/dblatex-config.xsl',
+                                         'fr/Chaque-voix-compte.dbk'] do |t|
+  sh dblatex, '-p', t.prerequisites[0],
+     '-s', 'MVOS-fr', '-t', 'tex', t.prerequisites[1], '-o', t.name
+end
+
+desc 'Process the French LaTeX into PDF...'
+file 'fr/Chaque-voix-compte.dbk.pdf' => ['fr/Chaque-voix-compte.dbk.tex'] do |t|
+  latexmk t.prerequisites[0]
+end
+
+desc 'Build the French book...'
+task build_fr: %w[fr/Chaque-voix-compte.dbk.tex fr/Chaque-voix-compte.dbk.pdf]
+
+desc 'Generate the English LaTeX source...'
+file 'MVOS.en.dbk.tex' => ['en/dblatex-config.xsl', 'MVOS.en.dbk'] do |t|
+  sh dblatex, '-p', t.prerequisites[0],
+     '-s', 'MVOS', '-t', 'tex', t.prerequisites[1], '-o', t.name
+end
+
+desc 'Process the English LaTeX into PDF...'
+file 'MVOS.en.dbk.pdf' => ['MVOS.en.dbk.tex'] do |t|
+  latexmk t.prerequisites[0]
+end
+
+desc 'Build the English book...'
+task build_en: %w[MVOS.en.dbk.tex MVOS.en.dbk.pdf]
+
+desc 'Build everything...'
+task build: %i[build_fr build_en]
+
+desc 'Dummy...'
+task :dummy do
+  sh 'echo' \
+  , 'hello'
+end
