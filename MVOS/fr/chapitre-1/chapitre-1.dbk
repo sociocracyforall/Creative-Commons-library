@@ -492,8 +492,8 @@
       </indexterm>
 
       <para>Nous définissons l'équivalence comme étant « l'importance de
-      prendre en compte les besoins de chaque personne, quels que soient le
-      rôle ou le statut de cette personne »<indexterm>
+      prendre en compte les besoins de chaque personne », quels que soient le
+      rôle ou le statut de cette personne<indexterm>
           <primary>besoins</primary>
 
           <secondary>les besoins de chacun sont importants</secondary>
@@ -814,7 +814,7 @@
       <para>Voici cependant le piège. Nous avons parlé à d'innombrables
       organisations. Quand elles sont en difficulté avec la gouvernance, c'est
       toujours pour l'une ou l'autre des raisons qui suivent, voire pour les
-      deux :</para>
+      deux :</para>
 
       <orderedlist>
         <listitem>
@@ -993,18 +993,18 @@
         une communauté saine.</para>
 
         <para>Les communautés intentionnelles étaient (et sont toujours) aux
-        prises avec leur propre gouvernance, mais elles sont des lieux où
-        :</para>
+        prises avec leur propre gouvernance, mais elles sont des lieux
+        où :</para>
 
         <itemizedlist>
           <listitem>
             <para>il n’y a pas l’alternance périodique du pouvoir ou de la
-            domination résultant d’une élection à la majorité ;</para>
+            domination résultant d’une élection à la majorité ;</para>
           </listitem>
 
           <listitem>
             <para>on est imputable envers le groupe (le collectif), pas
-            seulement envers un supérieur ;</para>
+            seulement envers un supérieur ;</para>
           </listitem>
 
           <listitem>
@@ -1014,7 +1014,7 @@
                 <secondary>leadership réparti</secondary>
               </indexterm><indexterm>
                 <primary>leadership</primary>
-              </indexterm> ;</para>
+              </indexterm> ;</para>
           </listitem>
 
           <listitem>
@@ -1230,7 +1230,10 @@
     xrefstyle="select: label quotedtitle page"/> de l'annexe).</para>
 
     <section>
-      <title>Ressources en ligne</title>
+      <title>Ressources en ligne<footnote>
+          <para><emphasis>NDLR : Le contenu en ligne est en cours de
+          traduction par l’équipe bénévole de SoFra.</emphasis></para>
+        </footnote></title>
 
       <para>Nous aimerions pouvoir offrir aux lecteurs des études de cas
       d'organisations dans toutes les phases d’implantation, de tous les
@@ -1246,10 +1249,8 @@
       qui pourrait être utile aux autres soit accessible à tous.</para>
 
       <figure>
-        <title>Contenu en ligne par Sociocracy For All<footnote>
-            <para><emphasis>NDLR : Le contenu en ligne est en cours de
-            traduction par l’équipe bénévole de SoFra.</emphasis></para>
-          </footnote></title>
+        <title>Contenu en ligne par <foreignphrase>Sociocracy For
+        All</foreignphrase></title>
 
         <mediaobject>
           <imageobject>

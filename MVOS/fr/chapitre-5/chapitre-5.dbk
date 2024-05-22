@@ -146,7 +146,8 @@
           </listitem>
 
           <listitem>
-            <para>Une alternative est un tour en mode “popcorn”<indexterm>
+            <para>Une alternative est un tour en mode
+            <foreignphrase>“popcorn”</foreignphrase><indexterm>
                 <primary>style pop-corn</primary>
               </indexterm> ; assurons-nous alors que tout le monde ait pris la
             parole avant de passer à la partie administration.</para>
@@ -245,31 +246,28 @@
       role="strong">n</emphasis>ext meeting</emphasis>) pour que nous
       puissions les mémoriser plus facilement <emphasis role="strong">(en
       français : présence, durée, compte-rendu, information, prochaine
-      réunion). </emphasis></para>
+      réunion).</emphasis></para>
 
-      <blockquote>
+      <informalfigure role="guide">
         <para><emphasis role="strong">Intention : </emphasis>Se préparer pour
         la réunion. Au total, la phase ADMIN s’assure que nous pouvons nous
         concentrer entièrement sur le contenu et que rien ne nous retient ou
         ne nous distrait.</para>
-      </blockquote>
 
-      <blockquote>
         <para><emphasis role="strong">Outils : </emphasis>Passer par tous les
         éléments “ADMIN” (voir ci-dessous).</para>
-      </blockquote>
 
-      <blockquote>
         <para><emphasis role="strong">Terminé quand : </emphasis>Rien ne nous
         empêche d’entrer dans la réunion.</para>
-      </blockquote>
+      </informalfigure>
 
       <section>
         <title>Présence<indexterm>
             <primary>ADMIN</primary>
 
             <secondary>présence</secondary>
-          </indexterm> (A pour “Attendance” en anglais)</title>
+          </indexterm> (A pour <foreignphrase>“Attendance”</foreignphrase> en
+        anglais)</title>
 
         <para>Vérifions la présence de tous les membres du cercle. Accueillons
         les visiteurs et la fonction dans laquelle ils sont présents.
@@ -324,7 +322,8 @@
             <primary>ADMIN</primary>
 
             <secondary>durée de la réunion</secondary>
-          </indexterm> (D pour “Duration” en anglais)</title>
+          </indexterm> (D pour <foreignphrase>“Duration”</foreignphrase> en
+        anglais)</title>
 
         <para>Avez-vous jamais été à une réunion où certaines personnes
         pensaient qu’elle durerait une heure, et d’autres 1 heure et demie ?
@@ -353,7 +352,8 @@
             <primary>ADMIN</primary>
 
             <secondary>compte-rendu de la réunion précédente</secondary>
-          </indexterm> (M pour “Minutes” en anglais)</title>
+          </indexterm> (M pour <foreignphrase>“Minutes”</foreignphrase> en
+        anglais)</title>
 
         <para>Assurons-nous que le compte-rendu de la réunion précédente du
         cercle est connu et qu’il a fait l’objet d’un consentement. Nous ne
@@ -388,7 +388,8 @@
             <primary>ADMIN</primary>
 
             <secondary>information</secondary>
-          </indexterm> (I pour “Information” en anglais)</title>
+          </indexterm> (I pour <foreignphrase>“Information”</foreignphrase> en
+        anglais)</title>
 
         <para>Puisque tous les membres d’un cercle font partie du même
         contexte de l’organisation ou de plusieurs organisations connexes, il
@@ -431,7 +432,8 @@
             <primary>ADMIN</primary>
 
             <secondary>prochaine réunion</secondary>
-          </indexterm> (N pour “Next meeting” en anglais)</title>
+          </indexterm> (N pour <foreignphrase>“Next meeting”</foreignphrase>
+        en anglais)</title>
 
         <para>Quand est la prochaine réunion du cercle ? Beaucoup de cercles
         et même des organisations entières disparaissent pour avoir raté cette
@@ -2015,8 +2017,8 @@
 
       <itemizedlist>
         <listitem>
-          <para>Ce qui est «naturel» est hautement discutable. Par exemple, il
-          est ou il fut un temps et des cultures dans lesquels il était
+          <para>Ce qui est « naturel » est hautement discutable. Par exemple,
+          il est ou il fut un temps et des cultures dans lesquels il était
           inimaginable qu’un enfant puisse parler lors d’un dîner familial
           sans y avoir été invité. Dans ce cas, on trouvait certainement que
           ce style de repas familial était la manière de faire « naturelle
@@ -2174,7 +2176,7 @@
             avant elle. Dans un monde idéal, les gens l’assument clairement et
             construisent leur contribution sous la forme : « <emphasis>Ma
             première réaction / idée était… puis j’ai entendu Eduardo parler
-            et j’ai appris que…, et je pense à présent que…</emphasis>». Les
+            et j’ai appris que…, et je pense à présent que…</emphasis> ». Les
             tours de parole nous offrent un maximum d’apports, à la fois à
             partir des contributions individuelles et par la construction de
             la sagesse du groupe.</para>
@@ -2240,11 +2242,11 @@
         <emphasis>avant</emphasis> que les membres du cercle formulent ou
         donnent leurs opinions. Il peut s’agir d’une proposition de politique,
         ou d’un rapport, mais il peut aussi s’agir d’une objection complexe.
-        Nous devons être transparents sur la nature du tour : <emphasis>«
-        Assurons-nous que tout le monde comprend la proposition / l’objection
-        avant d’en parler davantage. C’est le moment de poser les questions
-        pour lesquelles vous avez besoin de réponses avant de continuer.
-        »</emphasis></para>
+        Nous devons être transparents sur la nature du tour :
+        <emphasis>« Assurons-nous que tout le monde comprend la proposition /
+        l’objection avant d’en parler davantage. C’est le moment de poser les
+        questions pour lesquelles vous avez besoin de réponses avant de
+        continuer. »</emphasis></para>
 
         <para>Les questions peuvent être recueillies lors d’un tour de parole
         pour qu’une personne qualifiée puisse ensuite y répondre, ou bien il
@@ -2355,7 +2357,7 @@
 
               <listitem>
                 <para>« <emphasis>Je trouve intéressant que le cercle
-                Adhésions semble…</emphasis>»</para>
+                Adhésions semble… </emphasis>»</para>
               </listitem>
             </itemizedlist>
           </listitem>
@@ -2415,7 +2417,7 @@
               <listitem>
                 <para>« <emphasis>À présent que je comprends mieux
                 l’objection, je suis d’accord pour amender la proposition.
-                J’ai une idée…</emphasis>»</para>
+                J’ai une idée…</emphasis> »</para>
               </listitem>
 
               <listitem>
@@ -2593,8 +2595,8 @@
             cette raison qu’il est nécessaire d’être explicite : «
             <emphasis>Je propose que nous passions les 10 prochaines minutes
             en expression libre afin de voir si cela nous apporte de nouvelles
-            idées.</emphasis>» Achevez ensuite ce temps d’expression libre par
-            un tour de parole afin d’établir à nouveau l’équivalence et de
+            idées.</emphasis> » Achevez ensuite ce temps d’expression libre
+            par un tour de parole afin d’établir à nouveau l’équivalence et de
             comprendre comment se situe le cercle dans son ensemble.</para>
           </listitem>
         </itemizedlist>
@@ -2652,7 +2654,7 @@
             cercle va alors manquer d’information. Donc, plutôt que de passer,
             disons : « <emphasis>Cela me semble bien</emphasis> » ou «
             <emphasis>Je n’aime pas cette proposition pour les raisons que
-            Jane a déjà données. Je n’ai rien à ajouter.</emphasis> »</para>
+            Jane a déjà données. Je n’ai rien à ajouter.</emphasis> »</para>
           </listitem>
 
           <listitem>
@@ -2812,7 +2814,7 @@
             membres du cercle sont présents : « <emphasis>Je remarque que
             seulement la moitié des membres de notre cercle est présente.
             Faisons un tour sur comment cela modifie notre ordre du jour et
-            comment nous pouvons en tenir compte.</emphasis>»</para>
+            comment nous pouvons en tenir compte.</emphasis> »</para>
           </listitem>
 
           <listitem>
@@ -2824,7 +2826,7 @@
             Pouvons-nous faire un tour afin de savoir si le groupe est
             d’accord pour continuer à parler de ce sujet maintenant ? Je veux
             simplement m’assurer que nous sommes d’accord avec la façon dont
-            nous utilisons notre temps.</emphasis>»</para>
+            nous utilisons notre temps.</emphasis> »</para>
           </listitem>
 
           <listitem>
@@ -2833,7 +2835,7 @@
             <emphasis>« J’ai le sentiment que tout le monde n’a pas eu
             l’occasion de lire le document. Faisons un tour pour savoir où
             chaque personne en est et sur ce que vous pensez que nous pouvons
-            faire durant cette réunion.</emphasis>»</para>
+            faire durant cette réunion.</emphasis> »</para>
           </listitem>
 
           <listitem>
@@ -2841,8 +2843,8 @@
             faire. <emphasis>« Je me retrouve un peu perdu et je ne suis pas
             sûr de ce qui est en train de se passer. Pouvons-nous faire un
             tour afin que chaque personne nous dise où elle perçoit que nous
-            en sommes du processus et fasse une suggestion sur la suite
-            ?</emphasis>»</para>
+            en sommes du processus et fasse une suggestion sur la
+            suite ?</emphasis> »</para>
           </listitem>
         </itemizedlist>
 
@@ -3015,7 +3017,7 @@
         <para>Pour limiter une discussion croisée qui est en train de se
         produire, disons simplement quelque chose comme : « J’ai envie
         d’entendre ce que tu as à dire. Merci d’écrire cette contribution ou
-        de la conserver en tête. Reprenons le tour ». Voici d’autres phrases
+        de la conserver en tête. Reprenons le tour ». Voici d’autres phrases
         qui ne contiennent pas de reproche que l’on peut utiliser pour aider à
         maintenir la discipline du tour. Certaines fonctionnent également en
         dehors d’un contexte sociocratique.</para>
@@ -3025,19 +3027,19 @@
             <para><emphasis>« J’ai des choses à dire, mais je remarque que je
             devrais couper la parole à d’autres personnes pour me faire
             entendre et je n’aime pas faire ça. Pouvons-nous faire des tours
-            de parole afin de nous éviter de nous couper la parole
-            ?</emphasis>»</para>
+            de parole afin de nous éviter de nous couper la
+            parole ?</emphasis> »</para>
           </listitem>
 
           <listitem>
             <para><emphasis>« Je remarque de nombreuses discussions croisées.
-            Je préférerais revenir à notre tour de parole.</emphasis>»</para>
+            Je préférerais revenir à notre tour de parole.</emphasis> »</para>
           </listitem>
 
           <listitem>
             <para><emphasis>« J’aimerais que chaque personne prenne une minute
             afin d’expliquer son point de vue. Ainsi, nous pourrions profiter
-            de toute l’expertise du groupe.</emphasis>»</para>
+            de toute l’expertise du groupe.</emphasis> »</para>
           </listitem>
         </itemizedlist>
       </section>
@@ -3069,7 +3071,7 @@
           <listitem>
             <para>« Je propose que nous prenions 10 minutes sur le dernier
             sujet prévu à l’ordre du jour afin de poursuivre la discussion sur
-            le sujet actuel.»</para>
+            le sujet actuel. »</para>
           </listitem>
 
           <listitem>
@@ -3288,7 +3290,7 @@
             contribution envers le groupe. Nous pourrions dire : <emphasis>«
             C’est mon tour à présent, mais je préférerais réfléchir davantage
             à ma contribution et écouter d’autres parler auparavant.
-            Voudrais-tu me donner la parole un peu plus tard ?</emphasis>»
+            Voudrais-tu me donner la parole un peu plus tard ? </emphasis>»
             Cela peut être difficile pour la personne qui facilite de se
             souvenir de qui a passé et doit être ré-interrogé, mais un petit
             rappel amical peut corriger cela.</para>
@@ -3332,12 +3334,12 @@
             est utile, comme mesure de la température, de savoir
             <emphasis>combien</emphasis> de personnes sont d’accord avec une
             même idée au sein d’un groupe. Dire seulement <emphasis>« je suis
-            d’accord avec ce qu’a dit Manu</emphasis>» ne sera pas assez
+            d’accord avec ce qu’a dit Manu </emphasis>» ne sera pas assez
             précis car tout le monde ne va pas se rappeler de tout ce qu’a dit
             Manu. Donnez plutôt l’idée générale ou les mots clés. Par exemple
             :<emphasis>« Je suis d’accord avec Manu à propos de l’impact
             environnemental et l’idée de réutiliser plutôt que d’acheter du
-            neuf.</emphasis>» Ne l’expliquez pas à nouveau, mais redonnez
+            neuf.</emphasis> » Ne l’expliquez pas à nouveau, mais redonnez
             l’essentiel. Au fur et à mesure que les personnes découvriront
             qu’elles seront effectivement entendues lors des tours, leurs
             prises de parole deviendront plus courtes.</para>
@@ -3347,7 +3349,7 @@
             <para>Ne pas savoir. Au cours d’un tour de réactions, il est tout
             à fait possible de dire : <emphasis>« Je suis d’accord avec ce
             point de vue parce que… Et je suis d’accord avec cet autre point
-            de vue car…</emphasis>» Nous n’avons pas besoin de savoir. Le
+            de vue car…</emphasis> » Nous n’avons pas besoin de savoir. Le
             groupe va décider. Donnons lui le temps pour le faire.</para>
           </listitem>
 
@@ -3362,7 +3364,7 @@
             respect du temps de parole est bénéfique à tout le monde, par
             exemple en disant quelque chose comme : <emphasis>« Nous allons
             nous minuter, ce qui nous permettra tous de mieux respecter la
-            durée allouée à ce sujet.</emphasis>» Utilisons une sonnerie
+            durée allouée à ce sujet.</emphasis> » Utilisons une sonnerie
             amicale que tout le monde peut entendre. Ne nous tendons pas trop
             lorsque quelqu’un déborde de son temps de parole. Certaines
             personnes considèrent la sonnerie du minuteur comme un signal de
@@ -3377,7 +3379,7 @@
               </indexterm>, un indicateur qu’un certain temps s’est écoulé. Il
             peut être agréable de préciser, pour les personnes qui écoutent :
             <emphasis>« J’ai entendu le signal du minuteur, mais il est
-            important pour moi de préciser que…</emphasis>»</para>
+            important pour moi de préciser que…</emphasis> »</para>
           </listitem>
 
           <listitem>
@@ -3419,16 +3421,16 @@
                 fin d’un tour de parole. Si nous parlons en premier, essayons
                 d’être explicite (en disant quelque chose comme : <emphasis>«
                 Je voudrais m’exprimer en premier afin de donner un exemple du
-                genre de réponse que j’attends.</emphasis>»). Il sera ainsi
+                genre de réponse que j’attends.</emphasis> »). Il sera ainsi
                 clair si on parle en tant que membre ou facilitateur.</para>
               </listitem>
 
               <listitem>
                 <para>Il est utile de préciser quel “chapeau” nous portons
                 lorsque nous parlons. <emphasis>« En tant que membre du
-                cercle, ma préférence est clairement de …</emphasis>», ou
+                cercle, ma préférence est clairement de …</emphasis> », ou
                 <emphasis>« Depuis mon rôle de facilitation, je vous propose
-                que nous fassions un tour sur…</emphasis>»</para>
+                que nous fassions un tour sur…</emphasis> »</para>
               </listitem>
 
               <listitem>
@@ -3445,7 +3447,7 @@
                 soit un problème. Dites par exemple : <emphasis>« Je suis
                 conscient qu’en tant que facilitateur, j’ai à présent le
                 privilège d’accepter ou non cet amendement amical et je vais
-                le faire (ne pas le faire) car…</emphasis>»</para>
+                le faire (ne pas le faire) car…</emphasis> »</para>
               </listitem>
 
               <listitem>
@@ -3483,19 +3485,19 @@
                 <primary>facilitateur</primary>
               </indexterm> nomme la prochaine personne à parler, ainsi que la
             suivante.<emphasis>« À présent nous allons écouter Kim puis
-            Diego</emphasis>». Ainsi Diego peut commencer à réfléchir à sa
+            Diego</emphasis> ». Ainsi Diego peut commencer à réfléchir à sa
             prise de parole, débloquer son micro, etc. Une fois la prise de
             parole de Kim achevée, la personne qui facilite peut dire :
             <emphasis>« Merci Kim, écoutons maintenant Diego, puis
-            Ana.</emphasis>»</para>
+            Ana. </emphasis>»</para>
           </listitem>
 
           <listitem>
             <para>Précisons lorsque nous avons terminé de parler : parfois
             nous marquons une pause pour réfléchir. Nous avons pris pour
             habitude d’ajouter un marqueur de fin à nos prises de parole. Cela
-            peut être de dire <emphasis>« Voilà pour moi</emphasis>» ou
-            <emphasis>« J’ai fini</emphasis>», ou de donner un regard
+            peut être de dire <emphasis>« Voilà pour moi</emphasis> » ou
+            <emphasis>« J’ai fini</emphasis> », ou de donner un regard
             explicite à la personne qui nous suit ou à la personne qui
             facilite. Ainsi, nous nous assurons de ne pas couper la parole à
             quelqu’un, et nous évitons le flottement qui a lieu lorsque une
@@ -3507,7 +3509,8 @@
     </section>
 
     <section>
-      <title>Expression libre et mode “popcorn”</title>
+      <title>Expression libre et mode
+      <foreignphrase>“popcorn”</foreignphrase></title>
 
       <indexterm>
         <primary>expression libre</primary>
@@ -3535,7 +3538,8 @@
         </listitem>
 
         <listitem>
-          <para>Le mode “popcorn” est un peu différent car, comme un “pop”, la
+          <para>Le mode <foreignphrase>“popcorn”</foreignphrase> est un peu
+          différent car, comme un <foreignphrase>“pop”</foreignphrase>, la
           prise de parole sera brève, constituée de quelques mots ou d’une
           courte phrase. Le popcorn fonctionne très bien lors de phases où il
           faut réunir des idées brèves, comme pour la phase de l’élaboration
@@ -3565,10 +3569,10 @@
         <primary>deux par deux</primary>
       </indexterm>
 
-      <para>“Deux par deux”, (<emphasis>Turn and talk </emphasis>en anglais)
-      est une technique par laquelle nous permettons à deux personnes (ou un
-      petit groupe) de se tourner l’une vers l’autre pour parler. Cela peut
-      être utile lorsque le niveau émotionnel est élevé, que le sujet est
+      <para>“Deux par deux”, (<foreignphrase>Turn and talk </foreignphrase>en
+      anglais) est une technique par laquelle nous permettons à deux personnes
+      (ou un petit groupe) de se tourner l’une vers l’autre pour parler. Cela
+      peut être utile lorsque le niveau émotionnel est élevé, que le sujet est
       complexe et/ou que le groupe est important. “Deux par deux” gagne à être
       clairement limité en temps, comme une minute par membre du duo par
       exemple.</para>
@@ -3640,7 +3644,7 @@
           <para>Il est bien plus facile de partager des notes prises en direct
           lors d’une réunion virtuelle. Nous avons toujours deux fenêtres
           ouvertes en même temps sur notre écran lors d’une réunion en
-          visioconférence ; une première montre les personnes présentes tandis
+          visioconférence ; une première montre les personnes présentes tandis
           que la seconde montre l’ordre du jour et la prise de note en direct.
           Ainsi, lorsqu’un cercle développe du contenu ou qu’une personne fait
           une proposition durant une réunion, ce contenu est immédiatement

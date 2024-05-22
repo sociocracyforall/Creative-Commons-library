@@ -1028,55 +1028,55 @@
         <title>Débuts d’une jeune organisation commençant avec un groupe de
         travail I</title>
 
-        <mediaobject xml:id="TCGCpatterns1">
-          <imageobject>
-            <imagedata fileref="../illustrations/6-TCGCpatterns1.jpg"
-                       width="44%"/>
-          </imageobject>
+        <figure xml:id="TCGCpatterns1">
+          <title>CG = CM</title>
 
-          <caption>
-            <para>CG = CM</para>
-          </caption>
-        </mediaobject>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="../illustrations/6-TCGCpatterns1.jpg"
+                         width="44%"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
 
-        <mediaobject xml:id="TCGCpatterns2">
-          <imageobject>
-            <imagedata fileref="../illustrations/6-TCGCpatterns2.jpg"
-                       width="44%"/>
-          </imageobject>
+        <figure xml:id="TCGCpatterns2">
+          <title>Le CG avec au moins un membre supplémentaire forme le
+          CM</title>
 
-          <caption>
-            <para>Le CG avec au moins un membre supplémentaire forme le
-            CM</para>
-          </caption>
-        </mediaobject>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="../illustrations/6-TCGCpatterns2.jpg"
+                         width="44%"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
       </figure>
 
       <figure xml:id="TCGCpatterns4">
         <title>Débuts d’une jeune organisation commençant avec un groupe de
         travail II</title>
 
-        <mediaobject xml:id="TCGCpatterns3">
-          <imageobject>
-            <imagedata fileref="../illustrations/6-TCGCpatterns3.jpg"
-                       width="44%"/>
-          </imageobject>
+        <figure xml:id="TCGCpatterns3">
+          <title>CG et CM sont liés avec un triple lien</title>
 
-          <caption>
-            <para>CG et CM sont liés avec un triple lien</para>
-          </caption>
-        </mediaobject>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="../illustrations/6-TCGCpatterns3.jpg"
+                         width="44%"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
 
-        <mediaobject>
-          <imageobject>
-            <imagedata fileref="../illustrations/6-TCGCpatterns4.jpg"
-                       width="44%"/>
-          </imageobject>
+        <figure>
+          <title>CG et CM sont distincts et reliés par un double lien</title>
 
-          <caption>
-            <para>CG et CM sont distincts et reliés par un double lien</para>
-          </caption>
-        </mediaobject>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="../illustrations/6-TCGCpatterns4.jpg"
+                         width="44%"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
       </figure>
 
       <para>Si une organisation commence avec un Conseil d’Administration /
@@ -1120,40 +1120,40 @@
         <title>Débuts d’une jeune organisation commençant par un Cercle
         Mission</title>
 
-        <mediaobject xml:id="metamorphosisTopDown1">
-          <imageobject>
-            <imagedata fileref="../illustrations/2-metamorphosisTopDown1.jpg"
-                       width="24%"/>
-          </imageobject>
+        <figure xml:id="metamorphosisTopDown1">
+          <title>Le CM forme le CG en nommant un leader de CG</title>
 
-          <caption>
-            <para>Le CM forme le CG en nommant un leader de CG</para>
-          </caption>
-        </mediaobject>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="../illustrations/2-metamorphosisTopDown1.jpg"
+                         width="24%"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
 
-        <mediaobject xml:id="metamorphosisTopDown2">
-          <imageobject>
-            <imagedata fileref="../illustrations/2-metamorphosisTopDown2.jpg"
-                       width="38%"/>
-          </imageobject>
+        <figure xml:id="metamorphosisTopDown2">
+          <title>Le CG forme des cercles de travail en nommant des leaders de
+          cercles de département</title>
 
-          <caption>
-            <para>Le CG forme des cercles de travail en nommant des leaders de
-            cercles de département</para>
-          </caption>
-        </mediaobject>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="../illustrations/2-metamorphosisTopDown2.jpg"
+                         width="38%"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
 
-        <mediaobject xml:id="metamorphosisTopDown">
-          <imageobject>
-            <imagedata fileref="../illustrations/2-metamorphosisTopDown3.jpg"
-                       width="38%"/>
-          </imageobject>
+        <figure xml:id="metamorphosisTopDown">
+          <title>Les cercles de département sont entièrement formés et reliés
+          au CG</title>
 
-          <caption>
-            <para>Les cercles de département sont entièrement formés et reliés
-            au CG</para>
-          </caption>
-        </mediaobject>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="../illustrations/2-metamorphosisTopDown3.jpg"
+                         width="38%"/>
+            </imageobject>
+          </mediaobject>
+        </figure>
       </figure>
     </section>
 
@@ -1936,11 +1936,11 @@
     qu’un symptôme d’une gouvernance bloquée est que nous devenons
     émotionnellement réactifs, par exemple nous nous sentons stressés,
     dépassés, énervés, débordés ou épuisés, peut-être effrayés. Cela peut
-    interférer avec notre capacité à dire : “<emphasis>Oh, c’est un problème
+    interférer avec notre capacité à dire : “<emphasis>Oh, c’est un problème
     de gouvernance. Nous avons donné trop de pouvoir au cercle général et
     c’est la raison pour laquelle nous nous sentons comme cela”.</emphasis>
     Beaucoup des épreuves typiques qui énervent les gens sont des problèmes de
-    gouvernance : les gens parlent trop longtemps, manquent de responsabilité,
+    gouvernance : les gens parlent trop longtemps, manquent de responsabilité,
     se marchent sur les pieds, des tâches passent à travers les mailles du
     filet – la liste est longue. Vous vous rappelez que les émotions pointent
     vers des besoins satisfaits ou insatisfaits ? (Voir la section <xref

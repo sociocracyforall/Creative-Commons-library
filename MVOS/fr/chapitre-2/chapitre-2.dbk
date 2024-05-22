@@ -294,7 +294,8 @@
         <primary>domaine</primary>
       </indexterm>) et nous devons savoir clairement qui participe à l'effort
     (les membres). La sociocratie apporte de la clarté sur ces trois aspects,
-    comme le montre le diagramme <xref linkend="butsdomainesmembres"/>.</para>
+    comme le montre le diagramme <xref linkend="butsdomainesmembres"
+    xrefstyle="select: labelnumber"/>.</para>
 
     <figure xml:id="butsdomainesmembres">
       <title>Un cercle: membres, but et domaine</title>
@@ -2213,9 +2214,8 @@
             </indexterm>, le leader y étant le premier lien tandis que le
           délégué est le second lien (voir la <xref linkend="double-linking"/>
           sur le double-lien). Dans une organisation plus horizontale, le
-          leader peut être proposé par son propre cercle. Dans un cas comme
-          dans l'autre, l'autre cercle doit confirmer ce choix par
-          consentement<indexterm>
+          leader peut être proposé par son propre cercle. Dans les deux cas,
+          l'autre cercle doit confirmer ce choix par consentement<indexterm>
               <primary>sélection</primary>
             </indexterm>.</para>
 
@@ -2495,7 +2495,7 @@
         cercle à participer efficacement à la réunion.</para>
 
         <figure xml:id="facilitatorchecklist">
-          <title>35. Check-list pour le rôle de facilitateur</title>
+          <title>Check-list pour le rôle de facilitateur</title>
 
           <mediaobject>
             <imageobject>
@@ -4141,28 +4141,28 @@
         <figure>
           <title/>
 
-          <mediaobject xml:id="topcirclecommunity">
-            <imageobject>
-              <imagedata fileref="../illustrations/topcirclecommunity.jpg"
-                         width="49%"/>
-            </imageobject>
+          <figure xml:id="topcirclecommunity">
+            <title>Des experts externes d'un CM d'une communauté
+            intentionnelle</title>
 
-            <caption>
-              <para>Des experts externes d'un CM d'une communauté
-              intentionnelle</para>
-            </caption>
-          </mediaobject>
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="../illustrations/topcirclecommunity.jpg"
+                           width="49%"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
 
-          <mediaobject xml:id="topcirclenonprofitJH">
-            <imageobject>
-              <imagedata fileref="../illustrations/topcirclenonprofit.jpg"
-                         width="49%"/>
-            </imageobject>
+          <figure xml:id="topcirclenonprofitJH">
+            <title>Un exemple d'un cercle Mission pour un OBNL</title>
 
-            <caption>
-              <para>Un exemple d'un cercle Mission pour un OBNL</para>
-            </caption>
-          </mediaobject>
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="../illustrations/topcirclenonprofit.jpg"
+                           width="49%"/>
+              </imageobject>
+            </mediaobject>
+          </figure>
         </figure>
 
         <para>Il existe de nombreuses façons de lier ensemble les groupes de
@@ -4613,7 +4613,8 @@
       <para>Pour former un sous-cercle, définissons son but<indexterm>
           <primary>but</primary>
         </indexterm> et son domaine, et désignons l'initiateur ou le leader.
-      La check-list de l'encadré 60 contient les points à garder à
+      La check-list de l'encadré <xref linkend="subcirclechecklist"
+      xrefstyle="select: labelnumber"/> contient les points à garder à
       l'esprit<indexterm>
           <primary>cercle</primary>
 
@@ -4653,7 +4654,8 @@
           en place par goût des formalités, mais bien pour faciliter le
           partage des responsabilités, une pleine transparence, l'économie de
           temps et la conservation de la mémoire du cercle. (Voir l'encadré
-          59.)</para>
+          <xref linkend="ExpertboxLeif2"
+          xrefstyle="select: labelnumber"/>.)</para>
         </listitem>
 
         <listitem>
@@ -5689,7 +5691,7 @@
       coordination. Nous n'avons pas besoin d'une politique pour déterminer
       que le membre 1 peut avoir l'outil à 8h30 et que le membre 2 ira le
       chercher à 11h45 pour l'apporter sur le deuxième chantier. À moins qu'il
-      ne s'agisse d'une décision que nous prenons souvent : dans ce cas, nous
+      ne s'agisse d'une décision que nous prenons souvent : dans ce cas, nous
       pourrions vouloir établir une politique en tant que décision
       « d'ensemble » (voir la section <xref linkend="decision-making"
       xrefstyle="select: labelnumber page"/>).</para>

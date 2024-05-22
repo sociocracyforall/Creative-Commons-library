@@ -7,8 +7,8 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:ns="http://docbook.org/ns/docbook">
   <info>
-    <title>Rétroactions (<emphasis><emphasis
-    role="strong">feedback</emphasis></emphasis>) et apprentissages</title>
+    <title>Rétroactions (<foreignphrase>feedback</foreignphrase>) et
+    apprentissages</title>
   </info>
 
   <indexterm significance="preferred">
@@ -22,13 +22,14 @@
       <primary>besoins</primary>
     </indexterm>
 
-    <para>Beaucoup de gens ont peur de donner du feedback. « Est-ce que je
-    peux te faire un retour ? » Cette question peut être annonciatrice de
-    critiques — et les humains ne savent pas trop comment les recevoir.
-    Lorsque nous faisons face à des critiques, la réaction la plus courante
-    est de nous fermer, d’être réactif, de nous mettre sur la défensive ou de
-    nous retirer. Si nous voulons que nos rétroactions soient entendues, la
-    forme « critique » ne sera pas la plus efficace.</para>
+    <para>Beaucoup de gens ont peur de donner du
+    <foreignphrase>feedback</foreignphrase>. « Est-ce que je peux te faire un
+    retour ? » Cette question peut être annonciatrice de critiques — et les
+    humains ne savent pas trop comment les recevoir. Lorsque nous faisons face
+    à des critiques, la réaction la plus courante est de nous fermer, d’être
+    réactif, de nous mettre sur la défensive ou de nous retirer. Si nous
+    voulons que nos rétroactions soient entendues, la forme « critique » ne
+    sera pas la plus efficace.</para>
 
     <section>
       <title>Des besoins humains universels</title>
@@ -255,7 +256,8 @@
         </mediaobject>
       </figure>
 
-      <para>Regardons l’illustration 144. Quelque chose se passe et nous
+      <para>Regardons l’illustration <xref linkend="feelingsneedsmessages"
+      xrefstyle="select: labelnumber"/>. Quelque chose se passe et nous
       réagissons à ce que nous <emphasis>entendons</emphasis>, non pas à ce
       qui a été dit ou fait. Nous voyons et entendons tout à travers une part
       d'interprétation. Mais ici, il est encore plus important de comprendre
@@ -335,11 +337,12 @@
     <para>Le changement vient de l'évaluation des actions passées et de
     l'expérimentation de nouvelles approches qui, nous l'espérons, répondront
     plus efficacement aux besoins. C'est la fonction <emphasis
-    role="strong">orienter</emphasis> dans le cycle ORIENTER — EXÉCUTER —
-    MESURER. La rétroaction utile au processus de changement émerge bien plus
-    de la curiosité à l'égard des besoins universels qui sous-tendent le
-    comportement que d'un raisonnement simpliste du type « bien ou
-    mal ».</para>
+    role="strong">orienter</emphasis> dans le cycle<remark>Fix this up based
+    on Thomas's suggestion; a bunch more in this chapter, too</remark>
+    ORIENTER — EXÉCUTER — MESURER. La rétroaction utile au processus de
+    changement émerge bien plus de la curiosité à l'égard des besoins
+    universels qui sous-tendent le comportement que d'un raisonnement
+    simpliste du type « bien ou mal ».</para>
 
     <section>
       <title>Au-delà du bien et du mal se trouve la créativité</title>
