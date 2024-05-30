@@ -33,7 +33,7 @@
   <xsl:param name="toc.section.depth">3</xsl:param>
   <xsl:param name="doc.section.depth">2</xsl:param>
 
-  <xsl:param name="figure.default.position">[htb]</xsl:param>
+  <xsl:param name="figure.default.position">[htbp]</xsl:param>
 
   <xsl:param name="latex.hyperparam">hyperindex=false</xsl:param>
 
@@ -110,11 +110,14 @@
   <!-- Format a glosslist as a table. This involves the templates through the
   `glossdef` template. -->
   <xsl:template match="glosslist">
-    <xsl:text>\bgroup \def\arraystretch{1.4}&#10;</xsl:text>
+    <!--xsl:text>\bgroup \def\arraystretch{1.4}&#10;</xsl:text-->
+    <xsl:text>\def\arraystretch{1.4}&#10;</xsl:text>
     <xsl:text>\begin{longtable}{p{0.18\linewidth}p{0.78\linewidth}}&#10;</xsl:text>
+    <!--xsl:text>\begin{longtable}{lp{0.78\linewidth}}&#10;</xsl:text-->
     <xsl:text>&amp; \\\hline\hline&#10;</xsl:text>
     <xsl:apply-templates/>
-    <xsl:text>\hline&#10;\end{longtable}&#10;\egroup&#10;</xsl:text>
+    <!--xsl:text>\hline&#10;\end{longtable}&#10;\egroup&#10;</xsl:text-->
+    <xsl:text>\hline&#10;\end{longtable}&#10;</xsl:text>
   </xsl:template>
 
   <xsl:template match="glossentry">
@@ -122,6 +125,7 @@
   </xsl:template>
 
   <xsl:template match="glossterm">
+    <xsl:text>\raggedright </xsl:text>
     <xsl:apply-templates/>
     <xsl:text>&amp;</xsl:text>
   </xsl:template>
@@ -155,6 +159,16 @@
     <xsl:text>\begin{quotationb}&#10;</xsl:text>
     <xsl:apply-templates/>
     <xsl:text>\end{quotationb}&#10;</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="informalfigure[@role = 'guide']/para">
+    <xsl:text>&#10;\noindent </xsl:text>
+    <xsl:call-template name="label.id"/>
+    <xsl:apply-templates/>
+    <xsl:if test="position() != last()">
+      <xsl:text>\vspace{0.2em}</xsl:text>
+    </xsl:if>
+    <xsl:text>&#10;</xsl:text>
   </xsl:template>
 
   <!-- DocBook 5 doesn't have a @float attribute on figures any longer, but the dblatex

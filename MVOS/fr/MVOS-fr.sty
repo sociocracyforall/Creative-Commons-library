@@ -136,6 +136,12 @@
 % Miscellaneous
 \usepackage{calc}
 \usepackage{multirow}
+
+% This needs to come before the `subfigure` package import in order to
+% be picked up by the `\thesubfigure` command.
+\usepackage{chngcntr}
+\counterwithout{figure}{chapter}
+
 \usepackage{subfigure}
 \usepackage{ifthen}
 \usepackage{tabularx}
@@ -332,9 +338,6 @@
 \newenvironment{quotationb}%
 {\begin{leftbar}\begin{quotation}}%
 {\end{quotation}\end{leftbar}}
-
-\usepackage{chngcntr}
-\counterwithout{figure}{chapter}
 
 \linespread{1.08}
 
