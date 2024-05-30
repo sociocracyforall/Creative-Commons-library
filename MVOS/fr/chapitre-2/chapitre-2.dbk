@@ -871,8 +871,9 @@
           </indexterm><indexterm>
             <primary>domaine</primary>
           </indexterm>. Comme indiqué plus haut, cela est vrai également pour
-        les décisions qui concernent des personnes en dehors du cercle, pour
-        autant que ces décisions relèvent du domaine du cercle.</para>
+        les décisions qui concernent des personnes en dehors du cercle,
+        <emphasis>pour autant que ces décisions relèvent du domaine du
+        cercle</emphasis>.</para>
 
         <informalexample>
           <para>Le Cercle Adhésions peut avoir autorité<indexterm>
@@ -977,11 +978,12 @@
             <primary>autorité</primary>
           </indexterm> suit le principe de ce que les linguistes appellent
         « <foreignphrase>elsewhere condition</foreignphrase><footnote>
-            <para><emphasis>NDLT L’expression “</emphasis>elsewhere condition”
-            ressort du domaine linguistique. Le principe d'ailleurs est la
-            proposition selon laquelle l'application d'une règle ou d'une
-            opération spécifique prévaut sur l'application d'une règle plus
-            générale.</para>
+            <para>NDT : L’expression
+            <foreignphrase><emphasis>“</emphasis>elsewhere
+            condition”</foreignphrase> ressort du domaine linguistique. Le
+            principe d'ailleurs est la proposition selon laquelle
+            l'application d'une règle ou d'une opération spécifique prévaut
+            sur l'application d'une règle plus générale.</para>
           </footnote> » : par défaut, elle demeurera toujours dans le domaine
         d'un cercle, sauf si elle se trouve déjà dans le domaine d'un
         sous-cercle qui fonctionne efficacement.<indexterm>
@@ -1041,7 +1043,7 @@
         domaines<indexterm>
             <primary>domaine</primary>
           </indexterm> de deux cercles, on risque de se marcher sur les pieds.
-        Comment s'en aperçoit-on ? Chaque fois qu'il y a un conflit, comme
+        Comment s'en aperçoit-on ? Chaque fois qu'il y a un conflit, comme
         dans les deux premiers modèles de l'illustration qui suit, nous
         comprenons alors qu'il y a soit un chevauchement, soit un manque de
         sensibilisation concernant les domaines.</para>
@@ -1069,7 +1071,7 @@
 
         <figure xml:id="overlapgapcomplaints">
           <title>Chevauchement, lacune, domaines définis de façon claire et
-          signes révélateurs</title>
+          signe révélateur</title>
 
           <mediaobject>
             <imageobject>
@@ -1121,7 +1123,7 @@
             l'ensemble des membres de la communauté peuvent se plaindre de
             l'escalier sale. Finalement, les membres du Cercle Rez-de-chaussée
             pourraient en vouloir aux membres du Cercle Sous-sol (« Après
-            tout, c'est l'escalier qui mène au sous-sol, non ?), et ces
+            tout, c'est l'escalier qui mène au sous-sol, non ? »), et ces
             derniers pourraient être en colère envers les premiers parce
             qu'ils sont montrés du doigt (« Après tout, quand nous avons
             accepté de nous occuper du sous-sol, personne ne parlait de
@@ -1192,9 +1194,9 @@
               l'esthétique n'est plus ce qu'ils avaient en tête pour cet
               espace. Ils affirment que les escaliers ressemblent maintenant à
               des escaliers de commerce, alors qu'ils souhaitaient que le
-              bâtiment de la collectivité ait l'aspect d'un "salon". Les deux
-              cercles ont supposé qu'ils avaient chacun le dernier mot, et ont
-              considéré que les escaliers se trouvaient dans leur
+              bâtiment de la collectivité ait l'aspect d'un « salon ». Les
+              deux cercles ont supposé qu'ils avaient chacun le dernier mot,
+              et ont considéré que les escaliers se trouvaient dans leur
               domaine<indexterm>
                   <primary>domaine</primary>
                 </indexterm> spécifique.</para>
@@ -1227,7 +1229,7 @@
             <secondary>autorité sur les transferts</secondary>
           </indexterm>, c'est plutôt comme une course de relais où le bâton
         est passé d'un coureur à l'autre. Nous trouvons plus d'informations
-        sur les domaines, les transferts et les transmissions dans la <xref
+        sur les domaines, les transferts et les transmissions dans <xref
         linkend="handoff"/>.</para>
       </section>
 
@@ -1314,11 +1316,12 @@
         plupart de son temps à planifier le long terme et les politiques
         organisationnelles générales qui ne sont pas élaborées par les cercles
         individuels. Initialement, en sociocratie, le cercle du conseil
-        d'administration était appelé « supérieur ». Les gens sont attirés par
-        la sociocratie parce qu'elle incarne l'égalitarisme. Ainsi des mots
-        comme « cercle supérieur » et « cercle inférieur », voire même le mot
-        « leader », peuvent provoquer un inconfort et référer à une structure
-        de pouvoir oppressif<indexterm>
+        d'administration était appelé « cercle supérieur »
+        (<foreignphrase>“top circle”</foreignphrase> en anglais). Les gens
+        sont attirés par la sociocratie parce qu'elle incarne l'égalitarisme.
+        Ainsi des mots comme « cercle du dessus » et « cercle du dessous »,
+        voire même le mot « leader », peuvent provoquer un inconfort et
+        référer à une structure de pouvoir oppressif<indexterm>
             <primary>pouvoir</primary>
 
             <secondary>perception du pouvoir</secondary>
@@ -1370,12 +1373,12 @@
         linkend="circlestructureangle" xrefstyle="select: labelnumber"/>
         l’illustrent bien : elles décrivent une même organisation en abordant
         la hiérarchie de façon plus ou moins prononcée, selon le cas. Nous
-        pouvons éviter une hiérarchie linéaire<indexterm>
+        pouvons éviter l'évocation d'une hiérarchie linéaire<indexterm>
             <primary>hiérarchie</primary>
 
             <secondary>hiérarchie linéaire</secondary>
-          </indexterm> en dessinant une structure dynamique - mais ici encore
-        toutefois, cela s'accompagne de connotations non désirées
+          </indexterm> en représentant une structure plus circulaire - mais
+        ici encore toutefois, cela s'accompagne de connotations non désirées
         (« en périphérie » ou « en marge » versus « au centre »).</para>
 
         <figure xml:id="circlestructureangle">
@@ -1424,7 +1427,8 @@
         les structures de pouvoir<indexterm>
             <primary>pouvoir</primary>
           </indexterm> auxquelles nous sommes habitués, voir par exemple <xref
-        linkend="underestimate" xrefstyle="select: labelnumber page"/>)</para>
+        linkend="underestimate"
+        xrefstyle="select: labelnumber page"/>.)</para>
       </section>
     </section>
 
@@ -2014,7 +2018,7 @@
           entre deux cercles. Le leader et le délégué<indexterm>
               <primary>délégué</primary>
             </indexterm> portent les informations entre les cercles, une
-          caractéristique que nous appelons le double-lien. (Voir la <xref
+          caractéristique que nous appelons le double-lien. (Voir <xref
           linkend="double-linking"/>.)</para>
         </listitem>
       </itemizedlist>
@@ -2077,8 +2081,8 @@
 
             <secondary>rôle opérationnel</secondary>
           </indexterm> (lié aux opérations du domaine du cercle entier, voir
-        la <xref linkend="operationalroles"/>). Le leader agit dans le cadre
-        de la politique consentie par le cercle.</para>
+        <xref linkend="operationalroles"/>). Le leader agit dans le cadre de
+        la politique consentie par le cercle.</para>
 
         <figure xml:id="tasksLeader">
           <title>Check-list<footnote>
@@ -2212,7 +2216,7 @@
 
               <secondary>cercle parent</secondary>
             </indexterm>, le leader y étant le premier lien tandis que le
-          délégué est le second lien (voir la <xref linkend="double-linking"/>
+          délégué est le second lien (voir <xref linkend="double-linking"/>
           sur le double-lien). Dans une organisation plus horizontale, le
           leader peut être proposé par son propre cercle. Dans les deux cas,
           l'autre cercle doit confirmer ce choix par consentement<indexterm>
@@ -2809,12 +2813,12 @@
       </figure>
 
       <para>C'est une bonne idée d'avoir un système qui crée un doublon (par
-      exemple, une deuxième personne qui sait comment réparer la photocopieuse
-      !) afin de ne pas dépendre d'un individu à compétence unique ; et de
-      permettre la diffusion des connaissances. Ce qui est important ici,
-      c'est qu'il faut établir clairement qui est responsable : si deux
-      personnes tiennent le même rôle, le risque est qu'elles supposent
-      chacune que l'autre est responsable.</para>
+      exemple, une deuxième personne qui sait comment réparer la
+      photocopieuse !) afin de ne pas dépendre d'un individu à compétence
+      unique ; et de permettre la diffusion des connaissances. Ce qui est
+      important ici, c'est qu'il faut établir clairement qui est responsable :
+      si deux personnes tiennent le même rôle, le risque est qu'elles
+      supposent chacune que l'autre est responsable.</para>
 
       <para>Une description de rôle peut ressembler à l'exemple <xref
       linkend="examplelawnmoverliaison" xrefstyle="select: labelnumber"/>. Un
@@ -2929,9 +2933,9 @@
 
               <secondary>préparer l'ordre du jour</secondary>
             </indexterm> : est-ce que cela change aussi ? Ou est-ce que seul
-          le facilitateur change ? D'après notre expérience, si la préparation
+          le facilitateur change ? D'après notre expérience, si la préparation
           de la réunion fait l'objet d'une rotation, il peut être difficile de
-          savoir qui fait quoi ! (Pratiquement, cela signifie que quelqu’un
+          savoir qui fait quoi ! (Pratiquement, cela signifie que quelqu’un
           aura à rappeler aux autres lorsque c’est leur tour de préparer la
           réunion, ce qui crée une étape supplémentaire.) La préparation de
           l'ordre du jour de la réunion est une partie importante de la prise
@@ -2941,10 +2945,10 @@
             </indexterm> de cercle et le secrétaire<indexterm>
               <primary>secrétaire</primary>
             </indexterm> — réfléchissent aux prochaines étapes pour chaque
-          point de l'ordre du jour : : ferons-nous une esquisse ? Une
-          proposition est-elle prête ? Les personnes dont nous avons besoin
+          point de l'ordre du jour : ferons-nous une esquisse ? Une
+          proposition est-elle prête ? Les personnes dont nous avons besoin
           pour obtenir des rétroactions ou prendre une décision sont-elles
-          toutes présentes à cette réunion ? Par ailleurs, le simple fait
+          toutes présentes à cette réunion ? Par ailleurs, le simple fait
           d'inscrire un point à l'ordre du jour ne garantit pas l'efficience
           de la réunion. Être clair sur ce qui est réaliste et souhaité comme
           prochaine étape est un ingrédient crucial pour stimuler la
@@ -3064,7 +3068,7 @@
         <primary>premier lien</primary>
 
         <see>leader</see>
-      </indexterm>)) et l'autre comme le « second lien »<indexterm>
+      </indexterm>) et l'autre comme le « second lien »<indexterm>
         <primary>lien ascendant</primary>
 
         <see>délégué</see>
@@ -3518,11 +3522,11 @@
 
         <listitem>
           <para>Le CG est également au cœur du flux d'informations circulant
-          entre les cercles qui s'activent à réaliser le but. « Sur quoi
-          travaillent les cercles ? Qu'est-ce que le cercle de département
+          entre les cercles qui s'activent à réaliser le but. « Sur quoi
+          travaillent les cercles ? Qu'est-ce que le cercle de département
           numéro un a besoin de savoir sur le cercle de département numéro
-          trois ? Comment les cercles peuvent-ils se soutenir mutuellement ?
-          »<indexterm>
+          trois ? Comment les cercles peuvent-ils se soutenir
+          mutuellement ? »<indexterm>
               <primary>cercle</primary>
 
               <secondary>cercle de département</secondary>
@@ -3615,12 +3619,13 @@
         </indexterm>
 
         <para>Nous avons choisi le nom de « Cercle Mission » (CM) parce qu'il
-        s'agit de la meilleure description de ce que réalise ce cercle : faire
+        s'agit de la meilleure description de ce que réalise ce cercle : faire
         que l'organisation reste fidèle à sa mission. Le nom traditionnel de
-        ce cercle est “Top Circle”en anglais ou “Cercle supérieur” en
-        français, des termes qui peuvent faire sourciller certains. Nous
-        comprenons le bagage culturel qu'apporte le terme de "sommet" (top)
-        dans une culture hiérarchique. D'autres noms entendus :</para>
+        ce cercle est <foreignphrase>“Top Circle”</foreignphrase> en anglais
+        ou « Cercle Supérieur » en français, des termes qui peuvent faire
+        sourciller certains. Nous comprenons le bagage culturel qu'apporte le
+        terme de « sommet » (<foreignphrase>top</foreignphrase>) dans une
+        culture hiérarchique. D'autres noms entendus :</para>
 
         <itemizedlist>
           <listitem>
@@ -3650,9 +3655,9 @@
 
         <figure xml:id="influencetopbottom">
           <title>Influence réciproque entre l'organisation et le monde
-          extérieur au niveau du cercle mission et de cercles spécifiques :
+          extérieur au niveau du cercle mission et de cercles spécifiques :
           les organisations bénéficient de ce type d'échange avec le monde
-          extérieur ; les systèmes fermés ne sont pas durables.</title>
+          extérieur ; les systèmes fermés ne sont pas durables.</title>
 
           <mediaobject>
             <imageobject>
@@ -3844,7 +3849,7 @@
         <para>La représentation des délégués(e)<indexterm>
             <primary>délégué</primary>
           </indexterm> des cercles de travail au sein du cercle mission ne se
-        limite pas à "être entendu" par le conseil d'administration. Avec le
+        limite pas à « être entendu » par le conseil d'administration. Avec le
         consentement<indexterm>
             <primary>consentement</primary>
           </indexterm> comme méthode de prise de décision, les travailleurs ne
@@ -3869,8 +3874,8 @@
 
             <secondary>les roles dans un cercle mission</secondary>
           </indexterm>. Le CM n'a généralement pas de délégué parce qu'il n'y
-        a pas de niveau "au dessus" pour représenter ce cercle au sein de
-        l'organisation ; ceci est toutefois différent pour les organisations
+        a pas de niveau « au dessus » pour représenter ce cercle au sein de
+        l'organisation ; ceci est toutefois différent pour les organisations
         d’organisations. Une organisation peut être reliée à d’autres en
         réseaux<indexterm>
             <primary>réseau</primary>
@@ -4243,7 +4248,7 @@
             d'assurer la circulation de l'information. Si nous le souhaitons
             et si nous accordons de l'importance à la répartition du
             leadership, nous pouvons choisir un autre membre du cercle mission
-            (pas le leader du cercle Général) comme premier lien avec un
+            (pas le leader du cercle général) comme premier lien avec un
             cercle de parties prenantes<indexterm>
                 <primary>partie prenante</primary>
               </indexterm>. Tout ce que vous voulez, du moment que cela
@@ -4876,7 +4881,7 @@
         <para>Un autre exemple lié à l’adhésion dans un contexte scolaire
         pourrait être le passage du statut d’élève potentiel à celui d'élève
         inscrit.<informalexample>
-            <para>Imaginons qu'une école dispose d'un Cercle Recrutement (RP)
+            <para>Imaginons qu'une école dispose d'un Cercle Recrutement (CR)
             qui fait de la communication et gère une liste de diffusion de
             personnes envisageant d'envoyer leur enfant dans cette école.
             L'école dispose également d'une liste de diffusion interne de
@@ -5298,9 +5303,8 @@
 
       <section>
         <title>Hubs<footnote>
-            <para><emphasis role="strong">NB : nous utiliserons le terme
-            « hub » répandu dans la francophonie dans le sens de
-            « carrefour », « pôle ».</emphasis></para>
+            <para>NDT : nous utiliserons le terme « hub » répandu dans la
+            francophonie dans le sens de « carrefour », « pôle ».</para>
           </footnote></title>
 
         <indexterm>
@@ -5806,9 +5810,9 @@
 
       <para>Si nous nous réunissons en cercle (ou en sous-ensemble d'un
       cercle) exclusivement pour coordonner les opérations, nous tenons une
-      réunion opérationnelle. « Tout se passe-t-il bien ? Quelqu'un a-t-il
-      besoin d'aide pour accomplir ses tâches ? Y a-t-il quelque chose de
-      précis qui vous empêche de faire votre travail ? » Ces réunions servent
+      réunion opérationnelle. « Tout se passe-t-il bien ? Quelqu'un a-t-il
+      besoin d'aide pour accomplir ses tâches ? Y a-t-il quelque chose de
+      précis qui vous empêche de faire votre travail ? » Ces réunions servent
       uniquement à partager des informations et à prendre des décisions au cas
       par cas (si elles ne sont pas prises par le leader de cercle) afin de
       s'assurer que rien ne nuit au travail du cercle. Selon la nature du

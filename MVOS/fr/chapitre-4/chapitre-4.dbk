@@ -279,7 +279,7 @@
       <para>C’est pourtant tout le contraire. Les sentiments et les stratégies
       observables ne sont que des phénomènes de surface. Puisque les besoins
       sont sous-jacents à tout ce que nous faisons et ressentons, parler de
-      nos besoins,c’est parler de ce qui se passe vraiment. Certaines
+      nos besoins, c’est parler de ce qui se passe vraiment. Certaines
       personnes qui commencent à étudier les besoins et les sentiments
       considèrent cela comme de la « sémantique ». Le fait que les sentiments
       ne soient pas directement causés par les autres créent cependant un
@@ -320,14 +320,13 @@
       invitation à la connexion – une compréhension mutuelle des besoins de
       chacun.</para>
 
-      <para>Il existe donc deux types de demandes de connexion : <emphasis
-      role="strong">être compris</emphasis>,  « <emphasis>serais-tu prêt à me
-      redire ce que tu m'as entendu dire ? »</emphasis>, et <emphasis
-      role="strong">comprendre</emphasis> : « s<emphasis>erais-tu prêt à me
-      dire comment c'est pour toi quand tu entends ce que j'ai dit
-      ? »</emphasis> Imaginons ce que nous pourrions accomplir si (a) nous
-      pouvions éliminer les malentendus et (b), nous écouter mutuellement de
-      façon plus empathique !</para>
+      <para>Il existe donc deux types de demandes de connexion : être compris,
+       « <emphasis>serais-tu prêt à me redire ce que tu m'as entendu dire
+      ? »</emphasis>, et comprendre : « s<emphasis>erais-tu prêt à me dire
+      comment c'est pour toi quand tu entends ce que j'ai dit ? »</emphasis>
+      Imaginons ce que nous pourrions accomplir si (a) nous pouvions éliminer
+      les malentendus et (b), nous écouter mutuellement de façon plus
+      empathique !</para>
     </section>
   </section>
 
@@ -336,10 +335,8 @@
 
     <para>Le changement vient de l'évaluation des actions passées et de
     l'expérimentation de nouvelles approches qui, nous l'espérons, répondront
-    plus efficacement aux besoins. C'est la fonction <emphasis
-    role="strong">orienter</emphasis> dans le cycle<remark>Fix this up based
-    on Thomas's suggestion; a bunch more in this chapter, too</remark>
-    ORIENTER — EXÉCUTER — MESURER. La rétroaction utile au processus de
+    plus efficacement aux besoins. C'est la fonction orienter dans le cycle
+    orienter – exécuter – mesurer. La rétroaction utile au processus de
     changement émerge bien plus de la curiosité à l'égard des besoins
     universels qui sous-tendent le comportement que d'un raisonnement
     simpliste du type « bien ou mal ».</para>
@@ -482,15 +479,15 @@
           <primary>faire un retour</primary>
 
           <secondary>rétroaction constructive</secondary>
-        </indexterm> favorise :</para>
+        </indexterm> favorise :</para>
 
       <itemizedlist>
         <listitem>
-          <para>le partage de l’information,</para>
+          <para>le partage de l’information ;</para>
         </listitem>
 
         <listitem>
-          <para>la possibilité d’être entendu.e, et</para>
+          <para>la possibilité d’être entendu.e ; et</para>
         </listitem>
 
         <listitem>
@@ -521,13 +518,13 @@
       <itemizedlist>
         <listitem>
           <para>« J’ai une certaine opinion en tête. Es-tu prêt à l'entendre ?
-          Et si oui, maintenant ou à un autre moment ? »</para>
+          Et si oui, maintenant ou à un autre moment ? »</para>
         </listitem>
 
         <listitem>
           <para>« J'ai observé quelque chose. Je peux me tromper, mais j'ai
           pensé que cela pourrait t’aider de savoir ce à quoi j'ai pensé.
-          Veux-tu l'entendre ? »</para>
+          Veux-tu l'entendre ? »</para>
         </listitem>
       </itemizedlist>
 
@@ -549,7 +546,7 @@
 
       <para>Si cela est fait avec habileté (et reçu à cœur ouvert), exprimer
       des rétroactions les uns envers les autres peut être un moyen de
-      favoriser la connexion de deux manières :</para>
+      favoriser la connexion de deux manières :</para>
 
       <itemizedlist>
         <listitem>
@@ -562,7 +559,7 @@
             </indexterm> : s'il est mutuellement reconnu que, plus nous avons
           d'informations, plus nous pouvons collaborer facilement et avec
           succès, alors faire une rétroaction à quelqu'un est une manière de
-          contribuer à son bien-être ;</para>
+          contribuer à son bien-être ;</para>
         </listitem>
 
         <listitem>
@@ -583,14 +580,14 @@
       <para>N'utilisons pas les recommandations précédentes pour agir comme
       une « police » de la CNV<indexterm>
           <primary>CNV (Communication NonViolente)</primary>
-        </indexterm>. Déclarer : « ce que tu as dit n'est pas de la bonne
+        </indexterm>. Déclarer : « ce que tu as dit n'est pas de la bonne
       CNV » sabote tout ce que la CNV représente. Une telle déclaration sert à
       juger et à critiquer, et elle fait taire les gens.</para>
 
       <para>Si nous avons l'impression d'être dans une disposition « assez
       bonne » pour partager des rétroactions avec quelqu’un, rappelons-nous
-      que l'autre personne aspire à être dans une disposition « assez bonne
-      », elle aussi. Nous vérifions d'abord si la personne est capable et
+      que l'autre personne aspire à être dans une disposition « assez bonne »,
+      elle aussi. Nous vérifions d'abord si la personne est capable et
       désireuse de nous entendre; ensuite, nous disons ce que nous voulons
       exprimer.</para>
 
@@ -619,13 +616,13 @@
       raisons de confidentialité).</para>
 
       <figure xml:id="feedbackform2">
-        <title>Un formulaire de rétroaction. Voir page <xref
+        <title>Un formulaire de rétroaction (voir page <xref
         linkend="feedbackformsheet" xrefstyle="select: pagenumber"/> pour un
         modèle<indexterm>
             <primary>faire un retour</primary>
 
             <secondary>formulaire de rétroaction</secondary>
-          </indexterm></title>
+          </indexterm>)</title>
 
         <mediaobject>
           <imageobject>
@@ -760,7 +757,7 @@
       l'organisation et ceux des personnes sont liés les uns aux autres. En
       adhérant à une organisation, nous répondons à un de nos besoins : le
       fait d'être payé pour notre travail, par exemple, peut contribuer à
-      satisfaire notre besoin de survie. Autres exemples : le besoin de
+      satisfaire notre besoin de survie. Autres exemples : le besoin de
       contribuer, le besoin de connecter<indexterm>
           <primary>connexion (besoin)</primary>
         </indexterm><indexterm>
@@ -846,8 +843,8 @@
       </figure>
 
       <figure xml:id="textmembership2">
-        <title>« Être bouleversé.e et pourtant être recevable dans mes
-        objections »</title>
+        <title>Pouvoir être entendu facilement, même quand on est
+        bouleversé</title>
 
         <mediaobject>
           <imageobject>
@@ -885,10 +882,10 @@
 
       <para>C'est une réalité humaine que des sentiments surgissent. Si nous
       les ignorons, ils se manifesteront. Les personnes deviendront
-      sarcastiques, découragées, désengagées. Elles se mettront en retrait,
-      manqueront de redevabilité, travailleront à dominer, à ralentir ou à
-      saboter le système. Ignorer les besoins, ignorer les rétroactions, tout
-      cela a un coût élevé à long terme.</para>
+      sarcastiques, découragées, désengagées. Elles se mettront en retrait, ne
+      tiendront pas leurs engagements, travailleront à dominer, à ralentir ou
+      à saboter le système. Ignorer les besoins, ignorer les rétroactions,
+      tout cela a un coût élevé à long terme.</para>
 
       <para>Nous n'obtiendrons peut-être pas des membres du cercle une
       contribution aussi claire que dans l'exemple <xref
@@ -907,19 +904,19 @@
       <itemizedlist>
         <listitem>
           <para>Les membres du groupe sont-ils capables d'être respectueux et
-          responsables même s'ils sont émotivement déclenchés ?</para>
+          responsables même s'ils sont stimulés émotionnellement ?</para>
         </listitem>
 
         <listitem>
           <para>Avec quelle efficacité pouvons-nous passer du ressenti de nos
-          sentiments à la formulation de nos préoccupations sous-jacentes
-          ?</para>
+          sentiments à la formulation de nos préoccupations
+          sous-jacentes ?</para>
         </listitem>
 
         <listitem>
           <para>Sommes-nous capables d’inclure les préoccupations ou les
           objections soulevées dans notre processus de prise de décision, afin
-          de prendre de meilleures décisions ?</para>
+          de prendre de meilleures décisions ?</para>
         </listitem>
       </itemizedlist>
     </section>
@@ -942,12 +939,12 @@
       <para>Quand la rétroaction ne contient que des données quantitatives,
       les façons de collecter et de recevoir ces données sont les mêmes que
       celles récoltées lors de la rétroaction personnelle. Nous avons déjà
-      parlé du cycle ORIENTER — EXÉCUTER — MESURER<indexterm>
+      parlé du cycle orienter – exécuter – mesurer<indexterm>
           <primary>orientation-exécution-mesure</primary>
         </indexterm> et de la manière dont il forme des boucles de rétroaction
       qui soutiennent l'évolution : nous élaborons un plan, l’exécutons et
       évaluons ce que nous pouvons apprendre. Le pilotage s'inscrit dans
-      d'innombrables boucles de type ORIENTER — EXÉCUTER — MESURER. Vous
+      d'innombrables boucles de type orienter – exécuter – mesurer. Vous
       trouverez quelques exemples dans l’encadré <xref linkend="LDMexamples"
       xrefstyle="select: labelnumber"/>.</para>
 
@@ -962,7 +959,7 @@
       </figure>
 
       <figure xml:id="foreverloop">
-        <title>Les boucles ORIENTER — EXÉCUTER — MESURER opèrent de façon
+        <title>Les boucles orienter – exécuter – mesurer opèrent de façon
         continue alors que nous travaillons vers le but</title>
 
         <mediaobject>
@@ -977,13 +974,13 @@
           <primary>faire un retour</primary>
         </indexterm> et de l'évaluation ; « piloter », « diriger », c'est
       faire continuellement de nouveaux plans basés sur l'analyse des données.
-      Dans le cycle ORIENTER — EXÉCUTER — MESURER<indexterm>
+      Dans le cycle orienter – exécuter – mesurer<indexterm>
           <primary>orientation-exécution-mesure</primary>
         </indexterm>, nous faisons généralement porter le travail sur
       « Exécuter ». Nous pouvons souvent également être amenés à
       « Orienter/Planifier », mais nous prenons trop rarement le temps de
-      « Mesurer ». L’illustration 153 montre comment le cycle ORIENTER —
-      EXÉCUTER — MESURER se déroule à des échelles très différentes, mais
+      « Mesurer ». L’illustration 153 montre comment le cycle orienter –
+      exécuter – mesurer se déroule à des échelles très différentes, mais
       comment sa nature est toujours la même.</para>
 
       <para>La sociocratie crée des habitudes autour de la rétroaction, que
@@ -994,7 +991,7 @@
       étape est bien terminée.</para>
 
       <figure xml:id="reviewlayers">
-        <title>ORIENTER — EXÉCUTER — MESURER se déroule à différents
+        <title>Orienter – exécuter – mesurer se déroule à différents
         niveaux</title>
 
         <mediaobject>
@@ -1222,20 +1219,20 @@
           ajouter des éléments dans la phase Esquisse de la proposition, ou en
           clarifiant des questions sur les propositions ; Faisons-le lors des
           réunions organisationnelles ouvertes, sur des tableaux d'affichage
-          ou sur des documents en ligne ;</para>
+          ou sur des documents en ligne ;</para>
         </listitem>
 
         <listitem>
           <para>Le cercle peut enfin demander l’apport d'un autre cercle (voir
           l’illustration <xref linkend="supportsystem"
-          xrefstyle="select: labelnumber"/>).</para>
+          xrefstyle="select: labelnumber"/>) :</para>
 
           <itemizedlist>
             <listitem>
               <para>un cercle de même niveau, pour qui le sujet en discussion
               touche son propre domaine<indexterm>
                   <primary>domaine</primary>
-                </indexterm> ;</para>
+                </indexterm> ;</para>
             </listitem>
 
             <listitem>
@@ -1249,7 +1246,7 @@
 
                   <secondary>cercle Parent</secondary>
                 </indexterm>, si le cercle en discussion recherche une
-              perspective plus large sur le sujet ;</para>
+              perspective plus large sur le sujet ;</para>
             </listitem>
 
             <listitem>
@@ -1616,7 +1613,8 @@
         </figure>
 
         <para>La révision d’une politique suit les étapes familières de la
-        compréhension de la politique actuelle (COMPRENDRE), de l'exploration
+        compréhension de la politique actuelle (<remark>Does the team want
+        these to be lowercase, as well?</remark>COMPRENDRE), de l'exploration
         des modifications possibles<indexterm>
             <primary>amendement</primary>
           </indexterm> (EXPLORER) et du consentement à la politique modifiée
@@ -1637,15 +1635,15 @@
             <para><emphasis>« </emphasis>Je crains que si nous formons un
             autre sous-cercle, nous soyons trop dispersés, que nous ne soyons
             pas en mesure de bien faire notre travail alors que nous aurons
-            tant à faire » ;</para>
+            tant à faire. »</para>
           </listitem>
 
           <listitem>
             <para>« J’ai une objection à cette proposition car elle manque
             d'information sur la manière dont nous pourrons être prêts à
             temps. Je veux m'assurer d’avoir la tranquillité d'esprit sur le
-            fait que nous serons en mesure de terminer le projet à temps. »
-            ;</para>
+            fait que nous serons en mesure de terminer le projet à
+            temps. »</para>
           </listitem>
 
           <listitem>
@@ -1717,7 +1715,7 @@
         <secondary>harmonie</secondary>
       </indexterm> ? Nous pouvons également partager les sentiments qui vont
     de pair avec les besoins satisfaits, par exemple : « Je suis heureux de la
-    productivité de la réunion », ou « j'étais anxieuse avant la réunion, je
+    productivité de la réunion », ou « J'étais anxieuse avant la réunion, je
     me demandais si l'ordre du jour n'était pas trop chargé ? Maintenant, je
     suis soulagée que nous ayons pu aborder tous les points à l'ordre du
     jour ».</para>
@@ -1855,14 +1853,14 @@
       </indexterm>.)</para>
 
     <para>Le cycle de la revue de performance commence par informer et inviter
-    à une réunion les membres du cercle Revue de performance — également
-    appelé cercle Appréciation. Le cercle élabore un plan d'action sur la
+    à une réunion les membres du cercle de revue de performance — également
+    appelé cercle d'appréciation. Le cercle élabore un plan d'action sur la
     manière dont la personne-cible peut s'améliorer ; cela se termine avec la
     décision de valider ce plan d'action par le cercle Appréciation de la
     personne-cible.</para>
 
     <figure xml:id="performancereviewArc">
-      <title>Orienter - Exécuter - Mesurer pour la revue de
+      <title>Orienter – exécuter – mesurer pour la revue de
       performance</title>
 
       <mediaobject>
@@ -1953,8 +1951,8 @@
       comme toute autre proposition. Puisqu’une revue de performance
       fonctionne exactement comme l'élaboration d'une politique, elle suit
       également le même schéma. Nous pouvons décomposer le processus selon le
-      schéma habituel COMPRENDRE — EXPLORER — DÉCIDER (ENTRÉE — TRANSFORMATION
-      — SORTIE, pour la prise de décision), comme le montre l'exemple <xref
+      schéma habituel comprendre – explorer – décider (entrée – transformation
+      – sortie, pour la prise de décision), comme le montre l'exemple <xref
       linkend="performancereview" xrefstyle="select: labelnumber"/>.</para>
 
       <figure xml:id="performancereview">
@@ -1988,20 +1986,20 @@
                   <primary>rôle</primary>
 
                   <secondary>description de rôle</secondary>
-                </indexterm> de la personne-cible ?</para>
+                </indexterm> de la personne-cible ?</para>
             </listitem>
 
             <listitem>
               <para>Y a-t-il d'autres données pertinentes ici, comme des
-              rapports ou des évaluations provenant d'autres sources ? (S'il
+              rapports ou des évaluations provenant d'autres sources ? (S'il
               faut du temps pour les lire, veillons à les distribuer à
-              l'avance).</para>
+              l'avance.)</para>
             </listitem>
           </itemizedlist>
 
-          <para>Nous ferons deux tours pour obtenir plus d'informations :
+          <para>Nous ferons deux tours pour obtenir plus d'informations :
           qu'est-ce que la personne-cible a réalisé de positif, et qu'est-ce
-          qu'elle aurait pu mieux faire ?</para>
+          qu'elle aurait pu mieux faire ?</para>
         </section>
 
         <section>
@@ -2023,7 +2021,7 @@
           dans les domaines de la production ou du service, du processus de
           travail et des interactions interpersonnelles. Ensuite, chaque
           participant du cercle de revue de performance donne son point de vue
-          sur ce que la personne-cible a bien accompli ; celle-ci prend la
+          sur ce que la personne-cible a bien accompli ; celle-ci prend la
           parole à la fin du tour et résume ce qu'elle a entendu.</para>
 
           <para>Vous trouverez plus bas quelques déclarations possibles qui
@@ -2039,8 +2037,8 @@
             <listitem>
               <para>« J'apprécie ton style de leadership. Je te perçois comme
               fiable, par exemple lorsqu'on a oublié d'appeler l'électricien
-              et que tu l'as remarqué à temps, tu as pu rapidement intervenir.
-              »</para>
+              et que tu l'as remarqué à temps, tu as pu rapidement
+              intervenir. »</para>
             </listitem>
 
             <listitem>
@@ -2066,8 +2064,8 @@
             </listitem>
 
             <listitem>
-              <para>« J'aime la façon dont tu sembles être le “cœur
-              tranquille” du cercle. Même lorsque les gens sont bloqués ou
+              <para>« J'aime la façon dont tu sembles être le « cœur
+              tranquille » du cercle. Même lorsque les gens sont bloqués ou
               excités et veulent tout faire en même temps, tu restes calme, et
               à mon avis, cela contribue beaucoup au groupe, parce que tu es
               un contrepoids nécessaire pour nous. Cela me donne une certaine
@@ -2371,13 +2369,13 @@
           nécessairement —- organisera les idées proposées pour en faire une
           proposition. Cela peut se faire pendant ou après la réunion. Quel
           que soit le moment où la proposition est rédigée, le processus se
-          poursuit : la proposition requiert le consentement du cercle
+          poursuit : la proposition requiert le consentement du cercle
           d’évaluation. Il est également possible de demander le consentement
           de tous les cercles dont la personne-cible est membre. (Cela dépend
           de l'objet de la revue de performance. Trouvons un équilibre
           raisonnable entre un objet trop large et un objet trop étroit. La
           décision de savoir qui aura le droit de consentir à la proposition
-          doit être prise avant le début de la revue de performance).</para>
+          doit être prise avant le début de la revue de performance.)</para>
         </section>
       </section>
 
@@ -2469,15 +2467,16 @@
       ralentissant.</para>
 
       <para>Par ailleurs, nous avons proposé des tours de parole exploratoires
-      où chacun.e passait son tour parce qu'il n'y avait rien de pertinent à
-      dire : aurions-nous pu réalisé que le groupe était déjà prêt pour
-      l'étape suivante ? Avons-nous perdu du temps sur un tour qui s'est avéré
-      inutile ? Cela arrive. Le bon côté des choses, c'est que si nous avons
-      mis en place un bon système, nous arriverons toujours à un résultat
-      « assez bon ». Il n'y a aucune raison d'avoir peur de faire quelque
-      chose de mal. Plutôt, nous prêtons attention aux rétroactions, car il y
-      a de fortes chances que nous fassions des choses qui sont imparfaites —
-      la pratique consiste à les remarquer, à ajuster et à apprendre.</para>
+      où tout le monde passait son tour parce qu'il n'y avait rien de
+      pertinent à dire : aurions-nous pu réalisé que le groupe était déjà prêt
+      pour l'étape suivante ? Avons-nous perdu du temps sur un tour qui s'est
+      avéré inutile ? Cela arrive. Le bon côté des choses, c'est que si nous
+      avons mis en place un bon système, nous arriverons toujours à un
+      résultat « assez bon ». Il n'y a aucune raison d'avoir peur de faire
+      quelque chose de mal. Plutôt, nous prêtons attention aux rétroactions,
+      car il y a de fortes chances que nous fassions des choses qui sont
+      imparfaites — la pratique consiste à les remarquer, à ajuster et à
+      apprendre.</para>
 
       <para>La mesure de l'efficacité<indexterm>
           <primary>efficacité</primary>

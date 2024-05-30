@@ -11,7 +11,8 @@
   </info>
 
   <section xml:id="contact-SoFA">
-    <title>A propos de Sociocracy For All (SoFA)</title>
+    <title>A propos de <foreignphrase>Sociocracy For All</foreignphrase>
+    (SoFA)</title>
 
     <indexterm significance="preferred">
       <primary>Sociocracy For All (SoFA)</primary>
@@ -26,7 +27,7 @@
     ne peut plus être dominé. Comment la sociocratie exige la responsabilité
     de soi. Certains participants à la formation se taisent, tandis que leur
     esprit et leur cœur absorbent ce qu'ils voient et ressentent. Parfois, ils
-    disent des choses comme "... mais... c'est... grand" – exprimant la
+    disent des choses comme « ... mais... c'est... grand » – exprimant la
     profondeur et la beauté du changement que représenterait la sociocratie
     pour leur entreprise, leur communauté ou leur organisation bénévole. Ils
     sont remplis d'espoir et d'excitation. Quelques-uns deviennent tendus ou
@@ -44,17 +45,17 @@
     <para>La sociocratie n'est pas un outil superficiel destiné à donner aux
     travailleurs l<emphasis>'impression</emphasis> qu'ils ont plus de pouvoir
     afin qu'ils fournissent volontiers plus d'efforts dans un système fondé
-    sur le “pouvoir sur”. Ce n'est pas une autre méthode de gestion. C'est un
-    changement profond. C'est réel. Pour nous, la sociocratie est un outil si
-    puissant qu'il peut être le système d'exploitation d'un nouveau paradigme
-    et d'une nouvelle économie : basé sur la connexion, la considération et
-    l'attention à l’autre. Dans les salles de réunion et dans les salles de
-    séjour. Dans les salles de cours et dans les habitats collectifs. Notre
-    vision est celle d’un monde en dehors du paradigme du bon et du mauvais,
-    des gagnants et des perdants. Nous savons tous qu'un monde plus beau est
-    possible, nous le sentons et nous le désirons. Nous disposons des
-    ressources nécessaires pour le vivre. ET nous devons créer un
-    environnement qui fasse ressortir ces forces. Des systèmes qui nous
+    sur le « pouvoir sur ». Ce n'est pas une autre méthode de gestion. C'est
+    un changement profond. C'est réel. Pour nous, la sociocratie est un outil
+    si puissant qu'il peut être le système d'exploitation d'un nouveau
+    paradigme et d'une nouvelle économie : basé sur la connexion, la
+    considération et l'attention à l’autre. Dans les salles de réunion et dans
+    les salles de séjour. Dans les salles de cours et dans les habitats
+    collectifs. Notre vision est celle d’un monde en dehors du paradigme du
+    bon et du mauvais, des gagnants et des perdants. Nous savons tous qu'un
+    monde plus beau est possible, nous le sentons et nous le désirons. Nous
+    disposons des ressources nécessaires pour le vivre. ET nous devons créer
+    un environnement qui fasse ressortir ces forces. Des systèmes qui nous
     permettent de travailler <emphasis>à partir de</emphasis> notre désir de
     connexion au lieu de l'étouffer. Des systèmes qui reposent sur la
     confiance, au lieu de systèmes qui récompensent la division et la dérision
@@ -96,11 +97,10 @@
     linkend="SoFAcircles" xrefstyle="select: labelnumber"/>.</para>
 
     <figure xml:id="SoFAcircles">
-      <title>La structure organisationnelle de SoFA (en date de début juin
-      2018). Notez que, surtout au niveau des sous-cercles, il continue d'y
-      avoir des changements, car nous continuons à intégrer de nouvelles
-      personnes et de nouveaux projets, et à ajuster la structure pour
-      répondre au mieux à nos besoins.</title>
+      <title>La structure organisationnelle de SoFA. Notez que, surtout au
+      niveau des sous-cercles, il continue d'y avoir des changements, car nous
+      continuons à intégrer de nouvelles personnes et de nouveaux projets, et
+      à ajuster la structure pour répondre au mieux à nos besoins.</title>
 
       <mediaobject>
         <imageobject>
@@ -113,11 +113,11 @@
     réalisation, sur lesquels nous travaillons déjà au moment où vous lisez ce
     manuel. Donc, si vous avez une idée ou un souhait, il y a de fortes
     chances que d'autres personnes veuillent se joindre à vous. Comment
-    pouvons-nous faciliter l'intégration ? Comment SoFA peut-elle collaborer
-    davantage avec la recherche ? Comment la sociocratie peut-elle bénéficier
+    pouvons-nous faciliter l'intégration ? Comment SoFA peut-elle collaborer
+    davantage avec la recherche ? Comment la sociocratie peut-elle bénéficier
     aux familles et aux enfants, comment les villes peuvent-elles être
-    gouvernées de manière sociocratique ? Qu'est-ce qui est nécessaire pour un
-    changement social vers des sociétés plus égalitaires ? (Veuillez noter que
+    gouvernées de manière sociocratique ? Qu'est-ce qui est nécessaire pour un
+    changement social vers des sociétés plus égalitaires ? (Veuillez noter que
     l'adhésion à SoFA nécessite une certaine expérience de la sociocratie car
     il s'agit d'une organisation de travail).</para>
 
@@ -304,12 +304,10 @@
 
     <section xml:id="literature">
       <title>Publications<footnote>
-          <para><emphasis role="strong">NDT : On peut mentionner un autre
-          livre écrit en français : Delstanche, Philippe (2014).
-          </emphasis><emphasis role="strong">Vers un leadership solidaire. La
-          sociocratie, une nouvelle dynamique pour gérer les
-          organisations</emphasis><emphasis role="strong">. Edipro,
-          Liège.</emphasis></para>
+          <para>NDT : On peut mentionner un autre livre écrit en français :
+          Delstanche, Philippe (2014). Vers un leadership solidaire. La
+          sociocratie, une nouvelle dynamique pour gérer les organisations.
+          Edipro, Liège.</para>
         </footnote></title>
 
       <itemizedlist>
@@ -378,9 +376,9 @@
         </listitem>
 
         <listitem>
-          <para>Wineman, Steven (2003). <emphasis>Power Under. Trauma and
-          nonviolent social change</emphasis>. (Voir
-          http://www.traumaandnonviolence.com)</para>
+          <para><?latex \raggedright{}?>Wineman, Steven (2003).
+          <emphasis>Power Under. Trauma and nonviolent social
+          change</emphasis>. (Voir http://www.traumaandnonviolence.com)</para>
         </listitem>
       </itemizedlist>
     </section>
@@ -414,7 +412,7 @@
         <listitem>
           <para>The Sociocracy Consulting Group.
           http://www.sociocracyconsulting.com/. Un groupe de conseil axé sur
-          la sociocratie, basé en Amérique du Nord, en Australie et au
+          la sociocratie, basé aux États-Unis, en Australie et au
           Canada.</para>
         </listitem>
 
@@ -430,24 +428,25 @@
       <para>Nous vous invitons à explorer comment vous pourriez
       <emphasis>faire</emphasis> de la sociocratie au lieu d'apprendre
       <emphasis>au sujet de</emphasis> la sociocratie. Que pouvez-vous faire
-      qui soit un petit pas vers la mise en œuvre de certaines idées et outils
-      ? Comment pouvez-vous devenir un animateur plus expérimenté ? Où
-      pourriez-vous aller pour donner vie à ce projet ? Ce pourrait être, par
+      qui soit un petit pas vers la mise en œuvre de certaines idées et
+      outils ? Comment pouvez-vous devenir un animateur plus expérimenté ? Où
+      pourriez-vous aller pour donner vie à ce projet ? Ce pourrait être, par
       exemple, un cours en ligne sur la facilitation<indexterm>
           <primary>cours en ligne sur la facilitation</primary>
         </indexterm> pour être plus à l’aise et apporter un changement positif
-      dans votre entourage immédiat ?</para>
+      dans votre entourage immédiat ?</para>
 
       <para>Rejoignez une communauté de pratique, au sein de SoFA ou en dehors
       de SoFA. La liste de diffusion (en anglais) de sociocracy.groups.io est
-      un lieu populaire pour des discussions suivies sur la sociocratie ; elle
+      un lieu populaire pour des discussions suivies sur la sociocratie ; elle
       est ouverte aux nouveaux membres. Le groupe Facebook de SoFA
-      (www.facebook.com/groups/SociocracyForAll/) est un autre endroit où vous
-      pouvez poser des questions et rencontrer des personnes. Inscrivez-vous à
-      la liste de diffusion de SoFA et vous recevrez plusieurs courriels par
-      mois contenant des références à de nouveaux articles et vidéos, ainsi
-      que les prochains webinaires et formations. Consultez la chaîne You Tube
-      de SoFA (www.youtube.com/c/sociocracyforall) et le site web SoFA
+      (www.facebook.com/groups/ SociocracyForAll/) est un autre endroit où
+      vous pouvez poser des questions et rencontrer des personnes.
+      Inscrivez-vous à la liste de diffusion de SoFA et vous recevrez
+      plusieurs courriels par mois contenant des références à de nouveaux
+      articles et vidéos, ainsi que les prochains webinaires et formations.
+      Consultez la chaîne You Tube de SoFA
+      (www.youtube.com/c/sociocracyforall) et le site web SoFA
       sociocracyforall.org pour une bibliothèque virtuelle de vidéos,
       d'articles, de visuels et de documents types – la plupart pouvant être
       téléchargés gratuitement sous licence <emphasis>Creative
