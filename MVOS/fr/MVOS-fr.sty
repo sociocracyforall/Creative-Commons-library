@@ -335,9 +335,14 @@
 \makeatother
 
 \usepackage{framed}
+%\newenvironment{quotationb}%
+%{\begin{leftbar}\begin{quotation}}%
+%{\end{quotation}\end{leftbar}}
+
+\usepackage{changepage}
 \newenvironment{quotationb}%
-{\begin{leftbar}\begin{quotation}}%
-{\end{quotation}\end{leftbar}}
+{\begin{leftbar}\begin{adjustwidth}{1.5em}{}}%
+{\end{adjustwidth}\end{leftbar}}
 
 \linespread{1.08}
 
