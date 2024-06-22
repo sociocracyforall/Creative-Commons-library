@@ -40,18 +40,111 @@
   <!-- Use the font from the LaTeX style definition, instead -->
   <xsl:param name="xetex.font"/>
 
+  <xsl:template name="lang.setup">
+    <!-- first find the language actually set -->
+    <xsl:variable name="lang">
+      <xsl:call-template name="l10n.language">
+        <xsl:with-param name="target" select="(/set|/book|/article)[1]"/>
+        <xsl:with-param name="xref-context" select="true()"/>
+      </xsl:call-template>
+    </xsl:variable>
+
+    <!-- locale setup for docbook -->
+    <xsl:if test="$lang!='' and $lang!='en'">
+      <xsl:text>\setuplocale{</xsl:text>
+      <xsl:value-of select="substring($lang, 1, 2)"/>
+      <xsl:text>}&#10;</xsl:text>
+    </xsl:if>
+
+    <!-- some extra babel setup -->
+    <!-- Actually, I suspect the `\setupbabel` macro may be recently broken
+    (and unnecessary), so I'm turning it off. -->
+    <xsl:if test="$latex.babel.use='1' and false()">
+      <xsl:variable name="babel">
+        <xsl:call-template name="babel.language">
+          <xsl:with-param name="lang" select="$lang"/>
+        </xsl:call-template>
+      </xsl:variable>
+
+      <xsl:if test="$babel!=''">
+        <xsl:text>\setupbabel{</xsl:text>
+        <xsl:value-of select="$lang"/>
+        <xsl:text>}&#10;</xsl:text>
+      </xsl:if>
+    </xsl:if>
+  </xsl:template>
+
+  <!-- We override this because we want to handle the whole copyright page
+  ourselves. -->
+  <xsl:template match="bookinfo|articleinfo|info" mode="docinfo">
+    <!-- special case for copyrights, managed as a group -->
+    <xsl:if test="copyright and false()">
+      <xsl:text>\def\DBKcopyright{</xsl:text>
+      <xsl:apply-templates select="copyright" mode="titlepage.mode"/>
+      <xsl:text>}&#10;</xsl:text>
+    </xsl:if>
+    <xsl:apply-templates mode="docinfo"/>
+  </xsl:template>
+
+  <!-- And we override this to do the work of typesetting the copyright
+  page in the custom way that we want. -->
+  <xsl:template name="print.legalnotice">
+    <!-- Note that `$nodes`, here, will contain `legalnotice` element(s). -->
+    <xsl:param name="nodes" select="."/>
+    <xsl:if test="$nodes">
+      <xsl:text>&#10;%% Legalnotices&#10;</xsl:text>
+      <!-- beware, save verbatim since we use a command -->
+      <xsl:apply-templates select="$nodes" mode="save.verbatim"/>
+      <xsl:text>\def\DBKlegalblock{&#10;</xsl:text>
+      <xsl:text>\vspace*{\fill}&#10;\thispagestyle{empty}&#10;</xsl:text>
+      <xsl:text>\noindent </xsl:text>
+      <xsl:apply-templates select="$nodes/../org/orgname"/>
+      <xsl:text>&#10;&#10;\vspace{0.3em}&#10;&#10;</xsl:text>
+      <xsl:text>\noindent </xsl:text>
+      <xsl:apply-templates select="$nodes/../org/address/street"/>
+      <xsl:text>&#10;&#10;</xsl:text>
+      <xsl:text>\noindent </xsl:text>
+      <xsl:apply-templates select="$nodes/../org/address/city"/>
+      <xsl:text> </xsl:text>
+      <xsl:apply-templates select="$nodes/../org/address/state"/>
+      <xsl:text> </xsl:text>
+      <xsl:apply-templates select="$nodes/../org/address/postcode"/>
+      <xsl:text>&#10;&#10;</xsl:text>
+      <xsl:text>\noindent </xsl:text>
+      <xsl:apply-templates select="$nodes/../org/address/country"/>
+      <xsl:text>&#10;&#10;</xsl:text>
+      <xsl:text>\noindent </xsl:text>
+      <xsl:apply-templates select="$nodes/../org/address/email"/>
+      <xsl:text>&#10;&#10;\vspace{0.25em}&#10;&#10;</xsl:text>
+      <xsl:apply-templates select="$nodes/*"/>
+      <xsl:text>}&#10;</xsl:text>
+    </xsl:if>
+  </xsl:template>
+
   <!-- Modified front-matter templates (for acknowledgements, colophon, and dedication)
   to use the `maketitle` template. I'm not sure why the source templates use a different
   approach. -->
   <xsl:template match="acknowledgements">
-    <xsl:call-template name="maketitle">
-      <xsl:with-param name="title">
-        <xsl:call-template name="gentext">
-          <xsl:with-param name="key" select="'Acknowledgements'"/>
+    <xsl:variable name="title" select="title|info/title"/>
+    <xsl:choose>
+      <xsl:when test="$title">
+        <xsl:call-template name="makeheading">
+          <xsl:with-param name="command">\chapter*</xsl:with-param>
         </xsl:call-template>
-      </xsl:with-param>
-    </xsl:call-template>
+        <xsl:text>\markboth{</xsl:text>
+        <xsl:apply-templates select="$title[1]" mode="format.title"/>
+        <xsl:text>}{}&#10;</xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text>\newpage&#10;\markboth{}{}&#10;</xsl:text>
+        <xsl:text>\vspace*{20em}&#10;\begin{center}&#10;</xsl:text>
+      </xsl:otherwise>
+    </xsl:choose>
+    <xsl:text>\thispagestyle{empty}&#10;</xsl:text>
     <xsl:apply-templates/>
+    <xsl:if test="not($title)">
+      <xsl:text>\end{center}&#10;\newpage&#10;</xsl:text>
+    </xsl:if>
   </xsl:template>
 
   <xsl:template match="colophon">
@@ -66,14 +159,26 @@
   </xsl:template>
 
   <xsl:template match="dedication">
-    <xsl:call-template name="maketitle">
-      <xsl:with-param name="title">
-        <xsl:call-template name="gentext">
-          <xsl:with-param name="key" select="'Dedication'"/>
+    <xsl:variable name="title" select="title|info/title"/>
+    <xsl:choose>
+      <xsl:when test="$title">
+        <xsl:call-template name="makeheading">
+          <xsl:with-param name="command">\chapter*</xsl:with-param>
         </xsl:call-template>
-      </xsl:with-param>
-    </xsl:call-template>
+        <xsl:text>\markboth{</xsl:text>
+        <xsl:apply-templates select="$title[1]" mode="format.title"/>
+        <xsl:text>}{}&#10;</xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text>\newpage&#10;\markboth{}{}&#10;</xsl:text>
+        <xsl:text>\vspace*{20em}&#10;\begin{center}&#10;</xsl:text>
+      </xsl:otherwise>
+    </xsl:choose>
+    <xsl:text>\thispagestyle{empty}&#10;</xsl:text>
     <xsl:apply-templates/>
+    <xsl:if test="not($title)">
+      <xsl:text>\end{center}&#10;\newpage&#10;</xsl:text>
+    </xsl:if>
   </xsl:template>
 
   <xsl:template match="preface">
@@ -83,6 +188,9 @@
     <xsl:text>% ------- &#10;</xsl:text>
     <!--xsl:apply-templates select="." mode="endnotes"/-->
     <xsl:call-template name="mapheading"/>
+    <xsl:text>\markboth{</xsl:text>
+    <xsl:apply-templates select="(title|info/title)[1]" mode="format.title"/>
+    <xsl:text>}{}&#10;</xsl:text>
     <xsl:apply-templates/>
   </xsl:template>
 
@@ -92,11 +200,14 @@
     <xsl:text>% Glossary &#10;</xsl:text>
     <xsl:text>% ------- &#10;</xsl:text>
     <!--xsl:apply-templates select="." mode="endnotes"/-->
+    <xsl:variable name="glossary-title">
+      <xsl:call-template name="gentext">
+        <xsl:with-param name="key" select="'Glossary'"/>
+      </xsl:call-template>
+    </xsl:variable>
     <xsl:call-template name="maketitle">
       <xsl:with-param name="title">
-        <xsl:call-template name="gentext">
-          <xsl:with-param name="key" select="'Glossary'"/>
-        </xsl:call-template>
+        <xsl:value-of select="$glossary-title"/>
       </xsl:with-param>
       <xsl:with-param name="command">
         <xsl:call-template name="sec-map">
@@ -104,7 +215,99 @@
         </xsl:call-template>
       </xsl:with-param>
     </xsl:call-template>
+    <xsl:text>\markboth{</xsl:text>
+    <xsl:value-of select="$glossary-title"/>
+    <xsl:text>}{}&#10;</xsl:text>
     <xsl:apply-templates/>
+  </xsl:template>
+
+  <!-- The original template misses several frontmatter elements,
+  somehow, so we override and augment it, here. -->
+  <xsl:template match="book|article">
+    <xsl:param name="layout" select="concat($doc.layout, ' ')"/>
+
+    <xsl:variable name="info" select="bookinfo|articleinfo|artheader|info"/>
+    <xsl:variable name="lang">
+      <xsl:call-template name="l10n.language">
+        <xsl:with-param name="target" select="(/set|/book|/article)[1]"/>
+        <xsl:with-param name="xref-context" select="true()"/>
+      </xsl:call-template>
+    </xsl:variable>
+
+    <!-- Latex preamble -->
+    <xsl:apply-templates select="." mode="preamble">
+      <xsl:with-param name="lang" select="$lang"/>
+    </xsl:apply-templates>
+
+    <xsl:value-of select="$latex.begindocument"/>
+    <xsl:call-template name="lang.document.begin">
+      <xsl:with-param name="lang" select="$lang"/>
+    </xsl:call-template>
+    <xsl:call-template name="label.id"/>
+
+    <!-- Setup that must be performed after the begin of document -->
+    <xsl:call-template name="verbatim.setup2"/>
+
+    <!-- Apply the legalnotices here, when language is active -->
+    <xsl:call-template name="print.legalnotice">
+      <xsl:with-param name="nodes" select="$info/legalnotice"/>
+    </xsl:call-template>
+
+    <xsl:call-template name="front.cover"/>
+
+    <xsl:if test="contains($layout, 'frontmatter ')">
+      <xsl:value-of select="$frontmatter"/>
+    </xsl:if>
+
+    <xsl:if test="contains($layout, 'coverpage ')">
+      <xsl:text>\maketitle&#10;</xsl:text>
+    </xsl:if>
+
+    <xsl:apply-templates select="dedication"/>
+
+    <!-- Print the TOC/LOTs -->
+    <xsl:if test="contains($layout, 'toc ')">
+      <xsl:apply-templates select="." mode="toc_lots"/>
+    </xsl:if>
+
+    <!-- Print the abstract and front matter content -->
+    <!-- @@TODO:@@ this does have the potential to bring these elements
+    out of document order. How would we want to handle this robustly
+    for the general case? -->
+    <xsl:apply-templates select="(abstract|$info/abstract)[1]"/>
+    <xsl:apply-templates select="preface|glossary|acknowledgements"/>
+
+    <!-- Body content -->
+    <xsl:if test="contains($layout, 'mainmatter ')">
+      <xsl:value-of select="$mainmatter"/>
+    </xsl:if>
+    <xsl:apply-templates select="*[not(self::abstract or
+                                       self::dedication or
+                                       self::acknowledgements or
+                                       self::glossary or
+                                       self::preface or
+                                       self::colophon or
+                                       self::appendix)]"/>
+
+    <!-- Back matter -->
+    <xsl:if test="contains($layout, 'backmatter ')">
+      <xsl:value-of select="$backmatter"/>
+    </xsl:if>
+
+    <xsl:apply-templates select="appendix"/>
+    <xsl:if test="contains($layout, 'index ')">
+      <xsl:if test="*//indexterm|*//keyword">
+        <xsl:call-template name="printindex"/>
+      </xsl:if>
+    </xsl:if>
+    <xsl:apply-templates select="colophon"/>
+    <xsl:call-template name="lang.document.end">
+      <xsl:with-param name="lang" select="$lang"/>
+    </xsl:call-template>
+
+    <xsl:call-template name="back.cover"/>
+
+    <xsl:value-of select="$latex.enddocument"/>
   </xsl:template>
 
   <!-- Format a glosslist as a table. This involves the templates through the
@@ -144,6 +347,20 @@
     </xsl:choose>
   </xsl:template>
 
+  <!-- For this book, we want formalpara elements to use the LaTeX
+  `\paragraph` command. -->
+  <xsl:template match="formalpara">
+    <xsl:text>&#10;\paragraph{</xsl:text>
+    <xsl:call-template name="normalize-scape">
+      <xsl:with-param name="string" select="title"/>
+    </xsl:call-template>
+    <xsl:text>}&#10;</xsl:text>
+    <xsl:call-template name="label.id"/>
+    <xsl:apply-templates/>
+    <xsl:text>&#10;</xsl:text>
+    <xsl:text>&#10;</xsl:text>
+  </xsl:template>
+
   <!-- For this book, we want informalexample elements to display using the quote
   environment. -->
   <xsl:template match="informalexample">
@@ -159,6 +376,11 @@
     <xsl:text>\begin{quotationb}&#10;</xsl:text>
     <xsl:apply-templates/>
     <xsl:text>\end{quotationb}&#10;</xsl:text>
+    <xsl:apply-templates select="." mode="foottext"/>
+  </xsl:template>
+
+  <xsl:template match="footnote[ancestor::informalfigure[@role = 'guide']]">
+    <xsl:text>\footnotemark{}</xsl:text>
   </xsl:template>
 
   <xsl:template match="informalfigure[@role = 'guide']/para">
@@ -171,11 +393,14 @@
     <xsl:text>&#10;</xsl:text>
   </xsl:template>
 
-  <!-- DocBook 5 doesn't have a @float attribute on figures any longer, but the dblatex
-  XSLT stylesheets don't know about that yet, so we use a customization layer to fall
-  through to the $figure.default.position value. -->
+  <!-- DocBook 5 doesn't have a @float attribute on figures any longer, but
+  the dblatex XSLT stylesheets don't know about that yet, so we use a
+  customization layer to fall through to the $figure.default.position
+  value. -->
   <xsl:template match="figure">
-    <xsl:text>\begin{figure}</xsl:text>
+    <!-- Also, the dblatex XSLT stylesheets don't start this with a
+    newline. Why not? (We add it here.) -->
+    <xsl:text>&#10;\begin{figure}</xsl:text>
     <!-- figure placement preference -->
     <xsl:choose>
       <xsl:when test="@floatstyle != ''">
@@ -208,6 +433,7 @@
       <xsl:with-param name="position.top" select="0"/>
     </xsl:apply-templates>
     <xsl:text>\end{figure}&#10;</xsl:text>
+    <xsl:apply-templates select="." mode="foottext"/>
   </xsl:template>
 
   <!-- Only one sideways figure in the book, so we just match it by its
@@ -234,6 +460,10 @@
   </xsl:template>
 
   <!-- Treat figure elements with figure parent elements as sub-figures. -->
+  <!-- TODO: just today I learned that by the specification, a `figure`
+  element is not allowed to contain other `figure` elements (nor `example`,
+  `table`, or `equation` elements), and I'm not sure why any of those
+  restrictions exist. In any case, I may want to update this at some point. -->
   <xsl:template match="figure/figure">
       <!-- space before subfigure to prevent from strange behaviour with other
            subfigures unless forced by @role -->
