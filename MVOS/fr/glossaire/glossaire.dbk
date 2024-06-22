@@ -12,8 +12,8 @@
 
       <glossdef>
         <para>une description de ce que fait une organisation / un cercle, par
-        exemple "tenir à jour le site web et publier de nouveaux contenus sur
-        les réseaux sociaux".</para>
+        exemple « tenir à jour le site web et publier de nouveaux contenus sur
+        les réseaux sociaux ».</para>
       </glossdef>
     </glossentry>
 
@@ -307,7 +307,7 @@
 
     <mediaobject>
       <imageobject>
-        <imagedata fileref="Pictures/10000201000003C0000002D01105C74BFD380638.png"/>
+        <imagedata fileref="../illustrations/alternativeterminology.jpg"/>
       </imageobject>
     </mediaobject>
   </figure>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xml:id="organizational-structure"
+<chapter version="5.1" xml:id="organizational-structure"
          xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:ns6="http://docbook.org/ns/transclusion"
@@ -188,7 +188,7 @@
       </indexterm> est le plus décentralisé possible, il est configuré
     sainement et chaque cercle est habilité à agir par lui-même.</para>
 
-    <figure xml:id="distributepower">
+    <figure floatstyle="[hbp]" xml:id="distributepower">
       <title>Faire circuler le pouvoir jusqu'au cercle le plus
       spécialisé</title>
 
@@ -343,16 +343,16 @@
       </section>
 
       <section>
-        <title>Quelle est la différence entre but et vision /
+        <title>Quelle est la différence entre but et vision /
         mission ?</title>
 
         <para>En quoi le but<indexterm>
             <primary>but</primary>
-          </indexterm> est-il différent de la vision ou de la mission ? Dans
+          </indexterm> est-il différent de la vision ou de la mission ? Dans
         un but, nous définissons ce que nous faisons. Les buts sont ce que
         nous devons faire pour nous rapprocher de la réalisation de notre
         mission et de notre vision. Quelqu'un veut-il en finir avec le
-        sans-abrisme ? Si c'est la mission, alors la vision pourrait être un
+        sans-abrisme ? Si c'est la mission, alors la vision pourrait être un
         monde avec un abri adéquat pour chaque être humain. La vision et la
         mission sont utiles pour créer un ensemble de valeurs communes, mais
         dans la pratique, il est très important de définir les buts de
@@ -365,8 +365,8 @@
         linkend="objections"/>).</para>
 
         <figure xml:id="samemissiondifferentaimsJH">
-          <title>Exemple : même mission, « pour en finir avec le sans-abrisme
-           », différents buts</title>
+          <title>Exemple : même mission, « pour en finir avec le
+          sans-abrisme », différents buts</title>
 
           <mediaobject>
             <imageobject>
@@ -378,18 +378,18 @@
         <para>Il ne suffit pas seulement de définir la vision et la mission.
         Des organisations ayant la même mission et la même vision peuvent
         avoir des buts très différents. La mission « pour en finir avec le
-        sans-abrisme » peut être accomplie par des buts différents qui sont
+        sans-abrisme » peut être accomplie par des buts différents qui sont
         les stratégies que nous utilisons, comme le montre le tableau <xref
         linkend="samemissiondifferentaimsJH"
         xrefstyle="select: labelnumber"/>. En revanche, nous pourrions avoir
         des visions très différentes et être toujours capables de nous rallier
-        au même but (cela arrive probablement plus souvent qu'on ne le réalise
-        !) Par exemple, pour les bénévoles d'une soupe populaire végétarienne,
-        la préoccupation peut être la santé ou l'environnement ou la notion de
-        partage ; ainsi, la même stratégie peut servir à répondre à des
-        besoins très différents.</para>
+        au même but (cela arrive probablement plus souvent qu'on ne le
+        réalise !) Par exemple, pour les bénévoles d'une soupe populaire
+        végétarienne, la préoccupation peut être la santé ou l'environnement
+        ou la notion de partage ; ainsi, la même stratégie peut servir à
+        répondre à des besoins très différents.</para>
 
-        <para>Plus une organisation est homogène dans la vision / mission /
+        <para>Plus une organisation est homogène dans la vision / mission /
         but<indexterm>
             <primary>organisation</primary>
 
@@ -399,17 +399,17 @@
           </indexterm>, plus la prise de décision est facilitée. Dans le cas
         où une organisation a des vues et des perspectives diversifiées, il
         risque d'y avoir un besoin de plus de clarté concernant la
-        vision/mission et les buts. Voici quelques exemples de missions
-        :</para>
+        vision/mission et les buts. Voici quelques exemples de
+        missions :</para>
 
         <itemizedlist>
           <listitem>
-            <para>« <emphasis>mettre fin à la faim</emphasis> » ;</para>
+            <para>« <emphasis>mettre fin à la faim</emphasis> » ;</para>
           </listitem>
 
           <listitem>
             <para>« <emphasis>fournir des possibilités d'éducation aux enfants
-            des familles de la classe ouvrière</emphasis> » ;</para>
+            des familles de la classe ouvrière</emphasis> » ;</para>
           </listitem>
 
           <listitem>
@@ -458,8 +458,9 @@
         </figure>
 
         <para>Regardons de plus près la pratique de l'organisation à laquelle
-        appartiennent les auteurs de ce livre, les fondateurs de Sociocracy
-        For All (SoFA). Comme le montre l'encadré <xref linkend="VMASoFA"
+        appartiennent les auteurs de ce livre, les fondateurs de
+        <foreignphrase>Sociocracy For All</foreignphrase> (SoFA). Comme le
+        montre l'encadré <xref linkend="VMASoFA"
         xrefstyle="select: labelnumber"/>, la vision est un espace qui reflète
         là où nous aspirons être. La mission est notre contribution sur la
         manière d'y parvenir. Dans le cas de SoFA, il s'agit de rendre la
@@ -472,7 +473,9 @@
             <primary>but</primary>
           </indexterm> qui pourrait contribuer à sa mission, cela peut être
         ajouté. Les buts actuels de SoFA sont énumérés dans l'encadré <xref
-        linkend="ASoFA" xrefstyle="select: labelnumber"/> qui suit :</para>
+        linkend="ASoFA" xrefstyle="select: labelnumber"/> qui suit.<remark>I
+        changed this from a colon to a period because the figure can float.
+        Does it still make grammatical sense?</remark></para>
 
         <figure xml:id="ASoFA">
           <title>Sociocracy For All, les buts</title>
@@ -490,6 +493,8 @@
             <primary>but</primary>
           </indexterm> visé</title>
 
+        <?latex \enlargethispage*{\baselineskip}?>
+
         <para>Définissons les buts le plus tôt possible au moment de la
         création d'une organisation. Que va faire
         <emphasis>concrètement</emphasis> l'organisation ? Indiquons
@@ -506,17 +511,19 @@
         <para>Une façon informelle de comprendre ce qu'est un but<indexterm>
             <primary>but</primary>
           </indexterm> est d'imaginer que l'on se trouve à une réception. Si
-        quelqu'un nous demande : « Que faites-vous ? ». La plupart des gens
-        veulent entendre parler du but de notre organisation<indexterm>
+        quelqu'un nous demande : « <emphasis>Que faites-vous ?</emphasis> »,
+        la plupart des gens veulent entendre parler du but de notre
+        organisation<indexterm>
             <primary>organisation</primary>
 
             <secondary>vision, mission, but d'une organisation</secondary>
-          </indexterm> (ou cercle). « Nous fabriquons de la bière sans gluten
-        et nous la vendons dans une boutique en ligne » serait une réponse
-        satisfaisante. Toutefois, si nous disons « Eh ! Nous mettons fin à la
-        problématique des sans-abris ! » ou « Nous soutenons le mouvement
-        coopératif », cela suscitera probablement de nombreuses autres
-        questions. Ce sont des missions<indexterm>
+          </indexterm> (ou cercle). « <emphasis>Nous fabriquons de la bière
+        sans gluten et nous la vendons dans une boutique en ligne</emphasis> »
+        serait une réponse satisfaisante. Toutefois, si nous disons :
+        « <emphasis>Eh ! Nous mettons fin à la problématique des
+        sans-abris !</emphasis> » ou « <emphasis>Nous soutenons le mouvement
+        coopératif.</emphasis> », cela suscitera probablement de nombreuses
+        autres questions. Ce sont des missions<indexterm>
             <primary>mission</primary>
           </indexterm>. Un but doit être quelque chose compris par tout le
         monde parce qu’il est concret.</para>
@@ -534,8 +541,10 @@
             <primary>but</primary>
           </indexterm> global de l'organisation. Le but tel que défini
         détermine la nature du produit ou du service. Nous pouvons voir
-        comment le but global se décompose en sous-buts dans l'encadré suivant
-        :</para>
+        comment le but global se décompose en sous-buts dans l'encadré
+        suivant.<remark>I changed this from a colon to a period because the
+        figure can float. Does it still make grammatical
+        sense?</remark></para>
 
         <figure xml:id="examplepermaMA">
           <title>Buts de l'organisation et buts des cercles</title>
@@ -548,43 +557,43 @@
         </figure>
 
         <para>Si nous voulons bâtir des logements communautaires, nous avons
-        besoin d'un but clair ; pour ce faire, nous allons devoir prendre
-        quelques décisions :</para>
+        besoin d'un but clair. Pour ce faire, nous allons devoir prendre
+        quelques décisions :</para>
 
         <itemizedlist>
           <listitem>
             <para>ce projet inclut-il uniquement du logement, ou des
-            entreprises, ou un programme d'études scolaires ?</para>
+            entreprises, ou un programme d'études scolaires ?</para>
           </listitem>
 
           <listitem>
             <para>dans un voisinage convivial, ou un projet de changement
-            social non-conventionnel ? avec un engagement environnemental
-            durable ?</para>
+            social non-conventionnel ? avec un engagement environnemental
+            durable ?</para>
           </listitem>
 
           <listitem>
-            <para>pour le niveau de population : un seul bâtiment ou
-            plusieurs, groupés ou dispersés ?</para>
+            <para>pour le niveau de population : un seul bâtiment ou
+            plusieurs, groupés ou dispersés ?</para>
           </listitem>
 
           <listitem>
             <para>dans une localisation urbaine, ou rurale, au nord ou au sud
-            de la ville ?</para>
+            de la ville ?</para>
           </listitem>
 
           <listitem>
             <para>un équilibre entre l'accessibilité économique et les
-            commodités locales ?</para>
+            commodités locales ?</para>
           </listitem>
 
           <listitem>
-            <para>le coût prévu par unité / maison ?</para>
+            <para>le coût prévu par unité / maison ?</para>
           </listitem>
 
           <listitem>
-            <para>quelles formes de gouvernance et de prise de décision
-            ?</para>
+            <para>quelles formes de gouvernance et de prise de
+            décision ?</para>
           </listitem>
         </itemizedlist>
 
@@ -769,6 +778,9 @@
           <secondary>sous-domaine</secondary>
         </indexterm>
 
+        <?latex \enlargethispage*{\baselineskip}
+?>
+
         <para>Le domaine global de l'organisation est la somme de tous les
         champs de responsabilités qui permettent l'atteinte du but de
         l'organisation. On peut introduire des sous-domaines<indexterm>
@@ -797,12 +809,7 @@
               <primary>cercle</primary>
 
               <secondary>cercle parent</secondary>
-            </indexterm><footnote>
-              <para>NDLR : dans ce texte, l'expression « cercle parent » est
-              synonyme de « sur-cercle » ; de la même façon, lorsqu'il est
-              fait mention de « cercle enfant », il s'agit d'un
-              « sous-cercle ».</para>
-            </footnote> (voir l'illustration <xref
+            </indexterm> (voir l'illustration <xref
           linkend="alldecisionsaboutpastryJH"
           xrefstyle="select: labelnumber"/>). Nous essayons de prendre autant
           de décisions que possible dans le cercle Pâtisserie ; ce dernier n'a
@@ -827,8 +834,13 @@
             <primary>cercle</primary>
 
             <secondary>cercle parent</secondary>
-          </indexterm> peut transmettre, ou pas, des aspects spécifiques de
-        son domaine<indexterm>
+          </indexterm><footnote>
+            <para>Ndlr : Dans ce texte, l'expression « cercle parent » est
+            synonyme de « sur-cercle » ; de la même façon, lorsqu'il est fait
+            mention de « cercle enfant », il s'agit d'un
+            « sous-cercle ».</para>
+          </footnote> peut transmettre, ou pas, des aspects spécifiques de son
+        domaine<indexterm>
             <primary>domaine</primary>
           </indexterm> à un ou plusieurs sous-cercles. Un tel cercle fera
         office de coordinateur entre les sous-cercles, et aura également sa
@@ -994,7 +1006,7 @@
 
         <figure xml:id="fulldomainsubdomain">
           <title>Un cercle parent délègue des parties de son domaine à trois
-          sous-cercles</title>
+          sous-cercles.</title>
 
           <mediaobject>
             <imageobject>
@@ -1050,24 +1062,24 @@
 
         <itemizedlist>
           <listitem>
-            <para>Pourquoi est-ce qu'ils font..., alors que nous l'avions déjà
-            fait... ? Pourquoi est-ce qu'ils ont changé notre... ?</para>
+            <para>Pourquoi est-ce qu'ils font…, alors que nous l'avions déjà
+            fait… ? Pourquoi est-ce qu'ils ont changé notre… ?</para>
           </listitem>
 
           <listitem>
-            <para>Pourquoi est-ce qu'ils ne prennent pas soin de...? Pourquoi
-            n'ont-ils jamais. . . ? Ne savent-ils pas qu'ils devraient. .
-            .</para>
+            <para>Pourquoi est-ce qu'ils ne prennent pas soin de… ? Pourquoi
+            n'ont-ils jamais… ? Ne savent-ils pas qu'ils devraient…</para>
           </listitem>
         </itemizedlist>
 
-        <para>La réponse simple pourrait être : « parce que les domaines
-        n'avaient pas été définis de façon claire ».</para>
+        <para>La réponse simple pourrait être : « <emphasis>Parce que les
+        domaines n'avaient pas été définis de façon
+        claire.</emphasis> »</para>
 
         <para>Le chevauchement ou une lacune entre les domaines peuvent
         susciter des réactions. L'attitude la plus productive toutefois serait
-        la curiosité et l'ouverture : « Je me demande si nos domaines sont
-        suffisamment bien définis ? »</para>
+        la curiosité et l'ouverture : « <emphasis>Je me demande si nos
+        domaines sont suffisamment bien définis ?</emphasis> »</para>
 
         <figure xml:id="overlapgapcomplaints">
           <title>Chevauchement, lacune, domaines définis de façon claire et
@@ -1122,13 +1134,14 @@
             problème peut rester ignoré pendant un certain temps, et
             l'ensemble des membres de la communauté peuvent se plaindre de
             l'escalier sale. Finalement, les membres du Cercle Rez-de-chaussée
-            pourraient en vouloir aux membres du Cercle Sous-sol (« Après
-            tout, c'est l'escalier qui mène au sous-sol, non ? »), et ces
-            derniers pourraient être en colère envers les premiers parce
-            qu'ils sont montrés du doigt (« Après tout, quand nous avons
-            accepté de nous occuper du sous-sol, personne ne parlait de
-            l'escalier »). Les ressentiments témoignent de besoins non
-            satisfaits, notamment d'un besoin de clarté<indexterm>
+            pourraient en vouloir aux membres du Cercle Sous-sol
+            (« <emphasis>Après tout, c'est l'escalier qui mène au sous-sol,
+            non ?</emphasis> »), et ces derniers pourraient être en colère
+            envers les premiers parce qu'ils sont montrés du doigt
+            (« <emphasis>Après tout, quand nous avons accepté de nous occuper
+            du sous-sol, personne ne parlait de l'escalier</emphasis> »). Les
+            ressentiments témoignent de besoins non satisfaits, notamment d'un
+            besoin de clarté<indexterm>
                 <primary>clarté (besoin)</primary>
               </indexterm><indexterm>
                 <primary>besoins; exemples</primary>
@@ -1149,8 +1162,7 @@
             les domaines en conséquence. Ou nous pourrions avoir des raisons
             de penser que l'équipe de nettoyage du Cercle Rez-de-chaussée doit
             le faire, puisqu'elle est plus active et que les escaliers ont
-            besoin d'un nettoyage plus
-            fréquent.<remark>subfigures</remark></para>
+            besoin d'un nettoyage plus fréquent.</para>
           </listitem>
         </itemizedlist>
 
@@ -1179,6 +1191,9 @@
             </caption>
           </mediaobject>
         </figure>
+
+        <?latex \enlargethispage*{\baselineskip}
+?>
 
         <itemizedlist>
           <listitem>
@@ -1245,10 +1260,10 @@
 
             <secondary>sous-cercle</secondary>
           </indexterm> (cercle enfant<footnote>
-            <para>NDLT Dans ce texte, l'expression « cercle enfant » est
-            synonyme de « sous-cercle » ; de la même façon, lorsqu'il est fait
-            mention de « cercle parent », il s'agit d'un « sur-cercle
-            ».</para>
+            <para>Ndlr : Dans ce texte, l'expression « cercle enfant » est
+            synonyme de « sous-cercle » ; de la même façon, lorsqu'il est fait
+            mention de « cercle parent », il s'agit d'un
+            « sur-cercle ».</para>
           </footnote>) proviennent du cercle parent<indexterm>
             <primary>cercle</primary>
 
@@ -1257,7 +1272,7 @@
         désigne les membres et définit ce que seront le but et le domaine. Un
         cercle ne peut pas modifier son but unilatéralement, mais il peut
         proposer un but révisé à son cercle parent en vue d'obtenir son
-        consentement. Lorsque le but et/ou les domaines d'un cercle sont
+        consentement. Lorsque le but et / ou les domaines d'un cercle sont
         modifiés, le cercle parent et le cercle enfant doivent tous les deux
         donner leur consentement.</para>
 
@@ -1285,7 +1300,7 @@
         compte de ce qui a un sens pour les membres de l'organisation, il n'y
         donc pas besoin d'un « juriste » pour les définir. Si la définition
         fait suffisamment sens pour toutes les personnes concernées, elle sera
-        suffisamment bonne pour commencer — <emphasis>assez sûr pour essayer
+        suffisamment bonne pour commencer — <emphasis>assez sûr pour essayer
         et assez bien pour l’instant. </emphasis></para>
       </section>
 
@@ -1296,7 +1311,7 @@
           <primary>hiérarchie</primary>
         </indexterm>
 
-        <para>Nous avons parlé de « sous »-cercles<indexterm>
+        <para>Nous avons parlé de « sous »-cercles<indexterm>
             <primary>cercle</primary>
 
             <secondary>sous-cercle</secondary>
@@ -1306,7 +1321,7 @@
             <secondary>sous-but</secondary>
           </indexterm>. Cela signifie-t-il que la sociocratie réfère à une
         forme de hiérarchie ? Et si oui, comment cela va-t-il de pair avec
-        l'idée d'une gouvernance d'égal à égal ?</para>
+        l'idée d'une gouvernance d'égal à égal ?</para>
 
         <para>En sociocratie, la hiérarchie réfère à la spécificité des buts
         et des domaines et non à un pouvoir de domination. Un Cercle Lavage de
@@ -1339,6 +1354,9 @@
             </imageobject>
           </mediaobject>
         </figure>
+
+        <?latex \enlargethispage{-\baselineskip}
+?>
 
         <para>Les organisations peuvent choisir les termes qu'elles préfèrent.
         Les pratiquants de la sociocratie vont parler de « haut » et de
@@ -1377,7 +1395,7 @@
             <primary>hiérarchie</primary>
 
             <secondary>hiérarchie linéaire</secondary>
-          </indexterm> en représentant une structure plus circulaire - mais
+          </indexterm> en représentant une structure plus circulaire — mais
         ici encore toutefois, cela s'accompagne de connotations non désirées
         (« en périphérie » ou « en marge » versus « au centre »).</para>
 
@@ -1553,16 +1571,16 @@
       </section>
 
       <section>
-        <title>Comment devenir membre d'un cercle ?</title>
+        <title>Comment devenir membre d'un cercle ?</title>
 
         <para>En sociocratie, personne ne peut être forcé à devenir membre
         d'un cercle, et personne ne peut être forcé à en sortir.</para>
 
         <para>Un cercle peut consentir à ce qu'une personne se joigne à lui.
-        Lorsqu'une personne exprime son intérêt à le rejoindre — que ce soit
+        Lorsqu'une personne exprime son intérêt à le rejoindre — que ce soit
         par le biais d'une embauche ou d'un poste de bénévole<indexterm>
             <primary>bénévole</primary>
-          </indexterm> —, ceci est une proposition pour devenir membre du
+          </indexterm> — ceci est une proposition pour devenir membre du
         cercle. Pour accepter cette proposition<indexterm>
             <primary>proposition</primary>
 
@@ -1583,7 +1601,7 @@
 
         <para>La proposition pour accepter une personne en tant que membre est
         simple, comme le montre l'encadré <xref linkend="newmember"
-        xrefstyle="select: labelnumber"/> :</para>
+        xrefstyle="select: labelnumber"/>.</para>
 
         <figure xml:id="newmember">
           <title>Accepter un nouveau membre dans le cercle</title>
@@ -1628,18 +1646,18 @@
             <secondary>consentir à un nouveau membre</secondary>
           </indexterm>.</para>
 
-        <para>Les questions des membres pourraient être : « Je suis curieux de
-        savoir ce qui vous a amené dans ce cercle », ou : « Quelle est votre
-        expérience à propos de... ? ». On peut accueillir des réactions
-        rapides, spontanées. Cela peut être un rituel doux et bienveillant
-        pour le nouveau membre du cercle. Par ailleurs, l'expression honnête
-        des membres demeure cruciale, afin de protéger le fonctionnement de
-        base du cercle — par exemple, on peut réagir à quelqu'un qui veut
-        rejoindre le cercle pour une réunion, uniquement parce qu'il y a un
-        enjeu important pour elle. Dans ce cas, ne donnons pas notre
-        consentement. Nous faisons usage de notre droit de choisir avec qui
-        nous travaillons. Nous pourrions aussi à traiter des
-        objections<indexterm>
+        <para>Les questions des membres pourraient être : « <emphasis>Je suis
+        curieux de savoir ce qui vous a amené dans ce cercle.</emphasis> » ou
+        « <emphasis>Quelle est votre expérience à propos de... ?</emphasis> ».
+        On peut accueillir des réactions rapides, spontanées. Cela peut être
+        un rituel doux et bienveillant pour le nouveau membre du cercle. Par
+        ailleurs, l'expression honnête des membres demeure cruciale, afin de
+        protéger le fonctionnement de base du cercle — par exemple, on peut
+        réagir à quelqu'un qui veut rejoindre le cercle pour une réunion,
+        uniquement parce qu'il y a un enjeu important pour elle. Dans ce cas,
+        ne donnons pas notre consentement. Nous faisons usage de notre droit
+        de choisir avec qui nous travaillons. Nous pourrions aussi à traiter
+        des objections<indexterm>
             <primary>objection</primary>
           </indexterm>.</para>
 
@@ -1764,7 +1782,7 @@
         Pour que la prise de décision par consentement<indexterm>
             <primary>consentement</primary>
           </indexterm> soit possible, les groupes doivent être protégés des
-        dysfonctionnements..</para>
+        dysfonctionnements.</para>
 
         <para>Exclure quelqu'un d'un cercle, en ce qui a trait à la démarche
         comme telle, est une chose simple. Quelqu'un propose<indexterm>
@@ -1800,7 +1818,7 @@
         crucial ainsi que savoir comment la mettre en œuvre. C'est pourquoi
         nous recommandons vivement de <emphasis>définir les étapes</emphasis>
         qui mèneront à ce processus <emphasis>avant</emphasis> qu'il n'ait
-        lieu. Voici quelques suggestions dans ce sens :</para>
+        lieu. Voici quelques suggestions dans ce sens :</para>
 
         <itemizedlist>
           <listitem>
@@ -1808,17 +1826,17 @@
                 <primary>revue de performance</primary>
               </indexterm> régulières et honnêtes, avec des demandes<indexterm>
                 <primary>demande</primary>
-              </indexterm> concrètes et réalisables concernant le comportement
-            ;</para>
+              </indexterm> concrètes et réalisables concernant le
+            comportement ;</para>
           </listitem>
 
           <listitem>
             <para>échanges entre le responsable de cercle et la personne avec
-            qui il est difficile de travailler ;</para>
+            qui il est difficile de travailler ;</para>
           </listitem>
 
           <listitem>
-            <para>médiation formelle / cercle restauratif.</para>
+            <para>médiation formelle / cercle restauratif.</para>
           </listitem>
         </itemizedlist>
 
@@ -1828,7 +1846,7 @@
         personne. La rétroaction directe<indexterm>
             <primary>faire un retour</primary>
           </indexterm> est plus efficace que des règles de base vagues,
-        d'autant plus que le membre visé se considère comme bien intentionné —
+        d'autant plus que le membre visé se considère comme bien intentionné —
         et c'est probablement le cas. Personne ne douterait que le respect
         soit une exigence fondamentale, mais tout le monde ne s'accorde pas
         sur ce à quoi ressemble le respect, et dans quelles conditions il
@@ -1856,6 +1874,9 @@
     <indexterm>
       <primary>opérations</primary>
     </indexterm>
+
+    <?latex \enlargethispage*{\baselineskip}
+?>
 
     <para>Nous avons décrit comment les cercles se connectent à leurs cercles
     apparentés par le biais de liens<indexterm>
@@ -2025,7 +2046,7 @@
 
       <figure>
         <title>Les rôles de cercle prennent en charge un ensemble défini
-        d'opérations à plus long terme</title>
+        d'opérations à plus long terme.</title>
 
         <mediaobject>
           <imageobject>
@@ -2084,10 +2105,10 @@
         <xref linkend="operationalroles"/>). Le leader agit dans le cadre de
         la politique consentie par le cercle.</para>
 
-        <figure xml:id="tasksLeader">
+        <figure floatstyle="[H]" xml:id="tasksLeader">
           <title>Check-list<footnote>
-              <para><emphasis>NDLT le terme « check-list » utilisé dans cet
-              ouvrage est synonyme pour « liste de vérification» qui est une
+              <para><emphasis>Ndlr : Le terme « check-list » utilisé dans cet
+              ouvrage est synonyme pour « liste de vérification » qui est une
               expression moins courante.</emphasis></para>
             </footnote><emphasis> pour le rôle de leader<indexterm>
               <primary>leader</primary>
@@ -2386,9 +2407,9 @@
             </indexterm><indexterm>
               <primary>sélection</primary>
             </indexterm> à l'acceptation d'un membre, ce qui rendra nécessaire
-          la sélection d'un nouveau délégué par le cercle "du dessous". Comme
-          toujours, le fondement de cette objection doit être argumenté et en
-          rapport avec le but du cercle. Un cercle général<indexterm>
+          la sélection d'un nouveau délégué par le cercle « du dessous ».
+          Comme toujours, le fondement de cette objection doit être argumenté
+          et en rapport avec le but du cercle. Un cercle général<indexterm>
               <primary>cercle général</primary>
             </indexterm> dysfonctionnel peut ralentir l'ensemble de
           l'organisation. Si un délégué ne soutient pas le travail du cercle
@@ -2401,8 +2422,8 @@
 
           <figure xml:id="bubble-withdrawconsentonGC">
             <title>Faisons valoir notre droit au consentement, y compris quand
-            il s'agit de choisir des délégués dans le cercle "du
-            dessus".</title>
+            il s'agit de choisir des délégués dans le cercle « du
+            dessus ».</title>
 
             <mediaobject>
               <imageobject>
@@ -2420,8 +2441,11 @@
           <primary>secrétaire</primary>
         </indexterm>
 
+        <?latex \enlargethispage*{\baselineskip}
+?>
+
         <para>Chaque cercle choisit un secrétaire chargé de prendre des notes
-        et de publier les comptes rendus de réunion<indexterm>
+        et de publier les comptes-rendus de réunion<indexterm>
             <primary>compte-rendu (compte-rendu d'une réunion)</primary>
           </indexterm> au sein de l'organisation. Dans certaines
         organisations, le rôle du secrétaire (parfois appelé administrateur du
@@ -2469,8 +2493,8 @@
         organisations de plus grande taille, la tenue d'un journal de
         bord<indexterm>
             <primary>journal de bord</primary>
-          </indexterm> (conserver / mettre à jour les politiques dans un
-        endroit central) — peut être effectuée par un autre rôle, le gardien
+          </indexterm> (conserver / mettre à jour les politiques dans un
+        endroit central) — peut être effectuée par un autre rôle, le gardien
         du journal de bord<indexterm>
             <primary>gardien du journal de bord</primary>
           </indexterm>. Dans les petites organisations, cette fonction fait
@@ -2494,7 +2518,7 @@
             <secondary>ordre du jour de la réunion</secondary>
           </indexterm>, afin de pouvoir animer et guider le cercle à travers
         toutes les étapes de la prise de décision. Le facilitateur peut
-        s'entretenir avec le leader et / ou le secrétaire pour préparer les
+        s'entretenir avec le leader et / ou le secrétaire pour préparer les
         réunions à venir. Somme toute, le facilitateur aide les membres du
         cercle à participer efficacement à la réunion.</para>
 
@@ -2510,7 +2534,7 @@
       </section>
 
       <section>
-        <title>Pourquoi le leader n'est-il pas facilitateur ?</title>
+        <title>Pourquoi le leader n'est-il pas facilitateur ?</title>
 
         <indexterm>
           <primary>leader</primary>
@@ -2524,7 +2548,7 @@
           <secondary>facilitateur en opposé du leader</secondary>
         </indexterm>
 
-        <para>Les deux rôles peuvent être remplis par la même personne : le
+        <para>Les deux rôles peuvent être remplis par la même personne : le
         leader peut être le facilitateur si cela fonctionne bien dans votre
         cercle.</para>
 
@@ -2577,6 +2601,9 @@
           l'organisation</secondary>
         </indexterm>
 
+        <?latex \enlargethispage*{\baselineskip}
+?>
+
         <para>Le gardien du journal de bord<indexterm significance="preferred">
             <primary>gardien du journal de bord</primary>
           </indexterm> gère et tient à jour les comptes-rendus<indexterm>
@@ -2601,7 +2628,7 @@
         quoi pourrait ressembler un journal de bord.</para>
 
         <para>Le tableau <xref linkend="logbookkeepertasks"
-        xrefstyle="select: labelnumber"/> énumère les tâches ; des
+        xrefstyle="select: labelnumber"/> énumère les tâches ; des
         dispositions plus spécifiques peuvent être prises par le cercle
         général. Si on le souhaite, un cercle qui a beaucoup de politiques à
         gérer peut définir, en plus du rôle de secrétaire, le rôle de gardien
@@ -2638,6 +2665,9 @@
         <secondary>rôle opérationnel</secondary>
       </indexterm>
 
+      <?latex \enlargethispage*{\baselineskip}
+?>
+
       <para>La plupart des cercles choisiront de définir ce que nous appelons
       des rôles opérationnels : des parties du domaine<indexterm>
           <primary>domaine</primary>
@@ -2657,14 +2687,14 @@
         opérations<indexterm>
             <primary>opérations</primary>
           </indexterm> en relation avec cette imprimante sont effectuées par
-        le titulaire du rôle opérationnel. Autre exemple : un Cercle Adhésions
+        le titulaire du rôle opérationnel. Autre exemple : un Cercle Adhésions
         souhaite travailler activement sur le recrutement; on peut demander à
         une personne du cercle de coordonner ces actions. Si cette démarche
         s'avère fructueuse et si le cercle souhaite poursuivre dans cette
         direction, on peut décider de former un cercle distinct qui se réunit
         séparément et élabore sa propre politique dans le domaine<indexterm>
             <primary>domaine</primary>
-          </indexterm> du recrutement.  </para>
+          </indexterm> du recrutement.</para>
       </informalexample>
 
       <figure xml:id="operationalrolesJH">
@@ -2706,7 +2736,7 @@
         </listitem>
       </itemizedlist>
 
-      <para>Avantages pour le titulaire des rôles :</para>
+      <para>Avantages pour le titulaire des rôles :</para>
 
       <itemizedlist>
         <listitem>
@@ -2738,7 +2768,7 @@
           <para>Une même personne peut occuper différents rôles, avec des
           degrés variés entre abstrait et concret, afin de créer un mélange de
           champs de responsabilité qui corresponde à ses besoins<indexterm>
-              <primary>needs</primary>
+              <primary>besoins</primary>
             </indexterm> et ses désirs.</para>
         </listitem>
       </itemizedlist>
@@ -2753,7 +2783,7 @@
       rôles dans un domaine de cercle n'ont pas
       <emphasis>nécessairement</emphasis> à être membres du cercle qui détient
       ce rôle. Toutefois, cela est recommandé afin de recevoir facilement des
-      rétroactions et y répondre. La limite ici est l’attention du cercle :
+      rétroactions et y répondre. La limite ici est l’attention du cercle :
       nous ne pouvons distribuer l’autorité<indexterm>
           <primary>autorité</primary>
         </indexterm> que dans la mesure où nous donnons la priorité à la
@@ -2768,7 +2798,7 @@
 
           <secondary>description de rôle</secondary>
         </indexterm>, laquelle peut être générée de la même manière que les
-      autres politiques : bref énoncé des besoins, faire une esquisse et
+      autres politiques : bref énoncé des besoins, faire une esquisse et
       élaboration de propositions. (Voir comment écrire les rôles dans la
       section <xref linkend="policyroles"
       xrefstyle="select: labelnumber page"/>.)</para>
@@ -2786,9 +2816,9 @@
 
       <para>Le travail du cercle est de créer un cadre pour les rôles avec
       suffisamment de clarté pour que les détenteurs de rôles puissent agir
-      sans toujours avoir à revenir auprès du cercle ; ainsi rien ne les
+      sans toujours avoir à revenir auprès du cercle ; ainsi rien ne les
       retient. Comme pour toute politique, nous créons la plus petite quantité
-      de politiques - assez pour guider, en évitant les blocages ou les
+      de politiques — assez pour guider, en évitant les blocages ou les
       conflits avec d'autres tâches, sans créer de frais généraux ou de
       bureaucratie superflues. Toute politique, y compris celle concernant la
       description des rôles<indexterm>
@@ -2932,7 +2962,7 @@
               <primary>ordre du jour</primary>
 
               <secondary>préparer l'ordre du jour</secondary>
-            </indexterm> : est-ce que cela change aussi ? Ou est-ce que seul
+            </indexterm> : est-ce que cela change aussi ? Ou est-ce que seul
           le facilitateur change ? D'après notre expérience, si la préparation
           de la réunion fait l'objet d'une rotation, il peut être difficile de
           savoir qui fait quoi ! (Pratiquement, cela signifie que quelqu’un
@@ -2940,11 +2970,11 @@
           réunion, ce qui crée une étape supplémentaire.) La préparation de
           l'ordre du jour de la réunion est une partie importante de la prise
           de décision efficace. Pendant cette préparation de l'ordre du jour,
-          le facilitateur — idéalement avec le leader<indexterm>
+          le facilitateur — idéalement avec le leader<indexterm>
               <primary>leader</primary>
             </indexterm> de cercle et le secrétaire<indexterm>
               <primary>secrétaire</primary>
-            </indexterm> — réfléchissent aux prochaines étapes pour chaque
+            </indexterm> — réfléchissent aux prochaines étapes pour chaque
           point de l'ordre du jour : ferons-nous une esquisse ? Une
           proposition est-elle prête ? Les personnes dont nous avons besoin
           pour obtenir des rétroactions ou prendre une décision sont-elles
@@ -3086,11 +3116,11 @@
         <secondary>cercle parent</secondary>
       </indexterm> au sous-cercle et s'assure que toutes les actions servent à
     réaliser le but du sous-cercle. Le second lien fait remonter du
-    sous-cercle vers l'organisation plus large en signalant au cercle "du
-    dessus" les informations utiles (quelles décisions ont été prises, comment
-    le cercle se porte, ou l'impact sur lui des politiques adoptées par le
-    cercle parent, etc.) Voir le diagramme <xref linkend="leaderdelegate"
-    xrefstyle="select: labelnumber"/>).</para>
+    sous-cercle vers l’organisation plus large en signalant au cercle « du
+    dessus » les informations utiles (quelles décisions ont été prises,
+    comment le cercle se porte, ou l’impact sur lui des politiques adoptées
+    par le cercle parent, etc. ; voir le diagramme <xref
+    linkend="leaderdelegate" xrefstyle="select: labelnumber"/>).</para>
 
     <figure xml:id="leaderdelegate">
       <title>Leader et délégué</title>
@@ -3116,7 +3146,7 @@
       sens. Cela permet également aux deux cercles de s'entraider si l'un
       d'entre eux éprouve des difficultés.</para>
 
-      <figure>
+      <figure floatstyle="[htb]">
         <title>Hiérarchie dynamique</title>
 
         <mediaobject>
@@ -3128,7 +3158,7 @@
 
       <para>Nous avons besoin d'un flux d'information pour nous assurer que
       chaque personne et que chaque aspect fonctionnent bien ensemble. Les
-      deux liens servent également de filtre - personne dans une organisation
+      deux liens servent également de filtre — personne dans une organisation
       ne peut (et ne veut) détenir toutes les informations de tous les
       cercles. L'attention est une ressource rare et nous devons la protéger.
       Ainsi, chaque cercle peut se concentrer sur ce qui est important pour
@@ -3141,7 +3171,7 @@
       <para>Par ailleurs, la prise en compte des problèmes peut aussi être
       amplifiée. Par exemple, certains cercles de travail régionaux d'une même
       organisation peuvent constater un problème qui ne semble pas être énorme
-      à leur échelle - mais le cercle de niveau national repère là une
+      à leur échelle — mais le cercle de niveau national repère là une
       tendance récurrente révélatrice d’un problème systémique. Ainsi, nous
       <emphasis>voulons</emphasis> que ce type d'information remonte à la
       surface. Un cercle parent<indexterm>
@@ -3158,7 +3188,7 @@
       l'organisation soit trop compliquée et crée une coupure entre les
       personnes. Il s'agit là encore d'une information importante.
       Décentraliser et filtrer ou amplifier l'information soulage
-      l'organisation : le flux d'informations ne conduit pas alors à une
+      l'organisation : le flux d'informations ne conduit pas alors à une
       surcharge.</para>
 
       <figure>
@@ -3272,8 +3302,8 @@
 
           <secondary>double-lien</secondary>
         </indexterm>, on ne percevra pas un cercle parent ou enfant comme
-      étant “<emphasis>les autres</emphasis>”. Imaginons qu’un cercle ne soit
-      pas d'accord avec une décision prise par le cercle parent<indexterm>
+      étant « <emphasis>les autres</emphasis> ». Imaginons qu’un cercle ne
+      soit pas d'accord avec une décision prise par le cercle parent<indexterm>
           <primary>cercle</primary>
 
           <secondary>cercle parent</secondary>
@@ -3387,13 +3417,13 @@
       </indexterm>
 
       <para>On peut gérer une organisation sociocratique avec un seul cercle.
-      Lorsque les tâches doivent être plus différenciées et/ou que
+      Lorsque les tâches doivent être plus différenciées et / ou que
       l'organisation se développe, on passe à une structure plus complexe.
       Nous décrirons ici la structure de base. Notons qu'il y a quelques
       commentaires sur les petites organisations dans la section <xref
       linkend="tiny-organizations" xrefstyle="select: labelnumber"/>.</para>
 
-      <figure xml:id="basicstructure">
+      <figure floatstyle="[htb]" xml:id="basicstructure">
         <title>Une mise en œuvre de base<indexterm>
             <primary>implantation</primary>
           </indexterm></title>
@@ -3522,15 +3552,15 @@
 
         <listitem>
           <para>Le CG est également au cœur du flux d'informations circulant
-          entre les cercles qui s'activent à réaliser le but. « Sur quoi
-          travaillent les cercles ? Qu'est-ce que le cercle de département
-          numéro un a besoin de savoir sur le cercle de département numéro
-          trois ? Comment les cercles peuvent-ils se soutenir
-          mutuellement ? »<indexterm>
+          entre les cercles qui s'activent à réaliser le but. « <emphasis>Sur
+          quoi travaillent les cercles ? Qu'est-ce que le cercle de
+          département numéro un a besoin de savoir sur le cercle de
+          département numéro trois ? Comment les cercles peuvent-ils se
+          soutenir mutuellement ?</emphasis> »<indexterm>
               <primary>cercle</primary>
 
               <secondary>cercle de département</secondary>
-            </indexterm>. Rappelons-nous que le délégué<indexterm>
+            </indexterm> Rappelons-nous que le délégué<indexterm>
               <primary>délégué</primary>
             </indexterm> rend compte au cercle général de ce qui se passe au
           cercle de département<indexterm>
@@ -3539,7 +3569,7 @@
               <secondary>cercle de département</secondary>
             </indexterm>, tandis que le leader<indexterm>
               <primary>leader</primary>
-            </indexterm> — en plus de ses autres tâches pour mener le cercle —
+            </indexterm> — en plus de ses autres tâches pour mener le cercle —
           transmet l'information <emphasis>depuis</emphasis> le CG vers son
           cercle de département.</para>
         </listitem>
@@ -3549,8 +3579,8 @@
           buts. En pratique, cela signifie que le CG décide qui décide. Si une
           nouvelle question ou un nouveau sujet se présente, le CG l'attribue
           à l'un des cercles de département. Lorsqu'une question émerge
-          concernant les buts/domaines de plus d'un cercle de département, le
-          CG peut l'étudier et prendre des décisions.</para>
+          concernant les buts / domaines de plus d'un cercle de département,
+          le CG peut l'étudier et prendre des décisions.</para>
         </listitem>
       </itemizedlist>
 
@@ -3653,7 +3683,7 @@
           </listitem>
         </itemizedlist>
 
-        <figure xml:id="influencetopbottom">
+        <figure floatstyle="[htb]" xml:id="influencetopbottom">
           <title>Influence réciproque entre l'organisation et le monde
           extérieur au niveau du cercle mission et de cercles spécifiques :
           les organisations bénéficient de ce type d'échange avec le monde
@@ -3686,7 +3716,7 @@
       </section>
 
       <section>
-        <title>Qui fait partie du cercle mission ?</title>
+        <title>Qui fait partie du cercle mission ?</title>
 
         <indexterm>
           <primary>cercle mission</primary>
@@ -3694,15 +3724,18 @@
           <secondary>membres</secondary>
         </indexterm>
 
-        <para>Le CM est composé :</para>
+        <?latex \enlargethispage*{\baselineskip}
+?>
+
+        <para>Le CM est composé :</para>
 
         <itemizedlist>
           <listitem>
-            <para>du leader du cercle général ;</para>
+            <para>du leader du cercle général ;</para>
           </listitem>
 
           <listitem>
-            <para>du délégué du cercle général ;</para>
+            <para>du délégué du cercle général ;</para>
           </listitem>
 
           <listitem>
@@ -3711,7 +3744,7 @@
                 <primary>partie prenante</primary>
 
                 <secondary>cercle des parties prenantes</secondary>
-              </indexterm> ;</para>
+              </indexterm> ;</para>
           </listitem>
 
           <listitem>
@@ -3773,6 +3806,9 @@
           </listitem>
         </itemizedlist>
 
+        <?latex \enlargethispage*{-\baselineskip}
+?>
+
         <para>Selon le but et la gouvernance particulière de l’organisation,
         le cercle mission peut également inclure des représentants de cercles
         de parties prenantes<indexterm>
@@ -3806,9 +3842,9 @@
             <secondary>cercle de département</secondary>
           </indexterm>.</para>
 
-        <figure xml:id="GCintoMCdouble">
-          <title>Un des leaders/délégués devient délégué au cercle
-          Mission.</title>
+        <figure floatstyle="[htb]" xml:id="GCintoMCdouble">
+          <title>Un des leaders / délégués devient délégué au cercle
+          mission.</title>
 
           <mediaobject>
             <imageobject>
@@ -3835,7 +3871,7 @@
             <secondary>délégué du CG au CM</secondary>
           </indexterm>.</para>
 
-        <figure xml:id="upcyclingdelegate">
+        <figure floatstyle="[htb]" xml:id="upcyclingdelegate">
           <title>Un travailleur peut devenir délégué à toutes les couches de
           l'organisation.</title>
 
@@ -3919,9 +3955,7 @@
               </indexterm> oblige à entreprendre ensemble une discussion et à
             trouver ensemble une solution.</para>
           </listitem>
-        </itemizedlist>
 
-        <itemizedlist>
           <listitem>
             <para>Le double-lien. L'information circule dans les deux sens.
             Deux membres de l'équipe, à savoir le leader et le délégué du
@@ -4044,7 +4078,7 @@
         Ou des membres-propriétaires, des bailleurs de fonds ou des
         investisseurs. Certains groupes sont réticents à l'idée que des
         « étrangers » siègent au CM : « <emphasis>Mais nous ne voulons pas que
-        des étrangers contrôlent notre organisation !</emphasis> ». Sur ce
+        des étrangers contrôlent notre organisation !</emphasis> » Sur ce
         point, rappelez-vous que la prise de décision au sein du cercle de
         mission se fait par consentement<indexterm>
             <primary>consentement</primary>
@@ -4080,7 +4114,7 @@
         ce contexte et pas forcément dans d'autres. L'organisation finale
         dépend de ce qui fonctionne bien dans le cercle mission.</para>
 
-        <figure xml:id="topcircleowners">
+        <figure floatstyle="[htb]" xml:id="topcircleowners">
           <title>Échantillon de structure d'une coopérative de
           travailleurs</title>
 
@@ -4128,6 +4162,9 @@
         personnes âgées, dans la communication, ou dans la résolution de
         conflits.</para>
 
+        <?latex \enlargethispage*{\baselineskip}
+?>
+
         <para>Pour compléter (même s'il n'y a pas beaucoup de différence),
         explorons une structure à but non lucratif telle qu'illustrée dans le
         diagramme <xref linkend="topcirclenonprofitJH"
@@ -4144,7 +4181,7 @@
         au cercle mission afin de représenter leurs intérêts.</para>
 
         <figure>
-          <title/>
+          <title>Deux autres possibilités pour un cercle Mission</title>
 
           <figure xml:id="topcirclecommunity">
             <title>Des experts externes d'un CM d'une communauté
@@ -4512,7 +4549,7 @@
       processus étape par étape concernant la manière de concevoir une
       structure organisationnelle en cercles.</para>
 
-      <figure xml:id="fullfledged">
+      <figure floatstyle="[htb!]" xml:id="fullfledged">
         <title>Une structure complète</title>
 
         <mediaobject>
@@ -4580,7 +4617,7 @@
         </listitem>
 
         <listitem>
-          <para>Indice 2 : de nombreux points à l'ordre du jour<indexterm>
+          <para>Indice 2 : de nombreux points à l'ordre du jour<indexterm>
               <primary>ordre du jour</primary>
             </indexterm> ne concernent qu'une partie des membres du
           cercle.<indexterm>
@@ -4588,12 +4625,12 @@
 
               <secondary>de nombreux points à l'ordre du jour</secondary>
             </indexterm> Or, on s'attend à ce que la plupart des points soient
-          pertinents pour tous les membres du cercle. Solution possible
-          :</para>
+          pertinents pour tous les membres du cercle. Solution
+          possible :</para>
 
           <itemizedlist>
             <listitem>
-              <para>Répartir les tâches et/ou l'autorité entre les rôles
+              <para>Répartir les tâches et / ou l'autorité entre les rôles
               opérationnels, un cercle de soutien ou des sous-cercles, tout
               cela afin que les points à l'ordre du jour soient pertinents
               pour tous les membres du cercle présents.</para>
@@ -4602,8 +4639,8 @@
         </listitem>
 
         <listitem>
-          <para>Indice 3 : plusieurs membres d'un cercle disent qu'il est
-          difficile d'entendre tout le monde. Solution possible :</para>
+          <para>Indice 3 : plusieurs membres d'un cercle disent qu'il est
+          difficile d'entendre tout le monde. Solution possible :</para>
 
           <itemizedlist>
             <listitem>
@@ -4629,13 +4666,11 @@
       <itemizedlist>
         <listitem>
           <para>Si un sous-cercle a un initiateur mais pas de leader, ce
-          dernier pourra être choisi lors de la première réunion ; le nouveau
+          dernier pourra être choisi lors de la première réunion ; le nouveau
           sous-cercle examine et accepte ensuite son but et son
           domaine.</para>
         </listitem>
-      </itemizedlist>
 
-      <itemizedlist>
         <listitem>
           <para>Si un sous-cercle est formé et que le leader de ce sous-cercle
           ne peut pas assister aux réunions du cercle parent, il importe soit
@@ -4767,6 +4802,9 @@
       de maillots de bain et de ne vendre que des lunettes de natation.
       D’accord. Maintenant, nous n'avons plus besoin du cercle des maillots de
       bain.</para>
+
+      <?latex \enlargethispage*{\baselineskip}
+?>
 
       <para>Mais que faire s'il y a encore du travail à exécuter et qu'il est
       trop difficile de maintenir le fonctionnement du cercle ? Nous pouvons
@@ -5088,19 +5126,19 @@
       sensibilisation au sein de l'organisation, ou informels, comme un
       rassemblement annuel de tous les pères célibataires parmi les parents
       d'une école. Ils peuvent encore ressembler davantage à des communautés
-      de pratique — un groupe de personnes ayant des rôles similaires qui se
+      de pratique — un groupe de personnes ayant des rôles similaires qui se
       réunissent régulièrement.</para>
 
       <para>Ce que tous les regroupements ont en commun, c'est qu'ils n'ont
       pas de domaines. La confusion peut naître du manque de clarté sur la
-      différence entre les cercles et les groupes d'intérêts/communautés de
+      différence entre les cercles et les groupes d'intérêts / communautés de
       pratique. L'encadré <xref linkend="networkvscircle"
       xrefstyle="select: labelnumber"/> illustre la différence entre un groupe
       d'intérêt et un cercle formel.</para>
 
       <para>Un regroupement, un groupe d'intérêt, ou une communauté de
       pratique ne peut pas prendre de décisions qui ont un impact sur les
-      politiques de l'organisation ; bien sûr, il peut fournir des
+      politiques de l'organisation ; bien sûr, il peut fournir des
       informations et élaborer des propositions à transmettre aux cercles qui
       portent le domaine concerné.</para>
 
@@ -5114,7 +5152,7 @@
         </mediaobject>
       </figure>
 
-      <figure xml:id="networkinternalsubmitproposals">
+      <figure floatstyle="[htb]" xml:id="networkinternalsubmitproposals">
         <title>Une communauté de pratique peut faire des apports à
         l'organisation</title>
 
@@ -5302,10 +5340,7 @@
       </section>
 
       <section>
-        <title>Hubs<footnote>
-            <para>NDT : nous utiliserons le terme « hub » répandu dans la
-            francophonie dans le sens de « carrefour », « pôle ».</para>
-          </footnote></title>
+        <title>Hubs</title>
 
         <indexterm>
           <primary>organisation</primary>
@@ -5313,10 +5348,15 @@
           <secondary>hubs d'organisations</secondary>
         </indexterm>
 
-        <para>Nous pouvons également former des hubs pour fournir, par
-        exemple, des efforts d'impact collectif (voir le diagramme <xref
-        linkend="collectiveimpact" xrefstyle="select: labelnumber"/>). Un hub
-        est un regroupement - et non pas un groupe décisionnel - à un niveau
+        <?latex \enlargethispage*{\baselineskip}?>
+
+        <para>Nous pouvons également former des hubs<footnote>
+            <para>NDT : Nous utiliserons le terme « hub » répandu dans la
+            francophonie dans le sens de « carrefour », « pôle ».</para>
+          </footnote> pour fournir, par exemple, des efforts d'impact
+        collectif (voir le diagramme <xref linkend="collectiveimpact"
+        xrefstyle="select: labelnumber"/>). Un hub est un regroupement — et
+        non pas un groupe décisionnel — à un niveau
         inter-organisationnel.</para>
 
         <para>Le schéma ressemble à celui du cercle des
@@ -5326,9 +5366,9 @@
         exemple, envoyer le leader opérationnel du cercle général<indexterm>
             <primary>cercle général</primary>
           </indexterm> (directeur général, PDG ou tout rôle de ce type dans
-        votre organisation) et/ou tout autre délégué de différentes
+        votre organisation) et / ou tout autre délégué de différentes
         organisations pour former un cercle. Toutefois, les mêmes restrictions
-        s'appliquent : il ne s'agit <emphasis>pas</emphasis><emphasis>
+        s'appliquent : il ne s'agit <emphasis>pas</emphasis><emphasis>
         </emphasis>d'un cercle de prise de décision au départ; ainsi,
         puisqu'il n'y a pas de prise de décision, il n'y a pas de premier
         lien<indexterm>
@@ -5352,7 +5392,7 @@
         <figure xml:id="collectiveimpact">
           <title>Organisations construisant un réseau<indexterm>
               <primary>réseau</primary>
-            </indexterm> avec un hub : il n'y a pas de prise de décision
+            </indexterm> avec un hub : il n'y a pas de prise de décision
           partagée mais un lieu central pour échanger l'information.</title>
 
           <mediaobject>
@@ -5410,6 +5450,8 @@
 
           <secondary>organisation d'organisations</secondary>
         </indexterm>
+
+        <?latex \enlargethispage*{\baselineskip}?>
 
         <para>Alors que les réseaux servent à partager des informations et à
         élaborer des stratégies collectives, les choses sont différentes en ce
@@ -5469,11 +5511,12 @@
             <primary>cercle</primary>
 
             <secondary>sous-cercle</secondary>
-          </indexterm>. Notez que, par exemple, le sous-cercle 1 du diagramme
-        <xref linkend="orgsassubcircles" xrefstyle="select: labelnumber"/> ne
-        peut pas prendre de décisions concernant l'organisation D.</para>
+          </indexterm>. Notez que, par exemple, le sous-cercle 1<remark>is
+        this right?</remark> du diagramme <xref linkend="orgsassubcircles"
+        xrefstyle="select: labelnumber"/> ne peut pas prendre de décisions
+        concernant l'organisation D.</para>
 
-        <figure xml:id="orgsassubcircles">
+        <figure floatstyle="[htb]" xml:id="orgsassubcircles">
           <title>Organisations en tant que sous-cercles</title>
 
           <mediaobject>
@@ -5577,7 +5620,7 @@
         et le délégué de chaque cercle géographique à différents niveaux
         soient également membres d'un cercle thématique.</para>
 
-        <figure xml:id="geographicaltopical">
+        <figure floatstyle="[htb]" xml:id="geographicaltopical">
           <title>Cercles géographiques en tant que cercle de parties
           prenantes<indexterm>
               <primary>partie prenante</primary>
@@ -5592,7 +5635,7 @@
           </mediaobject>
         </figure>
 
-        <figure xml:id="geographicaltopical2">
+        <figure floatstyle="[htb]" xml:id="geographicaltopical2">
           <title>Cercle géographique en tant que cercle de département</title>
 
           <mediaobject>
@@ -5620,7 +5663,7 @@
   </section>
 
   <section xml:id="operations">
-    <title>Opérations — Faire le travail</title>
+    <title>Opérations — faire le travail</title>
 
     <indexterm>
       <primary>opérations</primary>
@@ -5643,7 +5686,7 @@
     lui-même n'a généralement pas lieu pendant les réunions.</para>
 
     <para>Les principes de coordination des opérations en sociocratie sont les
-    mêmes, comme tout autre aspect de la gouvernance : efficacité<indexterm>
+    mêmes, comme tout autre aspect de la gouvernance : efficacité<indexterm>
         <primary>efficacité</primary>
 
         <secondary>intégré l'efficacité et l'équivalence</secondary>
@@ -5711,7 +5754,7 @@
       voulons impliquer et la manière dont nous voulons tenir les gens
       informés dépendent de la nature de notre organisation. Le leader du
       cercle sera la personne clé pour la coordination. Les principes qui
-      sous-tendent la manière de procéder ici sont les suivants :</para>
+      sous-tendent la manière de procéder ici sont les suivants :</para>
 
       <itemizedlist>
         <listitem>
@@ -5808,19 +5851,22 @@
         <secondary>réunion opérationnelle</secondary>
       </indexterm>
 
+      <?latex \enlargethispage*{-\baselineskip}
+?>
+
       <para>Si nous nous réunissons en cercle (ou en sous-ensemble d'un
       cercle) exclusivement pour coordonner les opérations, nous tenons une
-      réunion opérationnelle. « Tout se passe-t-il bien ? Quelqu'un a-t-il
-      besoin d'aide pour accomplir ses tâches ? Y a-t-il quelque chose de
-      précis qui vous empêche de faire votre travail ? » Ces réunions servent
-      uniquement à partager des informations et à prendre des décisions au cas
-      par cas (si elles ne sont pas prises par le leader de cercle) afin de
-      s'assurer que rien ne nuit au travail du cercle. Selon la nature du
-      cercle, il peut s'agir d'une réunion quotidienne ou hebdomadaire, ou
-      selon les besoins. Un groupe de travailleurs dans une entreprise à but
-      lucratif se réunira probablement plus souvent, tandis qu'un cercle de
-      travail dans une communauté ne se réunira que s'il y a une journée de
-      travail ou une tâche à effectuer.</para>
+      réunion opérationnelle. « <emphasis>Tout se passe-t-il bien ? Quelqu'un
+      a-t-il besoin d'aide pour accomplir ses tâches ? Y a-t-il quelque chose
+      de précis qui vous empêche de faire votre travail ?</emphasis> » Ces
+      réunions servent uniquement à partager des informations et à prendre des
+      décisions au cas par cas (si elles ne sont pas prises par le leader de
+      cercle) afin de s'assurer que rien ne nuit au travail du cercle. Selon
+      la nature du cercle, il peut s'agir d'une réunion quotidienne ou
+      hebdomadaire, ou selon les besoins. Un groupe de travailleurs dans une
+      entreprise à but lucratif se réunira probablement plus souvent, tandis
+      qu'un cercle de travail dans une communauté ne se réunira que s'il y a
+      une journée de travail ou une tâche à effectuer.</para>
 
       <para>L'équivalence<indexterm>
           <primary>équivalence</primary>
@@ -5844,7 +5890,7 @@
       xrefstyle="select: labelnumber"/> est une structure simple et
       polyvalente avec laquelle travailler.</para>
 
-      <figure xml:id="operationalmeetingdiagram">
+      <figure floatstyle="[htb]" xml:id="operationalmeetingdiagram">
         <title>Faites en sorte que vos réunions opérationnelles soient courtes
         et pertinentes !</title>
 

@@ -17,7 +17,7 @@
     <secondary>décider des politiques</secondary>
   </indexterm>
 
-  <para>En sociocratie, on retrouve deux principaux types de décision :</para>
+  <para>En sociocratie, on retrouve deux principaux types de décision :</para>
 
   <itemizedlist>
     <listitem>
@@ -25,7 +25,7 @@
           <primary>décision</primary>
 
           <secondary>décision opérationnelle</secondary>
-        </indexterm> ;</para>
+        </indexterm> ;</para>
     </listitem>
 
     <listitem>
@@ -36,10 +36,10 @@
         </indexterm>.<?xxe-remark thomas
 2024-05-10T13:21:07Z
 Added footnote. NDT means "note of the translator".?><footnote>
-          <para>NDT : Certains utilisent les termes de “décision exécutive” et
-          “décision d’orientation”, pour faire un lien explicite avec le cycle
-          “orientation-exécution-mesure” présenté dans la section 3.1 de ce
-          chapitre.</para>
+          <para>NDT : Certains utilisent les termes de « décision exécutive »
+          et « décision d’orientation », pour faire un lien explicite avec le
+          cycle « orientation – exécution – mesure » présenté dans la section
+          3.1 de ce chapitre.</para>
         </footnote></para>
     </listitem>
   </itemizedlist>
@@ -99,7 +99,7 @@ Added footnote. NDT means "note of the translator".?><footnote>
             <primary>décision</primary>
 
             <secondary>décision opérationnelle</secondary>
-          </indexterm> ;</para>
+          </indexterm></para>
       </listitem>
 
       <listitem>
@@ -147,7 +147,7 @@ Added footnote. NDT means "note of the translator".?><footnote>
 
     <itemizedlist>
       <listitem>
-        <para><emphasis role="bold">Rôles </emphasis>: énoncé décrivant un
+        <para><emphasis role="bold">Rôles</emphasis> : énoncé décrivant un
         ensemble de responsabilités et de pouvoirs portés par une
         personne.<indexterm>
             <primary>opérations</primary>
@@ -155,17 +155,17 @@ Added footnote. NDT means "note of the translator".?><footnote>
       </listitem>
 
       <listitem>
-        <para><emphasis role="strong">Sélection</emphasis> : choisir
+        <para><emphasis role="strong">Sélection</emphasis> : choisir
         d’attribuer des rôles à des personnes.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="strong">Politiques / directives</emphasis> : un
+        <para><emphasis role="strong">Politiques / directives</emphasis> : un
         énoncé général spécifiant ce qui est autorisé ou non.</para>
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Processus de travail </emphasis>: un
+        <para><emphasis role="bold">Processus de travail</emphasis> : un
         énoncé général stipulant les étapes de la réalisation des
         opérations.</para>
       </listitem>
@@ -194,19 +194,19 @@ workflow (when refering to "input-transformation-output") = processus de travail
         <primary>rôle</primary>
 
         <secondary>description de rôle</secondary>
-      </indexterm> - la politique - nous dit quel est le travail à faire et
+      </indexterm> — la politique — nous dit quel est le travail à faire et
     peut spécifier la manière de l'accomplir. Dans un autre contexte, une
     politique peut définir les conditions d'un congé parental pour tous les
     membres d'une organisation, ou les animaux domestiques autorisés dans une
     communauté intentionnelle.</para>
 
     <section>
-      <title>Combien de politiques devrait-il y avoir ?</title>
+      <title>Combien de politiques devrait-il y avoir ?</title>
 
       <indexterm>
         <primary>politique</primary>
 
-        <secondary>combien de politiques devrait-il y avoir ?</secondary>
+        <secondary>combien de politiques devrait-il y avoir ?</secondary>
       </indexterm>
 
       <para>Nous ne définissons une politique que si cela en vaut réellement
@@ -214,7 +214,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
           <primary>but</primary>
 
           <secondary>buts en tant que politique</secondary>
-        </indexterm> – ce qui constitue une politique de niveau général –
+        </indexterm> — ce qui constitue une politique de niveau général —
       pourrait être la seule chose nécessaire pour commencer à travailler de
       façon satisfaisante.</para>
 
@@ -251,8 +251,8 @@ workflow (when refering to "input-transformation-output") = processus de travail
 
       <para>Chaque cercle doit trouver son propre équilibre. Cela peut être
       une question éclairante à poser à notre cercle dans le cadre d'une
-      évaluation : sommes-nous à un point d’équilibre satisfaisant entre les
-      limites, la clarté, la confiance et le choix ?</para>
+      évaluation : sommes-nous à un point d’équilibre satisfaisant entre les
+      limites, la clarté, la confiance et le choix ?</para>
     </section>
 
     <section>
@@ -279,10 +279,9 @@ workflow (when refering to "input-transformation-output") = processus de travail
       semaine, le matin, et la semaine prochaine, l'après-midi. Une politique
       limite les choix.</para>
 
-      <para>Nous appelons parfois « politiques » des « décisions en bloc » :
-      au lieu de prendre des décisions au cas par cas, la politique fixe un
-      cadre pour toutes les décisions similaires reliées à cette
-      politique.</para>
+      <para>Nous appelons parfois politiques des « décisions en bloc » : au
+      lieu de prendre des décisions au cas par cas, la politique fixe un cadre
+      pour toutes les décisions similaires reliées à cette politique.</para>
 
       <para>Par analogie, nous pourrions considérer toutes les activités
       opérationnelles (les tâches effectuées par un cercle), comme l’eau d’une
@@ -410,8 +409,8 @@ workflow (when refering to "input-transformation-output") = processus de travail
             <para>Nous sommes habitués à considérer le vote à la majorité
             comme « équitable ». Il est rapide et peut se faire facilement
             avec un grand nombre de personnes et peu d'informations. Il a
-            cependant des inconvénients : le vote majoritaire signifie que
-            jusqu'à 49,9 % du groupe sera ignoré - c’est la tyrannie de la
+            cependant des inconvénients : le vote majoritaire signifie que
+            jusqu'à 49,9 % du groupe sera ignoré — c’est la tyrannie de la
             majorité. Nous risquons de ne pas savoir la signification du choix
             des personnes qui votent contre (ou pour), avec un niveau
             d’adhésion inconnu. Le vote récompense les comportements
@@ -424,7 +423,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
           <term><emphasis role="strong">Le consensus.</emphasis></term>
 
           <listitem>
-            <para>Une décision est prise lorsque tout le monde est d'accord -
+            <para>Une décision est prise lorsque tout le monde est d'accord —
             on a alors une décision unanime.<indexterm>
                 <primary>consensus</primary>
               </indexterm> Le consensus<indexterm>
@@ -444,7 +443,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
 
                 <secondary>pouvoir du consensus</secondary>
               </indexterm> aux individus, qui peuvent bloquer une décision
-            pour tout un groupe — c’est la tyrannie de la minorité. (Voir la
+            pour tout un groupe — c’est la tyrannie de la minorité. (Voir la
             section <xref linkend="consensus"
             xrefstyle="select: labelnumber"/> pour en savoir plus sur le
             consensus par rapport au consentement.)</para>
@@ -539,12 +538,13 @@ workflow (when refering to "input-transformation-output") = processus de travail
 
           <secondary>comprendre l'objection</secondary>
         </indexterm>. Dans sa forme la plus simple, une objection est soulevée
-      lorsque nous pouvons dire « <emphasis>si nous approuvons cette
+      lorsque nous pouvons dire : « <emphasis>Si nous approuvons cette
       proposition, je ne serai pas en mesure de faire mon travail pour
-      atteindre le but du cercle aussi bien qu'avant</emphasis> ». Une autre
-      façon d'exprimer le consentement en langage courant serait : « Je peux
-      vivre avec cette idée, pour avancer » ou « Cette décision prise, je peux
-      encore bien faire mon travail ».</para>
+      atteindre le but du cercle aussi bien qu'avant.</emphasis> » Une autre
+      façon d'exprimer le consentement en langage courant serait :
+      « <emphasis>Je peux vivre avec cette idée, pour avancer.</emphasis> » ou
+      « <emphasis>Cette décision prise, je peux encore bien faire mon
+      travail.</emphasis> »</para>
     </section>
 
     <section>
@@ -654,7 +654,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
       (partie sombre) est l'intersection où toutes les préférences coïncident.
       Moins un groupe est homogène, plus cette zone sera petite, car les
       expériences et les préférences des personnes diffèrent. En revanche, la
-      « zone de tolérance / non objection »<indexterm>
+      « zone de tolérance / non objection »<indexterm>
           <primary>objection</primary>
         </indexterm> parmi les membres du groupe est assez large. Un groupe
       parviendra plus facilement à un consentement sur des propositions
@@ -698,7 +698,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
             décisions non prises), chaque décision nous donne davantage
             l’occasion d'apprendre et de nous adapter aux changements
             extérieurs et intérieurs. Nous utilisons la formule
-            « g<foreignphrase>ood enough for now</foreignphrase> » — traduite
+            “g<foreignphrase>ood enough for now</foreignphrase>” — traduite
             par « assez bien pour l'instant » — pour encourager les groupes à
             innover et à tester leurs idées rapidement.</para>
           </listitem>
@@ -714,8 +714,8 @@ workflow (when refering to "input-transformation-output") = processus de travail
             proposition, cette personne sera entendue et l'objection<indexterm>
                 <primary>objection</primary>
               </indexterm> sera traitée. Ainsi, le consentement garantit
-            l'équivalence. La formule « <foreignphrase>safe enough to
-            try</foreignphrase> » — traduite par « assez sûr pour essayer » —
+            l'équivalence. La formule <foreignphrase>“safe enough to
+            try</foreignphrase>” — traduite par « assez sûr pour essayer » —
             souligne que nous n’avançons que lorsque cela semble sûr, et si
             c’est le cas, nous n’hésitons pas.</para>
           </listitem>
@@ -753,22 +753,22 @@ workflow (when refering to "input-transformation-output") = processus de travail
           </indexterm> ou une organisation veut accomplir, par exemple « la
         production et la vente de pains et pâtisseries de qualité à Amherst ».
         S'il y a une nouvelle proposition, un membre du cercle a une objection
-        s'il « <emphasis>a des raisons de penser que la mise en œuvre de cette
-        nouvelle proposition aurait un impact négatif sur la réalisation du
-        but du cercle</emphasis> ». Les propositions sont destinées à
-        contribuer à la réalisation du but du cercle. <indexterm>
+        s'il « a des raisons de penser que la mise en œuvre de cette nouvelle
+        proposition aurait un impact négatif sur la réalisation du but du
+        cercle ». Les propositions sont destinées à contribuer à la
+        réalisation du but du cercle. <indexterm>
             <primary>cercle</primary>
 
             <secondary>but</secondary>
-          </indexterm>.</para>
+          </indexterm></para>
 
-        <para>En bref, une objection à une proposition dit : « <emphasis>Si
+        <para>En bref, une objection à une proposition dit : « <emphasis>Si
         nous prenons cette décision, nous ne pourrons plus faire notre
         travail.</emphasis> »</para>
 
         <figure xml:id="consentobjectionaim">
           <title>La définition du consentement repose sur la définition des
-          objections et des buts</title>
+          objections et des buts.</title>
 
           <mediaobject>
             <imageobject>
@@ -781,27 +781,25 @@ workflow (when refering to "input-transformation-output") = processus de travail
             <para>Imaginons une organisation à but lucratif qui gère un espace
             de co-travail. Le but<indexterm>
                 <primary>but</primary>
-              </indexterm> général de l'organisation est de
-            « <emphasis>fournir un espace de
-            “<foreignphrase>co-working</foreignphrase>” dynamique, où les gens
-            se mettent en réseau, partagent des ressources, forment une
-            communauté et travaillent de manière productive</emphasis> ». Le
+              </indexterm> général de l'organisation est de « fournir un
+            espace de “<foreignphrase>co-working</foreignphrase>” dynamique,
+            où les gens se mettent en réseau, partagent des ressources,
+            forment une communauté et travaillent de manière productive ». Le
             cercle responsable pour les équipements partagés, comme les
             projecteurs ou les imprimantes, a pour sous-but<indexterm>
                 <primary>but</primary>
 
                 <secondary>sous-but</secondary>
-              </indexterm> d' « <emphasis>entretenir les équipements et d’en
-            maintenir l’accès aux membres de l'espace de
-            co-travail</emphasis> ». Ce cercle gère un système en ligne où les
-            membres peuvent faire l’emprunt des équipements. Supposons que
-            quelqu'un fait une proposition permettant la réservation d'un
-            équipement à l’avance à partir du système. L’un des membres du
-            cercle s'y oppose alors parce qu'il pense que certains membres de
-            l’espace de co-travail pourraient réserver du matériel et oublier
-            de l'utiliser, le rendant ainsi inutilement indisponible pour
-            d’autres membres. Il souhaite conserver le système du « premier
-            arrivé, premier servi ».</para>
+              </indexterm> d' « entretenir les équipements et d’en maintenir
+            l’accès aux membres de l'espace de co-travail ». Ce cercle gère un
+            système en ligne où les membres peuvent faire l’emprunt des
+            équipements. Supposons que quelqu'un fait une proposition
+            permettant la réservation d'un équipement à l’avance à partir du
+            système. L’un des membres du cercle s'y oppose alors parce qu'il
+            pense que certains membres de l’espace de co-travail pourraient
+            réserver du matériel et oublier de l'utiliser, le rendant ainsi
+            inutilement indisponible pour d’autres membres. Il souhaite
+            conserver le système du « premier arrivé, premier servi ».</para>
           </informalexample>Comment cette objection est-elle liée au
         but<indexterm>
             <primary>but</primary>
@@ -815,7 +813,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
         consiste à dire : « <emphasis>Je crains que nous ne puissions pas
         faire notre travail de donner accès à du matériel, si les équipements
         sont davantage réservés qu'il ne sont réellement
-        utilisés</emphasis> ».</para>
+        utilisés.</emphasis> »</para>
       </section>
 
       <section>
@@ -945,11 +943,11 @@ workflow (when refering to "input-transformation-output") = processus de travail
 
             <see>consensus</see>
           </indexterm> et le consentement serait beaucoup moins ambigu. Si
-        nous demandons des décisions à l'unanimité, nous demandons à chacun
-        « <emphasis>êtes-vous d'accord ?</emphasis> ». Cette question tend à
+        nous demandons des décisions à l'unanimité, nous demandons à chacun :
+        « <emphasis>Êtes-vous d'accord ?</emphasis> » Cette question tend à
         faire ressortir chez les gens leurs préférences personnelles. Dans le
-        cas du consentement, nous demandons « <emphasis>avez-vous une
-        objection ?</emphasis> ». Cette question inclut à la fois la zone de
+        cas du consentement, nous demandons : « <emphasis>Avez-vous une
+        objection ?</emphasis> » Cette question inclut à la fois la zone de
         tolérance<indexterm>
             <primary>zone de tolérance</primary>
           </indexterm> et la préférence personnelle<indexterm>
@@ -1044,10 +1042,10 @@ workflow (when refering to "input-transformation-output") = processus de travail
             <para>Un membre du cercle peut ne pas s’intéresser à la
             discussion. C’est bon. Il faut comprendre que <emphasis>ne pas se
             soucier d’un problème</emphasis> signifie <emphasis>ne pas avoir
-            d'objection</emphasis>. Dans ce cas, il est préférable de dire
-            « <emphasis>je n'ai pas d'objection</emphasis> » au lieu de
+            d'objection</emphasis>. Dans ce cas, il est préférable de dire :
+            « <emphasis>Je n'ai pas d'objection.</emphasis> », au lieu de
             s’abstenir. Nous choisissons activement de ne pas consacrer plus
-            de temps à la question - ce qui est parfaitement acceptable - et
+            de temps à la question — ce qui est parfaitement acceptable — et
             nous prenons la responsabilité de ce choix.</para>
           </listitem>
 
@@ -1069,7 +1067,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
         intègre sa préoccupation dans la proposition et cependant insiste pour
         qu’elle soit notée dans le compte-rendu. Si l’action générée par la
         proposition n’aboutit pas, la personne qui a soulevé la question peut
-        dire : « <emphasis>je vous l’avais bien dit !</emphasis> ». Notons que
+        dire : « <emphasis>Je vous l’avais bien dit !</emphasis> » Notons que
         dans cet exemple, tous les membres du cercle ont entendu la
         préoccupation et tous (y compris le membre ayant soulevé la question)
         ont donné leur consentement. Chacun est autant responsable de la
@@ -1084,11 +1082,11 @@ workflow (when refering to "input-transformation-output") = processus de travail
         une culture où les gens soient à l'aise pour faire des objections.
         S'il y a une raison d'objecter ou de demander plus d'informations,
         chaque membre du cercle est tenu de le faire. Dans tous les autres
-        cas, il importe de donner son consentement explicitement : « prendre
-        une décision par consentement » signifie aussi « on assume ensemble
-        les conséquences de nos choix ».</para>
+        cas, il importe de donner son consentement explicitement. Prendre une
+        décision par consentement signifie aussi « on assume ensemble les
+        conséquences de nos choix ».</para>
 
-        <para>Notons que – par consentement – nous pouvons décider d'utiliser
+        <para>Notons que — par consentement — nous pouvons décider d'utiliser
         toute autre méthode de prise de décision. Nous pouvons, après
         consentement du cercle, choisir de statuer sur un sujet en
         votant.<indexterm>
@@ -1299,7 +1297,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
         Cependant, il existe des conditions préalables au consentement. Nous
         encourageons vivement les organisations qui prévoient d'implanter la
         sociocratie en totalité ou en partie à être attentives aux points
-        suivants :</para>
+        suivants :</para>
 
         <itemizedlist>
           <listitem>
@@ -1331,7 +1329,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
               </indexterm>. Si nous ne savons pas quel est notre but commun,
             comment saurons-nous identifier une objection<indexterm>
                 <primary>objection</primary>
-              </indexterm>? (Voir aussi page <xref linkend="nosharedaim"
+              </indexterm> ? (Voir aussi page <xref linkend="nosharedaim"
             xrefstyle="select: pagenumber"/>.)</para>
           </listitem>
 
@@ -1351,7 +1349,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
                 <primary>consentement</primary>
 
                 <secondary>droits de consentement</secondary>
-              </indexterm> ? Une appartenance définie au cercle est cruciale
+              </indexterm> ? Une appartenance définie au cercle est cruciale
             pour le consentement<indexterm>
                 <primary>consentement</primary>
               </indexterm> parce que cela implique que tous les membres du
@@ -1382,13 +1380,13 @@ workflow (when refering to "input-transformation-output") = processus de travail
 
             <secondary>objections fondées sur des préférences
             personnelles</secondary>
-          </indexterm> pour la couleur « bleu » ? Il pourrait y avoir des cas
+          </indexterm> pour la couleur « bleu » ? Il pourrait y avoir des cas
         où les couleurs ont des implications ou des interprétations
         particulières et spécifiques à un contexte donné, ce qui rendrait
         raisonnables les objections à une décision sur la couleur (ou s'il
         existe une politique sur la charte graphique de l'entreprise). S'il
         n'y a pas de base raisonnable pour objecter à une couleur, qui peut
-        choisir ? Nous voulons éviter les jeux de pouvoir.</para>
+        choisir ? Nous voulons éviter les jeux de pouvoir.</para>
 
         <para>Voici ce que nous <emphasis>pouvons</emphasis> faire. Nous
         pouvons, par consentement, prendre une décision sur <emphasis>la
@@ -1402,7 +1400,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
   </section>
 
   <section xml:id="decision-making-steps">
-    <title>Élaborer une politique - étape par étape</title>
+    <title>Élaborer une politique — étape par étape</title>
 
     <indexterm>
       <primary>politique</primary>
@@ -1418,14 +1416,14 @@ workflow (when refering to "input-transformation-output") = processus de travail
       </indexterm>
 
       <para>Combien de fois avons-nous quitté une réunion avec la frustration
-      d’avoir perdu notre temps ? Comment pouvons-nous éviter cela ?</para>
+      d’avoir perdu notre temps ? Comment pouvons-nous éviter cela ?</para>
 
       <para>Nous souhaitons que le lecteur comprenne bien les étapes, les
       outils et les résultats visés afin de faire des choix éclairés. Avant
       d'aborder la prise de décision, nous devons comprendre certains concepts
       sociocratiques de base sur lesquels repose le processus axé sur
-      l’évaluation : orientation – exécution – mesure et entrée –
-      transformation – sortie. Même si guider le processus est avant tout la
+      l’évaluation : orientation – exécution – mesure et entrée –
+      transformation – sortie. Même si guider le processus est avant tout la
       tâche du facilitateur<indexterm>
           <primary>facilitateur</primary>
         </indexterm>, toute cocréation dépend autant de ceux qui vont
@@ -1434,13 +1432,13 @@ workflow (when refering to "input-transformation-output") = processus de travail
       l'évaluation, plus la réunion sera fluide.</para>
 
       <section xml:id="ITPsection">
-        <title>Entrée – transformation – sortie</title>
+        <title>Entrée – transformation – sortie</title>
 
         <indexterm>
-          <primary>entrée-transformation-sortie</primary>
+          <primary>entrée – transformation – sortie</primary>
         </indexterm>
 
-        <para>Tout processus se compose de trois phases :
+        <para>Tout processus se compose de trois phases :
         <emphasis>entrée</emphasis>, <emphasis>transformation</emphasis> et
         <emphasis>sortie</emphasis>. Une <emphasis>entrée</emphasis> est ce
         que nous savons, pensons ou détenons lorsque nous commençons. Quoique
@@ -1448,7 +1446,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
         constitue une <emphasis>transformation</emphasis>. Une
         <emphasis>sortie</emphasis> est ce que nous obtenons à l'issue du
         processus de <emphasis>transformation</emphasis>. Le type de
-        <emphasis>sortie</emphasis> dépend de la tâche à accomplir :</para>
+        <emphasis>sortie</emphasis> dépend de la tâche à accomplir :</para>
 
         <itemizedlist>
           <listitem>
@@ -1479,7 +1477,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
         </itemizedlist>
 
         <figure xml:id="inputtransformationoutput">
-          <title>Entrée - transformation - sortie</title>
+          <title>Entrée – transformation – sortie</title>
 
           <mediaobject>
             <imageobject>
@@ -1490,17 +1488,18 @@ workflow (when refering to "input-transformation-output") = processus de travail
       </section>
 
       <section xml:id="leaddomeasure">
-        <title>Orientation – exécution – mesure<footnote>
+        <title>Orientation – exécution – mesure<footnote>
             <para>NDT : Il s’agit de la traduction usuelle de ce concept,
             repris par Endenburg à la cybernétique. Les termes utilisés par
-            les auteurs sont : “lead-do-measure”. On peut aussi garder des
-            verbes en disant “orienter – exécuter – mesurer”, ou utiliser des
-            termes plus communs : “orientation – mise en œuvre –
-            évaluation”.</para>
+            les auteurs sont : <foreignphrase>“lead – do –
+            measure”</foreignphrase>. On peut aussi garder des verbes en
+            disant « orienter – exécuter – mesurer », ou utiliser des termes
+            plus communs : « orientation – mise en œuvre –
+            évaluation ».</para>
           </footnote></title>
 
         <indexterm significance="preferred">
-          <primary>orientation-exécution-mesure</primary>
+          <primary>orientation – exécution – mesure</primary>
         </indexterm>
 
         <para>À chaque étape, nous souhaitons agir de façon intentionnelle et
@@ -1510,13 +1509,13 @@ workflow (when refering to "input-transformation-output") = processus de travail
         bien mis tout ce dont nous avons besoin. Chaque étape de la prise de
         décision et des processus de travail<indexterm>
             <primary>processus de travail</primary>
-          </indexterm> se déroule en trois temps : <emphasis>orientation –
-        exécution – mesure</emphasis>.<indexterm>
-            <primary>orientation-exécution-mesure</primary>
+          </indexterm> se déroule en trois temps : <emphasis>orientation –
+        exécution – mesure</emphasis>.<indexterm significance="preferred">
+            <primary>orientation – exécution – mesure</primary>
           </indexterm></para>
 
         <figure xml:id="backpackLDM">
-          <title>Orienter – exécuter – mesurer lors de la préparation d'un sac
+          <title>Orienter – exécuter – mesurer lors de la préparation d'un sac
           à dos</title>
 
           <mediaobject>
@@ -1567,7 +1566,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
         trop tard.</para>
 
         <figure xml:id="LDMoverall">
-          <title>Orienter – exécuter – mesurer</title>
+          <title>Orienter – exécuter – mesurer</title>
 
           <mediaobject>
             <imageobject>
@@ -1581,11 +1580,11 @@ workflow (when refering to "input-transformation-output") = processus de travail
         linkend="LDMoverall" xrefstyle="select: labelnumber"/>. Nous pourrions
         élaborer un plan (orienter), réaliser une action (exécuter) et
         vérifier ensuite si nous avons atteint le résultat attendu (mesurer).
-        Le cycle <emphasis>orientation – exécution –
+        Le cycle <emphasis>orientation – exécution –
         mesure</emphasis><indexterm>
-            <primary>orientation-exécution-mesure</primary>
+            <primary>orientation – exécution – mesure</primary>
           </indexterm> est un principe de base sur lequel s’appuie la
-        sociocratie : il est appliqué dans d'innombrables situations, et nous
+        sociocratie : il est appliqué dans d'innombrables situations, et nous
         en verrons de multiples exemples liés aux processus de travail
         <indexterm>
             <primary>processus de travail</primary>
@@ -1593,24 +1592,24 @@ workflow (when refering to "input-transformation-output") = processus de travail
       </section>
 
       <section>
-        <title>Orientation – exécution – mesure <emphasis
-        role="strong">et</emphasis> entrée – transformation – sortie</title>
+        <title>Orientation – exécution – mesure <emphasis
+        role="strong">et</emphasis> entrée – transformation – sortie</title>
 
-        <indexterm significance="preferred">
-          <primary>orientation-exécution-mesure</primary>
+        <indexterm>
+          <primary>orientation – exécution – mesure</primary>
         </indexterm>
 
-        <para>Nous pouvons appliquer les cycles orientation – exécution –
-        mesure à chacune des étapes du processus <emphasis>entrée –
-        transformation – sortie</emphasis><indexterm>
-            <primary>entrée-transformation-sortie</primary>
+        <para>Nous pouvons appliquer les cycles orientation – exécution –
+        mesure à chacune des étapes du processus <emphasis>entrée –
+        transformation – sortie</emphasis><indexterm>
+            <primary>entrée – transformation – sortie</primary>
           </indexterm>. À chaque étape en cours de route, nous planifions,
         nous exécutons, puis nous évaluons si nous avons terminé avant de
         passer à l'étape suivante.</para>
 
         <para>Le diagramme <xref linkend="LDMITOstars"
         xrefstyle="select: labelnumber"/> illustre les étapes du cycle
-        orientation – exécution – mesure dans le contexte de notre machine à
+        orientation – exécution – mesure dans le contexte de notre machine à
         fabriquer des étoiles. Nous faisons un plan pour l'entrée, effectuons
         l'action nécessaire (remplir la machine) et nous assurons que nous
         avons achevé la phase d'entrée. Lors de la phase de transformation,
@@ -1619,8 +1618,8 @@ workflow (when refering to "input-transformation-output") = processus de travail
         sortie, nous faisons un plan pour cette phase là aussi, effectuons
         l'action nécessaire et évaluons si nous avons achevé la sortie.</para>
 
-        <figure xml:id="LDMITOstars">
-          <title>Entrée – transformation – sortie avec orienter – exécuter –
+        <figure floatstyle="[htb]" xml:id="LDMITOstars">
+          <title>Entrée – transformation – sortie avec orienter – exécuter –
           mesurer</title>
 
           <mediaobject>
@@ -1673,14 +1672,14 @@ workflow (when refering to "input-transformation-output") = processus de travail
         <title>Application à la prise de décision</title>
 
         <indexterm>
-          <primary>comprendre-explorer-décider</primary>
+          <primary>comprendre – explorer – décider</primary>
         </indexterm>
 
         <para>Pour prendre des décisions, les membres d’un groupe ont à
         réfléchir ensemble. Tous les esprits doivent être connectés et
         synchronisés, tout en permettant la créativité et les façons de pensée
         propres à chaque personne. Différentes couches se superposent au
-        contenu de notre décision : processus, problèmes interpersonnels,
+        contenu de notre décision : processus, problèmes interpersonnels,
         habitudes ancrées, style personnel, facteurs de performance
         (distractions, etc.). Plus il y a de participants, plus les choses se
         passent simultanément. L'exploration partagée et la prise de décision
@@ -1692,8 +1691,8 @@ workflow (when refering to "input-transformation-output") = processus de travail
 
           <para>Nous découpons le processus de décision en morceaux gérables
           et nous les abordons successivement pour les réaliser ensemble.
-          Ainsi, nous voulons éviter entre autres les situations suivantes
-          :</para>
+          Ainsi, nous voulons éviter entre autres les situations
+          suivantes :</para>
 
           <itemizedlist>
             <listitem>
@@ -1724,17 +1723,17 @@ workflow (when refering to "input-transformation-output") = processus de travail
 
           <para>Nous avons nommé les principaux éléments du processus de
           travail de travail de « la machine à fabriquer des étoiles » avec
-          les termes : <emphasis>entrée – transformation – sortie</emphasis>.
+          les termes : <emphasis>entrée – transformation – sortie</emphasis>.
           Pour faciliter la compréhension de ce processus dans le cadre de la
-          prise de décision, nous l'appellerons : <emphasis>comprendre –
-          explorer – décider</emphasis>. L'étape <emphasis>décider</emphasis>
+          prise de décision, nous l'appellerons : <emphasis>comprendre –
+          explorer – décider</emphasis>. L'étape <emphasis>décider</emphasis>
           n’a pas à être une décision de politique, il peut simplement s'agir
           d'une conclusion ou d’une synthèse à l'issue de la
           discussion.</para>
 
           <figure xml:id="ITOUED">
-            <title>Nous faisons référence au cycle entrée – transformation –
-            sortie traduit en comprendre – explorer – synthétiser dans
+            <title>Nous faisons référence au cycle entrée – transformation –
+            sortie traduit en comprendre – explorer – synthétiser dans
             certaines phases de la prise de décision.</title>
 
             <mediaobject>
@@ -1746,25 +1745,25 @@ workflow (when refering to "input-transformation-output") = processus de travail
 
           <itemizedlist spacing="compact">
             <listitem>
-              <para><emphasis role="strong">Comprendre</emphasis> : l'étape
+              <para><emphasis role="strong">Comprendre</emphasis> : l'étape
               entrée consiste à comprendre ce qui doit être compris. De
               quelles informations disposons-nous et comment chaque membre du
-              groupe les interprète-t-il ? Quels besoins devons-nous prendre
-              en compte ?</para>
+              groupe les interprète-t-il ? Quels besoins devons-nous prendre
+              en compte ?</para>
             </listitem>
 
             <listitem>
-              <para><emphasis role="strong">Explorer</emphasis> : la phase
+              <para><emphasis role="strong">Explorer</emphasis> : la phase
               exploration consiste à examiner davantage d’éléments, à
               rassembler des idées, etc. C'est la phase générative des
               processus de groupe.</para>
             </listitem>
 
             <listitem>
-              <para><emphasis role="strong">Décider</emphasis> : la phase
+              <para><emphasis role="strong">Décider</emphasis> : la phase
               décision est celle où nous nous assurons que notre processus
               aboutit à un résultat. Une décision ne doit pas nécessairement
-              être finale – il peut s'agir d'une synthèse sur laquelle nous
+              être finale — il peut s'agir d'une synthèse sur laquelle nous
               nous mettons d'accord, par exemple, un résumé décrivant le
               problème ou une liste co-construite qui sert d'entrée pour la
               phase suivante.</para>
@@ -1772,13 +1771,13 @@ workflow (when refering to "input-transformation-output") = processus de travail
           </itemizedlist>
 
           <para><indexterm significance="preferred">
-              <primary>comprendre-explorer-décider</primary>
+              <primary>comprendre – explorer – décider</primary>
             </indexterm>La figure <xref linkend="MDFJHdecisionmaking"
           xrefstyle="select: labelnumber"/> montre comment les individus
           peuvent avancer en groupe de façon sûre à travers toutes ces étapes
           avec un sentiment de fluidité : « être à la même page » et
           travailler plus ou moins au même rythme. Tout le monde peut évoluer
-          dans des directions différentes - certains sont des penseurs
+          dans des directions différentes — certains sont des penseurs
           linéaires, d'autres ont un esprit qui pense en boucles, et certains
           d’entre nous prêtent attention à des choses qui ont tendance à
           passer inaperçues. Et c’est bien. L'important est que, pour chaque
@@ -1788,10 +1787,10 @@ workflow (when refering to "input-transformation-output") = processus de travail
           xrefstyle="select: labelnumber"/>.</para>
 
           <figure xml:id="MDFJHdecisionmaking">
-            <title>Comprendre - explorer - décider<indexterm>
-                <primary>comprendre-explorer-décider</primary>
-              </indexterm> dans la prise de décision en équipe : nous avons
-            nos propres façons de penser, et nous finissons ensemble</title>
+            <title>Comprendre – explorer – décider<indexterm>
+                <primary>comprendre – explorer – décider</primary>
+              </indexterm> dans la prise de décision en équipe : nous avons
+            nos propres façons de penser, et nous finissons ensemble.</title>
 
             <mediaobject>
               <imageobject>
@@ -1803,7 +1802,7 @@ workflow (when refering to "input-transformation-output") = processus de travail
           <para>Les étapes de la prise de décision se décomposent en étapes
           plus petites, comme des fractales : dès que nous observons une phase
           avec une loupe, nous pouvons retrouver un autre cycle
-          <emphasis>comprendre -- explorer -- décider</emphasis>.<?xxe-remark thomas
+          <emphasis>comprendre – explorer – décider</emphasis>.<?xxe-remark thomas
 2024-05-10T15:26:49Z
 John, please make the choice of appearance through '-' or '--' in this kind of sequence for all chapter.?>
           Plus nous prenons en compte les étapes intermédiaires, plus nous
@@ -1868,15 +1867,15 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           <para>Comme le montre la figure <xref
           linkend="MDFJHdecisionmakinginbetweenabstract"
           xrefstyle="select: labelnumber"/>, chaque phase s'inscrit dans des
-          cycles orientation – exécution – mesure. Nous demander :
-          « <emphasis>Tout le monde comprend-il le problème ? Avons-nous
-          entendu les idées de chacun ? Tout le monde est-il prêt à passer à
+          cycles orientation – exécution – mesure. Nous demander :
+          « <emphasis>Tout le monde comprend-il le problème ? Avons-nous
+          entendu les idées de chacun ? Tout le monde est-il prêt à passer à
           l'étape suivante ?</emphasis> » nous indique si nous avons terminé
           une étape.</para>
 
           <figure xml:id="MDFJHdecisionmakinginbetweenabstract">
-            <title>Chaque étape comporte sa propre boucle orienter – exécuter
-            – mesurer</title>
+            <title>Chaque étape comporte sa propre boucle orienter –
+            exécuter – mesurer.</title>
 
             <mediaobject>
               <imageobject>
@@ -1898,9 +1897,9 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           <primary>processus de décision par consentement</primary>
         </indexterm>. Pour chaque étape, nous indiquerons
       l'<emphasis>intention</emphasis> (orientation), les
-      <emphasis>outils</emphasis> (exécution/parcours) et le critère
+      <emphasis>outils</emphasis> (exécution / parcours) et le critère
       d'évaluation permettant de déterminer si une étape est achevée
-      (<emphasis>Terminé quand</emphasis>). Dans les sections suivantes, nous
+      (<emphasis>terminé quand</emphasis>). Dans les sections suivantes, nous
       allons passer en revue chaque phase en détail. Ces détails sont destinés
       à aider les groupes à gagner en clarté et en choix, et non à prescrire
       ce qu’ils doivent faire.</para>
@@ -1926,7 +1925,7 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
       processus modifié donne les résultats escomptés.</para>
 
       <figure xml:id="understandexploredecide">
-        <title>Comprendre - explorer - décider</title>
+        <title>Comprendre – explorer – décider</title>
 
         <mediaobject>
           <imageobject>
@@ -1937,6 +1936,9 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
 
       <section>
         <title>Comprendre les besoins</title>
+
+        <?latex \enlargethispage*{\baselineskip}
+?>
 
         <para>Comprendre le problème sous-jacent au déclencheur qui a amené le
         sujet dans notre cercle est au tout début du processus de création des
@@ -1949,17 +1951,17 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
         clarté sur le contexte, le déclencheur ou le besoin. La phase
         <emphasis>comprendre</emphasis> aboutit à un « énoncé des besoins »,
         écrit ou oral, qui résume la façon dont le cercle comprend le problème
-        et les besoins en jeu. Le processus en trois étapes consiste donc à
-        :</para>
+        et les besoins en jeu. Le processus en trois étapes consiste donc
+        à :</para>
 
         <itemizedlist>
           <listitem>
-            <para>comprendre le déclencheur et le problème sous-jacent
-            ;</para>
+            <para>comprendre le déclencheur et le problème
+            sous-jacent ;</para>
           </listitem>
 
           <listitem>
-            <para>explorer les besoins sous-jacents ;</para>
+            <para>explorer les besoins sous-jacents ;</para>
           </listitem>
 
           <listitem>
@@ -2023,7 +2025,7 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           linkend="clarifyingquestionsround"
           xrefstyle="select: labelnumber"/>). Nous répondons à toutes les
           questions une par une, ou nous rassemblons d'abord les questions et
-          y répondons ensuite - selon ce qui semble le plus facile.</para>
+          y répondons ensuite — selon ce qui semble le plus facile.</para>
 
           <figure xml:id="exampleunderstandneedstateissue">
             <title>Comprendre le contexte</title>
@@ -2045,6 +2047,9 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
             <secondary>explorer les besoins</secondary>
           </indexterm>
 
+          <?latex \enlargethispage*{\baselineskip}
+?>
+
           <para>Déplaçons l'attention de l'incident concret vers une vue plus
           générale. Les déclencheurs et les réponses des personnes sont des
           données qui pointent vers les besoins sous-jacents. Dans un effort
@@ -2052,23 +2057,23 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           cherchons dans cette phase à comprendre les besoins sous-jacents
           afin de trouver des stratégies efficaces.<informalfigure
               role="guide">
-              <para><emphasis role="strong">Intention :</emphasis> Explorer
+              <para><emphasis role="strong">Intention :</emphasis> Explorer
               les besoins sous-jacents au problème.</para>
 
-              <para><emphasis role="strong">Outils : </emphasis>Inviter tous
+              <para><emphasis role="strong">Outils : </emphasis>Inviter tous
               les membres du cercle à donner leur interprétation.</para>
 
               <itemizedlist>
                 <listitem>
-                  <para>Une bonne question est : « <emphasis>À votre avis, de
+                  <para>Une bonne question est : « <emphasis>À votre avis, de
                   quoi s'agit-il réellement pour toutes les personnes
-                  concernées ?</emphasis> »</para>
+                  concernées ?</emphasis> »</para>
                 </listitem>
 
                 <listitem>
                   <para>Faire un tour de parole où les personnes offrent leur
                   interprétation ou suggèrent des besoins (liste des besoins,
-                  p. <xref linkend="meetingsheet"
+                  page <xref linkend="meetingsheet"
                   xrefstyle="select: pagenumber"/>).</para>
                 </listitem>
 
@@ -2087,13 +2092,14 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
               moyens pour aider à ce que les besoins de tout le monde soient
               pris en compte.</para>
 
-              <para><emphasis role="strong">Terminé quand</emphasis> <emphasis
+              <para><emphasis role="strong">Terminé quand</emphasis> <emphasis
               role="bold">:</emphasis> Plus personne n'a d'idées à
               ajouter.</para>
             </informalfigure></para>
 
-          <figure xml:id="exampleunderstandneedexploreneeds">
-            <title>Comprendre : explorer les besoins sous-jacents</title>
+          <figure floatstyle="[htb]"
+                  xml:id="exampleunderstandneedexploreneeds">
+            <title>Comprendre : explorer les besoins sous-jacents</title>
 
             <mediaobject>
               <imageobject>
@@ -2124,25 +2130,25 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           </indexterm>
 
           <para>Avec une compréhension claire, nous formulons une description
-          du problème et des besoins (voir aussi « <emphasis>driver
-          statement</emphasis> »<indexterm>
+          du problème et des besoins (voir aussi <foreignphrase>“driver
+          statement”</foreignphrase><indexterm>
               <primary>driver statement</primary>
             </indexterm> dans Sociocratie 3.0<indexterm>
               <primary>Sociocratie 3.0</primary>
             </indexterm>).<informalfigure role="guide">
-              <para><emphasis role="strong">Intention</emphasis> : Nous
+              <para><emphasis role="strong">Intention</emphasis> : Nous
               faisons la synthèse de ce que nous savons sur les
               besoins.</para>
 
-              <para><emphasis role="strong">Outils </emphasis>: Le
+              <para><emphasis role="strong">Outils </emphasis>: Le
               facilitateur ou un membre du cercle fait un résumé (oral ou
-              écrit) :</para>
+              écrit) :</para>
 
               <itemizedlist>
                 <listitem>
-                  <para>Selon l'ampleur du problème, un simple énoncé comme
-                  « <emphasis>nous avons besoin d'un processus d’accueil des
-                  membres plus facile et plus transparent</emphasis> » peut
+                  <para>Selon l'ampleur du problème, un simple énoncé comme :
+                  « <emphasis>Nous avons besoin d'un processus d’accueil des
+                  membres plus facile et plus transparent.</emphasis> » peut
                   suffire.</para>
                 </listitem>
 
@@ -2185,7 +2191,7 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           comme argumentaire lors de la publication de la politique.</para>
 
           <figure xml:id="exampleunderstandneedneedsassessment">
-            <title>Comprendre : synthétiser le problème / les besoins dans un
+            <title>Comprendre : synthétiser le problème / les besoins dans un
             énoncé de besoins<indexterm>
                 <primary>énoncé des besoins</primary>
               </indexterm></title>
@@ -2203,7 +2209,7 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
 
           <para>Ne tenez pas pour acquis que la réponse la plus appropriée aux
           besoins doit obligatoirement passer par une politique. Voici trois
-          options pour répondre à un problème :</para>
+          options pour répondre à un problème :</para>
 
           <itemizedlist>
             <listitem>
@@ -2221,7 +2227,7 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
               rend compte de l'impact de ses actions sur d'autres personnes ou
               sur le cercle, cela peut prévenir que des événements similaires
               se reproduisent. C'est particulièrement vrai lorsqu'il s'agit de
-              comportement : bien trop souvent, une nouvelle politique est
+              comportement : bien trop souvent, une nouvelle politique est
               élaborée parce que nous essayons d'éviter de faire un retour de
               façon directe<indexterm>
                   <primary>faire un retour</primary>
@@ -2244,10 +2250,10 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           « paresseuse »<indexterm>
               <primary>politique</primary>
 
-              <secondary>politiques "paresseuses"</secondary>
+              <secondary>politiques « paresseuses »</secondary>
             </indexterm> de politiques (comme le <foreignphrase>“lazy
           loading”</foreignphrase> dans la programmation d’un logiciel, où un
-          élément est activé seulement si besoin ) ; nous n'élaborons une
+          élément est activé seulement si besoin) ; nous n'élaborons une
           politique que si les besoins ne peuvent être satisfaits efficacement
           d'une autre manière. L'élaboration d'une politique prend du temps,
           et elle doit être maintenue à jour, ce qui demande aussi du temps.
@@ -2290,12 +2296,13 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           <listitem>
             <para>comprendre la portée de la politique (faire une
             esquisse)<emphasis> </emphasis>;<footnote>
-                <para>NDT : Le terme anglais est “picture forming”.</para>
+                <para>NDT : Le terme anglais est <foreignphrase>“picture
+                forming”</foreignphrase>.</para>
               </footnote></para>
           </listitem>
 
           <listitem>
-            <para>explorer les idées de propositions ;</para>
+            <para>explorer les idées de propositions ;</para>
           </listitem>
 
           <listitem>
@@ -2340,13 +2347,13 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           d'ensemble du problème. Faire une esquisse offre une phase où nous
           nous centrons sur la compréhension champ à explorer avant de plonger
           dans la recherche de solutions.<informalfigure role="guide">
-              <para><emphasis role="strong">Intention</emphasis> : Comprendre
+              <para><emphasis role="strong">Intention</emphasis> : Comprendre
               la portée d'une proposition en identifiant les
               dimensions.</para>
 
-              <para><emphasis role="strong">Outils</emphasis> : Nous demander
-              : « <emphasis>À quelles questions devrons-nous répondre pour
-              faire une bonne politique complète ?</emphasis> » Veillez à
+              <para><emphasis role="strong">Outils</emphasis> : Nous
+              demander : « <emphasis>À quelles questions devrons-nous répondre
+              pour faire une bonne politique complète ?</emphasis> » Veillez à
               rester léger avec des prises de parole courtes.</para>
 
               <itemizedlist>
@@ -2357,7 +2364,7 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
 
                 <listitem>
                   <para>Collectons les dimensions proposées par un tour de
-                  parole, ou en style pop-corn : on peut s’exprimer dès qu’on
+                  parole, ou en style pop-corn : on peut s’exprimer dès qu’on
                   a une idée.<indexterm>
                       <primary>style pop-corn</primary>
                     </indexterm></para>
@@ -2379,7 +2386,7 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
                 </listitem>
               </itemizedlist>
 
-              <para><emphasis role="strong">Terminé quand</emphasis> : Il y a
+              <para><emphasis role="strong">Terminé quand</emphasis> : Il y a
               consentement sur le fait que la liste des dimensions est
               complète.</para>
 
@@ -2388,18 +2395,18 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
               responsabilité des propriétaires de chiens, il peut y avoir des
               opinions et des <emphasis>stratégies</emphasis> très différentes
               pour y répondre. Cependant, tout le monde tombera vite d’accord
-              sur le fait qu’il soit nécessaire de parler du sujet
-              « avec / sans laisse » dans une politique concernant les chiens
-              dans la communauté. Il s’agit là d’une dimension incontournable
-              pour arriver à une proposition complète sur le sujet (voir
-              exemple <xref linkend="dogpolicy"
+              sur le fait qu’il soit nécessaire de parler du sujet « avec /
+              sans laisse » dans une politique concernant les chiens dans la
+              communauté. Il s’agit là d’une dimension incontournable pour
+              arriver à une proposition complète sur le sujet (voir exemple
+              <xref linkend="dogpolicy"
               xrefstyle="select: labelnumber page"/>).</para>
             </informalfigure></para>
 
           <para>Les membres du cercle peuvent brièvement exposer le contexte
           de leur dimension. Il est utile, par exemple, de proposer deux
-          options : <emphasis>fait-on A ou B ?</emphasis> Voir l'exemple <xref
-          linkend="examplegeneratingproposalpictureforming"
+          options : <emphasis>« Fait-on A ou B ?</emphasis> » Voir l'exemple
+          <xref linkend="examplegeneratingproposalpictureforming"
           xrefstyle="select: labelnumber"/> à titre d'illustration. Un groupe
           expérimenté rassemblera les mots-clés en quelques minutes. Les
           groupes s'améliorent avec l'expérience. La meilleure façon
@@ -2410,7 +2417,7 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           nous devrons peut-être expliquer davantage et peut-être extraire les
           dimensions des opinions qu'ils partagent.</para>
 
-          <para>Attention : s'il y a de nombreuses dimensions, c’est un signe
+          <para>Attention : s'il y a de nombreuses dimensions, c’est un signe
           que le sujet ou la question abordée est probablement trop vaste.
           Nous obtiendrons beaucoup trop d'idées de propositions et risquons
           d'être dépassés. Dans ce cas, nous pouvons diviser les dimensions en
@@ -2421,7 +2428,7 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           suivante.</para>
 
           <figure xml:id="examplegeneratingproposalpictureforming">
-            <title>Exploration : faire une esquisse (portée de la
+            <title>Exploration : faire une esquisse (portée de la
             politique)<indexterm>
                 <primary>faire une esquisse</primary>
 
@@ -2462,26 +2469,25 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           informer votre groupe sur ce que nous voulons couvrir. Tandis que
           les dimensions sont des expressions ou des questions, les éléments
           de proposition sont généralement des déclarations commençant par
-          « <emphasis>je pense que nous</emphasis> », « <emphasis>il serait
-          bien que…</emphasis> » par exemple, « <emphasis>Je pense que nous
-          pourrions introduire une cotisation de 50 $ par
-          mois</emphasis> ».</para>
+          « je pense que nous / il serait bien que… » par exemple :
+          « <emphasis>Je pense que nous pourrions introduire une cotisation de
+          50 $ par mois.</emphasis> »</para>
 
           <para>Faire une esquisse<indexterm>
               <primary>faire une esquisse</primary>
             </indexterm> et élaborer des propositions<indexterm>
               <primary>élaboration de proposition</primary>
-            </indexterm> découpent en étapes réalisables le processus –
-          parfois décourageant – de formulation d'une proposition. Ce
+            </indexterm> découpent en étapes réalisables le processus —
+          parfois décourageant — de formulation d'une proposition. Ce
           processus participatif fait appel à la sagesse du groupe et peut
           être très créatif et productif. En même temps, comme aucun membre du
           cercle n'a à trouver seul <emphasis>la</emphasis> proposition
           parfaite et que tout le monde peut mettre ses idées en commun, la
           tâche devient plus réalisable.<informalfigure role="guide">
-              <para><emphasis role="strong">Intention</emphasis> : Explorer
+              <para><emphasis role="strong">Intention</emphasis> : Explorer
               des idées sur la manière de résoudre le problème.</para>
 
-              <para><emphasis role="strong">Outils :</emphasis> Écouter les
+              <para><emphasis role="strong">Outils :</emphasis> Écouter les
               idées de proposition du cercle, de préférence en plusieurs
               tours. Les membres du cercle peuvent suggérer des éléments de
               proposition qui couvrent une ou plusieurs des dimensions
@@ -2508,21 +2514,21 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
                   <para>Créez un espace de sécurité. Nous voulons que chaque
                   membre puisse parler de son expérience. Une façon de s'en
                   assurer est de n'autoriser que les déclarations affirmatives
-                  (« Je pense que nous pourrions...»), mais pas les
-                  évaluations sur les idées de proposition des autres, comme
-                  « <emphasis>Je ne pense pas que cela soit une bonne
-                  idée</emphasis> ».</para>
+                  (« <emphasis>Je pense que nous pourrions...</emphasis> »),
+                  mais pas les évaluations sur les idées de proposition des
+                  autres, comme : « <emphasis>Je ne pense pas que cela soit
+                  une bonne idée.</emphasis> »</para>
                 </listitem>
 
                 <listitem>
-                  <para>On accueille les éléments de proposition. Ils peuvent
-                  :<itemizedlist>
+                  <para>On accueille les éléments de proposition. Ils
+                  peuvent :<itemizedlist>
                       <listitem>
-                        <para>se contredire les uns les autres ;</para>
+                        <para>se contredire les uns les autres ;</para>
                       </listitem>
 
                       <listitem>
-                        <para>se prolonger les uns les autres ;</para>
+                        <para>se prolonger les uns les autres ;</para>
                       </listitem>
 
                       <listitem>
@@ -2570,11 +2576,14 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
                 </listitem>
               </itemizedlist>
 
-              <para><emphasis role="strong">Terminé quand :
+              <para><emphasis role="strong">Terminé quand :
               </emphasis>Personne n'a d'autre idée de proposition à ajouter et
               chaque dimension est couverte par au moins un élément de
               proposition.</para>
             </informalfigure></para>
+
+          <?latex \enlargethispage*{\baselineskip}
+?>
 
           <para>En faisant une esquisse<indexterm>
               <primary>faire une esquisse</primary>
@@ -2586,9 +2595,10 @@ John, please make the choice of appearance through '-' or '--' in this kind of s
           xrefstyle="select: labelnumber"/> nous donne une idée de ce à quoi
           cela peut ressembler.</para>
 
-          <figure xml:id="examplegeneratingproposalproposalshaping">
-            <title>Explore : explorer des idées pour une politique
-            (élaboration de propositions).<indexterm>
+          <figure floatstyle="[htb]"
+                  xml:id="examplegeneratingproposalproposalshaping">
+            <title>Explore : explorer des idées pour une politique
+            (élaboration de propositions)<indexterm>
                 <primary>énoncé des besoins</primary>
 
                 <secondary>exemple d'énoncés de besoins<?xxe-remark thomas
@@ -2612,7 +2622,7 @@ this is not about needs statement, but proposal shaping.?></secondary>
           dans la famille de l’auteur, à propos d’une source récurrente de
           dispute !)</para>
 
-          <figure xml:id="dogpolicy">
+          <figure floatstyle="[htb]" xml:id="dogpolicy">
             <title>Énoncé des besoins, dimensions et idée de propositions à
             propos d’une politique sur les chiens dans la communauté<indexterm>
                 <primary>énoncé des besoins</primary>
@@ -2627,7 +2637,7 @@ this is not about needs statement, but proposal shaping.?></secondary>
             </mediaobject>
           </figure>
 
-          <figure xml:id="screenpolicy">
+          <figure floatstyle="[htb]" xml:id="screenpolicy">
             <title>Énoncé de besoins, dimensions et idées de propositions pour
             une politique de séance film (des enfants de 4 à 10 ans y ont
             contribué)</title>
@@ -2762,16 +2772,16 @@ this is not about needs statement, but proposal shaping.?></secondary>
           <itemizedlist>
             <listitem>
               <para>Nous pouvons inclure les idées contradictoires dans la
-              proposition. Nous pouvons écrire par exemple « <emphasis>les
-              webinaires auront toujours lieu le même jour de la semaine : les
-              mardis / les jeudis</emphasis> », bien que cela soit
-              contradictoire en soi. De cette façon, nous pouvons signaler un
-              point à discuter plus tard alors que nous viserons à intégrer
-              des objections. Générer des propositions contradictoires en vue
-              de susciter des objections peut être déroutant pour certains ;
-              cela permet toutefois de valoriser toutes les idées qui ont été
-              générées. A faire de préférence avec des facilitateurs qui se
-              sentent en confiance avec le processus.</para>
+              proposition. Nous pouvons écrire par exemple « les webinaires
+              auront toujours lieu le même jour de la semaine : les mardis /
+              les jeudis », bien que cela soit contradictoire en soi. De cette
+              façon, nous pouvons signaler un point à discuter plus tard alors
+              que nous viserons à intégrer des objections. Générer des
+              propositions contradictoires en vue de susciter des objections
+              peut être déroutant pour certains ; cela permet toutefois de
+              valoriser toutes les idées qui ont été générées. A faire de
+              préférence avec des facilitateurs qui se sentent en confiance
+              avec le processus.</para>
             </listitem>
 
             <listitem>
@@ -2903,7 +2913,7 @@ this is not about needs statement, but proposal shaping.?></secondary>
           consentement.</para>
 
           <figure xml:id="understandexploredecidewithstepsCA2">
-            <title>La troisième phase se déroule en 3 étapes</title>
+            <title>La troisième phase se déroule en 3 étapes.</title>
 
             <mediaobject>
               <imageobject>
@@ -2977,32 +2987,32 @@ this is not about needs statement, but proposal shaping.?></secondary>
 
                     <see>tour de questions de clarification</see>
                   </indexterm>. Un bon moyen de commencer est de demander au
-                cercle « <emphasis>Qu'avez-vous besoin de savoir pour bien
-                comprendre la proposition ?</emphasis> »</para>
+                cercle : « <emphasis>Qu'avez-vous besoin de savoir pour bien
+                comprendre la proposition ?</emphasis> »</para>
               </listitem>
 
               <listitem>
                 <para>Si un groupe est novice dans le processus, proposons que
                 chaque personne utilise une trame de réponse pour aider à ne
-                pas dériver vers l’expression d'opinions, par exemple :</para>
+                pas dériver vers l’expression d'opinions, par exemple :</para>
 
                 <itemizedlist>
                   <listitem>
                     <para>« <emphasis>Je comprends la proposition. Je n'ai pas
-                    de questions</emphasis> » ;</para>
+                    de questions.</emphasis> »</para>
                   </listitem>
 
                   <listitem>
                     <para>« <emphasis>J'aimerais mieux comprendre la
                     proposition. Pourriez-vous m'en dire plus sur la partie
-                    qui dit…</emphasis> » ;</para>
+                    qui dit….</emphasis> »</para>
                   </listitem>
 
                   <listitem>
                     <para>« <emphasis>J'aimerais mieux comprendre la
                     proposition. Pourriez-vous m’en dire plus sur ce qui vous
                     a amené à proposer l’élément qui
-                    précise…</emphasis> »</para>
+                    précise….</emphasis> »</para>
                   </listitem>
                 </itemizedlist>
               </listitem>
@@ -3013,7 +3023,7 @@ this is not about needs statement, but proposal shaping.?></secondary>
             proposition.</para>
           </informalfigure>
 
-          <para>Nous pouvons laisser l'auteur de la proposition — ou quelqu'un
+          <para>Nous pouvons laisser l'auteur de la proposition — ou quelqu'un
           d'autre — répondre au fur et à mesure, si une réponse courte et
           directe peut être faite. Si les questions sont plus complexes, ou
           peuvent donner lieu à de nouvelles questions en retour, il est
@@ -3028,7 +3038,7 @@ this is not about needs statement, but proposal shaping.?></secondary>
           qui auraient pu surgir après avoir entendu les questions et les
           réponses précédentes.</para>
 
-          <figure xml:id="exampledecidingclarify">
+          <figure floatstyle="[htb]" xml:id="exampledecidingclarify">
             <title>Comprendre : comprendre la proposition</title>
 
             <mediaobject>
@@ -3055,18 +3065,18 @@ this is not about needs statement, but proposal shaping.?></secondary>
               <primary>objection</primary>
             </indexterm>, il aura plus de temps pour s'exprimer plus
           tard !<informalfigure role="guide">
-              <para><emphasis role="strong">Intention </emphasis>: Préparer le
+              <para><emphasis role="strong">Intention</emphasis> : Préparer le
               groupe <emphasis>et</emphasis> la proposition à la prise de
               décision.</para>
 
-              <para><emphasis role="strong">Outils :</emphasis> Réalisez un
+              <para><emphasis role="strong">Outils :</emphasis> Réalisez un
               tour de parole où chacun exprime son opinion sur la
               proposition.</para>
 
               <itemizedlist>
                 <listitem>
                   <para>Les réactions rapides peuvent être de différentes
-                  natures : explorer comment les membres du cercle reçoivent
+                  natures : explorer comment les membres du cercle reçoivent
                   la proposition, ou si la proposition est prête pour une
                   décision.<indexterm>
                       <primary>proposition</primary>
@@ -3078,20 +3088,20 @@ this is not about needs statement, but proposal shaping.?></secondary>
 
                 <listitem>
                   <para>Certains groupes préfèrent réaliser deux tours de
-                  parole distincts : l'un pour les « réactions
-                  émotionnelles », l'autre orienté vers les solutions, pour
-                  suggérer des améliorations de la proposition (voir figure
-                  <xref linkend="ExpertboxBarbara"
+                  parole distincts : l'un pour les réactions émotionnelles,
+                  l'autre orienté vers les solutions, pour suggérer des
+                  améliorations de la proposition (voir figure <xref
+                  linkend="ExpertboxBarbara"
                   xrefstyle="select: labelnumber"/>).</para>
                 </listitem>
               </itemizedlist>
 
               <para>Ne sautons jamais complètement cette étape. La version
-              minimaliste consiste à demander « <emphasis>Y a-t-il quelque
+              minimaliste consiste à demander : « <emphasis>Y a-t-il quelque
               chose que vous aimeriez dire avant que nous passions au tour de
-              consentement ?</emphasis> ».</para>
+              consentement ?</emphasis> »</para>
 
-              <para><emphasis role="strong">Terminé quand : </emphasis>Tout le
+              <para><emphasis role="strong">Terminé quand : </emphasis>Tout le
               monde a pu exprimer ses réactions à la proposition.</para>
             </informalfigure></para>
 
@@ -3105,20 +3115,20 @@ this is not about needs statement, but proposal shaping.?></secondary>
           nous ne sommes pas sûrs que le groupe est prêt, nous validons
           simplement en demandant par exemple :  « <emphasis>Y a-t-il autre
           chose que vous auriez vraiment besoin de dire avant que nous
-          passions au tour de consentement ?</emphasis> ». Voici quelques
+          passions au tour de consentement ?</emphasis> » Voici quelques
           aspects qui peuvent être abordés lors des réactions rapides :</para>
 
           <itemizedlist>
             <listitem>
               <para>Le fait d’apprécier ou non la proposition, aussi
               simplement que : « <emphasis>J'aime cette proposition parce
-              que…</emphasis> ».</para>
+              que…</emphasis> »</para>
             </listitem>
           </itemizedlist>
 
           <itemizedlist>
             <listitem>
-              <para>les membres peuvent exprimer l'intention de soulever une
+              <para>Les membres peuvent exprimer l'intention de soulever une
               objection : nous pouvons rester brefs dans le tour de réaction
               rapide<indexterm>
                   <primary>tour de réactions</primary>
@@ -3129,8 +3139,8 @@ this is not about needs statement, but proposal shaping.?></secondary>
                 </indexterm> viendra plus tard. Pour ce tour, la déclaration
               d'une phrase suffit : « <emphasis>Je ne suis pas favorable à
               cette proposition parce que je ne pense pas qu'elle soutienne
-              efficacement le but (ou : une valeur) de l'organisation qui est…
-              </emphasis>».</para>
+              efficacement le but / une valeur de l'organisation qui
+              est…</emphasis> »</para>
             </listitem>
           </itemizedlist>
 
@@ -3222,7 +3232,7 @@ this is not about needs statement, but proposal shaping.?></secondary>
           xrefstyle="select: labelnumber"/> se dirigeant vers une
           objection.</para>
 
-          <figure xml:id="exampledecidingquickreactions">
+          <figure floatstyle="[htb]" xml:id="exampledecidingquickreactions">
             <title>Comprendre : explorer des réactions rapides</title>
 
             <mediaobject>
@@ -3232,7 +3242,8 @@ this is not about needs statement, but proposal shaping.?></secondary>
             </mediaobject>
           </figure>
 
-          <figure xml:id="exampledecidingquickreactionswithobjection">
+          <figure floatstyle="[htb]"
+                  xml:id="exampledecidingquickreactionswithobjection">
             <title>Exemple d'une réaction rapide annonçant une
             objection.<indexterm>
                 <primary>objection</primary>
@@ -3252,8 +3263,8 @@ this is not about needs statement, but proposal shaping.?></secondary>
           xrefstyle="select: labelnumber"/>, le membre du cercle résume le
           problème en une seule phrase. Le futur objecteur sait qu'il sera
           entendu plus tard, donc une seule phrase suffit pour que tout le
-          monde ait une idée de là où nous allons. Dire simplement
-          « <emphasis>je vais faire une objection</emphasis> » sans donner de
+          monde ait une idée de là où nous allons. Dire simplement :
+          « <emphasis>Je vais faire une objection.</emphasis> » sans donner de
           contexte peut être déstabilisant dans un groupe ; mais ce n'est pas
           non plus le bon moment pour dire plus que quelques phrases, alors
           soyons brefs !</para>
@@ -3276,47 +3287,36 @@ this is not about needs statement, but proposal shaping.?></secondary>
             <primary>amendement</primary>
           </indexterm>
 
+          <?latex \enlargethispage*{\baselineskip}
+?>
+
           <para>Nous prenons un moment pour réfléchir à ce que nous avons
-          appris dans les réactions rapides. Le groupe est-il prêt ? La
-          proposition est-elle prête ?<indexterm>
+          appris dans les réactions rapides. Le groupe est-il prêt ? La
+          proposition est-elle prête ?<indexterm>
               <primary>proposition</primary>
 
               <secondary>l'état de préparation d'une proposition</secondary>
             </indexterm></para>
 
           <informalfigure role="guide">
-            <para><emphasis role="strong">Intention </emphasis>: Synthétiser
+            <para><emphasis role="strong">Intention</emphasis> : Synthétiser
             les réactions rapides.</para>
 
-            <para><emphasis role="strong">Outils </emphasis>: Le facilitateur
-            doit évaluer si la proposition est prête.<footnote>
-                <para>NDT : A ce stade du processus, il est plutôt d’usage en
-                France que le facilitateur demande à la personne porteuse de
-                la proposition ce qu’elle souhaite faire : demander
-                directement le consentement, intégrer tout de suite des
-                amendements, reporter la décision à une réunion ultérieure, ou
-                encore retirer sa proposition. En particulier lorsque la
-                proposition vient d’une initiative spontanée (plutôt que d’une
-                élaboration collective), cela permet de reconnaître le
-                leadership de la personne qui a travaillé en amont pour
-                rédiger la proposition. De façon générale, cela permet aussi
-                au facilitateur de se concentrer sur le processus et la
-                dynamique de groupe, plutôt que sur le contenu de la
-                proposition.</para>
-              </footnote></para>
+            <para><emphasis role="strong">Outils </emphasis>: Le facilitateur
+            doit évaluer si la proposition est prête.</para>
 
             <itemizedlist>
               <listitem>
                 <para>Le facilitateur peut choisir de prendre quelques
                 instants pour réfléchir à ce qui pourrait être la meilleure
-                idée. C'est un bon moment pour ralentir le rythme !</para>
+                idée. C'est un bon moment pour ralentir le rythme !</para>
               </listitem>
             </itemizedlist>
 
             <itemizedlist>
               <listitem>
                 <para>Si plusieurs amendements ont été suggérés, différentes
-                options s'offrent à nous :</para>
+                options s'offrent à nous :</para>
 
                 <itemizedlist>
                   <listitem>
@@ -3342,7 +3342,7 @@ this is not about needs statement, but proposal shaping.?></secondary>
               </listitem>
             </itemizedlist>
 
-            <para><emphasis role="strong">Terminé quand : </emphasis>La
+            <para><emphasis role="strong">Terminé quand : </emphasis>La
             proposition et le cercle sont prêts pour le tour de
             consentement.<indexterm>
                 <primary>tour de consentement</primary>
@@ -3439,7 +3439,20 @@ this is not about needs statement, but proposal shaping.?></secondary>
 
           <para>Nous recommandons que le facilitateur<indexterm>
               <primary>facilitateur</primary>
-            </indexterm>, et personne d'autre, prenne la décision concernant
+            </indexterm><footnote>
+              <para>NDT : A ce stade du processus, il est plutôt d’usage en
+              France que le facilitateur demande à la personne porteuse de la
+              proposition ce qu’elle souhaite faire : demander directement le
+              consentement, intégrer tout de suite des amendements, reporter
+              la décision à une réunion ultérieure, ou encore retirer sa
+              proposition. En particulier lorsque la proposition vient d’une
+              initiative spontanée (plutôt que d’une élaboration collective),
+              cela permet de reconnaître le leadership de la personne qui a
+              travaillé en amont pour rédiger la proposition. De façon
+              générale, cela permet aussi au facilitateur de se concentrer sur
+              le processus et la dynamique de groupe, plutôt que sur le
+              contenu de la proposition.</para>
+            </footnote>, et personne d'autre, prenne la décision concernant
           quels amendements sont acceptés, à cette étape-ci ; ou bien que le
           facilitateur désigne quelqu'un pour prendre cette décision. En
           dernier ressort, le facilitateur est responsable du processus
@@ -3592,15 +3605,14 @@ this is not about needs statement, but proposal shaping.?></secondary>
               <itemizedlist>
                 <listitem>
                   <para>Il existe plusieurs façons de donner son consentement,
-                  en disant par exemple « <emphasis>Je consens</emphasis> » ou
-                  « <emphasis>Je n’ai pas d'objections</emphasis> ». Compte
+                  en disant par exemple : « <emphasis>Je consens.</emphasis> »
+                  ou « <emphasis>Je n’ai pas d'objections.</emphasis> » Compte
                   tenu de la notion d’objection, cela signifie la même chose.
                   Le sens d’une réponse par « oui » ou « non » dépend de la
-                  question : « <emphasis>avez-vous une
+                  question : « <emphasis>Avez-vous une
                   objection ?</emphasis> » ou
-                  « <emphasis>consentez-vous ?</emphasis> ». Être trop
-                  informel risque souvent de provoquer un manque de
-                  clarté.</para>
+                  « <emphasis>Consentez-vous ?</emphasis> » Être trop informel
+                  risque souvent de provoquer un manque de clarté.</para>
                 </listitem>
               </itemizedlist>
 
@@ -3624,8 +3636,8 @@ this is not about needs statement, but proposal shaping.?></secondary>
                 </listitem>
               </itemizedlist>
 
-              <para>La meilleure version pourrait être « <emphasis>Avez-vous
-              une objection ?</emphasis> ». De cette façon, on peut répondre
+              <para>La meilleure version pourrait être : « <emphasis>Avez-vous
+              une objection ?</emphasis> » De cette façon, on peut répondre
               positivement en cas d'objection, ce qui est plus aisé. Certains
               groupes appellent même le tour de consentement le « tour
               d'objections »<indexterm>
@@ -3675,35 +3687,35 @@ this is not about needs statement, but proposal shaping.?></secondary>
               <primary>objection</primary>
             </indexterm> (voir section <xref linkend="objections-howto"
           xrefstyle="select: labelnumber"/>).<informalfigure role="guide">
-              <para><emphasis role="strong">Intention : </emphasis>Évaluer et
+              <para><emphasis role="strong">Intention : </emphasis>Évaluer et
               reconnaître le consentement ou les objections.</para>
 
-              <para><emphasis role="strong">Outils : </emphasis>Reconnaître le
+              <para><emphasis role="strong">Outils : </emphasis>Reconnaître le
               consentement ou les objections (voir illustration <xref
               linkend="exampledecidingacknowledgedecision"
               xrefstyle="select: labelnumber"/>).</para>
 
               <itemizedlist>
                 <listitem>
-                  <para>Il est utile de dire quelque chose comme
-                  « <emphasis>nous avons le consentement, merci à
-                  tous</emphasis> », ou « <emphasis>il y a une objection,
-                  écoutons-la</emphasis> ». Ne pas avoir de reconnaissance
+                  <para>Il est utile de dire quelque chose comme :
+                  « <emphasis>Nous avons le consentement, merci à
+                  tous.</emphasis> », ou « <emphasis>Il y a une objection,
+                  écoutons-la.</emphasis> » Ne pas avoir de reconnaissance
                   officielle du résultat peut être gênant pour le
                   groupe.</para>
                 </listitem>
 
                 <listitem>
                   <para>Nous pouvons réaliser un retour en groupe
-                  (« <emphasis>Comment s'est déroulé ce processus ? Que
+                  (« <emphasis>Comment s'est déroulé ce processus ? Que
                   signifie cette décision pour vous ?</emphasis> »), ou bien
-                  célébrer ! Tout dépend si nous avons travaillé pour arriver
+                  célébrer ! (Tout dépend si nous avons travaillé pour arriver
                   à cette décision pendant quelques minutes ou… des
-                  mois.</para>
+                  mois.)</para>
                 </listitem>
               </itemizedlist>
 
-              <para><emphasis role="strong">Terminé quand :</emphasis> Une
+              <para><emphasis role="strong">Terminé quand :</emphasis> Une
               décision par consentement est prise.</para>
             </informalfigure></para>
 
@@ -3970,28 +3982,29 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
           <primary>efficacité</primary>
         </indexterm> de la politique qu'ils génèrent. L'évaluation ne viendra
       pas seulement des membres du cercle, mais aussi de la collecte de
-      données, en nous demandant : « Cette politique, qu’est-ce qui nous
-      montrera qu'elle fonctionne ? » Cela pourrait provenir :</para>
+      données, en nous demandant : « <emphasis>Cette politique, qu’est-ce qui
+      nous montrera qu'elle fonctionne ?</emphasis> » Cela pourrait
+      provenir :</para>
 
       <itemizedlist>
         <listitem>
-          <para>des taux de clics ;</para>
+          <para>des taux de clics ;</para>
         </listitem>
 
         <listitem>
-          <para>du nombre de nouveaux membres ;</para>
+          <para>du nombre de nouveaux membres ;</para>
         </listitem>
 
         <listitem>
-          <para>des dons ;</para>
+          <para>des dons ;</para>
         </listitem>
 
         <listitem>
-          <para>des ventes ;</para>
+          <para>des ventes ;</para>
         </listitem>
 
         <listitem>
-          <para>des membres de la communauté participant aux repas ;</para>
+          <para>des membres de la communauté participant aux repas ;</para>
         </listitem>
 
         <listitem>
@@ -4173,9 +4186,9 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
 
           <itemizedlist>
             <listitem>
-              <para>Nous pouvons demander à la personne qui objecte
+              <para>Nous pouvons demander à la personne qui objecte :
               « <emphasis>Qu'est-ce que tu crains qu'il se passe ? Comment le
-              saurons-nous ?</emphasis> ».</para>
+              saurons-nous ?</emphasis> »</para>
             </listitem>
 
             <listitem>
@@ -4192,13 +4205,13 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
             </listitem>
           </itemizedlist>
 
-          <para><emphasis role="strong">Terminé quand : </emphasis>personne
+          <para><emphasis role="strong">Terminé quand : </emphasis>Personne
           n'a de questions sur l'objection.</para>
         </informalfigure>
       </section>
 
       <section>
-        <title>Explorer les besoins / le lien avec le but du cercle</title>
+        <title>Explorer les besoins / le lien avec le but du cercle</title>
 
         <indexterm>
           <primary>besoins</primary>
@@ -4209,18 +4222,18 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
         <indexterm>
           <primary>objection</primary>
 
-          <secondary>relations au but/besoins</secondary>
+          <secondary>relations au but / besoins</secondary>
         </indexterm>
 
         <para>Le cercle s'approprie l'objection et identifie comment les
         préoccupations sont liées à son but et à des besoins.</para>
 
         <informalfigure role="guide">
-          <para><emphasis role="strong">Intention :</emphasis> Explorer la
+          <para><emphasis role="strong">Intention :</emphasis> Explorer la
           manière dont l’objection est reliée au but du cercle et quels sont
           les besoins sous-jacents.</para>
 
-          <para><emphasis role="strong">Outils :</emphasis> Le tour de
+          <para><emphasis role="strong">Outils :</emphasis> Le tour de
           réactions<indexterm>
               <primary>tour de réactions</primary>
             </indexterm> est le moyen le plus simple d'exécuter cette
@@ -4234,7 +4247,7 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
               du cercle.<indexterm>
                   <primary>objection</primary>
 
-                  <secondary>est-ce qu'une objection est valable ?</secondary>
+                  <secondary>est-ce qu'une objection est valable ?</secondary>
                 </indexterm></para>
             </listitem>
 
@@ -4244,7 +4257,7 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
             </listitem>
           </itemizedlist>
 
-          <para><emphasis role="strong">Terminé quand : </emphasis>Personne
+          <para><emphasis role="strong">Terminé quand : </emphasis>Personne
           n'a d'idées à ajouter.</para>
         </informalfigure>
 
@@ -4255,16 +4268,15 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
 
         <para>Le consentement n'est pas un mécanisme qui sépare les objections
         des préférences de façon claire et nette. Le manque de savoir-faire
-        dans le traitement des objections – comme par exemple le fait de
-        disqualifier une objection en disant « <emphasis>cela n’est pas
-        valide</emphasis> » – risque de créer des tensions émotionnelles entre
-        les membres du groupe et provoquer un désordre. Cela va entraver le
-        groupe dans l’atteinte de son but. Il ne sert à rien d'« avoir
-        raison » face à une préférence personnelle. Si les membres savent
-        qu'ils sont entendus et que la confiance est bien établie, il leur est
-        plus facile de coopérer. Pour éviter la tendance à vouloir « plaire à
-        tout le monde », formons les membres à la définition du
-        consentement<indexterm>
+        dans le traitement des objections — comme par exemple le fait de
+        disqualifier une objection en disant : « <emphasis>Cela n’est pas
+        valide.</emphasis> » — risque de créer des tensions émotionnelles
+        entre les membres du groupe et provoquer un désordre. Cela va entraver
+        le groupe dans l’atteinte de son but. Il ne sert à rien d'avoir raison
+        face à une préférence personnelle. Si les membres savent qu'ils sont
+        entendus et que la confiance est bien établie, il leur est plus facile
+        de coopérer. Pour éviter la tendance à vouloir plaire à tout le monde,
+        formons les membres à la définition du consentement<indexterm>
             <primary>consentement</primary>
           </indexterm> ainsi qu’à des aptitudes à la communication.</para>
       </section>
@@ -4315,7 +4327,7 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
         </mediaobject>
       </figure>
 
-      <figure xml:id="exampledecidingseekingunderstanding2">
+      <figure floatstyle="[htb]" xml:id="exampledecidingseekingunderstanding2">
         <title>Chercher à comprendre une objection (3 étapes)</title>
 
         <mediaobject>
@@ -4436,7 +4448,7 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
           proposition amendée est rédigée.</para>
         </informalfigure>
 
-        <figure xml:id="exampledecidingobjections1">
+        <figure floatstyle="[htb]" xml:id="exampledecidingobjections1">
           <title>Trouver des amendements pour répondre à une objection</title>
 
           <mediaobject>
@@ -4509,7 +4521,7 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
         Si un membre du cercle s'objecte à une proposition, il peut consentir
         à la mettre à l'essai pendant une période plus courte. Souvent, cela
         facilite le consentement des membres du cercle. Cette stratégie
-        fonctionne mieux en combinaison avec la stratégie suivante :
+        fonctionne mieux en combinaison avec la stratégie suivante :
         <emphasis>mesurer la préoccupation</emphasis>. (Voir la section <xref
         linkend="reviewingpolicy" xrefstyle="select: labelnumber page"/> sur
         les durées de validité des politiques.)</para>
@@ -4518,19 +4530,19 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
         politique sera réexaminée plus tôt. Nous verrons si la politique a
         apporté des changements négatifs et nous pourrons alors la modifier.
         Le fait de raccourcir la durée d'une politique augmente la disposition
-        du cercle à expérimenter et à innover. La question passe de
-        « <emphasis>Devrions-nous abandonner cette proposition ?</emphasis> »
+        du cercle à expérimenter et à innover. La question passe de :
+        « <emphasis>Devrions-nous abandonner cette proposition ?</emphasis> »
         à « <emphasis>Serait-elle</emphasis> <emphasis>assez sûre pour en
-        faire l’essai</emphasis> <emphasis>pendant 3 mois ? 4 mois
-        ?</emphasis> ».</para>
+        faire l’essai</emphasis> <emphasis>pendant 3 mois ? 4
+        mois ?</emphasis> »</para>
       </section>
 
       <section>
         <title>Évaluer la préoccupation</title>
 
         <para>Une objection n'est pas une raison pour abandonner une
-        proposition : comment pouvons-nous apprendre quelque chose ? En
-        sociocratie, nous pouvons utiliser une autre option : mesurer la
+        proposition : comment pouvons-nous apprendre quelque chose ? En
+        sociocratie, nous pouvons utiliser une autre option : mesurer la
         préoccupation. Cela signifie que nous allons de l'avant et essayons
         quelque chose (avec le consentement de tous) et cependant nous mettons
         en place une mesure afin de ne pas simplement « espérer le meilleur »
@@ -4553,7 +4565,7 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
             un impact négatif sur la générosité des donateurs. Ils élaborent
             une proposition supplémentaire pour mesurer et surveiller les
             résultats de la réduction de la fréquence des publications. Cette
-            proposition inclut :</para>
+            proposition inclut :</para>
 
             <itemizedlist>
               <listitem>
@@ -4564,16 +4576,16 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
               <listitem>
                 <para>Une définition des indicateurs de mesure et du niveau à
                 partir duquel le cercle décidera d’abandonner l'expérience, si
-                les taux chutent de façon alarmante :</para>
+                les taux chutent de façon alarmante :</para>
 
                 <itemizedlist>
                   <listitem>
                     <para>par exemple, si le taux de clics descendaient de
-                    15%, et/ou</para>
+                    15 % ; et / ou</para>
                   </listitem>
 
                   <listitem>
-                    <para>si les dons descendaient de 10%.</para>
+                    <para>si les dons descendaient de 10 %.</para>
                   </listitem>
                 </itemizedlist>
               </listitem>
@@ -4837,7 +4849,7 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
 
           <itemizedlist>
             <listitem>
-              <para>Le titulaire du rôle 'Gestion des ressources de contenu'
+              <para>Le titulaire du rôle « Gestion des ressources de contenu »
               travaillera de manière indépendante.</para>
             </listitem>
 
@@ -5130,11 +5142,11 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
           C'est d'autant plus important pour les rôles opérationnels qui
           nécessitent une expertise spécifique.</para>
 
-          <para>Par exemple, si la description de poste dit
-          « <emphasis>rédiger les comptes-rendus, en particulier les
-          propositions, dans le document partagé en temps réel </emphasis>»,
-          nous avons besoin d'une personne qui a la compétence pour exécuter
-          cela. Si de plus un rôle opérationnel<indexterm>
+          <para>Par exemple, si la description de poste dit : « rédiger les
+          comptes-rendus, en particulier les propositions, dans le document
+          partagé en temps réel », nous avons besoin d'une personne qui a la
+          compétence pour exécuter cela. Si de plus un rôle
+          opérationnel<indexterm>
               <primary>rôle</primary>
 
               <secondary>rôle opérationnel</secondary>
@@ -5179,8 +5191,8 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
 
               <secondary>pour les rôles (exemples)</secondary>
             </indexterm> propose une liste possible pour les quatre rôles liés
-          au processus. Notons qu'il s'agit d'exemples. Chaque organisation /
-          cercle pourrait établir des priorités très différentes ! Chaque
+          au processus. Notons qu'il s'agit d'exemples. Chaque organisation /
+          cercle pourrait établir des priorités très différentes ! Chaque
           groupe doit compiler sa propre liste, la tenir à jour et l'adapter
           en fonction des besoins.<indexterm>
               <primary>facilitateur</primary>
@@ -5200,7 +5212,7 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
               <secondary>critères de choix d'un délégué</secondary>
             </indexterm></para>
 
-          <figure xml:id="qualifications">
+          <figure floatstyle="[htb]" xml:id="qualifications">
             <title>Exemples de critères de choix pour les leaders,
             facilitateurs, secrétaires et délégués</title>
 
@@ -5232,7 +5244,7 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
           Quelqu'un aurait pu suggérer cela et le faire inscrire sur la liste,
           mais nous devons encore voir si tout le monde peut y consentir :
           « <emphasis>Pourquoi voulons-nous quelqu'un qui est un membre de
-          longue date en tant que délégué(e) ?</emphasis> ».</para>
+          longue date en tant que délégué(e) ?</emphasis> »</para>
 
           <para>En conséquence, nous pourrions décider que nous voulons un
           facilitateur qui n'a que peu d'expérience sur le rôle parce que,
@@ -5240,7 +5252,7 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
           notre attention sur la distribution du leadership<indexterm>
               <primary>leadership</primary>
             </indexterm> et ainsi être confiants de pouvoir travailler avec un
-          facilitateur inexpérimenté. Autre exemple : dans les contextes de
+          facilitateur inexpérimenté. Autre exemple : dans les contextes de
           formation, on mentionne souvent le critère de
           l'<emphasis>impartialité</emphasis> pour un facilitateur<indexterm>
               <primary>facilitateur</primary>
@@ -5249,21 +5261,21 @@ in French, "implantation" refer specifically to "implementation of a sociocratic
             </indexterm>. Selon notre conception, nous n'y consentirions pas,
           ce qui donnerait lieu à une discussion intéressante. Nous pensons en
           effet qu’aucun membre n’est impartial dans un cercle, et que le
-          double rôle - être membre du cercle et facilitateur en même temps -
+          double rôle — être membre du cercle et facilitateur en même temps -
           découle de l'<emphasis>auto</emphasis>gouvernance. De notre point de
           vue, la personne membre doit avoir la volonté et la capacité de
           séparer son rôle de facilitateur de son rôle de membre du
           cercle.</para>
 
           <informalfigure role="guide">
-            <para><emphasis role="strong">Intention : </emphasis>Atteindre le
+            <para><emphasis role="strong">Intention : </emphasis>Atteindre le
             consentement au sujet de la liste de critères.<indexterm>
                 <primary>critère de choix</primary>
               </indexterm><?xxe-remark thomas
 2024-05-13T14:58:04Z
 a "qualification" for a role is now translated in the glossary by "critère de choix" intead of "qualité". the short form of "critère" can be used depending on the syntax / context.?></para>
 
-            <para><emphasis role="strong">Outils : </emphasis>Tour de
+            <para><emphasis role="strong">Outils : </emphasis>Tour de
             consentement.</para>
 
             <itemizedlist>
@@ -5283,7 +5295,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
               </listitem>
             </itemizedlist>
 
-            <para><emphasis role="strong">Terminé quand :</emphasis> Il y a
+            <para><emphasis role="strong">Terminé quand :</emphasis> Il y a
             consentement sur la liste des critères de choix pour le
             rôle.</para>
           </informalfigure>
@@ -5300,7 +5312,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
       </section>
 
       <section>
-        <title>Explorer : qui pourrait occuper ce rôle ?</title>
+        <title>Explorer : qui pourrait occuper ce rôle ?</title>
 
         <indexterm>
           <primary>sélection</primary>
@@ -5721,7 +5733,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         </section>
 
         <section>
-          <title>Tour de consentement / objections</title>
+          <title>Tour de consentement / objections</title>
 
           <indexterm>
             <primary>consentement</primary>
@@ -5753,12 +5765,12 @@ a "qualification" for a role is now translated in the glossary by "critère de c
                 qu'<emphasis>aucune préférence personnelle<indexterm>
                     <primary>préférence personnelle</primary>
                   </indexterm> négative</emphasis> <emphasis>ne soit
-                exprimée</emphasis>, par exemple sous la forme de
-                « <emphasis>je consens mais je continue à penser que telle
+                exprimée</emphasis>, par exemple sous la forme de :
+                « <emphasis>Je consens mais je continue à penser que telle
                 personne serait le meilleur choix.</emphasis> » Pour éviter
                 cela, nous passons souvent en revue ce à quoi ressemblerait
                 une base possible d'objections avant le début du tour de
-                consentement : « <emphasis>Je vous demande de ne vous objecter
+                consentement : « <emphasis>Je vous demande de ne vous objecter
                 que si vous pensez que votre capacité à réaliser le but du
                 cercle serait compromise si Victor occupait ce rôle.
                 Rappelons-nous que nous ne cherchons pas un candidat parfait
@@ -5800,13 +5812,13 @@ a "qualification" for a role is now translated in the glossary by "critère de c
           décision.</para>
 
           <informalfigure role="guide">
-            <para><emphasis role="strong">Intention : </emphasis>Reconnaître
+            <para><emphasis role="strong">Intention : </emphasis>Reconnaître
             et communiquer la décision.</para>
 
-            <para><emphasis role="strong">Outils : </emphasis>Le facilitateur
+            <para><emphasis role="strong">Outils : </emphasis>Le facilitateur
             pourra annoncer par exemple : « <emphasis>On dirait que nous avons
-            le consentement !</emphasis> » ou « <emphasis>Super, nous avons
-            pris une décision !</emphasis> »</para>
+            le consentement !</emphasis> » ou « <emphasis>Super, nous avons
+            pris une décision !</emphasis> »</para>
 
             <itemizedlist>
               <listitem>
@@ -5828,7 +5840,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
               </listitem>
             </itemizedlist>
 
-            <para><emphasis role="strong">Terminé quand : </emphasis>La
+            <para><emphasis role="strong">Terminé quand : </emphasis>La
             décision est prise et est consignée dans le compte-rendu<indexterm>
                 <primary>compte-rendu (compte-rendu d'une réunion)</primary>
               </indexterm>.</para>
@@ -5872,7 +5884,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
 
             <secondary>mise en candidature</secondary>
           </indexterm>, les personnes partagent leurs choix : « <emphasis>Je
-        nomme XZY dans le rôle de… parce que… et… dans le rôle de délégué
+        nomme XZY dans le rôle de… parce que…, et… dans le rôle de délégué
         parce que…<emphasis> </emphasis>»</emphasis> et ainsi de suite.</para>
 
         <para>Le tableau <xref linkend="complexselection"
@@ -5898,7 +5910,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
 
         <figure xml:id="complexselection">
           <title>Tableau du tour de nomination et du tour de confirmation pour
-          trois rôles.</title>
+          trois rôles</title>
 
           <mediaobject>
             <imageobject>
@@ -5947,13 +5959,13 @@ a "qualification" for a role is now translated in the glossary by "critère de c
 
         <para>Il est très impressionnant de se faire dire par les membres du
         cercle à quel point on est qualifié pour un rôle. Il n'est pas rare
-        que la personne sélectionnée dise après coup : « Je ne me serais
+        que la personne sélectionnée dise après coup : « Je ne me serais
         jamais portée volontaire pour ce rôle, mais j'ai été convaincue par
         les appréciations que j'ai entendues ici. Je me sens honorée d’occuper
         ce rôle. » Notons qu'il ne s'agit pas de forcer les membres dans un
-        rôle. Nous partons du principe qu'ils peuvent dire non - et le groupe
+        rôle. Nous partons du principe qu'ils peuvent dire non — et le groupe
         convient de laisser cet espace à chacun. Les membres consentent à
-        occuper le rôle - ce qui est un processus actif et très différent du
+        occuper le rôle — ce qui est un processus actif et très différent du
         fait d’être porté volontaire en ne disant pas <emphasis>non</emphasis>
         assez fort ! Ce processus est conçu pour aider les gens à dire oui et
         pour créer une opportunité d'exploration de la signification
@@ -5972,7 +5984,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         du candidat de tourner dans l’autre sens. Ainsi, la personne proposée
         peut entendre tous les autres avant qu’elle ne s’exprime.</para>
 
-        <para>Abordons maintenant un sujet délicat : « <emphasis>Je fais
+        <para>Abordons maintenant un sujet délicat : « <emphasis>Je fais
         partie des personnes qui sont sans cesse nominées, je comprends qu'il
         est bon de donner de la rétroaction et je comprends que les membres
         veulent me voir dans un rôle. Mais je suis trop engagé dans cette
@@ -5991,7 +6003,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         moment de réflexion sur la façon dont nous répartissons le travail. Si
         nous assistons aux nominations en les considérant comme une perte de
         temps, nous passons à côté du merveilleux message qu'elles contiennent
-        : « <emphasis>N</emphasis><emphasis>ous t’apprécions »</emphasis>. De
+        : « <emphasis>N</emphasis><emphasis>ous t’apprécions. »</emphasis> De
         plus, et c'est peut-être plus important, le fait que les mêmes
         personnes soient nominées de façon régulière et qu'elles s’y objectent
         parce qu'elles sont surchargées de travail est une rétroaction très
@@ -6009,8 +6021,8 @@ a "qualification" for a role is now translated in the glossary by "critère de c
       </section>
 
       <section>
-        <title>Pourquoi ne pas laisser les membres se porter volontaires
-        ?</title>
+        <title>Pourquoi ne pas laisser les membres se porter
+        volontaires ?</title>
 
         <indexterm>
           <primary>sélection</primary>
@@ -6021,12 +6033,12 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         <para>La décision de savoir qui occupe le rôle est basée sur des
         critères. Une personne qui se porte volontaire n'est peut-être pas la
         plus apte à occuper le poste. Et le meilleur candidat peut ne pas se
-        porter volontaire ! Le fait d’attribuer les rôles sur la base du
+        porter volontaire ! Le fait d’attribuer les rôles sur la base du
         volontariat ne nous permettra pas d'obtenir de bons résultats de
         manière fiable. (La « volonté de faire », bien sûr, est
-        <emphasis>un</emphasis> facteur : si quelqu'un ne souhaite vraiment
-        pas remplir un rôle, il y a de fortes chances qu'il ne soit pas
-        performant dans ce rôle.)</para>
+        <emphasis>un</emphasis> facteur : si quelqu'un ne souhaite
+        <emphasis>vraiment</emphasis> pas remplir un rôle, il y a de fortes
+        chances qu'il ne soit pas performant dans ce rôle.)</para>
 
         <para>L'invitation à se porter volontaire peut mettre un cercle dans
         une situation difficile, où il est ardu de s'objecter si la méthode de
@@ -6047,6 +6059,9 @@ a "qualification" for a role is now translated in the glossary by "critère de c
           <secondary>auto-nomination</secondary>
         </indexterm>
 
+        <?latex \enlargethispage*{\baselineskip}
+?>
+
         <para>Il est important de comprendre la différence entre
         l'auto-nomination et se porter volontaire pour un rôle.
         L'auto-nomination ajoute des <emphasis>informations</emphasis>
@@ -6055,8 +6070,8 @@ a "qualification" for a role is now translated in the glossary by "critère de c
             <primary>critère de choix</primary>
           </indexterm> reconnaissons-nous en nous-même ? Que signifie ce rôle
         pour nous ? Il y a beaucoup plus à apprendre que ce que nous pourrions
-        entendre si quelqu'un se portait volontaire en disant « <emphasis>Je
-        peux le faire</emphasis> <emphasis>»</emphasis>. L'auto-nomination,
+        entendre si quelqu'un se portait volontaire en disant : « <emphasis>Je
+        peux le faire.</emphasis> <emphasis>»</emphasis> L'auto-nomination,
         comme le fait d’être volontaire, exprime la volonté, mais la sélection
         dans un rôle ne se fait pas automatiquement — les autres membres du
         cercle doivent donner leur consentement.</para>
@@ -6176,7 +6191,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         notre participation ou le succès du cercle seront affectés par le fait
         que ce candidat occupe ce rôle. Par exemple, la sélection de Victor
         comme facilitateur peut-elle nuire au travail et à l'apprentissage du
-        cercle ? Si oui, nous nous objectons. Dans le cas contraire, nous
+        cercle ? Si oui, nous nous objectons. Dans le cas contraire, nous
         donnons notre consentement. (Sur le défi émotionnel que représente le
         fait de s'objecter à quelqu'un, voir la section <xref
         linkend="emotionalchallenges"
@@ -6185,7 +6200,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         <para>Ne formulez <emphasis>jamais</emphasis> d'objection fondée sur
         une préférence personnelle<indexterm>
             <primary>préférence personnelle</primary>
-          </indexterm>, par exemple en disant « <emphasis>Je m'objecte à ce
+          </indexterm>, par exemple en disant : « <emphasis>Je m'objecte à ce
         que XY soit facilitateur parce que je pense que AB serait meilleur
         dans ce rôle.</emphasis> » Il s'agit d'une information non pertinente
         car nous ne recherchons pas le candidat parfait. En outre, comparer
@@ -6206,8 +6221,8 @@ a "qualification" for a role is now translated in the glossary by "critère de c
 
         <itemizedlist>
           <listitem>
-            <para><emphasis role="strong">Modifier la proposition</emphasis> :
-            Que pouvons-nous modifier ? Par exemple, si nous pensons que
+            <para><emphasis role="strong">Modifier la proposition</emphasis> :
+            Que pouvons-nous modifier ? Par exemple, si nous pensons que
             quelqu'un a besoin de plus d'expérience, nous faisons un
             amendement<indexterm>
                 <primary>amendement</primary>
@@ -6217,25 +6232,25 @@ a "qualification" for a role is now translated in the glossary by "critère de c
 
           <listitem>
             <para><emphasis role="strong">Raccourcir la durée du
-            mandat</emphasis> : Si, par exemple, un membre du cercle n'est pas
+            mandat</emphasis> : Si, par exemple, un membre du cercle n'est pas
             convaincu qu'une personne est un bonne candidate pour être
             facilitatrice, l'objecteur serait-il prêt à essayer cette personne
-            pendant trois séances et à prévoir une évaluation à ce moment-là
-            ?</para>
+            pendant trois séances et à prévoir une évaluation à ce
+            moment-là ?</para>
           </listitem>
 
           <listitem>
-            <para><emphasis role="strong">Évaluer la préoccupation</emphasis>
-            : Que devrions-nous suivre pour que l’objecteur se sente mieux par
-            rapport à la proposition ? Par exemple, s'il y a une objection sur
-            la base du fait qu'un membre du cercle n'est pas fiable dans la
-            préparation des points d'ordre du jour, comment pourrions-nous
-            évaluer que c’est vrai ?</para>
+            <para><emphasis role="strong">Évaluer la
+            préoccupation</emphasis> : Que devrions-nous suivre pour que
+            l’objecteur se sente mieux par rapport à la proposition ? Par
+            exemple, s'il y a une objection sur la base du fait qu'un membre
+            du cercle n'est pas fiable dans la préparation des points d'ordre
+            du jour, comment pourrions-nous évaluer que c’est vrai ?</para>
           </listitem>
 
           <listitem>
             <para><emphasis role="bold">Une combinaison de ces
-            stratégies</emphasis> : en suivant les exemples mentionnés, on
+            stratégies</emphasis> : en suivant les exemples mentionnés, on
             pourrait donner à la personne une formation supplémentaire, suivre
             sa capacité à préparer les points à l'ordre du jour et attribuer
             le rôle pour une courte durée.</para>
@@ -6255,9 +6270,9 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         la même manière que les objections des autres membres du
         cercle.</para>
 
-        <para>Autre exemple : supposons qu'un employé, Malik, ne travaille
+        <para>Autre exemple : supposons qu'un employé, Malik, ne travaille
         qu'à temps partiel parce qu'il s'occupe de sa mère âgée. Cela n'a
-        aucune incidence sur les compétences de Malik en tant que délégué(e),
+        aucune incidence sur les compétences de Malik en tant que délégué,
         mais cela pourrait faire l'objet d'une objection. Imaginons qu'il
         s'agisse d'un cercle général<indexterm>
             <primary>cercle général</primary>
@@ -6281,19 +6296,19 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         cercle d'explorer les options. Dans un lieu où le pouvoir est partagé,
         il y a beaucoup d'espace pour trouver une solution créative. Malik
         pourrait-il travailler dans son bureau à domicile et nous accepterions
-        qu'il y ait une interruption occasionnelle ? Peut-être que le cercle
+        qu'il y ait une interruption occasionnelle ? Peut-être que le cercle
         pourrait le libérer une matinée par mois et qu'il pourrait changer
-        d'horaire qu’il soit libre pour la réunion mensuelle du cercle général
-        ? S'il n'y a pas de bonne solution, n'insistons pas trop. Malik, dans
-        notre exemple, a pu entendre à quel point ses compétences sont
-        appréciées et il sentira qu'on se soucie de lui dans sa
+        d'horaire qu’il soit libre pour la réunion mensuelle du cercle
+        général ? S'il n'y a pas de bonne solution, n'insistons pas trop.
+        Malik, dans notre exemple, a pu entendre à quel point ses compétences
+        sont appréciées et il sentira qu'on se soucie de lui dans sa
         situation.</para>
 
         <para>Le facilitateur peut nommer quelqu'un d'autre. Puisque les
         autres nominations<indexterm>
             <primary>nomination</primary>
           </indexterm> sont encore présentes à l'esprit des personnes du
-        cercle, nous n'avons pas besoin de passer par tout le processus — nous
+        cercle, nous n'avons pas besoin de passer par tout le processus — nous
         pouvons simplement faire une autre proposition de nomination et passer
         à un tour de consentement.</para>
       </section>
@@ -6381,7 +6396,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         mettre les 5 personnes ayant reçu le plus de nominations<indexterm>
             <primary>nomination</primary>
           </indexterm> en « bocal » <footnote>
-            <para>NDT : Il s’agit de constituer un groupe au centre de la
+            <para>NDT : Il s’agit de constituer un groupe au centre de la
             pièce, les autres personnes situées tout autour ayant alors un
             statut d’observatrices.</para>
           </footnote> et les laisser faire un autre tour de confirmation et le
@@ -6408,7 +6423,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         <para>Si nous élisons une personne dans un rôle par un vote à la
         majorité, la personne ayant obtenu le plus de voix gagne. En général,
         le problème du vote à la majorité est que dans son résultat, jusqu'à
-        49 % des votes sont ignorés. L’illustration <xref
+        49 % des votes sont ignorés. L’illustration <xref
         linkend="votingvsconsent" xrefstyle="select: labelnumber"/> montre
         comment une décision par consentement<indexterm>
             <primary>vote majoritaire</primary>
@@ -6470,14 +6485,17 @@ a "qualification" for a role is now translated in the glossary by "critère de c
           </indexterm>, nous devons en savoir un peu plus. Quelle est
         l'histoire sous-jacente ? Y a-t-il des objections de part et d'autre,
         comme dans l’illustration <xref linkend="votingvsconsenttie"
-        xrefstyle="select: label"/> <emphasis>(Scénario 1)</emphasis>, ou
-        avons-nous réellement le consentement des deux candidats, comme dans
-        l’illustration <xref linkend="votingvsconsenttie"
-        xrefstyle="select: label"/> <emphasis>(Scénario 2)</emphasis> ? Dans
-        l’illustration <xref linkend="votingvsconsenttie"
-        xrefstyle="select: label"/>, la proposition du candidat A nous
+        xrefstyle="select: labelnumber"/> <emphasis>(Scénario 1)</emphasis>,
+        ou avons-nous réellement le consentement des deux candidats, comme
+        dans l’illustration <xref linkend="votingvsconsenttie2"
+        xrefstyle="select: labelnumber"/> <emphasis>(Scénario 2)</emphasis> ?
+        Dans l’illustration <xref linkend="votingvsconsenttie"
+        xrefstyle="select: labelnumber"/>, la proposition du candidat A nous
         permettra d'obtenir le consentement, tandis que la proposition du
         candidat B suscitera des objections.</para>
+
+        <?latex \enlargethispage*{\baselineskip}
+?>
 
         <figure xml:id="votingvsconsenttie">
           <title>Scénario 1</title>
@@ -6503,10 +6521,10 @@ a "qualification" for a role is now translated in the glossary by "critère de c
             <primary>facilitateur</primary>
           </indexterm> est d'amener le groupe à prendre une décision qui
         convienne à tous. Si cela est vrai pour les deux candidats, c’est
-        bien, on peut aussi le dire : « <emphasis>Je suppose que les deux
+        bien, on peut aussi le dire : « <emphasis>Je suppose que les deux
         candidats pourraient obtenir le consentement du groupe, ce qui montre
         la compétence et la confiance que nous avons dans ce
-        groupe ».</emphasis> Ensuite, prenez une décision, et soyez précis
+        groupe. »</emphasis> Ensuite, prenez une décision, et soyez précis
         dans votre raisonnement. Nous pouvons revenir sur les critères de
         choix<indexterm>
             <primary>critère de choix</primary>
@@ -6515,9 +6533,9 @@ a "qualification" for a role is now translated in the glossary by "critère de c
           </indexterm> recherchées et sur la façon dont nous déterminerons
         celles qui sont prioritaires. Par exemple, avons-nous dit que nous
         voulions sélectionner quelqu'un qui n'a pas encore beaucoup
-        d'expériences ? Choisissons alors le candidat le moins expérimenté. Ou
-        bien y a-t-il un autre critère de choix qui fait la différence ?
-        N'oublions jamais : nous cherchons à trouver un candidat auquel tout
+        d'expériences ? Choisissons alors le candidat le moins expérimenté. Ou
+        bien y a-t-il un autre critère de choix qui fait la différence ?
+        N'oublions jamais : nous cherchons à trouver un candidat auquel tout
         le monde peut consentir, la tâche n’étant <emphasis>pas</emphasis> de
         trouver le meilleur candidat.</para>
 
@@ -6529,15 +6547,15 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         question en termes d'équité : si nous essayons de rendre la situation
         équitable, il n'y a guère d'issue positive possible. Les aménagements
         consistent généralement à partager les rôles, à prendre son tour,
-        etc., ce que nous évitons à tout prix ! Au lieu de rendre la situation
+        etc., ce que nous évitons à tout prix ! Au lieu de rendre la situation
         équitable, considérons le point de vue de l'organisation. Ce n'est pas
         un <emphasis>problème</emphasis> d'avoir deux bons membres qui peuvent
-        remplir un rôle et avoir le soutien total de leur cercle — c'est un
+        remplir un rôle et avoir le soutien total de leur cercle — c'est un
         cadeau. C’est l’aspiration à ce que les choses soient équitables qui
-        pose problème — et non pas le fait qu'il y ait égalité.</para>
+        pose problème — et non pas le fait qu'il y ait égalité.</para>
 
-        <para>Par ailleurs, nous ne rendons pas service à l'organisation —
-        c'est-à-dire à nous-mêmes — si nous ne prenons pas de décision ou si
+        <para>Par ailleurs, nous ne rendons pas service à l'organisation —
+        c'est-à-dire à nous-mêmes — si nous ne prenons pas de décision ou si
         nous consacrons trop de temps à une décision qui sera de toute façon
         « assez bonne pour l’instant » et « assez sûre pour essayer ».
         Parfois, il vaut simplement mieux faire <emphasis>quelque
@@ -6551,7 +6569,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
 
             <secondary>pouvoir internalisé</secondary>
           </indexterm> ressortiront de façon prononcée dans ce genre de
-        situation — il sera plus probable qu'une personne ayant moins de
+        situation — il sera plus probable qu'une personne ayant moins de
         privilèges ou de pouvoir perçus<indexterm>
             <primary>pouvoir</primary>
 
@@ -6587,17 +6605,17 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         est le facilitateur. Dans un premier temps, détachons-nous de notre
         préférence personnelle<indexterm>
             <primary>préférence personnelle</primary>
-          </indexterm>. Rappelons-nous que la question n'est pas
+          </indexterm>. Rappelons-nous que la question n'est pas :
         « <emphasis>Est-ce que je veux que ce membre du cercle remplisse ce
-        rôle ?</emphasis> ». La question est plutôt : « <emphasis>Si cette
+        rôle ?</emphasis> » La question est plutôt : « <emphasis>Si cette
         personne remplit le rôle, cela m’affecte-t-il négativement dans
-        l'exécution de mon travail ?</emphasis> ». Si la réponse est oui,
-        alors nous devons objecter. Mais comment s’objecter lorsqu'il s'agit
-        d'une personne que nous connaissons bien, peut-être même d'un ami ?
-        C'est difficile, et nous ne pouvons que donner quelques conseils —
-        cela pourrait rester quelque chose d’inconfortable à faire. La
-        première chose à garder à l'esprit est que nous n’objectons pas sur
-        une personne. Nous objectons à ce qu’une personne remplisse un certain
+        l'exécution de mon travail ?</emphasis> » Si la réponse est oui, alors
+        nous devons objecter. Mais comment s’objecter lorsqu'il s'agit d'une
+        personne que nous connaissons bien, peut-être même d'un ami ? C'est
+        difficile, et nous ne pouvons que donner quelques conseils — cela
+        pourrait rester quelque chose d’inconfortable à faire. La première
+        chose à garder à l'esprit est que nous n’objectons pas sur une
+        personne. Nous objectons à ce qu’une personne remplisse un certain
         rôle. Nous pouvons aimer tendrement une personne, mais ses compétences
         en matière de direction, de facilitation<indexterm>
             <primary>facilitation</primary>
@@ -6605,27 +6623,26 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         à la description du poste. Afin de donner une rétroaction utile ou de
         formuler une objection, soyons précis. Qu'est-ce que cette personne
         pourrait faire différemment pour que cela <emphasis>puisse</emphasis>
-        fonctionner pour nous ?</para>
+        fonctionner pour nous ?</para>
 
-        <para>Je vais vous raconter une histoire personnelle. Une de mes
-        ami.e.s a été nommée facilitatrice. Je n'étais pas heureux. Je ne
-        voulais pas qu'elle soit facilitatrice. J'étais ancré dans le jugement
-        suivant : « <emphasis>Quand elle fait de la facilitation, nous
-        n'arrivons jamais à faire quoi que ce soit. Son style est trop
-        relâché, et nous allons tourner en rond sans résultat.</emphasis> » Je
-        jugeais, sans voir quels étaient mes propres besoins. Ce manque de
-        clarté m'a empêché de donner une rétroaction constructive. Si nous
-        savons clairement ce dont nous avons besoin, nous pouvons faire une
-        demande<indexterm>
+        <para>Je vais vous raconter une histoire personnelle. Une de mes amies
+        a été nommée facilitatrice. Je n'étais pas heureux. Je ne voulais pas
+        qu'elle soit facilitatrice. J'étais ancré dans le jugement suivant :
+        « <emphasis>Quand elle fait de la facilitation, nous n'arrivons jamais
+        à faire quoi que ce soit. Son style est trop relâché, et nous allons
+        tourner en rond sans résultat.</emphasis> » Je jugeais, sans voir
+        quels étaient mes propres besoins. Ce manque de clarté m'a empêché de
+        donner une rétroaction constructive. Si nous savons clairement ce dont
+        nous avons besoin, nous pouvons faire une demande<indexterm>
             <primary>demande</primary>
           </indexterm> et transmettre une information très claire, qui est
-        facile à entendre. Dans ce scénario, cela pourrait donner :</para>
+        facile à entendre. Dans ce scénario, cela pourrait donner :</para>
 
         <para>« <emphasis>Vous savez tous que j'apprécie les réunions
         efficaces. Je m'impatiente lorsque les choses n'avancent pas, et je
         réalise que je le ressens plus que la plupart d'entre vous. Je crains
         qu'il ne soit difficile pour moi d'assister aux réunions. Pouvons-nous
-        faire un accord ? J’accepte XYZ dans le rôle de facilitatrice si je
+        faire un accord ? J’accepte XYZ dans le rôle de facilitatrice si je
         peux dire quand, pour moi, les choses avancent trop lentement, en
         sachant que je serai entendu et pris en compte</emphasis>. »</para>
 
@@ -6637,7 +6654,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         cette histoire est le suivant : voyons d’abord que nous sommes auteurs
         de nos propres perceptions, sentiments et besoins. Il y a une énorme
         différence entre les deux affirmations suivantes : « <emphasis>Ta
-        facilitation est confuse et inefficace</emphasis> » versus
+        facilitation est confuse et inefficace.</emphasis> » versus
         « <emphasis>Je veux que la facilitation soit claire et nette pour ne
         pas perdre le fil de ce que nous réalisons, et c'est la seule façon
         pour moi d'être productif en réunion. Par conséquent, je ne suis pas
@@ -6646,7 +6663,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
 
         <para>Une autre façon de voir les choses est qu’au moment de la
         rétroaction, on peut déclencher le sentiment de douleur d'une autre
-        personne ; mais ce n’est pas la rétroaction elle-même qui en est la
+        personne ; mais ce n’est pas la rétroaction elle-même qui en est la
         cause. La cause de la douleur est l'interprétation de la personne qui
         reçoit la rétroaction. La rétroaction, lorsqu'elle est donnée avec
         soin, est un cadeau.</para>
@@ -6661,8 +6678,8 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         être nominées. Cela pourrait leur rappeler des expériences d'enfance
         où elles étaient parmi les dernières à être choisies dans une équipe.
         Elles vivent le processus de sélection comme un procès où le cas jugé
-        est : « <emphasis>Est-ce que mes pairs me connaissent / m'apprécient
-        suffisamment pour me nominer ?</emphasis> ». Un processus de sélection
+        est : « <emphasis>Est-ce que mes pairs me connaissent / m'apprécient
+        suffisamment pour me nominer ?</emphasis> » Un processus de sélection
         n'est pas un concours de popularité et n’a pas à répartir
         l'appréciation de manière égale. Le cercle cherche à remplir un rôle,
         c'est tout.</para>
@@ -6674,8 +6691,8 @@ a "qualification" for a role is now translated in the glossary by "critère de c
         <para>Un nouveau groupe peut faire un tour de parole concernant la
         signification qu’il confère au processus de sélection. Dans un groupe
         où la sécurité peut exister, nous encourageons fortement à manifester
-        sa vulnérabilité. On peut y entendre quelque chose comme
-        « <emphasis>ce processus de sélection a été difficile pour moi. Je
+        sa vulnérabilité. On peut y entendre quelque chose comme :
+        « <emphasis>Ce processus de sélection a été difficile pour moi. Je
         voulais que mon nom figure parmi les nominations, qu'on ait besoin de
         moi, qu'on me prenne en considération. Je comprends que ce n'est pas
         une question de popularité, mais je tiens à vous faire savoir que cela
@@ -6712,6 +6729,9 @@ a "qualification" for a role is now translated in the glossary by "critère de c
 
           <secondary>parti pris du facilitateur</secondary>
         </indexterm>
+
+        <?latex \enlargethispage*{\baselineskip}
+?>
 
         <para>Un autre défi se pose si le facilitateur est attaché à un
         résultat particulier. Dans ce cas, le facilitateur peut reconnaître ce
@@ -6802,17 +6822,17 @@ a "qualification" for a role is now translated in the glossary by "critère de c
 
       <para>Le processus de sélection ne sert pas uniquement à attribuer des
       rôles. Le processus de sélection est aussi utile pour faire des choix
-      parmi plusieurs possibilités : par exemple, nous pouvons faire un
+      parmi plusieurs possibilités : par exemple, nous pouvons faire un
       processus de sélection dans lequel les personnes nominent les
-      destinations qu’elles souhaiteraient pour un voyage ; ainsi, au lieu de
+      destinations qu’elles souhaiteraient pour un voyage ; ainsi, au lieu de
       personnes, nous nominons des lieux.</para>
 
       <para>Cela fonctionne également avec les chiffres. Par exemple, nous
-      pouvons faire un processus de sélection autour de la question
-      « <emphasis>notre cotisation doit-elle être de 0$, 10$, 20$ ou 50$
-      ?</emphasis> ». Ensuite, nous choisissons un montant et partageons les
-      raisons pour lesquelles nous faisons ce choix. Après avoir entendu tout
-      le monde, faisons un tour de confirmation<indexterm>
+      pouvons faire un processus de sélection autour de la question :
+      « <emphasis>Notre cotisation doit-elle être de 0 $, 10 $, 20 $ ou
+      50 $ ?</emphasis> » Ensuite, nous choisissons un montant et partageons
+      les raisons pour lesquelles nous faisons ce choix. Après avoir entendu
+      tout le monde, faisons un tour de confirmation<indexterm>
           <primary>tour de confirmation</primary>
         </indexterm><indexterm>
           <primary>tour de parole</primary>
@@ -6822,8 +6842,8 @@ a "qualification" for a role is now translated in the glossary by "critère de c
           <primary>sélection</primary>
 
           <secondary>tour de confirmation</secondary>
-        </indexterm> : « <emphasis>Après avoir entendu ce qui vient d’être
-      dit, quel montant proposeriez-vous maintenant ?</emphasis> ». Le
+        </indexterm> : « <emphasis>Après avoir entendu ce qui vient d’être
+      dit, quel montant proposeriez-vous maintenant ?</emphasis> » Le
       facilitateur fait alors une proposition et le cercle est invité à donner
       son consentement ou à faire des objections. Notre propre communauté a
       utilisé le processus de sélection pour déterminer de combien les frais
@@ -6831,7 +6851,7 @@ a "qualification" for a role is now translated in the glossary by "critère de c
 
       <para>Avec une grille plus complexe et des choix interdépendants, le
       processus peut être utilisé de multiples façons, pour semer des légumes
-      dans les rangées d’un jardin ; nous pouvons aussi faire une nouvelle
+      dans les rangées d’un jardin ; nous pouvons aussi faire une nouvelle
       embauche ou choisir l'entreprise de construction qui rénovera notre
       magasin.</para>
 

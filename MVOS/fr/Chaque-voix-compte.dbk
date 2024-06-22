@@ -27,7 +27,7 @@
     <org>
       <orgname>Sociocracy For All</orgname>
 
-      <address><street>120 Chemin Pulpit Hill, Suite 8</street>
+      <address><street>120 chemin Pulpit Hill, suite 8</street>
 <city>Amherst</city> <state>MA</state>, <postcode>01002</postcode>
 <country>États-Unis d'Amérique</country>
 <email>info@sociocracyforall.org</email></address>
@@ -42,14 +42,39 @@
     </copyright>
 
     <legalnotice>
-      <para>Publié par Sociocracy For All. Sociocracy for All est un projet de
-      l’Institute for Peaceable Communities (IPC), une organisation à but non
-      lucratif 501(c)(3) incorporée au Massachusetts, États-Unis.</para>
+      <para><?latex \noindent ?>Publié par Sociocracy For All. Sociocracy for
+      All est un projet de l’Institute for Peaceable Communities (IPC), une
+      organisation à but non lucratif 501(c)(3) constituée au Massachusetts,
+      États-Unis.<?latex \vspace{0.25em}?></para>
 
-      <para>Tous les mots de ce manuel sont disponibles sous une licence CC
-      BY-SA 3.0 DEED Creative Commons Attribution-Partage dans les mêmes
-      conditions 3.0. &lt;<phrase
-      xlink:href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr">https://creativecommons.org/licenses/by-sa/3.0/deed.fr</phrase>&gt;</para>
+      <para><?latex \noindent ?>© par Ted J. Rau et Jerry Koch-Gonzalez, 2018.
+      Tous les mots de ce manuel sont disponibles sous une licence CC BY-SA
+      3.0 DEED <foreignphrase>Creative Commons</foreignphrase>
+      Attribution-Partage dans les mêmes conditions 3.0.</para>
+
+      <para><?latex \noindent ?><uri
+      xlink:href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr">https://creativecommons.org/licenses/by-sa/3.0/deed.fr</uri></para>
+
+      <informalfigure>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="illustrations/creativecommons.png"/>
+          </imageobject>
+        </mediaobject>
+      </informalfigure>
+
+      <para><?latex \noindent ?>Rau, Ted J.</para>
+
+      <para><?latex \hspace{0.3em}?>Chaque voix compte. Partager le pouvoir
+      avec la sociocratie/Ted J. Rau et Jerry Koch-Gonzalez.</para>
+
+      <para><?latex \hspace{0.3em}?>Inclut des références bibliographiques,
+      des diagrammes et index.</para>
+
+      <para><?latex \hspace{0.3em}?>ISBN 978-1-949183-32-0</para>
+
+      <para><?latex \vspace{1em}?><?latex \noindent ?>Conception de la
+      couverture et illustrations : Julian Howell, Royaume-Uni.</para>
     </legalnotice>
 
     <biblioid class="isbn">978-1-949183-32-0</biblioid>
@@ -59,13 +84,13 @@
     <othercredit class="graphicdesigner">
       <personname><firstname>Julian</firstname><surname>Howell</surname></personname>
 
-      <address><country>United Kingdom</country></address>
+      <address><country>Royaume-Uni</country></address>
 
-      <contrib>Cover and graphic design</contrib>
+      <contrib>Conception de la couverture et illustrations</contrib>
     </othercredit>
   </info>
 
-  <acknowledgements>
+  <dedication>
     <epigraph>
       <attribution>Marshall Rosenberg</attribution>
 
@@ -73,14 +98,16 @@
       entre moi et les autres basé sur un partage mutuel qui vient du
       cœur.</para>
     </epigraph>
-  </acknowledgements>
+  </dedication>
 
   <xi:include href="pr%C3%A9face-1/pr%C3%A9face-1.dbk" xpointer="element(/1)"/>
 
   <acknowledgements>
     <info>
-      <title>Par les auteurs</title>
+      <title>Remerciements par les auteurs</title>
     </info>
+
+    <?latex \enlargethispage*{\baselineskip}?>
 
     <para>Nous sommes profondément reconnaissants de l'héritage de tous ceux
     qui ont contribué au merveilleux ensemble d'outils que nous connaissons

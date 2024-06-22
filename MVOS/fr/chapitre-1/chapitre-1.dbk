@@ -15,7 +15,7 @@
       <primary>pouvoir</primary>
 
       <secondary>partager le pouvoir</secondary>
-    </indexterm> ?</para>
+    </indexterm> ?</para>
 
   <para>La sociocratie présuppose qu'il faut un plan pour partager le
   pouvoir<indexterm>
@@ -23,9 +23,9 @@
 
       <secondary>partager le pouvoir</secondary>
     </indexterm>. Le pouvoir est partout tout le temps, et il n'apparaît pas
-  ou ne disparaît pas - quelqu'un le détiendra forcément. Il est nécessaire de
-  savoir comment nous voulons le distribuer. Le pouvoir est comme l'eau : il
-  se rendra forcément quelque part et aura tendance à se regrouper : plus un
+  ou ne disparaît pas — quelqu'un le détiendra forcément. Il est nécessaire de
+  savoir comment nous voulons le distribuer. Le pouvoir est comme l'eau : il
+  se rendra forcément quelque part et aura tendance à se regrouper : plus un
   groupe a du pouvoir, plus il détient de ressources pour se donner encore
   davantage de pouvoir. Le seul moyen de contrebalancer la concentration du
   pouvoir est d'avoir une intention claire et une mise en œuvre
@@ -66,7 +66,9 @@
 
   <para>Pour ce faire, nos organisations sociocratiques se distinguent de deux
   façons de celles qui disposent d'un pouvoir hiérarchique concentré et
-  centralisé :</para>
+  centralisé :</para>
+
+  <?latex \enlargethispage*{-\baselineskip}?>
 
   <itemizedlist>
     <listitem>
@@ -88,9 +90,8 @@
 
   <para>Construire un système qui distribue le pouvoir en responsabilisant
   chaque individu exige de la réflexion et de la volonté. Voilà ce qu'est la
-  sociocratie : un ensemble de principes de
-  <foreignphrase>design</foreignphrase> pour répartir le pouvoir de façon
-  qu'il soit dans le flux de la vie.</para>
+  sociocratie : un ensemble de principes de design pour répartir le pouvoir de
+  façon qu'il soit dans le flux de la vie.</para>
 
   <section xml:id="values">
     <title>Les valeurs sous-jacentes à la sociocratie</title>
@@ -107,7 +108,7 @@
       <primary>valeurs</primary>
     </indexterm>
 
-    <para>Dans quel monde voulons-nous vivre ? Notre réponse à cette question
+    <para>Dans quel monde voulons-nous vivre ? Notre réponse à cette question
     est la suivante : nous voulons vivre dans un monde où les gens se
     soutiennent les uns les autres, se considèrent mutuellement et
     s'entraident pour répondre à leurs besoins. Un monde collaboratif.</para>
@@ -137,10 +138,8 @@
       depuis l'intérieur dès lors que des informations, des biens et de
       l'énergie sont échangés. Un système qui ne laisse pas l'organisation
       respirer comme un système vivant limitera et étouffera son expression
-      unique de la vie.</para>
-
-      <para>Les systèmes vivants ont des caractéristiques, il est important
-      d'en être conscients <indexterm>
+      unique de la vie. Les systèmes vivants ont des caractéristiques, il est
+      important d'en être conscients <indexterm>
           <primary>système vivant</primary>
 
           <secondary>caractéristiques</secondary>
@@ -189,18 +188,18 @@
         <listitem>
           <para>les systèmes vivants sont intrinsèquement structurés d'une
           manière qui leur est propre. Une forêt, par exemple, a une
-          structure. Il en va de même pour une organisation - les systèmes
+          structure. Il en va de même pour une organisation — les systèmes
           vivants sont définis par le fait qu'ils créent plus d'ordre qu'il
           n'y en a déjà dans l'entropie de leur milieu. C'est exactement ce
-          que font les organisations : s'organiser pour échanger de
+          que font les organisations : s'organiser pour échanger de
           l'information et des ressources afin de répondre à leurs
           besoins.</para>
         </listitem>
       </itemizedlist>
 
-      <para>Qu'est-ce qui aide les organisations à survivre et à prospérer ?
+      <para>Qu'est-ce qui aide les organisations à survivre et à prospérer ?
       Qu'est-ce qui aide les membres d'une organisation à survivre et à
-      s'épanouir ? Quelles valeurs incarne la sociocratie ? Réduire
+      s'épanouir ? Quelles valeurs incarne la sociocratie ? Réduire
       précipitamment la définition à un petit ensemble de valeurs, c'est
       prendre le risque d'omettre de considérer des aspects qui auraient été
       significatifs pour les valeurs et les besoins<indexterm>
@@ -429,7 +428,7 @@
         </listitem>
       </itemizedlist>
 
-      <figure>
+      <figure floatstyle="[htb]">
         <title>Outils qui incarnent nos principes; nos besoins universels les
         plus fondamentaux sont satisfaits en alignement avec les systèmes
         vivants.<indexterm>
@@ -701,7 +700,7 @@
     </section>
 
     <section>
-      <title>Prenez ce qui vous semble utile — et plus vous en prenez, mieux
+      <title>Prenez ce qui vous semble utile — et plus vous en prenez, mieux
       c'est !</title>
 
       <para>La sociocratie n'est pas une approche « tout ou rien ». Les
@@ -709,19 +708,18 @@
       souhaitent et ils peuvent changer d'idée en cours de route. Ces outils
       n’appartiennent à personne. Les gens font ce qu'ils font. Rien n'est
       « bien » ou « mal ». Les outils pour nous gérer et nous gouverner sont
-      simplement plus ou moins efficaces.</para>
-
-      <para>Dans cet esprit, il est important pour nous :</para>
+      simplement plus ou moins efficaces. Dans cet esprit, il est important
+      pour nous :</para>
 
       <itemizedlist>
         <listitem>
           <para>que les lecteurs comprennent les principes fondateurs de la
-          sociocratie ;</para>
+          sociocratie ;</para>
         </listitem>
 
         <listitem>
           <para>d’offrir aux lecteurs des conseils pratiques sur la façon de
-          mettre en œuvre ces principes ;</para>
+          mettre en œuvre ces principes ;</para>
         </listitem>
 
         <listitem>
@@ -744,8 +742,8 @@
 
           <secondary>structure de cercles</secondary>
         </indexterm> plus transparente (voir <xref linkend="double-linking"
-      xrefstyle="select: label quotedtitle page"/>). Les décisions prises en
-      petits groupes sont facilitées par la prise de décision par
+      xrefstyle="select: label page"/>). Les décisions prises en petits
+      groupes sont facilitées par la prise de décision par
       consentement<indexterm>
           <primary>consentement</primary>
         </indexterm>. Toute omission sera comblée d’une façon ou d’une autre,
@@ -794,12 +792,13 @@
       cette description pourrait suffire pour l'instant.</para>
 
       <para>Par consentement, un groupe peut décider de faire tout ce qu'il
-      désire. On dit souvent en plaisantant : « Vous voulez un dictateur pour
-      votre organisation ? Nous pouvons décider cela par consentement. » (Nous
-      recommandons cependant que le rôle de dictateur soit limité à une
-      période bien définie dans le temps !) Les groupes peuvent décider de
-      voter par consentement. Les groupes peuvent décider à tout moment de
-      changer la forme que prendra leur système de gouvernance.<indexterm>
+      désire. On dit souvent en plaisantant : « <emphasis>Vous voulez un
+      dictateur pour votre organisation ? Nous pouvons décider cela par
+      consentement.</emphasis> » (Nous recommandons cependant que le rôle de
+      dictateur soit limité à une période bien définie dans le temps !) Les
+      groupes peuvent décider de voter par consentement. Les groupes peuvent
+      décider à tout moment de changer la forme que prendra leur système de
+      gouvernance.<indexterm>
           <primary>prise de décision</primary>
 
           <secondary>méthode</secondary>
@@ -808,7 +807,7 @@
 
       <para>Supposons qu'un groupe décide de n'utiliser que la structure
       organisationnelle de la sociocratie et de la combiner avec la règle de
-      la majorité comme méthode de prise de décision. C'est autorisé - parce
+      la majorité comme méthode de prise de décision. C'est autorisé — parce
       que c'est votre décision.</para>
 
       <para>Voici cependant le piège. Nous avons parlé à d'innombrables
@@ -820,7 +819,7 @@
         <listitem>
           <para>elles ont des lacunes dans l’implantation<indexterm>
               <primary>implantation</primary>
-            </indexterm> de la sociocratie ; ou</para>
+            </indexterm> de la sociocratie ; ou</para>
         </listitem>
 
         <listitem>
@@ -831,7 +830,7 @@
         </listitem>
       </orderedlist>
 
-      <para>C'est pourquoi nous insistons sur ce point : nous voulons que les
+      <para>C'est pourquoi nous insistons sur ce point : nous voulons que les
       groupes s'approprient pleinement leur propre système de gouvernance.
       <emphasis>Et</emphasis> nous voulons leur donner les informations les
       plus exhaustives et les plus précises possible, fondées sur
@@ -840,7 +839,7 @@
       été préjudiciables.</para>
 
       <figure>
-        <title>Comment prononcer le terme “sociocratie”</title>
+        <title>Comment prononcer le terme « sociocratie »</title>
 
         <mediaobject>
           <imageobject>
@@ -901,7 +900,7 @@
         articulé les quatre principes de base tels que nous les connaissons
         aujourd'hui. Cela a abouti à une méthode d'organisation formelle,
         appelée <citetitle>Sociocratische Kringorganisatie Methode</citetitle>
-        (la méthode sociocratique de gouvernance)<indexterm>
+        (la Méthode sociocratique de gouvernance)<indexterm>
             <primary>méthode sociocratique de gouvernance</primary>
           </indexterm>.</para>
 
@@ -924,10 +923,11 @@
 
         <para>Une exploration des similitudes et des différences dans les
         variations de la sociocratie dépasse la portée de ce livre. La lignée
-        sociocratique de Sociocracy For All est la sociocratie « classique » -
-        c'est-à-dire directement issue de Gerard Endenburg<indexterm>
+        sociocratique de <foreignphrase>Sociocracy For All</foreignphrase> est
+        la sociocratie « classique » — c'est-à-dire directement issue de
+        Gerard Endenburg<indexterm>
             <primary>Endenburg, Gerard</primary>
-          </indexterm> et de la Méthode du cercle sociocratique<indexterm>
+          </indexterm> et de la Méthode sociocratique de gouvernance<indexterm>
             <primary>méthode sociocratique de gouvernance</primary>
           </indexterm>, que lui et d'autres ont développée.</para>
 
@@ -939,7 +939,7 @@
         considérons toute fragmentation du mouvement autour de la gouvernance
         en cercle avec une certaine tristesse et un certain scepticisme. Notre
         intention est d'être <emphasis>Sociocracy For All</emphasis>
-        (« Sociocratie pour tous »), ce qui signifie - pour nous - que nous
+        (« Sociocratie pour tous »), ce qui signifie — pour nous — que nous
         soutenons tout effort visant à diffuser la sociocratie, son
         enseignement<indexterm>
             <primary>formation sur la gouvernance</primary>
@@ -1100,7 +1100,8 @@
         </listitem>
 
         <listitem>
-          <para>Le développement logiciel Agile<indexterm>
+          <para>Le développement logiciel
+          <foreignphrase>Agile</foreignphrase><indexterm>
               <primary>agile</primary>
             </indexterm> met l'accent sur des cycles courts de développement
           avec amélioration continue, l'empirisme, et des équipes
@@ -1228,12 +1229,12 @@
     préférez apprendre, nous pouvons vous aider à trouver d'autres façons
     d’apprendre ou vous mettre en lien avec un coach. (Voir les liens vers les
     ressources dans <xref linkend="contact-SoFA"
-    xrefstyle="select: label quotedtitle page"/> de l'annexe).</para>
+    xrefstyle="select: label page"/>).</para>
 
     <section>
       <title>Ressources en ligne<footnote>
-          <para><emphasis>NDLR : Le contenu en ligne est en cours de
-          traduction par l’équipe bénévole de SoFra.</emphasis></para>
+          <para>Ndlr : Le contenu en ligne est en cours de traduction par
+          l’équipe bénévole de SoFra.</para>
         </footnote></title>
 
       <para>Nous aimerions pouvoir offrir aux lecteurs des études de cas
@@ -1249,7 +1250,7 @@
       ou dont nous avons connaissance, car nous voulons que toute information
       qui pourrait être utile aux autres soit accessible à tous.</para>
 
-      <figure>
+      <figure floatstyle="[htb]">
         <title>Contenu en ligne par <foreignphrase>Sociocracy For
         All</foreignphrase></title>
 
@@ -1294,10 +1295,7 @@
       jouer afin de nous aider à comprendre comment la prochaine version de ce
       livre pourrait être améliorée.</para>
 
-      <para>Que voudriez-vous voir dans la prochaine édition ? <footnote>
-          <para>NDLR : Le contenu en ligne est en cours de traduction par
-          l’équipe bénévole de SoFra.</para>
-        </footnote></para>
+      <para>Que voudriez-vous voir dans la prochaine édition ?</para>
 
       <para>Sur le site web <link
       xlink:href="http://www.manyvoicesonesong.com"><emphasis>www.manyvoicesonesong.com</emphasis></link>,
@@ -1308,7 +1306,7 @@
       chapitres. (Bien entendu, le questionnaire est susceptible d'être
       modifié au fur et à mesure que nous serons avisés de ce que nous
       pourrions améliorer à son sujet). Nous invitons les lecteurs à remplir
-      le sondage à tout moment. Merci d'avance !</para>
+      le sondage à tout moment. Merci d'avance !</para>
 
       <figure>
         <title>Écrivez-nous vos commentaires sur ce livre à
