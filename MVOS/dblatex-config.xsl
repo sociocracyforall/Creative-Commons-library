@@ -6,7 +6,7 @@
 
   <xsl:param name="latex.class.book">book</xsl:param>
 
-  <xsl:param name="latex.class.options">openany,twoside,10pt</xsl:param>
+  <xsl:param name="latex.class.options">openright,twoside,10pt</xsl:param>
 
   <xsl:param name="page.width">8in</xsl:param>
   <xsl:param name="geometry.options">paperheight=10in, height=8.75in,
@@ -140,7 +140,7 @@
         <xsl:text>\vspace*{20em}&#10;\begin{center}&#10;</xsl:text>
       </xsl:otherwise>
     </xsl:choose>
-    <xsl:text>\thispagestyle{empty}&#10;</xsl:text>
+    <!--xsl:text>\thispagestyle{empty}&#10;</xsl:text-->
     <xsl:apply-templates/>
     <xsl:if test="not($title)">
       <xsl:text>\end{center}&#10;\newpage&#10;</xsl:text>
@@ -260,7 +260,36 @@
     </xsl:if>
 
     <xsl:if test="contains($layout, 'coverpage ')">
-      <xsl:text>\maketitle&#10;</xsl:text>
+      <xsl:text>
+        \thispagestyle{empty}
+
+        \begin{figure}[h!]
+        \centering
+        \includegraphics{illustrations/logoSoFAbw.png}
+        \end{figure}
+
+        \vspace{10em}
+
+        \begin{center}\begin{Huge}\textsf{\expandafter\MakeUppercase
+          \expandafter{\DBKtitle}}\\
+          \vspace{1em}
+        \textsf{\DBKsubtitle}\end{Huge}\\
+
+        \vspace{2em}
+
+        \begin{Large}\textsf{\DBKauthor}\end{Large}\end{center}
+
+        \vfill
+
+        \noindent \begin{center}\Large{\textsf{Sociocracy For All}}\\
+        \noindent \Large{\textsf{Amherst, MA USA}}\\
+        \noindent \textsf{sociocracyforall.org}\\
+        \end{center}
+
+        \newpage
+
+        \maketitle
+      </xsl:text>
     </xsl:if>
 
     <xsl:apply-templates select="dedication"/>
@@ -425,7 +454,7 @@
 
     <!-- <xsl:text>&#10;\centering&#10;</xsl:text> -->
     <xsl:call-template name="figure.begin"/>
-    <xsl:apply-templates select="*[not(self::title)]"/>
+    <xsl:apply-templates select="node()[not(self::title|self::caption)]"/>
     <xsl:call-template name="figure.end"/>
 
     <!-- title caption after the image -->
@@ -449,7 +478,7 @@
 
     <!-- <xsl:text>&#10;\centering&#10;</xsl:text> -->
     <xsl:call-template name="figure.begin"/>
-    <xsl:apply-templates select="*[not(self::title)]"/>
+    <xsl:apply-templates select="*[not(self::title|self::caption)]"/>
     <xsl:call-template name="figure.end"/>
 
     <!-- title caption after the image -->
@@ -457,6 +486,27 @@
       <xsl:with-param name="position.top" select="0"/>
     </xsl:apply-templates>
     <xsl:text>\end{sidewaysfigure}&#10;</xsl:text>
+  </xsl:template>
+
+  <!-- We override this case so that we can include both `title` and `caption`
+  text within the LaTeX `\caption`. -->
+  <xsl:template match="figure/title" mode="format.title">
+    <xsl:param name="allnum" select="'0'"/>
+    <xsl:apply-templates select="." mode="toc">
+      <xsl:with-param name="allnum" select="$allnum"/>
+    </xsl:apply-templates>
+    <xsl:text>{</xsl:text>
+    <!-- should be normalized, but it is done by post processing -->
+    <xsl:apply-templates select="." mode="content"/>
+    <xsl:if test="../caption">
+      <xsl:apply-templates select="../caption" mode="extra-caption"/>
+    </xsl:if>
+    <xsl:text>}&#10;</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="figure/caption" mode="extra-caption">
+    <xsl:text>&#10;\\ </xsl:text>
+    <xsl:apply-templates/>
   </xsl:template>
 
   <!-- Treat figure elements with figure parent elements as sub-figures. -->
