@@ -1,0 +1,84 @@
+body {
+  font-family: "palatino",serif;
+  font-size: 0.8em;
+}
+
+div.titlepage, h1, h2, h3, h4, h5, h6 {
+  break-after: avoid-page;
+}
+
+div.titlepage p {
+  text-indent: 0em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  text-indent: 1.5em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+li p, dd p, td p {
+  text-indent: 0em;
+}
+
+section#literature p {
+  text-indent: 0em;
+  margin-bottom: 1em;
+}
+
+div.mediaobject {
+  text-align: center;
+}
+
+div.mediaobject > * {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.figure-title {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  text-align: center;
+  font-size: smaller;
+  font-weight: normal;
+  font-style: italic;
+}
+
+div.figure div.caption {
+  text-align: center;
+  font-size: smaller;
+  font-weight: normal;
+  font-style: italic;
+}
+
+div.figure-title > span.foreignphrase > em.foreignphrase,
+div.figure-title > span.emphasis > em,
+div.figure div.caption > span.foreignphrase > em.foreignphrase,
+div.figure div.caption > span.emphasis > em {
+  font-style: normal;
+}
+
+div.informalfigure.guide {
+  border: 1px solid black;
+  margin: 0.75em 2em 1.25em 3em;
+  padding: 1em;
+}
+
+div.informalfigure.guide p {
+  text-indent: 0em;
+  margin-bottom: 0.5em;
+}
+
+div.informalfigure.guide p:last-child {
+  margin-bottom: 0em;
+}
+
+div.glosslist td {
+  vertical-align: top;
+  border-top: 1px solid black;
+}
+
+div.index a.preferred {
+  font-weight: bold;
+}
