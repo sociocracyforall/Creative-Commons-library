@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xml:id="appendix" xmlns="http://docbook.org/ns/docbook"
+<chapter version="5.2" xml:id="appendix" xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:ns6="http://docbook.org/ns/transclusion"
          xmlns:ns5="http://www.w3.org/1998/Math/MathML"
@@ -11,7 +11,7 @@
   </info>
 
   <section xml:id="contact-SoFA">
-    <title>A propos de <foreignphrase>Sociocracy For All</foreignphrase>
+    <title>À propos de <foreignphrase>Sociocracy For All</foreignphrase>
     (SoFA)</title>
 
     <indexterm significance="preferred">
@@ -28,7 +28,7 @@
     de soi. Certains participants à la formation se taisent, tandis que leur
     esprit et leur cœur absorbent ce qu'ils voient et ressentent. Parfois, ils
     disent des choses comme « <emphasis>... mais... c'est...
-    grand</emphasis> » — exprimant la profondeur et la beauté du changement
+    énorme</emphasis> » — exprimant la profondeur et la beauté du changement
     que représenterait la sociocratie pour leur entreprise, leur communauté ou
     leur organisation bénévole. Ils sont remplis d'espoir et d'excitation.
     Quelques-uns deviennent tendus ou tristes, car ils ne croient pas que leur
@@ -125,7 +125,7 @@
     <itemizedlist>
       <listitem>
         <para>Le Cercle Contenu produit des ressources accessibles et crée des
-        opportunités pour que les gens utilisent ces ressources ; cela inclut
+        opportunités pour que les gens utilisent ces ressources ; cela inclut
         les webinaires, le fil Twitter, la page Facebook, les articles en
         ligne et la chaîne You Tube. Tout ce que nous disons ou écrivons, nous
         essayons de le rendre accessible à tous, afin que la prochaine vague
@@ -157,7 +157,7 @@
     <para>SoFA est également un réseau de personnes partageant les mêmes
     idées. Beaucoup viennent à SoFA pour se former et veulent faire de la
     sociocratie une partie intégrante de leur vie. Ils deviennent également
-    membres pour la camaraderie – beaucoup d'entre nous partagent l'expérience
+    membres pour la camaraderie — beaucoup d'entre nous partagent l'expérience
     chronique d'avoir été la personne naïvement pleine d'espoir dans un
     système brisé, à la recherche de moyens significatifs pour trouver un
     meilleur alignement de nos aspirations et de nos vies. Beaucoup d'entre
@@ -174,7 +174,7 @@
     savoir !</para>
 
     <para>Si vous faites partie d'une organisation sociocratique, vous êtes
-    invité à nous contacter ! Ainsi, nous pourrons comprendre comment mieux
+    invité à nous contacter ! Ainsi, nous pourrons comprendre comment mieux
     soutenir les praticiens. Nous pouvons nous soutenir mutuellement pour en
     apprendre plus. Consultez www.sociocracyforall.org/sofa pour voir la
     structure actuelle de nos cercles et les processus d'adhésion.</para>
@@ -201,7 +201,7 @@
         </listitem>
 
         <listitem>
-          <para>Si vous envisagez de faire un don important et / ou de
+          <para>Si vous envisagez de faire un don important et/ou de
           contribuer sous forme d'actions ou de legs, veuillez nous
           contacter.</para>
         </listitem>
@@ -250,7 +250,7 @@
       SoFA, j'occupe actuellement plusieurs rôles, principalement autour de la
       production de contenu, de la technologie et de la mise en réseau.</para>
 
-      <para>L'habitat communautaire est le foyer de mes enfants, Helena,
+      <para>L'habitat participatif est le foyer de mes enfants, Helena,
       Sophia, Antonia, Julia et Emilia. Ils grandissent en connaissant leurs
       70 voisins et en étant connus et aimés par eux. Bien que mes enfants ne
       soient pas tous capables de prononcer le mot
@@ -304,83 +304,70 @@
 
     <section xml:id="literature">
       <title>Publications<footnote>
-          <para>NDT : On peut mentionner un autre livre écrit en français :
-          Delstanche, Philippe (2014). Vers un leadership solidaire. La
-          sociocratie, une nouvelle dynamique pour gérer les organisations.
-          Edipro, Liège.</para>
+          <para>NDT : On peut mentionner un autre livre écrit en français :
+          DELSTANCHE, Philippe. <citetitle>Vers un leadership solidaire : la
+          sociocratie, une nouvelle dynamique pour gérer les
+          organisations</citetitle>. Edipro, Liège. 2014</para>
         </footnote></title>
 
-      <itemizedlist>
-        <listitem>
-          <para>Buck, John and Sharon Villines (2017). <emphasis>We the
-          People: Consenting to a Deeper Democracy</emphasis>. Seconde
-          édition. Sociocracy.info.</para>
-        </listitem>
+      <para><?latex {\raggedright
+\noindent{}?>BUCK, John et Sharon VILLINES. <citetitle><?latex {\NoAutoSpacing ?>We
+      the People: Consenting to a Deeper Democracy<?latex }?></citetitle>.
+      2<superscript>e</superscript> éd. 2017 <?latex \\ ?><?dbhtml-include href="../br.html"?>Voir <uri
+      xlink:href="https://www.sociocracy.info/we-the-people-2/">https://www.sociocracy.info/we-the-people-2/</uri><?latex }?></para>
 
-        <listitem>
-          <para>Eckstein, Jutta and John Buck (2018). <emphasis>Company-wide
-          Agility with Beyond Budgeting, Open Space &amp; Sociocracy: Survive
-          and Thrive on Disruption</emphasis>. Voir <link
-          xlink:href="https://leanpub.com/bossanova"><emphasis>https://leanpub.com/bossanova</emphasis></link></para>
-        </listitem>
+      <para><?latex \vspace{0.5em}\noindent{}?>ECKSTEIN, Jutta et John BUCK.
+      <citetitle><?latex {\NoAutoSpacing ?>Company-wide Agility with Beyond
+      Budgeting, Open Space &amp; Sociocracy: Survive and Thrive on
+      Disruption<?latex }?></citetitle>. 2018 <?dbhtml-include href="../br.html"?>Voir <uri
+      xlink:href="https://leanpub.com/bossanova">https://leanpub.com/bossanova</uri></para>
 
-        <listitem>
-          <para>Charest, Gilles (2007). <emphasis>La démocratie se meurt, vive
-          la sociocratie !</emphasis> Edizioni esserci.</para>
-        </listitem>
+      <para><?latex \vspace{0.5em}\noindent{}?>CHAREST, Gilles. <citetitle>La
+      démocratie se meurt, vive la sociocratie !</citetitle> Edizioni Esserci.
+      2007</para>
 
-        <listitem>
-          <para>Endenburg, Gerard<indexterm>
-              <primary>Endenburg, Gerard</primary>
-            </indexterm> (1998). <emphasis>Sociocracy as Social Design: Its
-          Characteristics and Course of Development, as Theoretical Design and
-          Practical Project</emphasis>. Eburon, Rotterdam.</para>
-        </listitem>
+      <para><?latex \vspace{0.5em}\noindent{}?>ENDENBURG, Gerard.
+      <citetitle><?latex {\NoAutoSpacing ?>Sociocracy as Social Design: Its
+      Characteristics and Course of Development, as Theoretical Design and
+      Practical Project<?latex }?></citetitle>. Eburon, Rotterdam. 1998</para>
 
-        <listitem>
-          <para>Endenburg, Gerard (1998). <emphasis>Sociocracy: The
-          Organization of Decision Making. “No objection” as the Principle of
-          Sociocracy</emphasis>. Eburon, Rotterdam.</para>
-        </listitem>
+      <para><?latex \vspace{0.5em}\noindent{}?>ENDENBURG, Gerard.
+      <citetitle><?latex {\NoAutoSpacing ?>Sociocracy: The Organization of
+      Decision Making, « No Objection » as the Principle of Sociocracy<?latex }?></citetitle>.
+      Eburon, Rotterdam. 1998</para>
 
-        <listitem>
-          <para>Romme, Georges (2016). <emphasis>The Quest for
-          Professionalism: The Case of Management and
-          Entrepreneurship</emphasis>. Oxford: Oxford University Press.</para>
-        </listitem>
+      <para><?latex \vspace{0.5em}\noindent{}?>ROMME, Georges.
+      <citetitle><?latex {\NoAutoSpacing ?>The Quest for Professionalism: The
+      Case of Management and Entrepreneurship<?latex }?></citetitle>. Oxford
+      University Press. 2020</para>
 
-        <listitem>
-          <para>Romme, A. Georges L. and Gerard Endenburg (2006). Construction
-          principles and design rules in the case of circular design.
-          <emphasis>Organization Science</emphasis>, 17: 287-297.</para>
-        </listitem>
+      <para><?latex \vspace{0.5em}\noindent{}?>ROMME, A. Georges et Gerard
+      ENDENBURG. <citetitle>Construction principles and design rules in the
+      case of circular design</citetitle>. Organization Science, 17 vol., p.
+      287–297. 2006</para>
 
-        <listitem>
-          <para>Romme, A. Georges L. (1999). Domination, self-determination
-          and circular organizing. <emphasis>Organization Studies</emphasis>,
-          20: 801-832.</para>
-        </listitem>
+      <para><?latex \vspace{0.5em}\noindent{}?>ROMME, A. Georges.
+      <citetitle>Domination, self-determination and circular
+      organizing</citetitle>. Organization Studies, 20 vol., p. 801–832.
+      1999</para>
 
-        <listitem>
-          <para>Romme, Georges L, Jan Broekgaarden, Carien Huijzer, Annewiek
-          Reijmer and Rob van der Eyden (2018). From competition and collusion
-          to consent-based collaboration: A case study of local democracy.
-          <emphasis>International Journal of Public Administration</emphasis>,
-          41: 246-255.</para>
-        </listitem>
+      <para><?latex \vspace{0.5em}\noindent{}?>ROMME, A. Georges, Jan
+      BROEKGAARDEN, Carien HUIJZER, Annewiek REIJMER et Rob VAN DER EYDEN.
+      <citetitle><?latex {\NoAutoSpacing ?>From competition and collusion to
+      consent-based collaboration: A case study of local democracy<?latex }?></citetitle>.
+      International Journal of Public Administration, 41 vol., p. 246–255.
+      2018</para>
 
-        <listitem>
-          <para>Rosenberg, Marshall (2016). <emphasis>Les mots sont des
-          fenêtres (ou bien ce sont des murs) - Initiation à la Communication
-          NonViolente</emphasis>. 3ème édition. La Découverte.</para>
-        </listitem>
+      <para><?latex \vspace{0.5em}\noindent{}?>ROSENBERG, Marshall.
+      <citetitle>Les mots sont des fenêtres (ou bien ce sont des murs) :
+      Initiation à la Communication NonViolente</citetitle>. 3e éd. La
+      Découverte. 2016</para>
 
-        <listitem>
-          <para><?latex \raggedright{}?>Wineman, Steven (2003).
-          <emphasis>Power Under. Trauma and nonviolent social
-          change</emphasis>. (Voir http://www.traumaandnonviolence.com)</para>
-        </listitem>
-      </itemizedlist>
+      <para><?latex \vspace{0.5em}{\raggedright
+\noindent{}?>WINEMAN, Steven. <citetitle><?latex {\NoAutoSpacing ?>Power
+      Under: Trauma and nonviolent social change<?latex }?></citetitle>. 2003
+      <?latex \\ ?><?dbhtml-include href="../br.html"?>Voir <uri
+      xlink:href="http://www.traumaandnonviolence.com">http://www.traumaandnonviolence.com</uri><?latex }?></para>
     </section>
 
     <section>
@@ -398,34 +385,36 @@
         <listitem>
           <para><foreignphrase>Sociocracy For All</foreignphrase><indexterm>
               <primary>Sociocracy For All (SoFA)</primary>
-            </indexterm>. <uri>http://www.sociocracyforall.org</uri>. Un
-          organisme à but non lucratif qui s'engage à diffuser la sociocratie
-          et à la rendre accessible à tous. Ressources, réseau, formation,
-          conseil.</para>
+            </indexterm>. Un organisme à but non lucratif qui s'engage à
+          diffuser la sociocratie et à la rendre accessible à tous.
+          Ressources, réseau, formation, conseil.<?dbhtml-include href="../br.html"?>Voir
+          <uri
+          xlink:href="http://www.sociocracyforall.org">http://www.sociocracyforall.org</uri>.</para>
         </listitem>
 
         <listitem>
-          <para><foreignphrase>The Sociocracy Group</foreignphrase>.
-          <uri>http://www.thesociocracygroup.com/</uri>. Un groupe de conseil
-          axé sur la sociocratie, principalement en Europe.</para>
+          <para><foreignphrase>The Sociocracy Group</foreignphrase>. Un groupe
+          de conseil axé sur la sociocratie, principalement en
+          Europe.<?dbhtml-include href="../br.html"?>Voir <uri
+          xlink:href="http://www.thesociocracygroup.com/">http://www.thesociocracygroup.com/</uri>.</para>
         </listitem>
 
         <listitem>
           <para><foreignphrase>The Sociocracy Consulting
-          Group</foreignphrase>.
-          <uri>http://www.sociocracyconsulting.com/</uri>. Un groupe de
-          conseil axé sur la sociocratie, basé aux États-Unis, en Australie et
-          au Canada.</para>
+          Group</foreignphrase>. Un groupe de conseil axé sur la sociocratie,
+          basé aux États-Unis, en Australie et au Canada.<?dbhtml-include href="../br.html"?>Voir
+          <uri
+          xlink:href="http://www.sociocracyconsulting.com/">http://www.sociocracyconsulting.com/</uri>.</para>
         </listitem>
 
         <listitem>
-          <para><foreignphrase>Governance Alive</foreignphrase>.
-          <uri>http://www.governancealive.com/</uri></para>
+          <para><foreignphrase>Governance Alive</foreignphrase>. Voir <uri
+          xlink:href="http://www.governancealive.com/">http://www.governancealive.com/</uri>.</para>
         </listitem>
 
         <listitem>
-          <para><foreignphrase>Sociocracy 3.0</foreignphrase>.
-          <uri>http://www.sociocracy30.org/</uri></para>
+          <para><foreignphrase>Sociocracy 3.0</foreignphrase>. Voir <uri
+          xlink:href="http://www.sociocracy30.org/">http://www.sociocracy30.org/</uri>.</para>
         </listitem>
       </itemizedlist>
 
@@ -442,21 +431,26 @@
 
       <para>Rejoignez une communauté de pratique, au sein de SoFA ou en dehors
       de SoFA. La liste de diffusion (en anglais) de sociocracy.groups.io est
-      un lieu populaire pour des discussions suivies sur la sociocratie ; elle
-      est ouverte aux nouveaux membres. Le groupe Facebook de SoFA
-      (<uri>http://www.facebook.com/groups/ SociocracyForAll/</uri>) est un
-      autre endroit où vous pouvez poser des questions et rencontrer des
-      personnes. Inscrivez-vous à la liste de diffusion de SoFA et vous
+      un lieu populaire pour des discussions en cours sur la sociocratie ;
+      elle est ouverte aux nouveaux membres.</para>
+
+      <para>Le groupe Facebook de SoFA (<uri
+      xlink:href="http://www.facebook.com/groups/SociocracyForAll/">http://www.facebook.com/groups/SociocracyForAll/</uri>)
+      est un autre endroit où vous pouvez poser des questions et rencontrer
+      des personnes. Inscrivez-vous à la liste de diffusion de SoFA et vous
       recevrez plusieurs courriels par mois contenant des références à de
       nouveaux articles et vidéos, ainsi que les prochains webinaires et
-      formations. Consultez la chaîne You Tube de SoFA
-      (<uri>http://www.youtube.com/c/sociocracyforall</uri>) et le site web
-      SoFA <code>sociocracyforall.org</code> pour une bibliothèque virtuelle
-      de vidéos, d'articles, de visuels et de documents types — la plupart
-      pouvant être téléchargés gratuitement sous licence <emphasis>Creative
-      Commons</emphasis>. Nous avons un programme de groupes d'apprentissage
-      que vous pouvez utiliser pour tester les formats de la
-      sociocratie.</para>
+      formations.</para>
+
+      <para>Consultez la chaîne YouTube de SoFA (<uri
+      xlink:href="http://www.youtube.com/c/sociocracyforall">http://www.youtube.com/c/sociocracyforall</uri>)
+      et le site web SoFA <code
+      xlink:href="https://www.sociocracyforall.org">sociocracyforall.org</code>
+      pour une bibliothèque virtuelle de vidéos, d'articles, de visuels et de
+      documents types — la plupart pouvant être téléchargés gratuitement sous
+      licence <emphasis>Creative Commons</emphasis>. Nous avons un programme
+      de groupes d'apprentissage que vous pouvez utiliser pour tester les
+      formats de la sociocratie.</para>
     </section>
 
     <section>
@@ -466,10 +460,8 @@
       que nous voulions réunir toutes les informations en contexte et en un
       seul endroit. Nous essayons de mettre à jour notre matériel tout en
       restant alignés sur la terminologie et les schémas de base afin que
-      notre contenu reste cohérent et accessible.</para>
-
-      <para>Les matériaux qui sont ou seront disponibles avec ce livre sont
-      :</para>
+      notre contenu reste cohérent et accessible. Les matériaux qui sont ou
+      seront disponibles avec ce livre sont :</para>
 
       <itemizedlist>
         <listitem>
@@ -493,15 +485,15 @@
         </listitem>
 
         <listitem>
-          <para>En phase de planification, à partir de juin 2018 : un dépôt
+          <para>En phase de planification, à partir de juin 2018 : un dépôt
           d’accords de gouvernance (une collection d'accords de gouvernance,
           de statuts, etc.), les vidéos de scénarios présentés dans ce livre,
           etc.</para>
         </listitem>
       </itemizedlist>
 
-      <para>Veuillez consulter www.manyvoicesonesong.com pour accéder à ces
-      ressources.</para>
+      <para><?latex \noindent{}?>Veuillez consulter www.manyvoicesonesong.com
+      pour accéder à ces ressources.</para>
 
       <?latex \clearpage 
 ?>
@@ -509,42 +501,46 @@
       <figure xml:id="feelingsneedslist">
         <title>Liste des sentiments et des besoins</title>
 
-        <para>Obtenez une image en haute résolution sur notre site web <link
-        xlink:href="http://www.manyvoicesonesong.com"><emphasis>www.manyvoicesonesong.com</emphasis></link><emphasis>.<remark>Ask
-        if the editors want these notes to be returned to the captions of
-        these figures.</remark></emphasis></para>
-
         <mediaobject>
           <imageobject>
             <imagedata fileref="../illustrations/feelingsneedslist.jpg"/>
           </imageobject>
         </mediaobject>
+
+        <caption>
+          <para>Obtenez une image en haute résolution sur notre site web <link
+          xlink:href="http://www.manyvoicesonesong.com"><uri>www.manyvoicesonesong.com</uri></link><emphasis>.</emphasis></para>
+        </caption>
       </figure>
 
       <figure xml:id="feedbackformsheet">
         <title>Un exemple de formulaire de rétroaction</title>
-
-        <para>Obtenez une image en haute résolution sur notre site web
-        <code>www.manyvoicesonesong.com</code>.</para>
 
         <mediaobject>
           <imageobject>
             <imagedata fileref="../illustrations/feedbackformsheet.jpg"/>
           </imageobject>
         </mediaobject>
+
+        <caption>
+          <para>Obtenez une image en haute résolution sur notre site web <uri
+          xlink:href="https://www.manyvoicesonesong.com">www.manyvoicesonesong.com</uri>.</para>
+        </caption>
       </figure>
 
       <figure xml:id="meetingsheet">
         <title>Feuille de réunion pour les animateurs</title>
-
-        <para>Obtenez une image en haute résolution sur notre site web <link
-        xlink:href="http://www.manyvoicesonesong.com">www.manyvoicesonesong.com</link><emphasis>.</emphasis></para>
 
         <mediaobject>
           <imageobject>
             <imagedata fileref="../illustrations/meetingsheet.jpg"/>
           </imageobject>
         </mediaobject>
+
+        <caption>
+          <para>Obtenez une image en haute résolution sur notre site web <link
+          xlink:href="http://www.manyvoicesonesong.com"><uri>www.manyvoicesonesong.com</uri></link><emphasis>.</emphasis></para>
+        </caption>
       </figure>
 
       <figure xml:id="selectionprocess3x3">
@@ -554,17 +550,18 @@
             <secondary>matrice 3x3 pour le processus de sélection</secondary>
           </indexterm></title>
 
-        <para>Dans cette matrice, vous pouvez voir chaque étape utilisée dans
-        le processus de sélection dans le contexte de l'entrée –
-        transformation – sortie et comprendre – explorer – décider. Chaque
-        étape est accompagnée d'une citation afin de rendre plus tangible ce
-        qu'elle implique.</para>
-
         <mediaobject>
           <imageobject>
             <imagedata fileref="../illustrations/7-selectionprocess3x3.jpg"/>
           </imageobject>
         </mediaobject>
+
+        <caption>
+          <para>Vous pouvez voir chaque étape utilisée dans le processus de
+          sélection dans le contexte de l'entrée – transformation – sortie et
+          comprendre – explorer – décider. Chaque étape est accompagnée d'une
+          citation afin de rendre plus tangible ce qu'elle implique.</para>
+        </caption>
       </figure>
 
       <figure xml:id="selectionprocess3x3withskit">
@@ -574,6 +571,15 @@
 
             <secondary>exemple d'une sélection</secondary>
           </indexterm></title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="../illustrations/selectionskit3x3.jpg"/>
+          </imageobject>
+        </mediaobject>
+
+        <?latex \end{center}
+?>
 
         <para>Il s'agit d'une version plus détaillée de <xref
         linkend="selectionprocess3x3" xrefstyle="select: labelnumber"/> — le
@@ -587,11 +593,8 @@
         pour chaque partie, telles qu'elles se présenteraient en langage
         naturel.</para>
 
-        <mediaobject>
-          <imageobject>
-            <imagedata fileref="../illustrations/selectionskit3x3.jpg"/>
-          </imageobject>
-        </mediaobject>
+        <?latex \begin{center}
+?>
       </figure>
 
       <figure floatstyle="[htb]" xml:id="policyprocess3x3">
@@ -603,16 +606,19 @@
             politiques</secondary>
           </indexterm></title>
 
-        <para>Dans cette matrice, vous pouvez voir chaque étape utilisée dans
-        le processus d’élaboration et de décision des politiques. Figure <xref
-        linkend="consentprocess3x3" xrefstyle="select: labelnumber"/> est le
-        tableau plus détaillé du dernier tiers de ce tableau.</para>
-
         <mediaobject>
           <imageobject>
-            <imagedata fileref="../illustrations/7-policyprocess3x3.jpg"/>
+            <imagedata fileref="../illustrations/7-policyprocess3x3.jpg"
+                       width="95%"/>
           </imageobject>
         </mediaobject>
+
+        <caption>
+          <para>Vous pouvez voir chaque étape utilisée dans le processus
+          d’élaboration et de décision des politiques. Figure <xref
+          linkend="consentprocess3x3" xrefstyle="select: labelnumber"/> est le
+          tableau plus détaillé du dernier tiers de ce tableau.</para>
+        </caption>
       </figure>
 
       <figure floatstyle="[htb]" xml:id="consentprocess3x3">
@@ -623,21 +629,34 @@
             consentement</secondary>
           </indexterm></title>
 
-        <para>Dans cette matrice, vous pouvez voir chaque étape utilisée dans
-        le processus d’élaboration et de décision des politiques. Il s'agit de
-        la version plus détaillée du dernier tiers de <xref
-        linkend="policyprocess3x3" xrefstyle="select: labelnumber"/>.</para>
-
         <mediaobject>
           <imageobject>
-            <imagedata fileref="../illustrations/7-consentprocess3x3.jpg"/>
+            <imagedata fileref="../illustrations/7-consentprocess3x3.jpg"
+                       width="95%"/>
           </imageobject>
         </mediaobject>
+
+        <caption>
+          <para>Vous pouvez voir chaque étape utilisée dans le processus
+          d’élaboration et de décision des politiques. Il s'agit de la version
+          plus détaillée du dernier tiers de <xref linkend="policyprocess3x3"
+          xrefstyle="select: labelnumber"/>.</para>
+        </caption>
       </figure>
 
       <figure xml:id="policyprocess3x3withskit">
         <title>Matrice 3x9 pour le processus de politique avec
         scénario</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="../illustrations/generatingproposalskit3x3.jpg"
+                       width="100%"/>
+          </imageobject>
+        </mediaobject>
+
+        <?latex \end{center}
+?>
 
         <para>Il s'agit du processus de la compréhension du besoin, de
         l’élaboration de la politique et de décision sur la politique. Le
@@ -645,16 +664,23 @@
         détaillée dans le tableau <xref linkend="consentprocess3x3withskit"
         xrefstyle="select: labelnumber page"/>.</para>
 
-        <mediaobject>
-          <imageobject>
-            <imagedata fileref="../illustrations/generatingproposalskit3x3.jpg"/>
-          </imageobject>
-        </mediaobject>
+        <?latex \begin{center}
+?>
       </figure>
 
       <figure xml:id="consentprocess3x3withskit">
         <title>Matrice 3x9 pour le processus d'élaboration des politiques avec
         scénario</title>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="../illustrations/consentskit3x3.jpg"
+                       width="100%"/>
+          </imageobject>
+        </mediaobject>
+
+        <?latex \end{center}
+?>
 
         <para>Il s'agit d'une version plus détaillée du dernier tiers du
         document <xref linkend="policyprocess3x3withskit"
@@ -663,11 +689,8 @@
         production peut être beaucoup plus simple dans une petite
         organisation.</para>
 
-        <mediaobject>
-          <imageobject>
-            <imagedata fileref="../illustrations/consentskit3x3.jpg"/>
-          </imageobject>
-        </mediaobject>
+        <?latex \begin{center}
+?>
       </figure>
 
       <figure xml:id="objectionsprocess3x3">

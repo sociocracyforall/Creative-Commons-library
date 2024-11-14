@@ -10,6 +10,8 @@
     <title>Préface des auteurs</title>
   </info>
 
+  <?latex \enlargethispage*{-2\baselineskip}?>
+
   <para>Nous savons toutes et tous comment c'est de ressentir une
   connexion<indexterm>
       <primary>connexion (besoin)</primary>
@@ -22,21 +24,19 @@
   d'être connu<indexterm>
       <primary>d'être connu (besoin)</primary>
     </indexterm> et reconnu, d'être important pour les gens qui nous
-  entourent, et de goûter<indexterm condition="untranslated">
-      <primary>to matter (need)</primary>
-    </indexterm> que ces gens sont importants pour nous.</para>
+  entourent, et de goûter que ces gens sont importants pour nous.</para>
 
   <para>Dans toute communauté, que ce soit au travail, avec des amis, des
   voisins ou une famille, c'est la connexion qui nourrit les gens. Lorsque
   nous travaillons les uns à côté des autres, que nous prenons soin les uns
   des autres et que nous prenons des décisions ensemble.</para>
 
-  <para>Comment pouvons-nous en profiter davantage ? Comment pouvons-nous
+  <para>Comment pouvons-nous en profiter davantage ? Comment pouvons-nous
   répondre à notre besoin de connexion<indexterm>
       <primary>connexion (besoin)</primary>
     </indexterm> partout où nous allons, sur nos lieux de travail, dans nos
   quartiers, nos villes, nos clubs, nos groupes religieux, nos associations et
-  nos familles ? Nous pensons que la sociocratie peut contribuer à une vie
+  nos familles ? Nous pensons que la sociocratie peut contribuer à une vie
   plus connectée et mieux intégrée. Les principes qui sous-tendent la
   sociocratie ne sont pas nouveaux. Ils relèvent du bon sens. Les gens
   coopèrent depuis que l'humanité existe. Et pourtant, nous constatons qu'il
@@ -46,9 +46,9 @@
 
   <para>Les interactions humaines sont complexes et comportent des niveaux
   multiples dont nous devons tenir compte lorsque nous coopérons. Que
-  faisons-nous et comment le faisons-nous ? De qui et de quoi dépendons-nous ?
-  Comment répartir au mieux notre travail ? Qui décide, comment décidons-nous,
-  et comment parlons-nous de ces décisions ? Tout dépend de comment nous nous
+  faisons-nous et comment le faisons-nous ? De qui et de quoi dépendons-nous ?
+  Comment répartir au mieux notre travail ? Qui décide, comment décidons-nous,
+  et comment parlons-nous de ces décisions ? Tout dépend de comment nous nous
   relions chacun à notre travail et comment nous nous relions les uns aux
   autres.</para>
 
@@ -75,14 +75,14 @@
       <primary>besoins; exemples</primary>
 
       <secondary>appartenance</secondary>
-    </indexterm> et d'harmonie ? Nous pensons qu'il y a trois ingrédients
-  :</para>
+    </indexterm> et d'harmonie ? Nous pensons qu'il y a trois
+  ingrédients :</para>
 
   <itemizedlist>
     <listitem>
       <para>nous avons besoin d'outils et de systèmes qui soutiennent
       l'écoute, la participation, le pouvoir d’agir, et la capacité de relier
-      nos esprits et nos cœurs pour travailler à un objectif commun ;</para>
+      nos esprits et nos cœurs pour travailler à un objectif commun ;</para>
     </listitem>
 
     <listitem>
@@ -90,11 +90,11 @@
       messages qui nous ont fait du mal et nous raconter à nouveau les
       histoires qui nous réunissent. La pratique régulière modifie le tissu
       qui nous unit. Elle renforce nos compétences et apporte un réel
-      changement dans le monde ;</para>
+      changement dans le monde ;</para>
     </listitem>
 
     <listitem>
-      <para>nous avons besoin d'espoir. L'espoir vient de la confiance : nous
+      <para>nous avons besoin d'espoir. L'espoir vient de la confiance : nous
       sommes des agents qui peuvent changer le monde. Ensemble, nous pouvons
       créer des systèmes qui servent les gens près de nous et dans la
       communauté au sens large, sans faire de mal par ailleurs.</para>
@@ -105,8 +105,8 @@
   commun. En chantant ensemble, chaque voix contribue, apportant l’harmonie
   avec sa tonalité et son timbre propres. Nous chantons chacun notre partition
   et l’ensemble est plus riche que la voix d'un individu seul. D'où le titre
-  du livre : <citetitle>Many Voices One Song</citetitle>, traduit en français
-  par <citetitle>Chaque voix compte.</citetitle></para>
+  du livre : <citetitle>Many Voices One Song</citetitle>, traduit en français
+  par « Chaque voix compte ».</para>
 
   <para>Ted et Jerry</para>
 </preface>

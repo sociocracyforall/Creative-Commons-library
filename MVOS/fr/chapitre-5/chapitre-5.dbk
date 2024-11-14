@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xml:id="meetings" xml:lang="fr"
+<chapter version="5.2" xml:id="meetings" xml:lang="fr"
          xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:ns6="http://docbook.org/ns/transclusion"
@@ -39,14 +39,12 @@
   durant une réunion : coordination opérationnelle et définition de
   politique.</para>
 
-  <para>Chaque réunion de cercle sociocratique<indexterm>
-      <primary>réunion (réunion de politiques)</primary>
-    </indexterm> se déroule selon le même schéma qui permet d’aller de l’avant
-  tout en assurant l’équivalence pour la prise de parole dans toutes les
-  décisions du cercle. Toutes les réunions se composent de trois parties :
-  ouverture, contenu et clôture. De même que les étapes de génération d’une
-  proposition, chaque phase de la réunion suit une boucle « orientation –
-  exécution – mesure »<indexterm>
+  <para>Chaque réunion de cercle sociocratique se déroule selon le même schéma
+  qui permet d’aller de l’avant tout en assurant l’équivalence pour la prise
+  de parole dans toutes les décisions du cercle. Toutes les réunions se
+  composent de trois parties : ouverture, contenu et clôture. De même que les
+  étapes de génération d’une proposition, chaque phase de la réunion suit une
+  boucle « orientation – exécution – mesure »<indexterm>
       <primary>orientation – exécution – mesure</primary>
     </indexterm>. Il est utile de connaître quelle est l’intention de chaque
   phase, quels sont les outils appropriés et comment identifier son
@@ -114,10 +112,10 @@
       </itemizedlist>
 
       <informalfigure role="guide">
-        <para><emphasis role="strong">Intention :</emphasis> Transition vers
+        <para><emphasis role="strong">Intention :</emphasis> Transition vers
         la réunion et se préparer à la réunion</para>
 
-        <para><emphasis role="strong">Outil :</emphasis> Un tour
+        <para><emphasis role="strong">Outil :</emphasis> Un tour
         d’ouverture</para>
 
         <itemizedlist>
@@ -146,8 +144,8 @@
           </listitem>
 
           <listitem>
-            <para>Une alternative est un tour en mode style pop-corn<indexterm>
-                <primary>style pop-corn</primary>
+            <para>Une alternative est un tour en mode popcorn<indexterm>
+                <primary>mode popcorn</primary>
               </indexterm> ; assurons-nous alors que tout le monde ait pris la
             parole avant de passer à la partie administration.</para>
           </listitem>
@@ -166,7 +164,7 @@
             chaque personne qui y prend la parole réaffirme
             l’équivalence<indexterm>
                 <primary>équivalence</primary>
-              </indexterm> — tout le monde compte.</para>
+              </indexterm> — tout le monde compte.</para>
           </listitem>
 
           <listitem>
@@ -183,7 +181,7 @@
           </listitem>
         </itemizedlist>
 
-        <para><emphasis role="strong">Terminé quand :</emphasis> Chaque membre
+        <para><emphasis role="strong">Terminé quand :</emphasis> Chaque membre
         s’est exprimé et plus rien n’empêche de débuter la réunion.</para>
       </informalfigure>
 
@@ -199,7 +197,7 @@
       être utilisés, mais laissons <emphasis>toujours</emphasis> de l’espace
       pour que les personnes puissent partager leur réalité. Par exemple,
       quelqu’un dans le groupe peut s’occuper d’une mère âgée et pourrait être
-      inquiet de son état de santé – restreindre cette personne par une
+      inquiet de son état de santé — restreindre cette personne par une
       question précise, pourtant bien intentionnée, pourrait l’empêcher d’être
       incluse telle qu’elle se sent à ce moment-là. Il pourrait y avoir une
       tension entre des membres du cercle. Quelqu’un pourrait être dans une
@@ -224,7 +222,7 @@
     </section>
 
     <section>
-      <title>Administratif : <foreignphrase>“ADMIN”</foreignphrase></title>
+      <title>Administratif : « ADMIN »</title>
 
       <indexterm significance="preferred">
         <primary>ADMIN</primary>
@@ -235,7 +233,7 @@
       <emphasis>personnes</emphasis> mais aussi <emphasis>le cercle</emphasis>
       en tant que tel doivent être prêts à entrer dans la réunion. Tous les
       petits pas qui doivent être faits et qui sont faciles à oublier forment
-      l’acronyme <foreignphrase>ADMIN</foreignphrase><indexterm>
+      l’acronyme « ADMIN »<indexterm>
           <primary>ADMIN</primary>
         </indexterm> <emphasis role="strong">en anglais</emphasis>
       (<foreignphrase><emphasis
@@ -257,7 +255,7 @@
         ne nous distrait.</para>
 
         <para><emphasis role="strong">Outils : </emphasis>Passer par tous les
-        éléments “ADMIN” (voir ci-dessous).</para>
+        éléments ADMIN (voir ci-dessous).</para>
 
         <para><emphasis role="strong">Terminé quand : </emphasis>Rien ne nous
         empêche d’entrer dans la réunion.</para>
@@ -268,7 +266,7 @@
             <primary>ADMIN</primary>
 
             <secondary>présence</secondary>
-          </indexterm> (A pour <foreignphrase>“Attendance”</foreignphrase> en
+          </indexterm> (A pour <foreignphrase>Attendance</foreignphrase> en
         anglais)</title>
 
         <para>Vérifions la présence de tous les membres du cercle. Accueillons
@@ -324,7 +322,7 @@
             <primary>ADMIN</primary>
 
             <secondary>durée de la réunion</secondary>
-          </indexterm> (D pour <foreignphrase>“Duration”</foreignphrase> en
+          </indexterm> (D pour <foreignphrase>Duration</foreignphrase> en
         anglais)</title>
 
         <para>Avez-vous jamais été à une réunion où certaines personnes
@@ -354,7 +352,7 @@
             <primary>ADMIN</primary>
 
             <secondary>compte-rendu de la réunion précédente</secondary>
-          </indexterm> (M pour <foreignphrase>“Minutes”</foreignphrase> en
+          </indexterm> (M pour <foreignphrase>Minutes</foreignphrase> en
         anglais)</title>
 
         <para>Assurons-nous que le compte-rendu de la réunion précédente du
@@ -390,7 +388,7 @@
             <primary>ADMIN</primary>
 
             <secondary>information</secondary>
-          </indexterm> (I pour <foreignphrase>“Information”</foreignphrase> en
+          </indexterm> (I pour <foreignphrase>Information</foreignphrase> en
         anglais)</title>
 
         <?latex \enlargethispage*{\baselineskip}
@@ -437,8 +435,8 @@
             <primary>ADMIN</primary>
 
             <secondary>prochaine réunion</secondary>
-          </indexterm> (N pour <foreignphrase>“Next meeting”</foreignphrase>
-        en anglais)</title>
+          </indexterm> (N pour <foreignphrase>Next meeting</foreignphrase> en
+        anglais)</title>
 
         <para>Quand est la prochaine réunion du cercle ? Beaucoup de cercles
         et même des organisations entières disparaissent pour avoir raté cette
@@ -497,9 +495,8 @@
         ces étapes simples nous coûtera beaucoup plus de temps à long terme.
         Cela dit, cette phase ne doit pas prendre longtemps. Cela pourrait
         ressembler à l’exemple <xref linkend="exampleALERT"
-        xrefstyle="select: labelnumber"/>. L’acronyme
-        <foreignphrase>ADMIN</foreignphrase> nous aide à être cohérents, même
-        sans fiche de réunion.</para>
+        xrefstyle="select: labelnumber"/>. L’acronyme ADMIN nous aide à être
+        cohérents, même sans fiche de réunion.</para>
 
         <figure xml:id="exampleALERT">
           <title><indexterm>
@@ -507,7 +504,7 @@
 
               <secondary>exemple: phase ADMIN</secondary>
             </indexterm>Parcourir brièvement toutes les étapes de la phase
-          ADMIN.</title>
+          ADMIN</title>
 
           <mediaobject>
             <imageobject>
@@ -738,10 +735,8 @@
       feedback, la phase de <emphasis>compréhension</emphasis> est suivie par
       une phase d’exploration. Si nous voulons prendre une décision, nous
       passons par <emphasis>comprendre</emphasis> et
-      <emphasis>explorer</emphasis> et ensuite nous allons vers une
-      décision.</para>
-
-      <para>Voici des exemples montrant en quoi il est utile de connaître le
+      <emphasis>explorer</emphasis> et ensuite nous allons vers une décision.
+      Voici des exemples montrant en quoi il est utile de connaître le
       résultat souhaité :</para>
 
       <itemizedlist>
@@ -905,7 +900,7 @@
             Parent<indexterm>
                 <primary>cercle</primary>
 
-                <secondary>cercle Parent</secondary>
+                <secondary>cercle parent</secondary>
               </indexterm>. Le cercle Parent est sur le point de prendre une
             décision. Après que la présentation sur le sujet est comprise, le
             cercle fait un tour de réaction<indexterm>
@@ -1208,7 +1203,7 @@
       linkend="sectionbacklog" xrefstyle="select: labelnumber"/>.)</para>
 
       <figure xml:id="examplemeasurecontent">
-        <title>Mesurer la phase de contenu de la réunion</title>
+        <title>Mesurer la phase « contenu » de la réunion</title>
 
         <mediaobject>
           <imageobject>
@@ -1409,7 +1404,7 @@
             <primary>panier</primary>
 
             <secondary>exemple d'un panier</secondary>
-          </indexterm></title>
+          </indexterm>.</title>
 
         <mediaobject>
           <imageobject>
@@ -1475,16 +1470,14 @@
           <secondary>préparer l'ordre du jour</secondary>
         </indexterm> prête à la réunion, donc les facilitateurs comptent sur
       l'existence d'un ordre du jour plus que tous les autres. Dans l'idéal,
-      l'ordre du jour<indexterm>
-          <primary>ordre du jour</primary>
-        </indexterm> est établi par le secrétaire, le facilitateur et le
+      l'ordre du jour est établi par le secrétaire, le facilitateur et le
       leader, en réunissant le passé, le présent et le futur, comme le montre
       la figure <xref linkend="whomakesagendaldf"
       xrefstyle="select: labelnumber"/>.</para>
 
       <figure floatstyle="[htb]" xml:id="whomakesagendaldf">
         <title>L'ordre du jour réunit les besoins passés, futurs et
-        présents</title>
+        présents.</title>
 
         <mediaobject>
           <imageobject>
@@ -1495,21 +1488,19 @@
 
       <itemizedlist>
         <listitem>
-          <para>Le<emphasis role="strong"> / </emphasis>la leader donnera son
-          avis sur ce qui doit être fait à partir de sa vision globale. Les
-          membres du cercle ont-ils identifié de nouveaux sujets ? Y a-t-il
-          des sujets du cercle parent ou d’un sous-cercle qui devraient être
-          abordés par le cercle ? Du point de vue du leader, certains sujets
-          sont-ils prioritaires ?</para>
+          <para>Le/la leader donnera son avis sur ce qui doit être fait à
+          partir de sa vision globale. Les membres du cercle ont-ils identifié
+          de nouveaux sujets ? Y a-t-il des sujets du cercle parent ou d’un
+          sous-cercle qui devraient être abordés par le cercle ? Du point de
+          vue du leader, certains sujets sont-ils prioritaires ?</para>
         </listitem>
 
         <listitem>
-          <para>Le <emphasis role="strong">/</emphasis> la secrétaire
-          vérifiera si des élections sont à prévoir, ou si une politique doit
-          être révisée. La sociocratie ne prescrit pas l'outil à utiliser pour
-          suivre les dates d'échéance, et il existe de nombreuses options. Un
-          outil de suivi ou simplement votre calendrier aidera le
-          secrétaire<indexterm>
+          <para>Le/la secrétaire vérifiera si des élections sont à prévoir, ou
+          si une politique doit être révisée. La sociocratie ne prescrit pas
+          l'outil à utiliser pour suivre les dates d'échéance, et il existe de
+          nombreuses options. Un outil de suivi ou simplement votre calendrier
+          aidera le secrétaire<indexterm>
               <primary>secrétaire</primary>
             </indexterm> à se rappeler quand ces points doivent être mis à
           l'ordre du jour<indexterm>
@@ -2327,10 +2318,8 @@
         ou si elle a une question à poser. Elles peuvent utiliser l’une des
         deux options : « <emphasis>Je comprends la proposition.</emphasis> »
         ou « <emphasis>Ce dont j’ai besoin pour comprendre la proposition,
-        c’est…</emphasis> »</para>
-
-        <para>Cette étape permet à tout le monde de s’approprier du
-        processus.</para>
+        c’est…</emphasis> » Cette étape permet à tout le monde de s’approprier
+        du processus.</para>
       </section>
 
       <section>
@@ -2348,12 +2337,13 @@
           <primary>tour de réactions</primary>
         </indexterm>
 
+        <?latex \enlargethispage*{\baselineskip}
+?>
+
         <para>Les tours de réactions constituent un bon moyen pour percevoir
         le positionnement du groupe, ainsi que pour recueillir des apports de
-        la part de ses membres.</para>
-
-        <para>Les tour de réactions peuvent être utilisés dans des contextes
-        très divers :</para>
+        la part de ses membres. Les tour de réactions peuvent être utilisés
+        dans des contextes très divers :</para>
 
         <itemizedlist>
           <listitem>
@@ -2468,7 +2458,7 @@
         personne qui facilite peut dire : « <emphasis>Je vous propose de faire
         un tour de réactions rapides. Et par rapides, je veux dire en 5
         phrases ou moins.</emphasis> » Pour certains groupes, il sera plus
-        facile d’utiliser un bâton de parole et / ou un chronomètre pour
+        facile d’utiliser un bâton de parole et/ou un chronomètre pour
         conserver le rythme. Il faut éviter de répéter des informations
         redondantes. Une façon de gagner du temps globalement, c’est de
         prendre un moment permettant à chaque personne d’écrire tranquillement
@@ -2518,8 +2508,11 @@
 
         <para>Notons bien que dans la décision par consentement, il n’y a pas
         de troisième option pour passer son tour ou s’abstenir (davantage à ce
-        sujet dans la section <xref linkend="abstain"
-        xrefstyle="select: labelnumber page"/>).</para>
+        sujet dans la section <phrase outputformat="print"><xref
+        linkend="abstain"
+        xrefstyle="select: labelnumber page"/></phrase><phrase
+        outputformat="html"><xref linkend="abstain"
+        xrefstyle="select: labelnumber"/></phrase>).</para>
 
         <para>Nous pouvons obtenir un consentement de façon non verbale,
         particulièrement pour les décisions qui ne prêtent pas à controverse
@@ -2536,7 +2529,7 @@
         consentement<indexterm>
             <primary>tour de réactions</primary>
 
-            <secondary>tour de réactions en opposé à un tour de
+            <secondary>tour de réactions versus tour de
             consentement</secondary>
           </indexterm>, c’est qu’une décision est prise après chaque tour de
         consentement explicite, dès lors qu’aucune objection n’est déclarée.
@@ -2547,19 +2540,19 @@
 
         <para>Un tour de consentement<indexterm>
             <primary>tour de consentement</primary>
-          </indexterm> constitue un acte de parole particulier ; tout le monde
+          </indexterm> constitue un acte de parole particulier ; tout le monde
         doit être bien conscient qu’il ne s’agit pas seulement de fournir une
         information. Nous déclarons que nous prenons une décision. La personne
         qui facilite<indexterm>
             <primary>facilitateur</primary>
-          </indexterm> doit être explicite à ce sujet - avez-vous participé à
+          </indexterm> doit être explicite à ce sujet — avez-vous participé à
         des réunions après lesquelles il y avait des opinions divergentes sur
-        le fait qu’une décision ait été simplement évoquée ou prise ? C’est de
-        cette différence-là dont nous parlons ici. Soyons explicite ! Disons
-        quelque chose comme : « <emphasis>Donc, la proposition est la
+        le fait qu’une décision ait été simplement évoquée ou prise ? C’est de
+        cette différence-là dont nous parlons ici. Soyons explicite ! Disons
+        quelque chose comme : « <emphasis>Donc, la proposition est la
         suivante…, et je vais à présent vous demander votre consentement.
-        Donnez-vous votre consentement à cette proposition ?</emphasis>
-        »</para>
+        Donnez-vous votre consentement à cette
+        proposition ?</emphasis> »</para>
       </section>
     </section>
 
@@ -2657,7 +2650,8 @@
           </listitem>
         </itemizedlist>
 
-        <para>Nous déconseillons de passer durant :</para>
+        <para><?latex \noindent{}?>Nous déconseillons de passer
+        durant :</para>
 
         <itemizedlist>
           <listitem>
@@ -2671,11 +2665,12 @@
           </listitem>
 
           <listitem>
-            <para>Les tours de nominations (voir la section <xref
-            linkend="selections" xrefstyle="select: labelnumber"/> sur le
-            processus de sélection) : on ne s’abstient pas. Nous avons besoin
-            des informations de tout le monde afin de co-créer une proposition
-            de nomination.</para>
+            <para>Les tours de nominations (<phrase outputformat="html">voir
+            la section <xref linkend="selections"
+            xrefstyle="select: labelnumber"/> sur le processus de
+            sélection</phrase>) : on ne s’abstient pas. Nous avons besoin des
+            informations de tout le monde afin de co-créer une proposition de
+            nomination.</para>
           </listitem>
 
           <listitem>
@@ -2683,8 +2678,11 @@
                 <primary>tour de consentement</primary>
               </indexterm>. Nous avons besoin d’entendre tout le monde afin
             d’être sûrs de recueillir toutes les objections (sur les
-            abstentions, voir la section <xref linkend="abstain"
-            xrefstyle="select: labelnumber page"/>)</para>
+            abstentions, voir la section <phrase outputformat="print"><xref
+            linkend="abstain"
+            xrefstyle="select: labelnumber page"/></phrase><phrase
+            outputformat="html"><xref linkend="abstain"
+            xrefstyle="select: labelnumber"/></phrase>)</para>
           </listitem>
         </itemizedlist>
 
@@ -2706,10 +2704,9 @@
         <para>Une situation typique : le cercle parle et parle et malgré cela
         il est difficile de voir où cela mène. Cela n’est pas toujours
         inefficace : de grandes choses peuvent émerger d’une phase trouble.
-        Cependant, il est facile de rester coincé.</para>
-
-        <para>Lors d’une prise de décision collaborative, nous travaillons sur
-        de multiples niveaux en parallèle.</para>
+        Cependant, il est facile de rester coincé. Lors d’une prise de
+        décision collaborative, nous travaillons sur de multiples niveaux en
+        parallèle.</para>
 
         <itemizedlist>
           <listitem>
@@ -2744,12 +2741,12 @@
         <para>Le moral du groupe peut être affecté lorsqu’aucun progrès n’est
         accompli. Le schéma <xref linkend="strategieswhenstuck"
         xrefstyle="select: labelnumber"/> présente quatre façons de sortir
-        d’un blocage, quel que soit le niveau où il se situe. En détail
-        :</para>
+        d’un blocage, quel que soit le niveau où il se situe. En
+        détail :</para>
 
         <itemizedlist>
           <listitem>
-            <para>Faisons une proposition sur le contenu : n’attendons pas
+            <para>Faisons une proposition sur le contenu : n’attendons pas
             jusqu’à ce qu’une proposition prenne forme magiquement sur le
             sujet abordé, car il y a de bonnes chances que cela n'arrive pas
             (du moins pas dans un temps raisonnable). Au lieu de cela, après
@@ -2763,7 +2760,7 @@
           </listitem>
 
           <listitem>
-            <para>Faisons une proposition sur le processus : si une discussion
+            <para>Faisons une proposition sur le processus : si une discussion
             semble n’aboutir à rien, faisons une proposition sur la façon de
             progresser. Une stratégie habituelle est de former un cercle
             d’aide<indexterm>
@@ -2780,7 +2777,7 @@
           </listitem>
 
           <listitem>
-            <para>Précisons la question : divisons le sujet en points séparés
+            <para>Précisons la question : divisons le sujet en points séparés
             et réalisons des tours dédiés à chacun d’eux. Il est parfois
             difficile de traiter des sujets trop vastes.</para>
           </listitem>
@@ -2804,10 +2801,6 @@
           </listitem>
         </itemizedlist>
 
-        <para>En général : si nous ne savons pas quoi faire, nous faisons un
-        tour ! Des exemples sont donnés dans l'illustration <xref
-        linkend="bubbleprocessround" xrefstyle="select: labelnumber"/>.</para>
-
         <figure xml:id="bubbleprocessround">
           <title>Décider ensemble du processus.</title>
 
@@ -2818,13 +2811,16 @@
           </mediaobject>
         </figure>
 
-        <para>D’autres exemples de moments où demander une contribution sur le
-        processus :</para>
+        <para>En général : si nous ne savons pas quoi faire, nous faisons un
+        tour ! Des exemples sont donnés dans l'illustration <xref
+        linkend="bubbleprocessround" xrefstyle="select: labelnumber"/>.
+        D’autres exemples de moments où demander une contribution sur le
+        processus :</para>
 
         <itemizedlist>
           <listitem>
             <para>La réunion débute et seulement la moitié (ou moins) des
-            membres du cercle sont présents : « <emphasis>Je remarque que
+            membres du cercle sont présents : « <emphasis>Je remarque que
             seulement la moitié des membres de notre cercle est présente.
             Faisons un tour sur comment cela modifie notre ordre du jour et
             comment nous pouvons en tenir compte.</emphasis> »</para>
@@ -2833,11 +2829,11 @@
           <listitem>
             <para>Le groupe part dans une direction qui n’était pas à l’ordre
             du jour mais semble importante (ou se révèle être urgente).
-            <emphasis>« Je remarque que nous ne parlons pas de notre ordre du
+            <emphasis>« Je remarque que nous ne parlons pas de notre ordre du
             jour à présent mais que la direction que nous avons prise semble
             importante pour des personnes et qu’elle a besoin d’être traitée.
             Pouvons-nous faire un tour afin de savoir si le groupe est
-            d’accord pour continuer à parler de ce sujet maintenant ? Je veux
+            d’accord pour continuer à parler de ce sujet maintenant ? Je veux
             simplement m’assurer que nous sommes d’accord avec la façon dont
             nous utilisons notre temps.</emphasis> »</para>
           </listitem>
@@ -2845,7 +2841,7 @@
           <listitem>
             <para>Le cercle n’est pas préparé (n’a pas lu une proposition ou
             un document fourni, pour une raison ou pour une autre).
-            <emphasis>« J’ai le sentiment que tout le monde n’a pas eu
+            <emphasis>« J’ai le sentiment que tout le monde n’a pas eu
             l’occasion de lire le document. Faisons un tour pour savoir où
             chaque personne en est et sur ce que vous pensez que nous pouvons
             faire durant cette réunion.</emphasis> »</para>
@@ -2853,16 +2849,13 @@
 
           <listitem>
             <para>Vous assurez la facilitation et vous ne savez pas quoi
-            faire. <emphasis>« Je me retrouve un peu perdu et je ne suis pas
+            faire. <emphasis>« Je me retrouve un peu perdu et je ne suis pas
             sûr de ce qui est en train de se passer. Pouvons-nous faire un
             tour afin que chaque personne nous dise où elle perçoit que nous
             en sommes du processus et fasse une suggestion sur la
             suite ?</emphasis> »</para>
           </listitem>
         </itemizedlist>
-
-        <?latex \enlargethispage*{-\baselineskip}
-?>
 
         <para>Nous ne sommes jamais victimes des circonstances, mais toujours
         des acteurs avec des choix. L’exemple <xref
@@ -2958,7 +2951,7 @@
         </itemizedlist>
 
         <figure xml:id="exampleSomeoneUpset">
-          <title>Exemple : répondre à une émotion forte</title>
+          <title>Exemple : réagir à une émotion forte</title>
 
           <mediaobject>
             <imageobject>
@@ -3010,7 +3003,7 @@
 
           <listitem>
             <para>Des personnes peuvent devenir trop prudentes dans leur
-            expression, de crainte d’être interrompues ou critiquées - Il est
+            expression, de crainte d’être interrompues ou critiquées — il est
             important de conserver cela à l’esprit car le dégât peut rester
             invisible.</para>
           </listitem>
@@ -3022,7 +3015,7 @@
           </listitem>
         </itemizedlist>
 
-        <para>Cela dépend du groupe – parfois, parler en dehors du tour offre
+        <para>Cela dépend du groupe — parfois, parler en dehors du tour offre
         un éclaircissement ou permet de dépasser une incompréhension. Mais
         cela peut rapidement devenir trop. Les personnes qui ont tendance à
         ouvrir des discussions croisées doivent être informées sur les effets
@@ -3129,7 +3122,7 @@
         groupe consente sous condition.</para>
 
         <informalexample>
-          <para>Proposition : La formation est acceptée par le cercle si et
+          <para>Proposition : La formation est acceptée par le cercle si et
           seulement si elle peut être financée au cours de cet exercice
           budgétaire.</para>
         </informalexample>
@@ -3137,11 +3130,11 @@
         <para>Nous n’avons pas forcément besoin de reporter un sujet de
         l’ordre du jour. Nous encourageons plutôt les personnes qui facilitent
         d’être résolues à toujours franchir une nouvelle étape. Nous ne
-        pouvons pas consentir dès à présent ? Ok, voyons comment réunir les
+        pouvons pas consentir dès à présent ? Ok, voyons comment réunir les
         informations qui nous manquent et consentons dès à présent de façon
         conditionnelle. Le principe général est que nous ne voulons pas
         reproduire cette impasse. Que pouvons-nous faire afin d’être en
-        capacité d’avancer lors de la prochaine réunion ? De l’information
+        capacité d’avancer lors de la prochaine réunion ? De l’information
         manquante peut être trouvée, l’écriture d’un texte peut être confiée à
         un cercle de soutien<indexterm>
             <primary>cercle de soutien</primary>
@@ -3176,11 +3169,11 @@
             <primary>tour de réactions</primary>
 
             <secondary>tour de réactions rapides</secondary>
-          </indexterm>. « <emphasis>Plutôt que de suivre cette proposition,
-        pourquoi ne pas… ?</emphasis> » En plus de rejeter et dévaloriser le
+          </indexterm>. « <emphasis>Plutôt que de suivre cette proposition,
+        pourquoi ne pas… ?</emphasis> » En plus de rejeter et dévaloriser le
         travail et les réflexions déjà consacrées à formuler la proposition
         actuelle, les contre-propositions placent le groupe dans une position
-        très inconfortable : il est tenté de réfléchir à la contre-proposition
+        très inconfortable : il est tenté de réfléchir à la contre-proposition
         en plein milieu du processus de consentement<indexterm>
             <primary>processus de consentement</primary>
           </indexterm> de la proposition originale. Il est difficile de
@@ -3194,14 +3187,14 @@
             <primary>proposition</primary>
 
             <secondary>contre-propositions</secondary>
-          </indexterm> provoquent de la confusion : certains membres du groupe
+          </indexterm> provoquent de la confusion : certains membres du groupe
         vont vouloir continuer à réfléchir et améliorer la proposition
         initiale tandis que d’autres vont vouloir changer de proposition. Tout
         aussi fréquemment la nouvelle proposition est à moitié réfléchie et
-        certaines personnes se sentent perdues ou contrariées ; le cercle se
+        certaines personnes se sentent perdues ou contrariées ; le cercle se
         trouve alors plongé dans une méta-discussion qui consomme du temps de
         réunion et rend souvent le groupe inefficace. C’est précisément ce que
-        la sociocratie est censée éviter !</para>
+        la sociocratie est censée éviter !</para>
 
         <para>Pour information, si y a plusieurs propositions sur le même
         sujet, la façon formellement appropriée de faire face à cette
@@ -3234,23 +3227,23 @@
             demander une reformulation de la proposition, réalisée
             conjointement par les auteurs de la proposition initiale et ceux
             de la contre-proposition. Dans l’idéal, cette équipe repartira du
-            besoin à l’origine de la proposition initiale.</para>
+            besoin à l’origine de la proposition initiale :</para>
 
             <itemizedlist>
               <listitem>
-                <para>Description du problème</para>
+                <para>description du problème ;</para>
               </listitem>
 
               <listitem>
-                <para>Description des besoins</para>
+                <para>description des besoins ;</para>
               </listitem>
 
               <listitem>
-                <para>Dimensions à inclure</para>
+                <para>dimensions à inclure ; et</para>
               </listitem>
 
               <listitem>
-                <para>Et idées pour la proposition</para>
+                <para>idées pour la proposition</para>
               </listitem>
             </itemizedlist>
           </listitem>
@@ -3490,7 +3483,7 @@
                 probablement sa crédibilité.<indexterm>
                     <primary>facilitateur</primary>
 
-                    <secondary>la voix du facilitateur en opposé de la voix du
+                    <secondary>la voix du facilitateur versus la voix du
                     membre</secondary>
                   </indexterm></para>
               </listitem>
@@ -3534,14 +3527,14 @@
     </section>
 
     <section>
-      <title>Expression libre et mode style pop-corn</title>
+      <title>Expression libre et mode popcorn</title>
 
       <indexterm>
         <primary>expression libre</primary>
       </indexterm>
 
       <indexterm>
-        <primary>style pop-corn</primary>
+        <primary>mode popcorn</primary>
       </indexterm>
 
       <para>L’expression libre est un format dans lequel les personnes
@@ -3562,12 +3555,12 @@
         </listitem>
 
         <listitem>
-          <para>Le mode style pop-corn est un peu différent car, comme un
+          <para>Le mode popcorn est un peu différent car, comme un
           <foreignphrase>“pop”</foreignphrase>, la prise de parole sera brève,
-          constituée de quelques mots ou d’une courte phrase. Le style
-          pop-corn fonctionne très bien lors de phases où il faut réunir des
-          idées brèves, comme pour la phase de l’élaboration d’une proposition
-          par exemple.</para>
+          constituée de quelques mots ou d’une courte phrase. Le mode popcorn
+          fonctionne très bien lors de phases où il faut réunir des idées
+          brèves, comme pour la phase de l’élaboration d’une proposition par
+          exemple.</para>
         </listitem>
       </itemizedlist>
 
@@ -3597,7 +3590,7 @@
       anglais) est une technique par laquelle nous permettons à deux personnes
       (ou un petit groupe) de se tourner l’une vers l’autre pour parler. Cela
       peut être utile lorsque le niveau émotionnel est élevé, que le sujet est
-      complexe et / ou que le groupe est important. « Deux par deux » gagne à
+      complexe et/ou que le groupe est important. « Deux par deux » gagne à
       être clairement limité en temps, comme une minute par membre du duo par
       exemple.</para>
 
@@ -3694,16 +3687,16 @@
         </listitem>
       </itemizedlist>
 
-      <para>Observation : Lorsque la réunion rassemble des personnes de
+      <para>Observation : Lorsque la réunion rassemble des personnes de
       plusieurs fuseaux horaires, il est plus simple de conserver les
       informations horaires de l’ordre du jour aussi neutres que possible. Le
       déroulement de nos réunions débute toujours à zéro, car nous travaillons
       dans des visioconférences qui rassemblent les personnes de différents
-      fuseaux horaires. 0:00 marque donc le début de la réunion, quelle que
-      soit l’heure de chaque personne. Il est donc toujours possible de savoir
-      où nous en sommes dans l’avancement de la réunion en un clin d'œil. Il
-      est de plus utile de ne pas utiliser l’heure de la personne qui facilite
-      comme heure standard.</para>
+      fuseaux horaires. <?latex {\NoAutoSpacing ?>0:00<?latex } ?> marque donc
+      le début de la réunion, quelle que soit l’heure de chaque personne. Il
+      est donc toujours possible de savoir où nous en sommes dans l’avancement
+      de la réunion en un clin d'œil. Il est de plus utile de ne pas utiliser
+      l’heure de la personne qui facilite comme heure standard.</para>
     </section>
 
     <section>
@@ -3721,7 +3714,7 @@
       exemple par email ou sur une plateforme en ligne. C’est donc très
       différent d’une réunion virtuelle synchrone.</para>
 
-      <para>Notre expérience des prises de décision asynchrone est mitigée et
+      <para>Notre expérience des prises de décision asynchrones est mitigée et
       nous évitons d’y recourir. Nous en réservons l’usage à des décisions
       très clairement définies et présentées à des cercles dont les membres se
       connaissent bien.</para>

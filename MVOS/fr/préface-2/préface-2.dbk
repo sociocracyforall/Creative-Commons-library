@@ -43,12 +43,12 @@
 
   <para>Ainsi donc, de 2019 à 2024, de nombreuses personnes ont collaboré au
   projet et nous prenons ici le temps de les nommer (par ordre alphabétique) :
-  Gaétan Belbe, Vero Bosschaert, Yannis Camus, Anne Carbonnel, Georges Comby,
-  Denis Côté, Hélène Gadenne, Elie Gobin, Lorraine Margherita, Thomas
-  Marshall, Claude Mur, Nathalie Penfornis, et Jean-François Roustan-Mezzadri.
-  Une partie de ces personnes sont des membres du Centre Français de
-  Sociocratie, une association partenaire de SoFA. Nous les remercions pour
-  leur suivi et leur engagement.</para>
+  Gaëtan Belbéoc'h, Vero Bosschaert, Yannis Camus, Anne Carbonnel, Georges
+  Comby, Denis Côté, Hélène Gadenne, Olivier Gesbert, Elie Gobin, Lorraine
+  Margherita, Thomas Marshall, Claude Mur, Nathalie Penfornis, et
+  Jean-François Roustan-Mezzadri. Une partie de ces personnes sont des membres
+  du Centre Français de Sociocratie, une association partenaire de SoFA. Nous
+  les remercions pour leur suivi et leur engagement.</para>
 
   <para>Nous voulons exprimer une appréciation spéciale envers Thomas
   Marshall, formateur agréé par le Centre Français de Sociocratie, qui s’est
@@ -61,7 +61,7 @@
       application ou du contenu d’un document pour répondre aux exigences
       linguistiques, culturelles et autres d’un marché cible spécifique (une
       localité). » (Politiques de localisation de SoFA)</para>
-    </footnote>  » : ce qui signifie que nous avons eu, dans la mesure du
+    </footnote>  » : ce qui signifie que nous avons eu, dans la mesure du
   possible, le souci d’adapter la traduction pour que les termes soient bien
   compris par des francophones provenant de pays différents.</para>
 
@@ -70,16 +70,16 @@
   termes en usage en anglais. Nous étions également soucieux de favoriser une
   langue la plus internationale et commune possible entre les membres du
   cercle de traduction, nos « traducteurs » bénévoles provenant de différents
-  pays de la Francophonie : le Canada (Québec et Saskatchewan), la France et
+  pays de la Francophonie : le Canada (Québec et Saskatchewan), la France et
   la Belgique. L’atmosphère de travail a toujours été agréable, conviviale,
   s’y déployant un rapprochement culturel stimulant de francophonies
   canadiennes et européennes. Adopté par consentement, le glossaire circule
   maintenant et a d’ailleurs déjà servi pour d’autres projets de traduction en
-  français, notamment <emphasis>Décider ensemble, un cours gratuit pour les
-  activistes climatiques</emphasis> (par <emphasis>The Empowered Learning
-  Circles</emphasis>, SoFA).</para>
+  français, notamment « Décider ensemble, un cours gratuit pour les activistes
+  climatiques » (par <emphasis>The Empowered Learning Circles</emphasis>,
+  SoFA).</para>
 
-  <para>Dans toutes les langues, les mots ont un pouvoir important : c’est
+  <para>Dans toutes les langues, les mots ont un pouvoir important : c’est
   pourquoi il est précieux de faire en sorte que « les mots appartiennent à
   toutes les personnes qui les utilisent », quel que soit leur genre.
   L’écriture inclusive et l’écriture épicène sont des outils de plus en plus
@@ -111,10 +111,10 @@
   toutes les personnes qui liront ce livre, qui croient en un monde différent
   et qui y œuvrent. L’ouvrage au titre anglais <citetitle>Many Voices, One
   Song</citetitle>, explique bien la notion de consentement et d’unité dans la
-  diversité. En français, après consultation générale, il nous a semblé — et
+  diversité. En français, après consultation générale, il nous a semblé — et
   Ted et Jerry étaient d’accord — que le titre français CHAQUE VOIX COMPTE et
-  son sous-titre : PARTAGER LE POUVOIR AVEC LA SOCIOCRATIE ajoutait la notion
-  de « pouvoir des voix » à la notion d’ « harmonie partagée ».</para>
+  son sous-titre : PARTAGER LE POUVOIR AVEC LA SOCIOCRATIE ajoutait la notion
+  de « pouvoir des voix » à la notion d’ « harmonie partagée ».</para>
 
   <para><emphasis role="strong">Francine Proulx-Kenzle</emphasis></para>
 
@@ -124,9 +124,7 @@
 
   <para><inlinemediaobject>
       <imageobject>
-        <imagedata depth="0.7902in"
-                   fileref="Pictures/100002010000035D00000100CBFC2BA198039A19.png"
-                   width="2.661in"/>
+        <imagedata fileref="../illustrations/SoFra.png" width="2.661in"/>
       </imageobject>
     </inlinemediaobject></para>
 </preface>

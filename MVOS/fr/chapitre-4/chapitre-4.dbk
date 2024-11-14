@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xml:id="feedback" xmlns="http://docbook.org/ns/docbook"
+<chapter version="5.2" xml:id="feedback" xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:ns6="http://docbook.org/ns/transclusion"
          xmlns:ns5="http://www.w3.org/1998/Math/MathML"
@@ -7,8 +7,7 @@
          xmlns:ns3="http://www.w3.org/1999/xhtml"
          xmlns:ns="http://docbook.org/ns/docbook">
   <info>
-    <title>Rétroactions (<foreignphrase>feedback</foreignphrase>) et
-    apprentissages</title>
+    <title>Rétroactions (feedback) et apprentissages</title>
   </info>
 
   <indexterm significance="preferred">
@@ -22,14 +21,13 @@
       <primary>besoins</primary>
     </indexterm>
 
-    <para>Beaucoup de gens ont peur de donner du
-    <foreignphrase>feedback</foreignphrase>. « Est-ce que je peux te faire un
-    retour ? » Cette question peut être annonciatrice de critiques — et les
-    humains ne savent pas trop comment les recevoir. Lorsque nous faisons face
-    à des critiques, la réaction la plus courante est de nous fermer, d’être
-    réactif, de nous mettre sur la défensive ou de nous retirer. Si nous
-    voulons que nos rétroactions soient entendues, la forme « critique » ne
-    sera pas la plus efficace.</para>
+    <para>Beaucoup de gens ont peur de donner du feedback. « Est-ce que je
+    peux te faire un retour ? » Cette question peut être annonciatrice de
+    critiques — et les humains ne savent pas trop comment les recevoir.
+    Lorsque nous faisons face à des critiques, la réaction la plus courante
+    est de nous fermer, d’être réactif, de nous mettre sur la défensive ou de
+    nous retirer. Si nous voulons que nos rétroactions soient entendues, la
+    forme « critique » ne sera pas la plus efficace.</para>
 
     <section>
       <title>Des besoins humains universels</title>
@@ -72,15 +70,9 @@
           <primary>besoins; exemples</primary>
 
           <secondary>d'être vu</secondary>
-        </indexterm>… tout cela compte<indexterm role="TODO">
-          <primary>par égard à l'autre (besoin)</primary>
-        </indexterm><indexterm>
-          <primary>besoins; exemples</primary>
-
-          <secondary>par égard à l'autre</secondary>
-        </indexterm>. En ce qui a trait aux besoins, nous sommes tous
-      connectés, car tous les besoins sont universels, comme un langage que
-      tout le monde comprend.</para>
+        </indexterm>… tout cela compte. En ce qui a trait aux besoins, nous
+      sommes tous connectés, car tous les besoins sont universels, comme un
+      langage que tout le monde comprend.</para>
 
       <para>Même si on peut tous et toutes, Humains, nous identifier aux mêmes
       besoins, l’intensité varie chez chacun.e à tout moment. Si, en règle
@@ -118,14 +110,20 @@
       <figure xml:id="needslist">
         <title>Une liste partielle des besoins universels. Cette liste figure
         également sur la feuille de réunion pour les facilitateurs dans
-        l'annexe de la page <xref linkend="meetingsheet"
-        xrefstyle="select: pagenumber"/> et nous fournissons une liste
-        incluant les sentiments dans l'annexe de la page <xref
-        linkend="feelingsneedslist" xrefstyle="select: pagenumber"/>.</title>
+        l'annexe de <phrase outputformat="print">la page <xref
+        linkend="meetingsheet"
+        xrefstyle="select: pagenumber"/></phrase><phrase
+        outputformat="html"><xref linkend="meetingsheet"
+        xrefstyle="select: label"/></phrase> et nous fournissons une liste
+        incluant les sentiments dans l'annexe de <phrase
+        outputformat="print">la page <xref linkend="feelingsneedslist"
+        xrefstyle="select: pagenumber"/></phrase><phrase
+        outputformat="html"><xref linkend="feelingsneedslist"
+        xrefstyle="select: label"/></phrase>.</title>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="../illustrations/needslist.jpg"/>
+            <imagedata fileref="../illustrations/needslist2.jpg"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -232,8 +230,11 @@
           <secondary>connexion</secondary>
         </indexterm> est ce que nous désirons, nous nous sentirons
       probablement heureux ou excité. Vous trouverez la liste de sentiments
-      ainsi que la liste des besoins en annexe, à la page <xref
-      linkend="feelingsneedslist" xrefstyle="select: pagenumber"/>.</para>
+      ainsi que la liste des besoins en annexe, à <phrase
+      outputformat="print">la page <xref linkend="feelingsneedslist"
+      xrefstyle="select: pagenumber"/></phrase><phrase
+      outputformat="html"><xref linkend="feelingsneedslist"
+      xrefstyle="select: label"/></phrase>.</para>
 
       <para>Les sentiments sont causés par des besoins satisfaits ou non
       satisfaits, et non par des situations. Cela signifie que rien ni
@@ -396,13 +397,7 @@
           <primary>besoins; exemples</primary>
 
           <secondary>facilité</secondary>
-        </indexterm>, de concentration<indexterm>
-          <primary>aisance (besoin)</primary>
-        </indexterm><indexterm>
-          <primary>besoins; exemples</primary>
-
-          <secondary>aisance</secondary>
-        </indexterm> et de considération<indexterm>
+        </indexterm>, de concentration et de considération<indexterm>
           <primary>considération (besoin)</primary>
         </indexterm><indexterm>
           <primary>besoins; exemples</primary>
@@ -422,7 +417,7 @@
       partager notre expérience.</para>
 
       <figure xml:id="textcall">
-        <title>Partager son expérience en fonction des besoins.</title>
+        <title>Partager son expérience en fonction des besoins</title>
 
         <mediaobject>
           <imageobject>
@@ -567,7 +562,7 @@
             </indexterm><indexterm>
               <primary>besoins; exemples</primary>
 
-              <secondary>par égard à l'autre (besoin)</secondary>
+              <secondary>par égard à l'autre</secondary>
             </indexterm> : si quelqu'un partage la façon dont mon comportement
           a un impact sur <emphasis>lui</emphasis>, cela montre que nous
           sommes connectés et interdépendants. Ce que je fais
@@ -617,9 +612,11 @@
       raisons de confidentialité).</para>
 
       <figure xml:id="feedbackform2">
-        <title>Un formulaire de rétroaction (voir page <xref
-        linkend="feedbackformsheet" xrefstyle="select: pagenumber"/> pour un
-        modèle<indexterm>
+        <title>Un formulaire de rétroaction (voir <phrase
+        outputformat="print">page <xref linkend="feedbackformsheet"
+        xrefstyle="select: pagenumber"/></phrase><phrase
+        outputformat="html"><xref linkend="feedbackformsheet"
+        xrefstyle="select: label"/></phrase> pour un modèle<indexterm>
             <primary>faire un retour</primary>
 
             <secondary>formulaire de rétroaction</secondary>
@@ -636,8 +633,11 @@
       recevoir) des retours. Si l'utilisation d'un formulaire de rétroaction
       est déjà une stratégie convenue dans une organisation, il sera plus
       facile de le faire lorsque nous voudrons réellement le faire. Vous
-      trouverez en annexe, à la page <xref linkend="feedbackformsheet"
-      xrefstyle="select: pagenumber"/>, un exemple de ce à quoi pourrait
+      trouverez en annexe, à <phrase outputformat="print">la page <xref
+      linkend="feedbackformsheet"
+      xrefstyle="select: pagenumber"/></phrase><phrase
+      outputformat="html"><xref linkend="feedbackformsheet"
+      xrefstyle="select: label"/></phrase>, un exemple de ce à quoi pourrait
       ressembler un formulaire de rétroaction (fiche de pratique). Toute
       organisation pourrait vouloir concevoir le sien. C'est une bonne idée
       d'indiquer directement sur le formulaire les points à garder à
@@ -661,24 +661,24 @@
       <para>La capacité à donner des rétroactions et à le faire habilement
       s'acquiert avec la pratique. Nous pouvons nous entraîner en commençant
       par seulement l’expression des appréciations et des besoins satisfaits
-      chez nous – par exemple, lorsque quelqu'un répare un problème
-      informatique pour nous. À quel(s) besoin(s) cela a-t-il répondu ? Besoin
+      chez nous — par exemple, lorsque quelqu'un répare un problème
+      informatique pour nous. À quel(s) besoin(s) cela a-t-il répondu ? Besoin
       de facilité<indexterm>
           <primary>facilité (besoin)</primary>
         </indexterm><indexterm>
           <primary>besoins; exemples</primary>
 
           <secondary>facilité</secondary>
-        </indexterm>, parce que nous avons pu accéder à nos courriels ? Besoin
+        </indexterm>, parce que nous avons pu accéder à nos courriels ? Besoin
       d'intégrité, parce qu’il importe pour nous de respecter un délai grâce à
-      l'aide informatique ? Ou besoin de sollicitude, parce qu’un collègue a
-      remarqué l'urgence de nous fournir une aide technique ?</para>
+      l'aide informatique ? Ou besoin de sollicitude, parce qu’un collègue a
+      remarqué l'urgence de nous fournir une aide technique ?</para>
 
       <para>Exerçons-nous à donner une rétroaction, en personne ou par écrit.
       Il peut être judicieux d'utiliser un formulaire pour le prochain petit
       incident afin de réduire l'anxiété liée à son utilisation lors de
       problèmes plus importants. Faire des retours est comme un muscle qui
-      peut être entraîné. Faisons-le !</para>
+      peut être entraîné. Faisons-le !</para>
     </section>
   </section>
 
@@ -822,7 +822,7 @@
       fonctionner pour tout le monde, c’est une excellente opportunité pour
       soulever une objection. Imaginons une proposition comme celle de
       l'exemple <xref linkend="textmembership"
-      xrefstyle="select: labelnumber"/> : au lieu de formuler calmement une
+      xrefstyle="select: labelnumber"/> : au lieu de formuler calmement une
       objection, il peut arriver que quelqu'un s'énerve. Si je crains de
       devoir quitter l'organisation parce que je ne peux pas payer la
       cotisation annuelle, je pourrais être triste, anxieux ou bouleversé
@@ -859,7 +859,7 @@
 
       <para>Quelle est la différence entre les exemples <xref
       linkend="textmembership" xrefstyle="select: labelnumber"/> et <xref
-      linkend="textmembership2" xrefstyle="select: labelnumber"/> ? Dans le
+      linkend="textmembership2" xrefstyle="select: labelnumber"/> ? Dans le
       premier cas, il n'y a pas de distance intérieure par rapport aux
       sentiments. Ils sont interprétés comme une vérité absolue, et non comme
       des données avec lesquelles travailler. L'opportunité d'utiliser les
@@ -892,7 +892,7 @@
       tout cela a un coût élevé à long terme.</para>
 
       <para>Nous n'obtiendrons peut-être pas des membres du cercle une
-      contribution aussi claire que dans l'exemple <xref
+      contribution aussi claire que dans l'exem<?latex \-?>ple <xref
       linkend="textmembership2" xrefstyle="select: labelnumber"/>. Mais nous
       pouvons travailler ensemble pour y arriver. Un groupe compétent sera
       capable d'aborder la question « quelque chose ici me rend anxieux mais
@@ -937,7 +937,7 @@
       rétroaction courtes réduisent l'accumulation de la dette
       socio-émotionnelle<indexterm>
           <primary>dette socio-émotionnelle</primary>
-        </indexterm> ; pour le déroulement efficace de nos activités, il en va
+        </indexterm> ; pour le déroulement efficace de nos activités, il en va
       de même.</para>
 
       <para>Quand la rétroaction ne contient que des données quantitatives,
@@ -946,7 +946,7 @@
       parlé du cycle orienter – exécuter – mesurer<indexterm>
           <primary>orientation – exécution – mesure</primary>
         </indexterm> et de la manière dont il forme des boucles de rétroaction
-      qui soutiennent l'évolution : nous élaborons un plan, l’exécutons et
+      qui soutiennent l'évolution : nous élaborons un plan, l’exécutons et
       évaluons ce que nous pouvons apprendre. Le pilotage s'inscrit dans
       d'innombrables boucles de type orienter – exécuter – mesurer. Vous
       trouverez quelques exemples dans l’encadré <xref linkend="LDMexamples"
@@ -967,7 +967,7 @@
 
       <figure xml:id="foreverloop">
         <title>Les boucles orienter – exécuter – mesurer opèrent de façon
-        continue alors que nous travaillons vers le but</title>
+        continue alors que nous travaillons vers le but.</title>
 
         <mediaobject>
           <imageobject>
@@ -992,7 +992,7 @@
       comment sa nature est toujours la même.</para>
 
       <para>La sociocratie crée des habitudes autour de la rétroaction, que
-      nous présentons comme des jalons dans ce livre — des arrêts
+      nous présentons comme des jalons dans ce livre — des arrêts
       intentionnels pour nous assurer que nous avons partagé la réalité. Nous
       avons montré comment, dans l'élaboration des politiques, un groupe peut
       passer rapidement d'une phase à l'autre en évaluant si une phase ou une
@@ -1000,7 +1000,7 @@
 
       <figure xml:id="reviewlayers">
         <title>Orienter – exécuter – mesurer se déroule à différents
-        niveaux</title>
+        niveaux.</title>
 
         <mediaobject>
           <imageobject>
@@ -1013,6 +1013,9 @@
     <section>
       <title>Entendre le plus grand nombre possible de personnes, tout en
       maintenant de petits groupes</title>
+
+      <titleabbrev>Entendre le plus grand nombre possible de
+      personnes</titleabbrev>
 
       <para>En sociocratie, nous voulons apprendre autant que faire se peut et
       travailler avec toutes les données auxquelles nous avons accès pour
@@ -1103,7 +1106,7 @@
             données, faire un sondage, etc. Cependant, il demeure également
             important de rester centré sur notre problématique, pour ne pas
             avoir trop d'interférence à gérer. Par exemple, si nous demandons
-            à un groupe de 200 000 utilisateurs : « dites-nous si vous voyez
+            à un groupe de 200 000 utilisateurs : « dites-nous si vous voyez
             des problèmes avec notre nouveau site web », nous obtiendrons de
             nombreuses rétroactions non structurées. Si nous interrogeons un
             large groupe de personnes, nous devons nous concentrer sur
@@ -1247,10 +1250,10 @@
             </listitem>
 
             <listitem>
-              <para>Le cercle Parent<indexterm>
+              <para>Le cercle parent<indexterm>
                   <primary>cercle</primary>
 
-                  <secondary>cercle Parent</secondary>
+                  <secondary>cercle parent</secondary>
                 </indexterm>, si le cercle en discussion recherche une
               perspective plus large sur le sujet.</para>
             </listitem>
@@ -1390,7 +1393,7 @@
       </indexterm>
 
       <para>Toute décision intentionnelle sur « comment faire notre travail »
-      constitue une politique. Comment évaluer ces politiques ? Les paramètres
+      constitue une politique. Comment évaluer ces politiques ? Les paramètres
       qui les mesurent dépendent de la nature de la politique. Si la politique
       concerne la procédure<indexterm>
           <primary>procédure</primary>
@@ -1410,8 +1413,11 @@
         </indexterm>
 
         <para>Devenons intentionnel quant aux indicateurs et établissons un
-        plan de mesure. (Voir aussi page <xref linkend="measurementplan"
-        xrefstyle="select: pagenumber"/>.)</para>
+        plan de mesure. (Voir aussi <phrase outputformat="print">page <xref
+        linkend="measurementplan"
+        xrefstyle="select: pagenumber"/></phrase><phrase
+        outputformat="html"><xref linkend="measurementplan"
+        xrefstyle="select: label"/></phrase>.)</para>
 
         <itemizedlist>
           <listitem>
@@ -1419,7 +1425,7 @@
             et si nécessaire, nous commençons à collecter des données, celles
             qui nous semblent utiles.</para>
 
-            <para>Voici quelques exemples :</para>
+            <para>Voici quelques exemples :</para>
 
             <itemizedlist>
               <listitem>
@@ -1484,12 +1490,6 @@
         </indexterm>
 
         <indexterm>
-          <primary>term end</primary>
-
-          <see>policy</see>
-        </indexterm>
-
-        <indexterm>
           <primary>durée</primary>
 
           <see>politique</see>
@@ -1501,7 +1501,7 @@
         encourage à nous efforcer d'améliorer tous les aspects de notre
         organisation. C'est comme un contrôle régulier de nos outils. Sont-ils
         tous en ordre, fonctionnent-ils tous et font-ils ce que nous voulons
-        qu'ils fassent ?</para>
+        qu'ils fassent ?</para>
 
         <para>Nous pouvons être intentionnels quant aux dates de révision et
         les adapter à nos besoins. Par exemple, nous pouvons élaborer une
@@ -1514,7 +1514,7 @@
 
             <secondary>réévaluation d'une politique</secondary>
           </indexterm>. La sociocratie consiste à faire avancer le travail,
-        pas seulement à <emphasis>parler</emphasis> du travail !</para>
+        pas seulement à <emphasis>parler</emphasis> du travail !</para>
 
         <para>Nous voulons être sûrs de maintenir nos politiques à jour. Si
         nous ne révisons nos politiques que tous les 10 ans (ou jamais !), il
@@ -1609,7 +1609,7 @@
 
         <figure xml:id="reviewsteps">
           <title>Les phases « Comprendre – Explorer » appliquées à la révision
-          des politiques</title>
+          des politiques.</title>
 
           <mediaobject>
             <imageobject>
@@ -1728,7 +1728,7 @@
 
     <para>Que faisons-nous de la rétroaction<indexterm>
         <primary>faire un retour</primary>
-      </indexterm> « négative » ? Nous la partageons également. Il est
+      </indexterm> « négative » ? Nous la partageons également. Il est
     préférable de le faire en réunion plutôt que de répandre des commérages
     par la suite.</para>
 
@@ -1739,9 +1739,8 @@
         <secondary>évaluation de la réunion</secondary>
       </indexterm>, en étant conscients de nos sentiments et de nos besoins,
     sans blâmer personne, en parlant simplement de notre propre expérience,
-    sans penser que nous accédons à une vérité absolue.</para>
-
-    <para>Quels besoins ont été satisfaits :</para>
+    sans penser que nous accédons à une vérité absolue. Quels besoins ont été
+    satisfaits :</para>
 
     <itemizedlist>
       <listitem>
@@ -1781,7 +1780,7 @@
       </listitem>
     </itemizedlist>
 
-    <para>Quels besoins n'ont pas été satisfaits :</para>
+    <para><?latex \noindent{}?>Quels besoins n'ont pas été satisfaits :</para>
 
     <itemizedlist>
       <listitem>
@@ -1979,8 +1978,10 @@
       </figure>
 
       <para>Nous verrons que la trame de réunion pour les facilitateurs, en
-      annexe à la page <xref linkend="meetingsheet"
-      xrefstyle="select: pagenumber"/>, propose un format plus général qui
+      annexe à <phrase outputformat="print">la page <xref
+      linkend="meetingsheet" xrefstyle="select: pagenumber"/></phrase><phrase
+      outputformat="html"><xref linkend="meetingsheet"
+      xrefstyle="select: label"/></phrase>, propose un format plus général qui
       peut être utilisé comme un point à l'ordre du jour d'une réunion.</para>
 
       <section>
@@ -2020,13 +2021,13 @@
           <indexterm>
             <primary>tour de parole</primary>
 
-            <secondary>le tour "bien fait"</secondary>
+            <secondary>le tour « bien fait »</secondary>
           </indexterm>
 
           <indexterm>
             <primary>revue de performance</primary>
 
-            <secondary>le tour "bien fait"</secondary>
+            <secondary>le tour « bien fait »</secondary>
           </indexterm>
 
           <para>La personne-cible parle d'abord de ce qu'elle a bien accompli
@@ -2105,17 +2106,17 @@
           <indexterm>
             <primary>tour de parole</primary>
 
-            <secondary>le tour "faire mieux"</secondary>
+            <secondary>le tour « faire mieux »</secondary>
           </indexterm>
 
           <indexterm>
             <primary>revue de performance</primary>
 
-            <secondary>le tour "faire mieux"</secondary>
+            <secondary>le tour « faire mieux »</secondary>
           </indexterm>
 
           <para>À nouveau, la personne-cible parle en premier, puis les autres
-          suivent ; la personne-cible résume ce qu'elle a entendu. Il peut
+          suivent ; la personne-cible résume ce qu'elle a entendu. Il peut
           être difficile de dire et d'entendre ce que quelqu'un n'a pas bien
           fait. Il est particulièrement important que la personne-cible parle
           en premier. Cela crée un contexte dans lequel les autres parlent en
@@ -2264,10 +2265,10 @@
 
           <para>L'étape suivante consiste à faire un remue-méninges pour
           trouver des idées d’actions. <emphasis>Comment</emphasis>
-          voudrions-nous que les choses s’améliorent sur ces sujets ? Faisons
-          en sorte que les idées soient concrètes et réalisables. Les idées
-          d'amélioration peuvent être directement liées aux dimensions
-          identifiées. Voici quelques exemples :</para>
+          vou<?latex \-?>drions-nous que les choses s’améliorent sur ces
+          sujets ? Faisons en sorte que les idées soient concrètes et
+          réalisables. Les idées d'amélioration peuvent être directement liées
+          aux dimensions identifiées. Voici quelques exemples :</para>
 
           <itemizedlist>
             <listitem>
@@ -2358,7 +2359,7 @@
           de les récolter ici.</para>
 
           <para>Rappelons-nous enfin que toute bonne politique a aussi une
-          durée. Toutefois, fixer une date pour une révision — et / ou la
+          durée. Toutefois, fixer une date pour une révision — et/ou la
           prochaine revue de performance — est une décision intentionnelle qui
           peut dépendre des éléments de la proposition (par exemple : des
           échéances non arrêtées à dates fixes, comme « trois événements de
@@ -2400,10 +2401,10 @@
         <para>La proposition doit être formulée clairement et distribuée à
         toutes les personnes ayant le droit de donner leur consentement. Elle
         doit ensuite être approuvée, par consentement, par au moins le cercle
-        de revue de performance — y compris la personne-cible — et / ou par
-        tous les membres du cercle avec lesquels cette personne travaille. Le
-        plan d'amélioration sera conservé dans les archives sous forme écrite,
-        en tant que politique, mais pas dans les dossiers des accords de
+        de revue de performance — y compris la personne-cible — et/ou par tous
+        les membres du cercle avec lesquels cette personne travaille. Le plan
+        d'amélioration sera conservé dans les archives sous forme écrite, en
+        tant que politique, mais pas dans les dossiers des accords de
         politique, puisqu'il ne concerne qu'une seule personne.</para>
 
         <para>Une fois que le plan arrive à terme, la personne-cible commence

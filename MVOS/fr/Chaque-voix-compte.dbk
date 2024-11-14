@@ -27,7 +27,7 @@
     <org>
       <orgname>Sociocracy For All</orgname>
 
-      <address><street>120 chemin Pulpit Hill, suite 8</street>
+      <address><street>120 Pulpit Hill Road, suite 8</street>
 <city>Amherst</city> <state>MA</state>, <postcode>01002</postcode>
 <country>États-Unis d'Amérique</country>
 <email>info@sociocracyforall.org</email></address>
@@ -42,18 +42,28 @@
     </copyright>
 
     <legalnotice>
-      <para><?latex \noindent ?>Publié par Sociocracy For All. Sociocracy for
-      All est un projet de l’Institute for Peaceable Communities (IPC), une
-      organisation à but non lucratif 501(c)(3) constituée au Massachusetts,
+      <para><?latex \noindent ?>Publié par <foreignphrase>Sociocracy For
+      All</foreignphrase>, un projet de l’<foreignphrase>Institute for
+      Peaceable Communities (IPC)</foreignphrase>, une organisation à but non
+      lucratif 501(c)(3) constituée en société dans le Massachusetts,
       États-Unis.<?latex \vspace{0.25em}?></para>
 
-      <para><?latex \noindent ?>© par Ted J. Rau et Jerry Koch-Gonzalez, 2018.
-      Tous les mots de ce manuel sont disponibles sous une licence CC BY-SA
-      3.0 DEED <foreignphrase>Creative Commons</foreignphrase>
-      Attribution-Partage dans les mêmes conditions 3.0.</para>
+      <para><?latex \noindent ?>Titre original en anglais : Many Voices One
+      Song. Shared power with sociocracy<?latex \vspace{0.25em}?></para>
+
+      <para><?latex \noindent ?>© par Ted J. Rau et Jerry Koch-Gonzalez,
+      2018.<?latex \vspace{0.25em}?></para>
+
+      <para><?latex \noindent ?>Traduction : l'équipe de Sociocratie en
+      Francophonie, une communauté de membres de Sociocracy For All.<?latex \vspace{0.25em}?></para>
+
+      <para><?latex \noindent ?>Tout le contenu de cette œuvre est disponible
+      sous la licence Creative Commons Attribution - Utilisation
+      non-commerciale - Partage (CC BY-NC-SA) dans les mêmes conditions 4.0.
+      International</para>
 
       <para><?latex \noindent ?><uri
-      xlink:href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr">https://creativecommons.org/licenses/by-sa/3.0/deed.fr</uri></para>
+      xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</uri></para>
 
       <informalfigure>
         <mediaobject>
@@ -66,18 +76,27 @@
       <para><?latex \noindent ?>Rau, Ted J.</para>
 
       <para><?latex \hspace{0.3em}?>Chaque voix compte. Partager le pouvoir
-      avec la sociocratie/Ted J. Rau et Jerry Koch-Gonzalez.</para>
+      avec la sociocratie / Ted J. Rau et Jerry Koch-Gonzalez.</para>
 
       <para><?latex \hspace{0.3em}?>Inclut des références bibliographiques,
       des diagrammes et index.</para>
 
-      <para><?latex \hspace{0.3em}?>ISBN 978-1-949183-32-0</para>
+      <para><?latex \hspace{0.3em}?>Publié en août 2024.</para>
+
+      <para><?latex \hspace{0.3em}?>ISBN <phrase
+      outputformat="print">978-1-949183-32-0</phrase><phrase
+      outputformat="html">978-1-949183-42-9</phrase></para>
 
       <para><?latex \vspace{1em}?><?latex \noindent ?>Conception de la
       couverture et illustrations : Julian Howell, Royaume-Uni.</para>
+
+      <para><?latex \vspace{1em}?><?latex \noindent ?>Dépôt légal : 4°
+      trimestre 2024</para>
     </legalnotice>
 
-    <biblioid class="isbn">978-1-949183-32-0</biblioid>
+    <biblioid class="isbn" outputformat="print">978-1-949183-32-0</biblioid>
+
+    <biblioid class="isbn" outputformat="epub">978-1-949183-42-9</biblioid>
 
     <pubdate/>
 
@@ -88,6 +107,14 @@
 
       <contrib>Conception de la couverture et illustrations</contrib>
     </othercredit>
+
+    <cover>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="illustrations/front-cover.jpg" width="100%"/>
+        </imageobject>
+      </mediaobject>
+    </cover>
   </info>
 
   <dedication>
@@ -208,4 +235,6 @@
   <xi:include href="chapitre-6/chapitre-6.dbk" xpointer="element(/1)"/>
 
   <xi:include href="chapitre-7/chapitre-7.dbk" xpointer="element(/1)"/>
+
+  <index/>
 </book>

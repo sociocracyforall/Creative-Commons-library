@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter version="5.0" xml:id="implementation"
+<chapter version="5.2" xml:id="implementation"
          xmlns="http://docbook.org/ns/docbook"
          xmlns:xlink="http://www.w3.org/1999/xlink"
          xmlns:ns6="http://docbook.org/ns/transclusion"
@@ -59,7 +59,7 @@
     <title>Réflexions sur l’adoption de la sociocratie</title>
 
     <section>
-      <title>Choississez le consentement comme méthode de prise de
+      <title>Choisir le consentement comme méthode de prise de
       décision</title>
 
       <indexterm>
@@ -268,7 +268,7 @@
         </listitem>
 
         <listitem>
-          <para>Phase 2 : Explorer. En construisant un camp de base et en
+          <para>Phase 2 : Explorer. En construisant un camp de base et en
           expérimentant.</para>
 
           <itemizedlist>
@@ -299,7 +299,7 @@
         </listitem>
 
         <listitem>
-          <para>Phase 3 : Décider. En consolidant votre proposition de
+          <para>Phase 3 : Décider. En consolidant votre proposition de
           gouvernance et en la mettant en place.</para>
 
           <itemizedlist>
@@ -330,13 +330,13 @@
     </section>
 
     <section>
-      <title>Introduire la sociocratie dans une organisation établie - 27
+      <title>Introduire la sociocratie dans une organisation établie — 27
       étapes</title>
 
       <indexterm>
         <primary>implantation</primary>
 
-        <secondary>27 étaples d'implantation</secondary>
+        <secondary>27 étapes d’implantation</secondary>
       </indexterm>
 
       <orderedlist>
@@ -463,7 +463,7 @@
         </listitem>
 
         <listitem>
-          <para>Répétez les expressions clés : égalitaire, efficace, assez sûr
+          <para>Répétez les expressions clés : égalitaire, efficace, assez sûr
           pour essayer, assez bien pour l’instant.</para>
         </listitem>
 
@@ -489,12 +489,12 @@
         </listitem>
 
         <listitem>
-          <para>Examinez les objections et réessayez ! Réessayez encore
-          !</para>
+          <para>Examinez les objections et réessayez ! Réessayez
+          encore !</para>
         </listitem>
 
         <listitem>
-          <para>Lancez l'implantation de la proposition acceptée !</para>
+          <para>Lancez l'implantation de la proposition acceptée !</para>
         </listitem>
       </orderedlist>
     </section>
@@ -510,7 +510,7 @@
         <secondary>commencez avec un but en tête</secondary>
       </indexterm>. Les fondateurs imaginent un produit qu’ils pourraient
     fabriquer ou un service qu’ils pourraient fournir. C’est le but. Et
-    pourquoi fabriquerions-nous ou fournirions-nous cela ? Répondez et vous
+    pourquoi fabriquerions-nous ou fournirions-nous cela ? Répondez et vous
     avez votre mission, par exemple mettre un terme au sans-abrisme en
     construisant des maisons pour et avec les sans-abris dans cette région de
     ce pays. (Plus d’information sur la mission et les buts dans la section
@@ -532,7 +532,7 @@
         <primary>domaine</primary>
       </indexterm> du cercle, ses membres, et ses ressources. Afin de bien
     fonctionner, nous avons besoin de définir un processus et des rôles
-    opérationnels, et de les remplir. Toutes les étapes ne seront pas
+    opérationnels, et de les attribuer. Toutes les étapes ne seront pas
     réalisées à la première réunion, mais au fil du temps, chacune devra être
     traitée. Pour garantir « l’entrée », assurez-vous que tout le monde
     comprend le <emphasis>but</emphasis> et le <emphasis>domaine</emphasis>.
@@ -542,7 +542,7 @@
       </indexterm> qui a été nommé par le cercle parent<indexterm>
         <primary>cercle</primary>
 
-        <secondary>cercle Parent</secondary>
+        <secondary>cercle parent</secondary>
       </indexterm> ou, si aucun dirigeant officiel n’existe, sélectionnez-en
     un. Sélectionnez les personnes pour les rôles de facilitation, secrétariat
     et second lien du cercle. Cela achève la structure sociocratique de base
@@ -596,11 +596,10 @@
     monde au début lors de l’introduction de la sociocratie parce qu’il n’y a
     pas encore tant de décideurs. Dans ce contexte, il est important d’être
     ouvert et transparent sur votre système de gouvernance. Pour certaines
-    jeunes organisations, l’effort d’embarquer<indexterm>
-        <primary>l'intégration</primary>
-      </indexterm> de nouveaux membres est significatif, étant donné qu’il est
-    peu probable que de nouveaux membres arrivent avec une expérience de la
-    sociocratie. On peut avoir la meilleure démarche d’implantation<indexterm>
+    jeunes organisations, l’effort d’embarquer de nouveaux membres est
+    significatif, étant donné qu’il est peu probable que de nouveaux membres
+    arrivent avec une expérience de la sociocratie. On peut avoir la meilleure
+    démarche d’implantation<indexterm>
         <primary>implantation</primary>
       </indexterm> du monde mais si les membres formés sont dépassés en nombre
     par de nouveaux membres qui n’en savent pas assez pour s’en préoccuper,
@@ -654,7 +653,7 @@
           </imageobject>
 
           <caption>
-            <para>Tout le monde décide des politiques ; tout le monde fait
+            <para>Tout le monde décide des politiques ; tout le monde fait
             tout</para>
           </caption>
         </mediaobject>
@@ -666,7 +665,7 @@
           </imageobject>
 
           <caption>
-            <para>Tout le monde décide des politiques ; différenciation au
+            <para>Tout le monde décide des politiques ; différenciation au
             niveau opérationnel</para>
           </caption>
         </mediaobject>
@@ -678,7 +677,7 @@
           </imageobject>
 
           <caption>
-            <para>Différenciation dans les décisions sur les politiques ;
+            <para>Différenciation dans les décisions sur les politiques ;
             différenciation au niveau opérationnel</para>
           </caption>
         </mediaobject>
@@ -762,8 +761,8 @@
       <para>Si vous concevez une structure organisationnelle, nous
       recommandons d'identifier le design d’une organisation sociocratique qui
       fait déjà quelque chose qui ressemble à ce que vous prévoyez de faire.
-      (Voyez notre site web www.sociocracyforall.org/resources avec des
-      exemples et un formulaire de contact pour interroger SoFA sur des
+      (Voyez notre site web <uri>www.sociocracyforall.org/resources</uri> avec
+      des exemples et un formulaire de contact pour interroger SoFA sur des
       organisations sociocratiques existantes du même type.)</para>
 
       <figure floatstyle="[htb]" xml:id="aimstocircle">
@@ -805,7 +804,9 @@
           <primary>cercle</primary>
         </indexterm> appropriée.</para>
 
-      <para>Des écueils typiques :</para>
+      <para><?latex \noindent{}?><remark>But we may want to rethink the
+      \noindent{} if the figure ends up in a different place...</remark>Des
+      écueils typiques :</para>
 
       <itemizedlist>
         <listitem>
@@ -1029,55 +1030,55 @@
         <title>Débuts d’une jeune organisation commençant avec un groupe de
         travail I</title>
 
-        <figure xml:id="TCGCpatterns1">
-          <title>CG = CM</title>
+        <mediaobject xml:id="TCGCpatterns1">
+          <imageobject>
+            <imagedata fileref="../illustrations/6-TCGCpatterns1.jpg"
+                       width="44%"/>
+          </imageobject>
 
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="../illustrations/6-TCGCpatterns1.jpg"
-                         width="44%"/>
-            </imageobject>
-          </mediaobject>
-        </figure>
+          <caption>
+            <para>CG = CM</para>
+          </caption>
+        </mediaobject>
 
-        <figure xml:id="TCGCpatterns2">
-          <title>Le CG avec au moins un membre supplémentaire forme le
-          CM</title>
+        <mediaobject xml:id="TCGCpatterns2">
+          <imageobject>
+            <imagedata fileref="../illustrations/6-TCGCpatterns2.jpg"
+                       width="44%"/>
+          </imageobject>
 
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="../illustrations/6-TCGCpatterns2.jpg"
-                         width="44%"/>
-            </imageobject>
-          </mediaobject>
-        </figure>
+          <caption>
+            <para>Le CG avec au moins un membre supplémentaire forme le
+            CM</para>
+          </caption>
+        </mediaobject>
       </figure>
 
       <figure xml:id="TCGCpatterns4">
         <title>Débuts d’une jeune organisation commençant avec un groupe de
         travail II</title>
 
-        <figure xml:id="TCGCpatterns3">
-          <title>CG et CM sont liés avec un triple lien</title>
+        <mediaobject xml:id="TCGCpatterns3">
+          <imageobject>
+            <imagedata fileref="../illustrations/6-TCGCpatterns3.jpg"
+                       width="44%"/>
+          </imageobject>
 
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="../illustrations/6-TCGCpatterns3.jpg"
-                         width="44%"/>
-            </imageobject>
-          </mediaobject>
-        </figure>
+          <caption>
+            <para>CG et CM sont liés avec un triple lien</para>
+          </caption>
+        </mediaobject>
 
-        <figure>
-          <title>CG et CM sont distincts et reliés par un double lien</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="../illustrations/6-TCGCpatterns4.jpg"
+                       width="44%"/>
+          </imageobject>
 
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="../illustrations/6-TCGCpatterns4.jpg"
-                         width="44%"/>
-            </imageobject>
-          </mediaobject>
-        </figure>
+          <caption>
+            <para>CG et CM sont distincts et reliés par un double lien</para>
+          </caption>
+        </mediaobject>
       </figure>
 
       <para>Si une organisation commence avec un Conseil d’Administration /
@@ -1121,40 +1122,40 @@
         <title>Débuts d’une jeune organisation commençant par un Cercle
         Mission</title>
 
-        <figure xml:id="metamorphosisTopDown1">
-          <title>Le CM forme le CG en nommant un leader de CG</title>
+        <mediaobject xml:id="metamorphosisTopDown1">
+          <imageobject>
+            <imagedata fileref="../illustrations/2-metamorphosisTopDown1.jpg"
+                       width="24%"/>
+          </imageobject>
 
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="../illustrations/2-metamorphosisTopDown1.jpg"
-                         width="24%"/>
-            </imageobject>
-          </mediaobject>
-        </figure>
+          <caption>
+            <para>Le CM forme le CG en nommant un leader de CG</para>
+          </caption>
+        </mediaobject>
 
-        <figure xml:id="metamorphosisTopDown2">
-          <title>Le CG forme des cercles de travail en nommant des leaders de
-          cercles de département</title>
+        <mediaobject xml:id="metamorphosisTopDown2">
+          <imageobject>
+            <imagedata fileref="../illustrations/2-metamorphosisTopDown2.jpg"
+                       width="38%"/>
+          </imageobject>
 
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="../illustrations/2-metamorphosisTopDown2.jpg"
-                         width="38%"/>
-            </imageobject>
-          </mediaobject>
-        </figure>
+          <caption>
+            <para>Le CG forme des cercles de travail en nommant des leaders de
+            cercles de département</para>
+          </caption>
+        </mediaobject>
 
-        <figure xml:id="metamorphosisTopDown">
-          <title>Les cercles de département sont entièrement formés et reliés
-          au CG</title>
+        <mediaobject xml:id="metamorphosisTopDown">
+          <imageobject>
+            <imagedata fileref="../illustrations/2-metamorphosisTopDown3.jpg"
+                       width="38%"/>
+          </imageobject>
 
-          <mediaobject>
-            <imageobject>
-              <imagedata fileref="../illustrations/2-metamorphosisTopDown3.jpg"
-                         width="38%"/>
-            </imageobject>
-          </mediaobject>
-        </figure>
+          <caption>
+            <para>Les cercles de département sont entièrement formés et reliés
+            au CG</para>
+          </caption>
+        </mediaobject>
       </figure>
     </section>
 
@@ -1215,8 +1216,8 @@
               <primary>revue de performance</primary>
             </indexterm> risque de passer à côté d’améliorations au niveau
           individuel. Une organisation qui est sociocratique mais n’a pas de
-          Conseil d’Administration ou un équivalent du Cercle de Mission
-          pourrait manquer de direction pour sa trajectoire à long terme. Une
+          Conseil d’Administration ou un équivalent du Cercle Mission pourrait
+          manquer de direction pour sa trajectoire à long terme. Une
           organisation qui ne fait jamais de tour d’ouverture au début d’une
           réunion risque de trouver ses propres réunions impersonnelles, sans
           le sentiment de connexion et d’appartenance qui améliore la
@@ -1335,7 +1336,7 @@
     dépendra de leur degré d’implication.</para>
 
     <para>Si nous pouvons « recruter » une personne bénévole, pouvons-nous
-    également la « renvoyer » ? Il découle des principes généraux de
+    également la « renvoyer » ? Il découle des principes généraux de
     l’appartenance aux cercles<indexterm>
         <primary>cercle</primary>
 
@@ -1359,7 +1360,7 @@
 
     <para>Nous pouvons exclure quelqu’un d’un cercle ou d’un rôle et lui
     demander de faire autre chose dans la même organisation. Dans ce cas, nous
-    ne l’excluons pas comme membre – nous pouvons même le tenir en estime en
+    ne l’excluons pas comme membre — nous pouvons même le tenir en estime en
     tant que membre de l’organisation, tout en le sortant d’un cercle
     spécifique. Par exemple, une personne peut être la meilleure en cuisine et
     en coordination de bénévoles mais faire fuir les gens dans les collectes
@@ -1368,21 +1369,21 @@
     fonds.</para>
 
     <para>Comment pouvons-nous inclure de nouveaux membres dans un système
-    sociocratique, particulièrement dans un contexte bénévole ? Il est plus
+    sociocratique, particulièrement dans un contexte bénévole ? Il est plus
     difficile d’exiger une formation à la gouvernance sociocratique pour les
     bénévoles parce que leur implication est susceptible d’être moins forte et
-    durable. Quelqu’un nous a parlé de bénévoles dans un jardin communautaire
-    : « <emphasis>Les gens ne veulent pas être formés à la prise de décision,
-    ils sont là pour creuser la terre. »</emphasis> Notre réponse a été :
-    <emphasis>« Eh bien, quelqu’un doit toujours prendre des décisions, et
-    s’ils veulent les prendre eux-mêmes, ils auront besoin d’un cadre pour le
-    faire. » </emphasis>Les bénévoles travaillent dans le cadre des politiques
-    de l’organisation. Les organisations doivent être claires dans leurs
-    politiques sur quel niveau d’implication bénévole est requis pour être
-    inclus dans la prise de décision et quel niveau d’implication donne le
-    droit de donner son avis mais pas de prendre des décisions. Si les
-    bénévoles ont le droit de participer aux prises de décision, alors ils ont
-    besoin de formation et d’enseignement sur la sociocratie<indexterm>
+    durable. Quelqu’un nous a parlé de bénévoles dans un jardin
+    communautaire : « <emphasis>Les gens ne veulent pas être formés à la prise
+    de décision, ils sont là pour creuser la terre. »</emphasis> Notre réponse
+    a été : <emphasis>« Eh bien, quelqu’un doit toujours prendre des
+    décisions, et s’ils veulent les prendre eux-mêmes, ils auront besoin d’un
+    cadre pour le faire. » </emphasis>Les bénévoles travaillent dans le cadre
+    des politiques de l’organisation. Les organisations doivent être claires
+    dans leurs politiques sur quel niveau d’implication bénévole est requis
+    pour être inclus dans la prise de décision et quel niveau d’implication
+    donne le droit de donner son avis mais pas de prendre des décisions. Si
+    les bénévoles ont le droit de participer aux prises de décision, alors ils
+    ont besoin de formation et d’enseignement sur la sociocratie<indexterm>
         <primary>formation sur la gouvernance</primary>
 
         <secondary>pour les bénévoles</secondary>
@@ -1410,17 +1411,17 @@
     <indexterm>
       <primary>organisation</primary>
 
-      <secondary>petits groupes</secondary>
+      <secondary>petit groupe</secondary>
     </indexterm>
 
     <para>Certaines personnes présument que la sociocratie est réservée aux
     groupes de taille moyenne. Qu’en est-il des très petits groupes, comme des
-    groupes de 4-5 personnes ? Est-ce que dans ce cas une structure de
+    groupes de 4-5 personnes ? Est-ce que dans ce cas une structure de
     cercles<indexterm>
         <primary>cercle</primary>
 
         <secondary>structure de cercles</secondary>
-      </indexterm> est trop lourde à gérer? Cela dépend : il y a du vrai dans
+      </indexterm> est trop lourde à gérer ? Cela dépend : il y a du vrai dans
     l’affirmation qu’un très petit groupe ne bénéficiera pas d’une structure
     de cercles<indexterm>
         <primary>cercle</primary>
@@ -1428,7 +1429,7 @@
         <secondary>structure de cercles</secondary>
       </indexterm> de la même façon qu’un plus grand groupe. Cependant,
     parfois les avantages d’établir des cercles l’emportent sur l’effort. Les
-    considérations sont :</para>
+    considérations sont :</para>
 
     <itemizedlist>
       <listitem>
@@ -1453,7 +1454,7 @@
 
             <secondary>cercle à un membre</secondary>
           </indexterm>. En d’autres termes, est-ce que tout le monde sait qui
-        a l’autorité d’agir sur quoi ?</para>
+        a l’autorité d’agir sur quoi ?</para>
       </listitem>
 
       <listitem>
@@ -1464,7 +1465,7 @@
             <secondary>la pertinence des points à l'ordre du jour</secondary>
           </indexterm> pour tout le monde dans le CG. Est-ce que tout le monde
         fait exactement le même travail et est donc intéressé par les mêmes
-        sujets ? Si non, on pourrait bénéficier d’une structure de cercles,
+        sujets ? Si non, on pourrait bénéficier d’une structure de cercles,
         même dans une petite organisation.</para>
       </listitem>
     </itemizedlist>
@@ -1515,13 +1516,13 @@
     <para>Voici un autre avantage très subtil à avoir de la clarté sur les
     domaines et les buts<indexterm>
         <primary>but</primary>
-      </indexterm>, et sur qui s’occupe de quel domaine : il est plus facile
+      </indexterm>, et sur qui s’occupe de quel domaine : il est plus facile
     de recruter des membres potentiels s’ils ont un choix clair sur l’endroit
-    où mettre leur énergie. La question à leur poser n’est pas :
+    où mettre leur énergie. La question à leur poser n’est pas :
     <emphasis>« Voulez-vous rejoindre un groupe qui fait des événements, des
-    réseaux sociaux, une liste de diffusion et de la permaculture ? »
-    </emphasis>La question devient : <emphasis>« Voulez-vous nous aider à
-    organiser un événement mensuel ? Nous vous montrerons qui d’autre est
+    réseaux sociaux, une liste de diffusion et de la permaculture ? »
+    </emphasis>La question devient : <emphasis>« Voulez-vous nous aider à
+    organiser un événement mensuel ? Nous vous montrerons qui d’autre est
     connecté à nous et comment tout s’assemble.</emphasis> » Les travailleurs
     bénévoles<indexterm>
         <primary>bénévole</primary>
@@ -1566,6 +1567,9 @@
 
     <para>Dans cette configuration temporaire, nous devons davantage faire
     attention à la transparence que d’habitude.</para>
+
+    <?latex \enlargethispage*{\baselineskip}
+?>
 
     <itemizedlist>
       <listitem>
@@ -1706,7 +1710,7 @@
     rétroactions<indexterm>
         <primary>faire un retour</primary>
 
-        <secondary>feedback en opposé de la prise de décision</secondary>
+        <secondary>feedback versus la prise de décision</secondary>
       </indexterm> bien définies, de la prise de décision. Nous pouvons
     entendre de nombreux points de vue tout au long du processus d’élaboration
     de propositions<indexterm>
@@ -1741,11 +1745,11 @@
     juridiques, par exemple parce que leur forme légale semble déterminer
     quelles options elles ont pour leur gouvernance. Par exemple, chacune des
     écoles du système scolaire public aux Etats-Unis est limitée dans sa
-    capacité à choisir l’auto-gouvernance<indexterm>
+    capacité à choisir l’autogouvernance<indexterm>
         <primary>gouvernance</primary>
 
         <secondary>autogouvernance</secondary>
-      </indexterm>. Pour les organisations à but non-lucratif, parfois les
+      </indexterm>. Pour les organisations à but non lucratif, parfois les
     sources de financement limitent le choix de leur gouvernance. Nous
     incitons les groupes à ne pas abandonner trop vite. La majorité des
     organisations ont davantage de marge de manœuvre qu’elles ne le pensent,
@@ -1785,7 +1789,7 @@
         copropriétaires ne représente légalement que les personnes dont les
         noms sont mentionnés sur les actes de propriété. Mais une communauté
         est plus grande qu’un groupe de copropriétaires. Une communauté peut
-        inclure beaucoup de gens dont les noms ne sont pas sur les actes – les
+        inclure beaucoup de gens dont les noms ne sont pas sur les actes — les
         locataires, les conjoints, les autres membres de la famille. Si nous
         voulons de l’équivalence<indexterm>
             <primary>équivalence</primary>
@@ -1799,8 +1803,8 @@
             <secondary>cercle de département</secondary>
           </indexterm>. Si nous le regardons de cette façon, le domaine d’une
         association de copropriétaires n’est qu’une petite partie des
-        décisions qui doivent être prises dans une communauté. Soyons créatifs
-        !</para>
+        décisions qui doivent être prises dans une communauté. Soyons
+        créatifs !</para>
       </listitem>
     </itemizedlist>
   </section>
@@ -1814,8 +1818,8 @@
 
     <para>Les propriétaires d’une organisation commerciale ont habituellement
     le contrôle de leurs organisations par la propriété directe ou par le vote
-    à la majorité des actionnaires et / ou de leur Conseil d’administration.
-    Les organisations à but non-lucratif et les associations de bénévoles sont
+    à la majorité des actionnaires et/ou de leur Conseil d’administration. Les
+    organisations à but non lucratif et les associations de bénévoles sont
     habituellement contrôlées par le vote à la majorité de leur Conseil
     d’administration. Les organisations sociocratiques ne sont possédées et
     contrôlées par personne en raison de la prise de décision par consentement
@@ -1834,8 +1838,8 @@
       </indexterm> inclut à la fois le bien-être des salariés et le degré
     d’impact positif sur la société. Une organisation sociocratique a besoin
     que les principes et les pratiques sociocratiques soient inscrits dans les
-    statuts et règlements de l’organisation, les contrats entre associés, et /
-    ou tout autre document qui définit l’entité légale. Un échantillon de
+    statuts et règlements de l’organisation, les contrats entre associés,
+    et/ou tout autre document qui définit l’entité légale. Un échantillon de
     règlements à votre intention est disponible sur internet. Cependant le
     conseil légal dépasse les limites de ce livre.</para>
 
@@ -1856,9 +1860,7 @@
           membres de l’organisation. Ils n’ont pas à être accessibles au
           public (même s’ils pourraient l’être).</para>
         </listitem>
-      </itemizedlist>
 
-      <itemizedlist>
         <listitem>
           <para>Nous pouvons mettre en place n’importe quelle politique
           concernant la rémunération, nous devons juste le faire par
@@ -1872,9 +1874,7 @@
           toute organisation sociocratique s’efforcera d’amener plus d’égalité
           dans les salaires également.</para>
         </listitem>
-      </itemizedlist>
 
-      <itemizedlist>
         <listitem>
           <para>Dans une organisation sociocratique qui adopte le modèle de la
           propriété partagée, les investisseurs ont un dividende à taux fixe,
@@ -2109,8 +2109,8 @@
         réellement ouverts à résoudre les problèmes ce qui signifie que les
         membres de l’organisation vont s’engager dans une prophétie
         auto-réalisatrice sur « le consentement qui ne fonctionne pas ». Faire
-        traverser à toute une organisation une période d’essai oui / non
-        risque de ne pas produire d’informations réalistes. Le consentement
+        traverser à toute une organisation une période d’essai oui/non risque
+        de ne pas produire d’informations réalistes. Le consentement
         fonctionne seulement quand nous acceptons le fait que résoudre les
         problèmes entre égaux et avec une curiosité honnête est la seule façon
         d’être en lien les uns avec les autres. Si le groupe n’est pas prêt à
@@ -2233,14 +2233,14 @@
       <para>Excuser les absences et un suivi si quelqu’un a manqué une réunion
       doit faire partie de la culture de l’organisation. Les personnes qui
       suivent cela seront le leader du cercle et la personne qui a manqué la
-      réunion. Un cercle peut décider de mettre un membre en congé. (Dans ce
+      réunion. Un cercle peut décider de mettre un membre en congé. Dans ce
       cas, il pourra rester informé mais n’aura pas les droits de
       consentement<indexterm>
           <primary>consentement</primary>
 
-          <secondary>droits de consentement</secondary>
-        </indexterm> pour cette période), par exemple pour des raisons de
-      santé ou un voyage prolongé. Intentionnalité et clarté : nous devons
+          <secondary>droit au consentement</secondary>
+        </indexterm> pour cette période, par exemple pour des raisons de santé
+      ou un voyage prolongé. Intentionnalité et clarté : nous devons
       <emphasis>savoir</emphasis> quels sont nos accords et quels sont nos
       membres.</para>
     </section>
@@ -2369,6 +2369,9 @@
           <listitem>
             <para>Jugement : <emphasis>« Les gens ne veulent / peuvent pas
             prendre de responsabilité. » </emphasis></para>
+
+            <?latex \setlength\itemsep{5pt}
+?>
 
             <para>Bien qu’il soit vrai que certaines personnes trouvent la
             paix en n’ayant pas trop de responsabilité de temps en temps, il
@@ -2541,15 +2544,17 @@
 
         <para>La sociocratie demande que les gens revendiquent leur pouvoir.
         La sociocratie ne traite pas directement les expériences de privilège
-        internalisées ! Une façon de traiter cela est de faire un travail
+        internalisées ! Une façon de traiter cela est de faire un travail
         personnel sur la conscience du privilège et du pouvoir. Ce que la
         sociocratie fait est de fournir l’espace pour que tout le monde puisse
         parler en égaux. Les tours de parole sont cruciaux ici car ils
         incarnent le sentiment que toutes les voix comptent. En nous
         connaissant mieux les uns les autres, les stéréotypes et les schémas
         de pouvoir sur / pouvoir sous reculent. (Voir « Pouvoir sous » dans
-        les références en page <xref linkend="literature"
-        xrefstyle="select: pagenumber"/>.)</para>
+        les références en <phrase outputformat="print">page <xref
+        linkend="literature" xrefstyle="select: pagenumber"/></phrase><phrase
+        outputformat="html"><xref linkend="literature"
+        xrefstyle="select: label"/></phrase>.)</para>
 
         <para>De manière anecdotique, les élections sociocratiques semblent
         aller à l’encontre des modèles dominants, au moins jusqu’à un certain
@@ -2681,7 +2686,7 @@
             consentement<indexterm>
                 <primary>consentement</primary>
 
-                <secondary>droits de consentement</secondary>
+                <secondary>droit au consentement</secondary>
               </indexterm>. Être transparent signifie être généreux avec
             l’information et demander proactivement des contributions.</para>
           </listitem>
@@ -2719,7 +2724,7 @@
         <para>L’ironie de cette tendance est que les organisations très
         horizontales autant que les organisations très hiérarchisées peuvent
         être bloquées de la même façon dans ce paradigme de pouvoir
-        centralisé. Ce que nous pouvons faire :</para>
+        centralisé. Ce que nous pouvons faire :</para>
 
         <itemizedlist>
           <listitem>
@@ -2746,11 +2751,11 @@
             certain domaine<indexterm>
                 <primary>domaine</primary>
               </indexterm> pendant un certain temps avec des exigences
-            définies pour recueillir les retours. (Les lecteurs le
-            reconnaîtront peut-être : c’est l’approche standard pour gérer les
-            objections – les rendre plus petites et suffisamment concrètes
+            définies pour recueillir les retours. Les lecteurs le
+            reconnaîtront peut-être : c’est l’approche standard pour gérer les
+            objections — les rendre plus petites et suffisamment concrètes
             pour qu’un organe décisionnaire se sente à l’aise pour donner son
-            consentement : <emphasis>« Donnons à ce cercle l’autorité de
+            consentement : <emphasis>« Donnons à ce cercle l’autorité de
             prendre des décisions sur leur budget interne et sur ce projet
             particulier pendant 6 mois et faisons-leur suivre leur
             progression. Nous demandons un rapport mensuel par e-mail et une
@@ -2946,19 +2951,19 @@
       </section>
 
       <section>
-        <title>L'intimidation à donner et à solliciter des retours</title>
+        <title>La réticence à donner et à solliciter des retours</title>
 
         <indexterm significance="preferred">
           <primary>faire un retour</primary>
         </indexterm>
 
         <para>Nous avons déjà beaucoup parlé de donner une rétroaction
-        (<emphasis>feedback</emphasis>) dans le <xref linkend="feedback"/>.
-        Arriver à un point où la majorité des gens dans une organisation se
-        sent à l'aise avec faire un retour peut prendre beaucoup de temps.
-        Nous avons entendu parler de groupes qui implantent la sociocratie et
-        se débarrassent de tous les éléments touchant donner une rétroaction,
-        même les évaluations de réunion<indexterm>
+        (feedback) dans le <xref linkend="feedback"/>. Arriver à un point où
+        la majorité des gens dans une organisation se sent à l'aise avec faire
+        un retour peut prendre beaucoup de temps. Nous avons entendu parler de
+        groupes qui implantent la sociocratie et se débarrassent de tous les
+        éléments touchant donner une rétroaction, même les évaluations de
+        réunion<indexterm>
             <primary>réunion</primary>
 
             <secondary>évaluation de la réunion</secondary>
@@ -3097,8 +3102,8 @@
         informations. C'est toujours un équilibre.</para>
 
         <figure xml:id="toolittletoomuch">
-          <title>Trop d'information noie les gens; trop peu d'information
-          n'alimente pas assez</title>
+          <title>Trop d'information noie les gens ; trop peu d'information
+          n'alimente pas assez.</title>
 
           <mediaobject>
             <imageobject>
@@ -3112,8 +3117,8 @@
         l'information. Est-ce que nous envoyons des courriels, faisons des
         annonces en réunion, proposons des réunions publiques, une lettre
         d'information, des réseaux sociaux, des affiches, un système de
-        fichiers ? Invitons-nous les rétroactions par contact direct, des
-        sondages en ligne, papier, etc. ? La majorité des gens ont expérimenté
+        fichiers ? Invitons-nous les rétroactions par contact direct, des
+        sondages en ligne, papier, etc. ? La majorité des gens ont expérimenté
         que le niveau optimal d'information dépend du contexte, il dépend de
         ce à quoi les gens sont habitués, du niveau de cohésion de la
         communauté, et de beaucoup d'autres facteurs. Il semble important
@@ -3121,9 +3126,9 @@
         ont tendance à lire les affiches. Ce qui fonctionne bien est de mettre
         l'information la plus proche possible de la situation que nous
         régulons. Le cercle a fait une politique sur la façon d'utiliser le
-        tuyau d'arrosage de la communauté ? Plastifier une version courte et
+        tuyau d'arrosage de la communauté ? Plastifier une version courte et
         affichez-la près du tuyau d'arrosage. Le cercle a fait une politique
-        sur la façon de nettoyer après avoir loué une salle ? Incluez la
+        sur la façon de nettoyer après avoir loué une salle ? Incluez la
         politique (courte et dans un langage compréhensible) dans chaque
         courriel de confirmation, ou envoyez-le automatiquement aux gens le
         jour de leur réservation. Si les gens ont tendance à utiliser trop de
@@ -3131,7 +3136,7 @@
         qui correspond au volume de produit que vous souhaitez que les gens
         utilisent. Si vous voulez que les gens utilisent du détergent sans
         parfum dans les machines à laver, un signe sur la porte peut être
-        ignoré – ce peut être un bon feedback de mettre un panneau à l'endroit
+        ignoré — ce peut être un bon feedback de mettre un panneau à l'endroit
         où va le détergent. L'information ne suffit pas, elle doit être
         exprimée de la bonne façon, au bon moment et au bon endroit. Un peu de
         créativité peut aider.</para>
@@ -3203,7 +3208,7 @@
         <para>L'une des tâches d'un cercle parent<indexterm>
             <primary>cercle</primary>
 
-            <secondary>cercle Parent</secondary>
+            <secondary>cercle parent</secondary>
           </indexterm> est de prendre soin de ses sous-cercles. L'appeler un
         cercle « parent » est complètement pertinent ici ! Le cercle enfant
         rend compte au cercle parent, mais le cercle parent doit écouter et
@@ -3222,10 +3227,10 @@
 
         <informalexample>
           <para>SoFA a soutenu une organisation avec des cercles géographiques
-          dans tout le pays aux USA. Des groupes locaux étaient connectés,
-          formant des groupes régionaux, et les cercles régionaux un cercle
-          général national. Un des groupes régionaux s'était écroulé. Le
-          cercle général<indexterm>
+          dans tout le pays aux États-Unis. Des groupes locaux étaient
+          connectés, formant des groupes régionaux, et les cercles régionaux
+          un cercle général national. Un des groupes régionaux s'était
+          écroulé. Le cercle général<indexterm>
               <primary>cercle général</primary>
             </indexterm> était trop occupé avec la réflexion stratégique et ne
           faisait pas attention à tous ses cercles de département<indexterm>
@@ -3243,7 +3248,7 @@
         parent<indexterm>
             <primary>cercle</primary>
 
-            <secondary>cercle Parent</secondary>
+            <secondary>cercle parent</secondary>
           </indexterm> de prendre des nouvelles du cercle enfant.</para>
       </section>
 
@@ -3362,8 +3367,9 @@
       </listitem>
     </itemizedlist>
 
-    <para>Voir la section <xref linkend="beyond-this-book"
-    xrefstyle="select: labelnumber"/> pour d'autres ressources.</para>
+    <para><?latex \noindent{}?>Voir la section <xref
+    linkend="beyond-this-book" xrefstyle="select: labelnumber"/> pour d'autres
+    ressources.</para>
 
     <section>
       <title>Comment continuer à apprendre facilement : les commentaires en
@@ -3447,7 +3453,7 @@
       Certains cercles pourraient même finir par n'avoir aucun membre
       effectivement formé à la sociocratie. Ils se contenteront probablement
       de se débrouiller au lieu de demander une formation, parce qu'ils ne
-      seront peut-être pas conscients que l'auto-gouvernance<indexterm>
+      seront peut-être pas conscients que l'autogouvernance<indexterm>
           <primary>gouvernance</primary>
 
           <secondary>autogouvernance</secondary>
@@ -3547,7 +3553,7 @@
         </listitem>
 
         <listitem>
-          <para>les nouveaux membres arrivent 15 min en avance et / ou restent
+          <para>les nouveaux membres arrivent 15 min en avance et/ou restent
           15 minutes après chaque réunion pour être informés sur le processus
           avant la réunion, et pour pouvoir poser des questions après la
           réunion ;</para>
