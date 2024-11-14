@@ -1,0 +1,10 @@
+# Configuration file for `latexmk`
+#
+# If you run `latexmk` from within the same directory as this file (which
+# the Rakefile is currently configured to do), then it will automatically
+# detect this configuration file, because the filename follows the naming
+# convention for that to happen. (See the latexmk(1) man page for details.)
+
+# Use `texindy` to create an index for French and according to the
+# xelatex input markup scheme.
+$makeindex = 'texindy -L french -I xelatex %O -o %D %S';
