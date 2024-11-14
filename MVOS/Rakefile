@@ -4,6 +4,7 @@ def chdir_then(filename)
   dirname, localname = File.split(filename)
 
   Dir.chdir(dirname) do
+    rake_output_message "(in #{Dir.pwd})"
     yield localname
   end
 end
@@ -28,6 +29,20 @@ end
 
 desc 'Build the French book...'
 task build_fr: %w[fr/Chaque-voix-compte.dbk.tex fr/Chaque-voix-compte.dbk.pdf]
+
+desc 'Build the French epub book contents...'
+task generate_fr_ebook: %w[fr/Chaque-voix-compte.dbk] do |t|
+  chdir_then t.prerequisites[0] do |filename|
+    sh 'xsltproc', '--xinclude', '--nonet', 'epub-chunk-config.xsl', filename
+  end
+end
+
+desc 'Zip up the French epub book...'
+task :zip_fr_ebook do
+  chdir_then 'fr/epub/Chaque-voix-compte.epub' do |filename|
+    sh 'zip', '-r', '-X', '-u', filename, 'mimetype', 'META-INF', 'OEBPS'
+  end
+end
 
 desc 'Generate the English LaTeX source...'
 file 'MVOS.en.dbk.tex' => ['en/dblatex-config.xsl', 'MVOS.en.dbk'] do |t|
