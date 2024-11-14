@@ -163,7 +163,7 @@
   \orgrestoreapp
 }
 
-%\usepackage{dbk_fonts}
+\usepackage{dbk_fonts}
 \usepackage{dbk_hyper}
 
 \usepackage{fancyhdr}
@@ -333,6 +333,11 @@
 \usepackage{dbk_annot}
 
 \makeatother
+
+\def\DBKcover{
+% We do this in the XSLT so that it can be output in the generated source,
+% so that paths can be resolved correctly.
+}
 
 \usepackage{framed}
 %\newenvironment{quotationb}%
