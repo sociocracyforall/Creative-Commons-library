@@ -1,0 +1,3496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Converted by db4-upgrade version 1.1 -->
+<article version="5.0" xml:lang="" xmlns="http://docbook.org/ns/docbook">
+  <title>Décidons ensemble</title>
+
+  <para>Traduction et relecture complété par Stéphane Brodu mai 2023</para>
+
+  <para>To do by Francine PK, French Language Authority Role : resolve the
+  comments made by Stéphane Brodu - DONE!  August 2023. Translation
+  complete!</para>
+
+  <para>Décidons ensemble</para>
+
+  <para>Pratiquer la sociocratie avec les enfants par Hope Wilder</para>
+
+  <para>Sociocracy for All</para>
+
+  <para>Amherst, MA USA</para>
+
+  <para>sociocracyforall.org</para>
+
+  <para>LOGO</para>
+
+  <para>Sociocracy For All</para>
+
+  <para>20 Pulpit Hill Road, Unit 8</para>
+
+  <para>Amherst MA, 01002</para>
+
+  <para>United States of America</para>
+
+  <para>info@sociocracyforall.org</para>
+
+  <para>Publié par Sociocracy For All. Sociocracy For All est un projet de
+  l'Institute for Peaceable Communities (IPC), une organisation à but non
+  lucratif incorporée 501(c)(3) dans le Massachusetts, aux États-Unis.</para>
+
+  <para>© Hope Wilder 2022. Tous le contenu de ce volume est disponible sous
+  licence Creative Commons Attribute-ShareAlike Non-commercial 4.0.</para>
+
+  <para>https://creativecommons.org/licenses/by-nc-sa/4.0/</para>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata depth="0.3646inch" fileref="embedded:image7.png"
+                   width="1.0102inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para>Ceci inclut les diagrammes, les illustrations et les
+  références.</para>
+
+  <para>ISBN : 978-1-949183-10-8</para>
+
+  <para>Conception de la couverture © Sociocracy for All 2022</para>
+
+  <para>Conception de la couverture par Shena Honey L. Pulido</para>
+
+  <para>Témoignages</para>
+
+  <para>"Mon enfant se sent maintenant vraiment à l’aise pendant les réunions
+  de famille et cela enlève beaucoup de stress pendant les tâches et des
+  autres activités quotidiennes. Je recommanderais Décidons ensemble à toute
+  personne travaillant avec des enfants."</para>
+
+  <para>-Erik Gillespie, parent</para>
+
+  <para>"J'aime bien le fait que tout le monde puisse être d'accord plutôt que
+  juste une majorité des gens. Je ne sais pas quoi dire, c'est juste
+  génial."</para>
+
+  <para>-Kira Gillespie, 8 ans</para>
+
+  <para>"Avec ce livre, Hope a fourni un guide accessible pour mettre en œuvre
+  concrètement, étape par étape, le pouvoir partagé avec les enfants. C'est
+  génial ! J'apprécie vraiment les exemples partagés (ainsi que toutes les
+  fiches de travail et les modèles), les conseils de facilitation et le guide
+  de réunion transformative (voir chapitre 5). J'espère que, comme moi, vous
+  allez vous plonger dans ce livre afin de vous approprier ces techniques pour
+  connecter avec les jeunes et le pratiquer avec eux. Au plaisir de décider
+  ensemble !"</para>
+
+  <para>-Will Gowen, directeur des programmes de la</para>
+
+  <para>communauté de co-apprentissage School Around Us.</para>
+
+  <para>"Il est la clé du coffre aux trésors pour un nouveau paradigme à
+  l'école et en famille !".</para>
+
+  <para>-Gina Simm, auteur de Heart to Heart : 3 Systems for</para>
+
+  <para>Staying Connected.</para>
+
+  <para>"C'est un livre qui fait chaud au cœur ! Il fournit des conseils
+  pratiques et de l'inspiration sur la façon d'utiliser la sociocratie avec
+  les enfants de manière amusante et légère. Il vous permet également de
+  ressentir ce que c'est que d'être à l'intérieur d'une école démocratique et
+  apprendre d'une expérience réelle. Je le recommande vivement à tous ceux et
+  celles qui cherchent des moyens d'écouter les enfants et les jeunes pour
+  collaborer avec eux !"</para>
+
+  <para>-Marianne Osorio, directrice du film School Circles et</para>
+
+  <para>fondatrice de Wondering School.</para>
+
+  <para>Contenu</para>
+
+  <para>Introduction</para>
+
+  <para>Pourquoi pratiquer la sociocratie avec les enfants ?</para>
+
+  <para>Qu'est-ce que la sociocratie ?</para>
+
+  <para>A propos de ce livre</para>
+
+  <para>Questions communes</para>
+
+  <para>Qu’allez-vous décider ensemble</para>
+
+  <para>Réunions</para>
+
+  <para>Des outils simples pour des réunions efficaces avec les enfants
+  Réunion 1 : Tours de parole et accords</para>
+
+  <para>Réunion 2 : Comment nous décidons ensemble</para>
+
+  <para>Réunion 3 : Qu'allons-nous faire ensemble ?</para>
+
+  <para>Réunion 4 : Passons à l'action</para>
+
+  <para>Réunion 5 : Changement d'attitude</para>
+
+  <para>Réunion 6 : Qui va faire quoi ?</para>
+
+  <para>Réunion 7 : Propositions complexes</para>
+
+  <para>Aide-mémoire pour les animateurs</para>
+
+  <para>Aide-mémoire pour la résolution des objections</para>
+
+  <para>Aide-mémoire pour le processus de sélection</para>
+
+  <para>Aide-mémoire pour la synthèse des propositions</para>
+
+  <para>Annexes</para>
+
+  <para>Annexe 1 : Jeux de consentement</para>
+
+  <para>Annexe 2 : Prompts pour les tours de parole</para>
+
+  <para>Annexe 3 : Exemples d'accords de Pathfinder</para>
+
+  <para>Annexe 4 : Ressources supplémentaires</para>
+
+  <para>Remerciements</para>
+
+  <para>1 Décidons ensemble : Pratiquer la sociocratie avec les enfants</para>
+
+  <para>PREMIÈRE PARTIE</para>
+
+  <para>Introduction</para>
+
+  <para>Pourquoi la sociocratie avec des enfants 2</para>
+
+  <para>Pourquoi pratiquer la sociocratie avec les enfants ?</para>
+
+  <para>Les enfants apprennent sans cesse de nouveaux jeux, et ils adorent en
+  modifier les règles. Je vois la pratique de la sociocratie comme
+  l'apprentissage des règles d'un nouveau jeu appelé "Décidons ensemble". Qui
+  fera quelles tâches collectives ? Où devrions-nous aller en voyage ? Comment
+  allons-nous gérer les gros mots ? Quelles sont les règles concernant le
+  temps passé devant l'écran ? Prendre ces décisions avec les enfants peut
+  s'avérer difficile et les choix finissent souvent par reposer sur les
+  épaules des adultes, ce qui crée un déséquilibre de pouvoir et d’éventuels
+  conflits. La sociocratie propose un ensemble d'outils qui peuvent aider. Ces
+  outils peuvent être appliqués partout où les enfants et les adultes sont
+  habilités à décider ensemble, qu'il s'agisse de familles, de clubs, de
+  coopératives ou d'écoles, de quartiers, de villes et même de pays.</para>
+
+  <para>Je me souviens très bien d'une situation urgente concernant la
+  sécurité des enfants sur internet dans l'école que j'ai fondée. Certains des
+  plus jeunes enfants avaient cherché des "trucs de fesses" et étaient
+  accidentellement tombés sur des contenus... disons, très inappropriés,
+  malgré nos pare-feux et nos contrôles parentaux. J'étais terrifiée à l'idée
+  que les parents retirent leurs enfants. En tant que directrice, j'étais
+  tentée de répondre de manière réactive par une décision d'urgence et
+  unilatérale. C'était un test parfait pour voir si nous pouvions faire
+  confiance à notre processus sociocratique collaboratif. Malgré le sentiment
+  d'urgence, nous sommes restés fidèles à nos accords et avons fait le tour
+  des enfants, des parents et du personnel en leur demandant : "Qu'est-ce qui
+  vous aiderait à vous sentir en sécurité avec les enfants qui utilisent
+  internet ?" Les parents voulaient des directives sur la façon de s'engager
+  dans les plateformes de chat et sur la sécurité avec les étrangers sur
+  Internet. Les enfants voulaient pouvoir regarder YouTube "normal" plutôt que
+  la version réservée aux enfants. Le personnel voulait pouvoir demander à
+  regarder les écrans des enfants pour s'assurer que les accords de sécurité
+  étaient respectés. Des discussions ont eu lieu pour définir ce qui constitue
+  un contenu approprié, en prenant en compte des sujets allant de la
+  pornographie aux vidéos de conspiration ou aux contenus violents. Le
+  processus de décision par consentement a permis de trouver une solution qui
+  répondait aux besoins de chacun en matière de sécurité et de liberté. Les
+  enfants ont accepté d'assister à un atelier mensuel sur le sujet de la
+  sécurité des enfants sur Internet, où des thèmes seraient approfondis, ainsi
+  que de signer un accord sur la manière d'utiliser Internet. Nous l'avons
+  créé ensemble, après avoir pris soin d’entendre chaque voix. Avec cet accord
+  mis en place, notre communauté a pu avancer ensemble, en équipe. Ce n'est
+  qu'un des nombreux exemples où l'utilisation de la sociocratie avec les
+  enfants a renforcé notre communauté.</para>
+
+  <para>En utilisant la sociocratie avec les enfants, je les ai vus grandir
+  dans leur pouvoir, empli de fierté à mesure qu'ils prenaient des
+  responsabilités. J'ai vu des enfants timides prendre confiance en eux parce
+  qu'ils étaient vraiment écoutés et qu'ils ont appris à exprimer leurs
+  opinions. J'ai vu des enfants s'habituer à être traités avec respect par les
+  adultes, des enfants qui n'hésitent pas à être en désaccord avec l'autorité
+  et à la remettre en question. Les enseignants m'ont dit qu'ils étaient
+  soulagés de ne pas avoir à connaître les réponses à tout moment sur la façon
+  de gérer les difficultés qui surviennent en classe. Ils sont étonnés par les
+  solutions innovantes que les élèves trouvent. Des parents m'ont raconté que
+  leurs enfants avaient introduit la prise de décision par consentement à la
+  maison et résolu des désaccords familiaux auparavant insurmontables en
+  cherchant un terrain d'entente acceptable pour tous et toutes. Une étude
+  formelle menée à la Rainbow Community School d'Asheville, en Caroline du
+  Nord, aux États-Unis, a révélé que les élèves qui pratiquent la sociocratie
+  sont beaucoup plus aptes à</para>
+
+  <para>3 Décidons ensemble : Pratiquer la sociocratie avec les enfants</para>
+
+  <para>adopter le point de vue des autres que leurs camarades des écoles
+  conventionnelles.1 Pratiquer la sociocratie avec les enfants peut
+  véritablement changer des vies.</para>
+
+  <para>À plus grande échelle, les Parlements des enfants de quartier en Inde2
+  relient des milliers d'enfants dans un réseau sociocratique de groupes de
+  quartier, chacun ayant des représentants-enfants au niveau local et
+  national. Ces enfants discutent de problèmes réels et consentent à des
+  mesures qu'ils peuvent prendre pour les résoudre. Les parlements d'enfants
+  ont réussi à améliorer l'assainissement des écoles et des lieux publics, à
+  faire pression pour l'inclusion des élèves handicapés dans les écoles, à
+  fonder des aires de jeux et des bibliothèques publiques, et à œuvrer pour
+  mettre fin au trafic sexuel des mineurs. Dans un cercle parlementaire de
+  quartier, des enfants maltraités par des pères alcooliques se sont réunis
+  pour faire une présentation dramatique de leurs histoires personnelles à
+  leur village. Grâce à cette présentation, ils ont raconté leur histoire,
+  sensibilisé les gens et réussi, avec l'aide du conseiller municipal, à
+  lancer un nouveau programme de réhabilitation et un programme contre la
+  violence domestique. Les outils de la sociocratie servent à soutenir
+  l'organisation des enfants pour répondre à leurs besoins. Actuellement, un
+  Parlement mondial provisoire des enfants3 est en train de se former pour
+  aider à renforcer la voix des enfants dans le monde entier.</para>
+
+  <para>Comme vous le découvrirez, la sociocratie est une façon de partager le
+  pouvoir où les voix de chacun-e sont entendues et où les besoins de tous
+  sont pris en compte. L'utilisation de la sociocratie avec les enfants est
+  non seulement un outil pédagogique précieux, mais la sociocratie crée
+  également un but partagé et une appartenance au groupe. Je crois fermement
+  que l'utilisation d'outils sociocratiques avec les enfants peut contribuer à
+  créer un monde plus humain.</para>
+
+  <para>1 Renee L. Owen &amp; John A. Buck (2020): Creating the conditions for
+  reflective team practices: examining sociocracy as a self-organizing
+  governance model that promotes transformative learning, Reflective Practice2
+  https://childrenparliament.in/</para>
+
+  <para>3 https://wcp.earth/</para>
+
+  <para>Qu'est-ce que la sociocratie ? 4</para>
+
+  <para>Qu'est-ce que la sociocratie ?</para>
+
+  <para>La sociocratie est une forme de gouvernance et un ensemble d'outils de
+  prise de décision qui offre des moyens efficaces de partager le pouvoir.
+  Grâce à la sociocratie, les décisions peuvent être plus inclusives,
+  égalitaires et harmonieuses, et donc mieux répondre aux besoins de
+  chacun.</para>
+
+  <para>Majorité ou consensus versus sociocratie</para>
+
+  <para>Dans une hiérarchie verticale, les décisions peuvent être prises
+  rapidement et l'on sait clairement qui est responsable. En revanche, les
+  personnes situées “en bas de l'échelle" peuvent être complètement exclues du
+  processus décisionnel. C'est fondamentalement inégalitaire. En famille, à
+  l’école et au sein d’organisations, de nombreuses personnes sont mécontentes
+  d'une structure autoritaire, or il est difficile de savoir quelle
+  alternative mettre en place.</para>
+
+  <para>La prise de décision à la majorité, où les décisions sont prises par
+  un vote populaire, est familière à la plupart des gens. Les avantages de la
+  règle de la majorité sont que des décisions claires peuvent être prises
+  rapidement et que les arguments des deux parties peuvent être entendus. Les
+  inconvénients sont des débats controversés et une minorité mécontente qui
+  peut avoir l'impression que sa voix ne compte pas. Cette forme de prise de
+  décision peut rapidement dégénérer en tyrannie de la majorité.</para>
+
+  <para>La prise de décision par consensus tient compte des voix de tous, y
+  compris de la minorité, mais une seule personne peut bloquer indéfiniment
+  l'adoption d'une mesure parce que tout le monde doit être d'accord. Cela
+  peut conduire à la tyrannie de la minorité et à des réunions très longues.
+  Comme vous en avez probablement fait l'expérience, quelque chose d'aussi
+  simple que de décider ce que l'on va manger pour le dîner peut s'avérer long
+  et frustrant lorsqu'on essaie de parvenir à un consensus.</para>
+
+  <para>La prise de décision par consentement en sociocratie inclut les voix
+  des minorités, mais diffère du consensus en ce que les objections sont
+  activement valorisées et récoltées [par le collectif] pour améliorer les
+  propositions. Plutôt que de bloquer une décision, les objections peuvent
+  aider à faire avancer le processus. La sociocratie permet de combiner les
+  valeurs égalitaires de la prise de décision participative avec la clarté qui
+  découle de la définition des rôles et des domaines de prise de décision, ce
+  qui donne le meilleur des deux mondes.</para>
+
+  <para>5 Décidons ensemble : Pratiquer la sociocratie avec les enfants</para>
+
+  <para>A propos de ce livre</para>
+
+  <para>A propos de l'auteure et les origines de ce livre</para>
+
+  <para>J'ai fondé la Pathfinder Community School, une communauté
+  d'apprentissage autogérée pour les enfants de 5 à 14 ans à Durham, NC, USA.
+  Dès le début, le programme a été conçu pour utiliser la sociocratie avec les
+  enfants. Après plusieurs années de mise en œuvre, nous avons découvert que
+  certaines des pratiques de la sociocratie étaient compliquées et difficiles
+  à apprendre pour les enfants. En gardant le cœur de la sociocratie
+  (consentement, inclusion et amélioration continue par le biais de la
+  rétroaction), nous avons simplifié le processus en le divisant en petites
+  étapes qui semblaient mieux fonctionner, surtout pour les enfants plus
+  jeunes. La rétroaction des familles qui utilisent la sociocratie à la maison
+  a également servi à améliorer ce livre pour le public familial. Ce manuel
+  vous aidera à faire participer les enfants à la prise de décision d'une
+  manière qui fonctionne aussi bien pour les enfants que pour les
+  adultes.</para>
+
+  <para>Comment utiliser ce manuel</para>
+
+  <para>Ce manuel s'adresse à tous ceux qui souhaitent prendre des décisions
+  avec les enfants. Le processus est applicable aux familles, aux coopératives
+  d'enseignement à domicile, aux groupes de jeunes, aux programmes extra
+  scolaires, aux clubs scolaires ou aux salles de classe. La sociocratie
+  permet à tous les enfants impliqués de travailler sur des buts
+  communs.</para>
+
+  <para>Ce livre est conçu pour être travaillé avec les enfants qui prennent
+  des décisions en collaboration au sein d'un petit groupe. Les animateurs
+  adultes lisent les pages d'instructions pour chaque réunion, puis utilisent
+  l'ordre du jour comme point de départ pour les réunions avec les
+  enfants.</para>
+
+  <para>Chaque réunion de ce manuel couvre un aspect différent de la
+  sociocratie et les réunions s'appuient les unes sur les autres. Les trames
+  de réunions sont proposées comme des outils pertinents ; prenez ce qui
+  fonctionne pour vous et laissez le reste. Il sera utile de lire toutes les
+  réunions, même si vous n'adoptez que certaines parties du processus, car les
+  concepts se renforcent et se construisent les uns sur les autres. Les
+  familles trouveront peut-être plus facile de combiner certaines réunions,
+  car davantage de sujets peuvent être abordés en une seule séance avec
+  quelques enfants seulement. Les écoles et les groupes plus grands trouveront
+  très utile de travailler sur la progression de trames de réunions et les
+  fiches de travail supplémentaires.</para>
+
+  <para>Ces outils sont simplifiés pour le travail avec les enfants. La
+  sociocratie comprend également des structures plus complexes, qui ne sont
+  pas abordées dans ce livre, et qui peuvent être utilisées dans des
+  communautés plus grandes qu'une seule famille ou classe. Les cercles à
+  double lien sont l'une de ces structures qui permettent à la sociocratie de
+  fonctionner à l'échelle d'une école ou avec des centaines d'enfants
+  participant à de plus petits cercles interconnectés. Les Parlements
+  d'Enfants en Inde en sont un excellent exemple, reliant plusieurs milliers
+  d'enfants en utilisant la sociocratie4.</para>
+
+  <para>4 https://www.powertothechildren-film.com/ - Power to the Children, un
+  documentaire sur les parlements des enfants en Inde.</para>
+
+  <para>À propos de ce livre 6</para>
+
+  <para>NOTE</para>
+
+  <para>La structuration en cercle dans les écoles ne seront pas abordées dans
+  ce livre, mais sont disponibles dans une ressource gratuite en ligne en tant
+  qu'addendum :</para>
+
+  <para>https://sociocracyforall.org/lets-decide-together-2021</para>
+
+  <para>D'autres ressources permettant d'approfondir la sociocratie sont
+  énumérées à l'annexe 4 : Ressources supplémentaires (page ).</para>
+
+  <para>Notes sur la tranche d'âge</para>
+
+  <para>Ce livre est destiné à être utilisé avec des enfants âgés de 5 à 12
+  ans. Les réunions sont destinées à être amusantes ! Pour les 13 ans et plus,
+  vous pourriez modifier légèrement le matériel et couvrir deux ou plusieurs
+  sujets par réunion plutôt qu'un seul. Pour les adolescents plus âgés, le
+  matériel destiné aux adultes peut parfaitement convenir. Cependant,
+  n'oubliez pas que les adolescents (et les adultes !) aiment toujours se
+  connecter et jouer à des jeux.</para>
+
+  <para>Ce qui fonctionne pour les différents groupes d'âge</para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>5-7 ans</para></entry>
+
+          <entry><para>● Réunions 1-5</para></entry>
+        </row>
+
+        <row>
+          <entry><para>8-10 ans</para><para>11 ans et plus</para></entry>
+
+          <entry><para>● Tout ce qui précède</para><para>● Réunion
+          6</para><para>● Tout ce qui précède</para><para>● Réunion
+          7</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>7 Décidons ensemble : Pratiquer la sociocratie avec les enfants</para>
+
+  <para>Questions communes</para>
+
+  <para>Quel est le contexte culturel nécessaire pour que la sociocratie
+  puisse être mise en œuvre avec succès ?</para>
+
+  <para>Une culture de collaboration et de compassion est nécessaire pour
+  mettre en œuvre la sociocratie avec succès. Les enfants doivent sentir
+  qu'ils sont en sécurité, vus et entendus. Les méthodes complémentaires à la
+  sociocratie comprennent la Communication NonViolente (CNV) et les pratiques
+  restauratives, qui sont des outils de résolution des conflits et de
+  construction de la relation. Il est important, tant dans les familles que
+  dans les grands groupes d'enfants, d'avoir un processus de résolution des
+  conflits qui soit clair et consenti. La CNV et les pratiques restauratives
+  apportent un soutien à ces conversations importantes. Voir Tours de parole
+  pour la résolution des conflits (page ) pour un exemple de processus qui
+  fonctionne.</para>
+
+  <para>L'aspect le plus important pour le succès est une attitude qui
+  consiste à accepter de faire des erreurs, à être prêt à essayer des
+  nouvelles choses et à accepter d'échouer. La capacité à apprendre de ses
+  erreurs est cruciale pour faire fonctionner la sociocratie dans n'importe
+  quel contexte.</para>
+
+  <para>Comment la sociocratie s'intègre-t-elle à l'apprentissage social et
+  émotionnel ?</para>
+
+  <para>La sociocratie favorise l'apprentissage social et émotionnel de
+  plusieurs façons. Tout d'abord, les compétences d'écoute et d'expression
+  orale sont mises en pratique lors des discussions en cercle. Les tours
+  d’accueil et l'établissement de relations peuvent aider les gens à
+  identifier ce qu'ils ressentent et à le partager avec autrui. Identifier les
+  besoins du groupe et des individus par le biais du processus sociocratique
+  peut développer l'empathie et la conscience de la façon dont les autres sont
+  affectés par son propre comportement.</para>
+
+  <para>Que faut-il pour mettre en œuvre la sociocratie à l'échelle de l'école
+  ?</para>
+
+  <para>Tout d'abord, le soutien de la direction. S'il existe une hiérarchie
+  verticale rigide au niveau administratif, véritablement responsabiliser les
+  élèves ne peut pas aboutir. Les domaines de l'administration et des
+  enseignants doivent être clairs, de même que ceux des élèves. La plupart des
+  écoles ne fonctionnent pas de manière démocratique et il est difficile de
+  mettre en œuvre la sociocratie en tant qu'enseignant isolé dans une classe,
+  sans le soutien du département administratif. Il est préférable qu'il y ait
+  un engagement clair de partager le pouvoir dans l'ensemble de
+  l'organisation. Si vous mettez en œuvre la sociocratie en tant qu'enseignant
+  unique, assurez-vous que vous avez le pouvoir, au sein de votre classe, de
+  céder un domaine spécifique aux enfants. Il peut s'agir, par exemple, de la
+  disposition des objets dans la classe, de la façon de travailler ensemble
+  sur des projets de groupe, de la façon de garder de l’ordre dans la salle ou
+  des accords sur le comportement en classe.</para>
+
+  <para>Deuxièmement, la formation continue du personnel. Pour mettre en œuvre
+  la sociocratie de manière efficace, il faut un nombre suffisant de
+  facilitateurs formés pour assurer la continuité des réunions. La mise en
+  œuvre des outils de facilitation sociocratique peut être contre-intuitive au
+  début, il faut donc du temps et de la pratique pour les utiliser de façon
+  efficace.</para>
+
+  <para>Questions communes 8</para>
+
+  <para>Enfin, l'évaluation et le consentement continu. Assurez-vous de
+  consentir à utiliser les outils sociocratiques pour une durée limitée et de
+  faire le point sur leur fonctionnement. N'hésitez pas à itérer sur ces
+  outils et à les adapter à vos circonstances spécifiques.</para>
+
+  <para>Comment mettre en œuvre la sociocratie à l'échelle d'un quartier ou
+  d'un pays ?</para>
+
+  <para>Commencez petit, puis développez ! Il existe un livre intitulé Hello,
+  Neighbourocracy5, écrit par le fondateur du mouvement du Parlement des
+  enfants, qui explique en détail comment créer et soutenir un Parlement des
+  enfants de quartier. Vous pouvez également rejoindre et soutenir le
+  Parlement mondial des enfants6 et le Parlement indien des enfants du
+  voisinage7.</para>
+
+  <para>5 https://www.leanpub.com/helloneighbourocracy/6
+  https://wcp.earth/</para>
+
+  <para>7 https://childrenparliament.in/</para>
+
+  <para>9 Décidons ensemble : Pratiquer la sociocratie avec les enfants</para>
+
+  <para>Qu’allez-vous décider ensemble ?</para>
+
+  <para>Domaine des enfants</para>
+
+  <para>Dans notre monde, il est normal que les adultes détiennent tout le
+  pouvoir par défaut. Il est important, lorsque l'on utilise ce livre, de
+  donner aux enfants un pouvoir et une responsabilité réels. En même temps, il
+  n'est pas toujours approprié de laisser les enfants décider de tout. Sur
+  quels sujets peuvent-ils décider en toute sécurité ? Que pouvez-vous leur
+  confier entièrement ? En tant que parent, vous pourriez leur confier "la
+  préparation du déjeuner du mercredi", "comment dépenser 20 dollars en
+  famille" ou "où aller ce samedi". En tant qu'enseignant, vous pouvez
+  peut-être leur confier les activités auxquelles les enfants ont accès
+  pendant leur temps libre. Une des utilisations de la sociocratie est de
+  modifier les pratiques, comme la façon de garder les parties communes en
+  ordre, ou les accords sur la façon dont chacun veut être traité. En
+  sociocratie, les zones de responsabilité et de pouvoir de décision sont
+  appelées des domaines.</para>
+
+  <para>Exemples de domaines :</para>
+
+  <para>● Une pièce dans une maison</para>
+
+  <para>● Zones communes dans une école ou une maison</para>
+
+  <para>● Un repas hebdomadaire</para>
+
+  <para>● Clubs scolaires</para>
+
+  <para>● Projets spécifiques</para>
+
+  <para>● Un budget discrétionnaire</para>
+
+  <para>● Améliorations apportées à votre communauté</para>
+
+  <para>Sachez quels domaines vous voulez réserver aux adultes et sur quoi
+  vous voulez décider par consentement. Dans les communautés qui utilisent la
+  sociocratie avec les enfants, un grand nombre de décisions sont confiées aux
+  enfants. À Pathfinder, l'école que j'ai fondée, nous réservions les
+  décisions relatives à la santé et à la sécurité aux adultes. Une erreur que
+  j'ai apprise à éviter est de donner du pouvoir aux enfants puis de le leur
+  retirer, par exemple en laissant les enfants décider de la destination d'une
+  sortie scolaire, puis d'aller dans un endroit complètement différent sans
+  demander.</para>
+
+  <para>Il est important de savoir s'il existe des limites à la prise de
+  décision imposées par les structures de pouvoir existantes, par exemple dans
+  une école qui utilise une hiérarchie autoritaire au niveau administratif, ou
+  des soucis concernant la responsabilité ou d'autres questions juridiques.
+  Vérifiez que les domaines des enfants ne seront pas sapés par des décisions
+  venant d'en haut. J'ai entendu une fois l'histoire d'une école où le
+  directeur avait sapé la décision budgétaire d'un élève en lui retirant le
+  budget après que les élèves l'aient décidé, ce qui était très décourageant.
+  Ce genre d'incohérence érode la confiance et sape le processus.</para>
+
+  <para>À Pathfinder, nous avons eu recours à la sociocratie pour décider du
+  règlement de l'école, de la manière de dépenser le budget discrétionnaire
+  des enfants, des cours et des ateliers proposés, et de la destination des
+  excursions. Bonus : donner aux enfants une somme d'argent fixe et les
+  laisser décider comment la dépenser est un exercice de mathématiques, de
+  budgétisation et de collaboration intéressant.</para>
+
+  <para>Que déciderez-vous ensemble ? 10</para>
+
+  <para>Quel que soit le domaine sur lequel les enfants ont un contrôle,
+  donnez-le-leur entièrement. Il est important de ne pas dépasser les limites
+  du domaine des enfants en donnant votre avis ou en prenant des décisions à
+  leur place, aussi tentant que cela puisse être. L'autonomisation qui en
+  résulte vaut la perte de contrôle que vous pourriez ressentir. Je me
+  souviens avoir eu peur de laisser les enfants de Pathfinder décider des
+  règles concernant des sujets polémiques comme le temps d'écran et les
+  jurons, mais ils se sont montrés à la hauteur et ce fut beau à voir.
+  Laissez-vous aller et n'oubliez pas que vous aidez les enfants à grandir en
+  les laissant décider par eux-mêmes. Pour garantir le partage du pouvoir, il
+  est préférable de former un jeune animateur dès que les processus ont été
+  suffisamment modélisés et de laisser les enfants participer autant que
+  possible au processus d'élaboration de propositions. En même temps, veillez
+  à modéliser l'animation et l'élaboration des propositions suffisamment
+  longtemps pour que les enfants puissent apprendre de vous.</para>
+
+  <para>Buts du groupe</para>
+
+  <para>Les buts décrivent les activités qui rassemblent le groupe et les
+  types de décisions qui seront prises dans un domaine. Soyez transparent sur
+  le fait que l'un des buts du groupe est d'apprendre et de pratiquer la
+  sociocratie ensemble en utilisant ce manuel. Vous travaillerez ensemble sur
+  d'autres buts de manière plus approfondie avec les enfants lors de la
+  réunion 3 : Qu'allons-nous faire ensemble (page ).</para>
+
+  <para>Voici quelques exemples pour vous aider à commencer le remue-méninges
+  :</para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>Exemples de domaines</para></entry>
+
+          <entry><para>Exemples de buts</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Une pièce ou un espace commun dans une école ou une
+          maison.</para></entry>
+
+          <entry><para>● Garder la zone en ordre</para><para>● Décider de
+          l'utilisation de l'espace</para><para>● Décoration de
+          l'espace</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Un repas hebdomadaire</para></entry>
+
+          <entry><para>● Planification des repas</para><para>● Budgétisation
+          et achats pour le repas</para><para>● Préparation du
+          repas</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Clubs scolaires</para></entry>
+
+          <entry><para>● Choisir comment réaliser l'activité du
+          club</para><para>● Pratiquer la gouvernance
+          sociocratique</para><para>● Acheter des articles pour le
+          club</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Projets spécifiques</para></entry>
+
+          <entry><para>● Décider du projet à réaliser (ex : le sujet d'un
+          projet scolaire, le type de projet d'artisanat, etc.)</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Un budget discrétionnaire ou une allocation
+          partagée</para><para>Améliorations à apporter à votre
+          communauté</para></entry>
+
+          <entry><para>● Dépenser le budget</para><para>● Utilisation des
+          articles achetés</para><para>● Trouver des solutions pour résoudre
+          les problèmes</para><para>● Mise en œuvre des
+          changements</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>Exemples de prise de décision par consentement contextualisés</para>
+
+  <para>La prise de décision par consentement peut aider à prendre des
+  décisions quotidiennes à l'école, dans les programmes extrascolaires, dans
+  les camps ou à la maison, par exemple : "Comment allons-nous répartir les
+  tâches ménagères ?" et "Que mangerons-nous à midi ?"</para>
+
+  <para>11 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Cependant, les contextes diffèrent et les problèmes qui s'y posent
+  aussi. Les exemples présentés dans ce livre visent à être aussi larges que
+  possible. Nous espérons que les exemples réels suivants vous donneront une
+  idée des types de décisions que peuvent prendre les enfants dans des
+  contextes spécifiques.</para>
+
+  <para>Décider à la maison</para>
+
+  <para>● Aller à quel terrain de jeu</para>
+
+  <para>● Comment passer une journée de week-end, y compris qui doit se
+  déplacer où et quand ● Quel film ou quelle émission de télévision regarder,
+  y compris quand mettre en pause, s'il faut ou non changer de film quand
+  quelqu'un a peur, etc.</para>
+
+  <para>● L’argent de poche que les enfants devraient recevoir</para>
+
+  <para>● Comment répartir les bonbons d'Halloween ou de piñata entre frères
+  et sœurs</para>
+
+  <para>● Comment déterminer qui est dans quelle chambre quand on emménage
+  dans une nouvelle maison</para>
+
+  <para>● Comment ranger les jouets dans un espace partagé</para>
+
+  <para>● Que manger pour un repas partagé tout en considérant les différents
+  régimes et préférences, p.ex. : végétalisme, paléo, sans gluten, les
+  mangeurs difficiles</para>
+
+  <para>● Comment organiser la cuisine</para>
+
+  <para>La plupart de ces décisions ont été prises lors de la réunion 4 :
+  Faisons en sorte que cela arrive (page ).</para>
+
+  <para>Décider au camp d'été</para>
+
+  <para>● Comment dépenser 50 dollars (p.ex : pelles pour creuser, graines à
+  planter, une piscine pour enfants)</para>
+
+  <para>● Les activités à faire chaque jour (p.ex : art, jeux, arrosage du
+  jardin)</para>
+
+  <para>● Où aller lors des excursions (p.ex : un musée, une rivière
+  locale)</para>
+
+  <para>Décider à l'école</para>
+
+  <para>● L'organisation d'événements tels que le bal de fin d'année, les
+  concours de talents, les fêtes de fin d'année et les festivals</para>
+
+  <para>● Activités de collecte de fonds, comme la vente de beignets ou la
+  tenue d'un stand de limonade</para>
+
+  <para>● Gestion d'une cafétéria scolaire une fois par semaine, y compris la
+  planification des repas, l'établissement du budget, la cuisine, la tenue de
+  la caisse et le service des tables</para>
+
+  <para>● Quel film regarder dans un ciné-club</para>
+
+  <para>● Comment dépenser les fonds discrétionnaires (p.ex : dans les
+  exercices de budgétisation participative). Exemples d'achats :</para>
+
+  <para>● Épées en mousse</para>
+
+  <para>● Coussins oreiller pour les forteresses</para>
+
+  <para>● Financement des excursions</para>
+
+  <para>● Tapis de gymnastique</para>
+
+  <para>● Fournitures d'art</para>
+
+  <para>● Matériel scientifique</para>
+
+  <para>● Jouets et jeux</para>
+
+  <para>Que déciderez-vous ensemble ? 12</para>
+
+  <para>● Équipements de terrain de jeux</para>
+
+  <para>● Ordinateurs portables</para>
+
+  <para>● Équipement de laboratoire</para>
+
+  <para>● Un abonnement à une installation sportive commune</para>
+
+  <para>● Nourriture et décorations pour le bal de l'école</para>
+
+  <para>J'ai également vu des élèves présenter des propositions à l'ensemble
+  de la communauté scolaire, notamment :</para>
+
+  <para>● Changer l'emploi du temps de l'école. Au lycée Morey Flextech, les
+  pauses entre les cours ne duraient que trois minutes. Les élèves ont réussi
+  à faire pression pour obtenir des pauses plus longues et la décision a été
+  approuvée par l'ensemble de l'école.</para>
+
+  <para>● Changer les règles de l'école. À Pathfinder, nous avons organisé des
+  réunions hebdomadaires pour changer les règles en utilisant la réunion 5 :
+  changer les choses (page ). Les élèves ont décidé de changer les règles sur
+  des sujets tels que les niveaux de bruit, l'utilité de certaines salles, la
+  manière de prendre soin des ressources partagées et les lieux de
+  sortie.</para>
+
+  <para>● Compléter les infrastructures scolaires. À la Rainbow Community
+  School, en Caroline du Nord, certains élèves voulaient une scène en bois
+  pour leur spectacle de danse. L'administration de l'école a rétorqué que le
+  budget était très limité. Les élèves ont proposé d'obtenir des dons de
+  matériaux et de main-d'œuvre pour construire une nouvelle scène à faible
+  coût, et ils ont donné un récital de danse la même année.</para>
+
+  <para>Décider dans un quartier</para>
+
+  <para>● Résoudre les problèmes liés aux besoins de la communauté, tels que :
+  ● Assainissement</para>
+
+  <para>● Soins de santé</para>
+
+  <para>● Éducation</para>
+
+  <para>● Infrastructure</para>
+
+  <para>● Action directe pour résoudre des problèmes tels que :</para>
+
+  <para>● Création d'une bibliothèque</para>
+
+  <para>● Construction d'une aire de jeux</para>
+
+  <para>● Plantation d'arbres</para>
+
+  <para>● Organiser des événements communautaires pour sensibiliser aux
+  problèmes ● Plaidoyer pour le changement au niveau local et national tel que
+  :</para>
+
+  <para>● Pétition pour la fermeture des magasins d'alcool</para>
+
+  <para>● Demander le remplacement des lampadaires</para>
+
+  <para>● Plaidoyer en faveur de l'inclusion des enfants handicapés dans le
+  système éducatif</para>
+
+  <para>Prise de décision versus faire des choses ensemble</para>
+
+  <para>Les réunions de ce livre relèvent des réunions de prise de décision
+  pour décider comment faire les choses ensemble en tant que groupe. Je vous
+  recommande vivement d'alterner chaque</para>
+
+  <para>13 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>réunion de prise de décision avec un moment où vous vous réunissez et
+  faites réellement quelque chose. Si c'est un groupe de pâtisseries, essayez
+  des recettes. Si c'est un club artistique, faites de l'art. S'il s'agit d'un
+  groupe d'action politique, contactez des représentants ou protestez. Il est
+  important de se rappeler que le but de prendre des décisions ensemble est
+  d'organiser la façon dont vous atteignez les buts du groupe. Après avoir
+  fait des choses ensemble, vous pouvez utiliser ces réunions pour évaluer
+  comment les choses se passent, apporter des changements et continuer à vous
+  améliorer continuellement grâce au feedback.</para>
+
+  <para>Réunions 14</para>
+
+  <para>PARTIE DEUX</para>
+
+  <para>Réunions</para>
+
+  <para>Tout au long du reste du livre, nous présenterons des trames de
+  réunions pour vous aider à prendre des décisions avec les enfants en
+  utilisant des processus sociocratiques. Nous commençons par des conseils
+  pour vous aider à réussir vos réunions en général, puis nous passons en
+  revue les différentes formes de réunions. Chaque réunion contient une
+  préparation, des exemples et un ordre du jour à lire à haute voix. Certaines
+  réunions contiennent également des fiches de travail facultatives. Il est
+  recommandé de suivre ces réunions dans l'ordre dans lequel elles sont
+  présentées, car elles introduisent des compétences et des processus qui se
+  renforcent mutuellement.</para>
+
+  <para>D'autres ressources sont également fournies plus loin dans le livre,
+  notamment les fiches Aide-Mémoire pour les animateurs (page ) et les annexes
+  (page ).</para>
+
+  <para>15 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Outils simples pour des réunions efficaces avec les enfants</para>
+
+  <para>Taille du groupe</para>
+
+  <para>Ce processus fonctionnera mieux avec un groupe de moins de 15 enfants.
+  Dans un groupe plus important, comme une classe d'école, il peut être utile
+  de se relayer pour faire des réunions avec les enfants par groupes de 15 ou
+  moins. Les réunions peuvent se dérouler avec 30 enfants, mais les enfants
+  plus jeunes risquent de s'épuiser rapidement.</para>
+
+  <para>Honorer le chronomètre de réunion !</para>
+
+  <para>Lorsque vous faites des réunions avec des enfants, plus c'est court,
+  mieux c'est. Je recommande de commencer par des minuteries de 15 minutes et
+  de voir comment ça se passe à partir de là, en s'adaptant à la capacité de
+  concentration des différents groupes. Veillez à limiter la durée des
+  réunions à 30 minutes ou moins, si possible, même avec des enfants plus
+  âgés. Ne dépassez jamais la limite de temps sans obtenir l'accord des
+  participants pour prolonger la réunion. N'ayez pas peur d'interrompre
+  poliment la personne qui parle, par exemple : "Avant que vous ne terminiez
+  votre pensée, j'ai remarqué que le chronomètre vient de s'arrêter et je
+  voudrais obtenir un consentement rapide pour prolonger la réunion de deux
+  minutes afin que vous puissiez terminer". Vous pouvez prolonger la réunion
+  de quelques minutes (avec un nouveau minuteur !) pour conclure un sujet
+  important ou pour permettre à quelqu'un de terminer sa réflexion. Cependant,
+  il est essentiel dans toutes les réunions de consentir à la durée, de mettre
+  en place un minuteur et de ne jamais l'ignorer. Le respect du temps de
+  chacun crée un sentiment de sécurité autour des accords et des limites du
+  groupe.</para>
+
+  <para>Un sujet par réunion</para>
+
+  <para>Avec les enfants, nous avons constaté qu'un seul sujet par réunion
+  était le plus efficace. Les enfants sont attirés par les sujets qui sont
+  importants pour eux. Veillez donc à tenir compte de leurs commentaires
+  lorsque vous établissez l'ordre du jour des réunions. Une fois le groupe
+  établi, les enfants facilitateurs et leaders peuvent établir l'ordre du jour
+  en collaboration avec le groupe (ces rôles sont plus efficaces pour les 11
+  ans et plus).</para>
+
+  <para>Bâton de parole</para>
+
+  <para>Je vous recommande de toujours utiliser un bâton de parole dans les
+  cercles. C'est à la fois un rappel de qui parle et de qui écoute et qui peut
+  ajouter un sens du rituel et du plaisir. Nous avons utilisé toutes sortes
+  d'objets, depuis des objets trouvés comme des fleurs, des plumes et des
+  carapaces de tortue jusqu'à des jouets amusants avec lesquels il est
+  agréable de jouer. L'une des réunions les plus amusantes et les plus
+  efficaces dont je me souvienne a été organisée avec des “toilettes de
+  parole” provenant d'une maison de poupées. Chaque enfant disait "flush" pour
+  indiquer qu'il avait terminé !</para>
+
+  <para>J'ai constaté que le fait de disposer d'un objet de conversation
+  spécial, beau et utilisé uniquement en cercle, confère à l'objet un
+  sentiment de puissance et de rituel qui peut</para>
+
+  <para>Des outils simples pour des réunions efficaces avec les enfants
+  16</para>
+
+  <para>contribuer à donner le ton aux réunions, en particulier lorsqu'il y a
+  un partage émotionnel profond.</para>
+
+  <para>Matériel de manipulation</para>
+
+  <para>De nombreuses personnes écoutent mieux lorsqu'elles font quelque chose
+  de leurs mains. J'aime tricoter pendant les réunions ou être la preneuse de
+  notes. Vous pouvez essayer de mettre du papier à colorier ou de la pâte à
+  modeler à la disposition des enfants pendant la réunion. Montrer ce que
+  chacun-e a fait à la fin de la réunion peut être une façon amusante de créer
+  des liens.</para>
+
+  <para>Évitez les fidget spinners, les jeux vidéo portatifs, tout ce qui
+  ressemble à une balle et qui pourrait inciter les enfants à la lancer, ou
+  tout ce qui fait du bruit. Ces objets peuvent distraire l'enfant au lieu de
+  l'aider à se concentrer.</para>
+
+  <para>Mouvement et pleine conscience</para>
+
+  <para>Commencer une réunion par un rapide étirement peut aider chacun à
+  évacuer son énergie et à se préparer à se concentrer. Je connais une
+  entreprise de design où les réunions de remue-méninges commencent
+  traditionnellement par des jumping jacks. Avec les enfants, nous nous
+  déplaçons souvent comme l'animal préféré de chacun-e ou nous jouons même à
+  un petit jeu de charades pour favoriser l'engagement et les pauses de
+  mouvement. Une autre technique qui peut encourager la pleine conscience est
+  de prendre un moment de silence chronométré ou trois respirations profondes
+  ensemble.</para>
+
+  <para>Gérer les interruptions et les réponses interminables</para>
+
+  <para>Quelqu'un prend-il trop de temps lorsque c'est son tour ? Au tour
+  suivant, commencez vous-même le tour et donnez un exemple du type de réponse
+  que vous recherchez en termes de longueur et de sujet. Le groupe imite
+  souvent la durée de propos de la première personne qui parle. Vous pouvez
+  également limiter chaque personne à une seule idée lors d'une séance de
+  remue-méninges afin de laisser des idées aux autres personnes.</para>
+
+  <para>En cas d'interruption, rappelez gentiment au groupe que la personne
+  qui a le bâton de parole est la seule à parler. Le travail de tous les
+  autres est d'écouter en silence et de prêter attention.</para>
+
+  <para>Feedback, rétroactions !</para>
+
+  <para>En cas de doute sur la manière de procéder sur un sujet donné,
+  demandez aux enfants de vous faire part de leurs réactions. Posez des
+  questions telles que : "Quels sont les problèmes que vous voyez en ce moment
+  ?” “Quelles nouvelles choses voudriez-vous essayer ?" ou même "Comment
+  pouvons-nous être une communauté plus gentille ensemble ?". Vous pouvez
+  récolter la sagesse du groupe à tout moment.</para>
+
+  <para>17 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Gratitude, célébration et plaisir</para>
+
+  <para>Il est important de se concentrer sur les aspects positifs de la vie
+  en groupe, ainsi que sur la réalisation de buts communs. À Pathfinder, nous
+  avons pour tradition de commencer notre réunion hebdomadaire en demandant à
+  chacun de partager ce qui va bien, ou quelque chose dont il est
+  reconnaissant. Nous enregistrons les déclarations de gratitude sur une
+  affiche que tout le monde peut voir. En outre, nous terminons chaque
+  décision de consentement par une célébration : "Ouiii ! Nous avons pris une
+  décision !"</para>
+
+  <para>Apprendre la sociocratie ensemble peut être amusant. Voir l'annexe 1 :
+  Jeux de consentement (page ) pour des exemples de scénarios que vous pouvez
+  étudier en groupe de manière ludique pour pratiquer la prise de décision par
+  consentement. Il existe également un jeu de société pour apprendre la
+  sociocratie avec les enfants appelé Keep The Balance8 qui sera publié en
+  2022 en anglais par le Sociocratic Center en Autriche.</para>
+
+  <para>Erreurs courantes</para>
+
+  <para>● Supposer que les enfants voudront prendre part à toutes les
+  décisions que vous voulez prendre. En pratique, les enfants veulent
+  participer aux décisions concernant les choses qui leur tiennent le plus à
+  cœur. Pour résoudre ce problème, rendez certaines réunions facultatives et
+  axées sur des sujets précis.</para>
+
+  <para>● Ne pas s'assurer que les domaines des adultes et des enfants sont
+  pertinents. Il est beaucoup plus important d'être clair sur qui décide quoi,
+  plutôt que d'inclure les enfants dans chaque décision. Parfois, après avoir
+  demandé leur avis aux enfants, ils voudront que vous preniez la décision.
+  C'est normal ! Veillez à obtenir leur avis et leur consentement pour vous
+  laisser prendre la décision.</para>
+
+  <para>● Partir du principe que les enfants s'engagent de manière proactive
+  dans le processus sans soutien. Faites en sorte qu'il soit aussi facile que
+  possible pour les enfants de faire des propositions. Recueillez en
+  permanence leurs réactions, en leur posant des questions sur ce qu'ils
+  veulent faire, acheter ou voir se produire dans le domaine sur lequel vous
+  décidez. Synthétisez les propositions pour eux afin qu'ils aient des
+  exemples de la façon dont le processus fonctionne. Il faut du temps pour
+  instaurer la confiance dans le fait que vous les écouterez vraiment. Il est
+  très important d'assurer le suivi de l'action dès que possible après la
+  prise de décision pour établir cette confiance. Par exemple, si l'achat d'un
+  article a été approuvé par le groupe, achetez-le dès que possible.</para>
+
+  <para>● Retirer le pouvoir après l'avoir donné. Il n'y a rien de plus
+  destructeur pour la confiance que de retirer le pouvoir aux enfants. Il est
+  important d'être clair sur les domaines dès le début.</para>
+
+  <para>● Diriger des réunions trop longues et ennuyeuses. Le contenu des
+  réunions doit aller droit au but et être produit par les enfants dans la
+  mesure du possible, en répondant directement à leurs besoins et à leurs
+  souhaits. Si vous devez raccourcir les réunions, vous pouvez supprimer les
+  tours d'ouverture et de clôture ou aborder un point de l'ordre</para>
+
+  <para>du jour au cours de deux réunions si la première dépasse le temps
+  imparti. Décider ensemble de la durée des réunions est l'une des décisions
+  les plus importantes à prendre ensemble.</para>
+
+  <para>8 https://keepthebalance.games/</para>
+
+  <para>Des outils simples pour des réunions efficaces avec les enfants
+  18</para>
+
+  <para>● Enseigner en parlant plutôt qu'en faisant. Pratiquer ensemble est la
+  meilleure façon d'apprendre. Utilisez les jeux de prise de décision par
+  consentement de l'Annexe 1 : Jeux de consentement (page ) pour vous
+  entraîner de manière amusante.</para>
+
+  <para>19 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Réunion 1 : Tours de parole et accords du groupe</para>
+
+  <para>Clarté du domaine</para>
+
+  <para>Vous devrez arriver à cette réunion en ayant une idée claire du
+  domaine sur lequel les enfants ont un pouvoir. Voir le domaine des enfants
+  (page ) dans l'introduction pour obtenir des informations sur la création
+  d'un domaine. Il est essentiel que vous vous en teniez à ce domaine pour le
+  reste du temps passé ensemble, afin que les enfants aient confiance dans le
+  processus et sachent qu'ils ont un réel pouvoir de décision.</para>
+
+  <para>Tours de parole avec des enfants</para>
+
+  <para>Les tours de parole sont le format de discussion des réunions
+  sociocratiques. Un tour consiste simplement à prendre la parole à tour de
+  rôle dans un cercle. Ce format est très efficace pour enseigner l'écoute et
+  l'empathie, renforcer la relation et puiser dans la sagesse du groupe. Les
+  tours de parole présentent un avantage par rapport aux mains levées, car
+  elles permettent d'entendre tout le monde, et pas seulement les personnes
+  qui s'expriment avec le plus d’aisance.</para>
+
+  <para>Vous pourriez organiser un nombre infini de réunions axées uniquement
+  sur les discussions en cercle. L'annexe contient des idées de tours de
+  parole, notamment des tours de parole pour créer des liens et s'amuser (page
+  ), des tours de parole pour la rétroaction (page ), les tours de parole ou
+  réunions pour l'empathie et l'intelligence émotionnelle (page ), et les
+  tours de parole pour la résolution des conflits (page ).</para>
+
+  <para>N'oubliez pas d'utiliser un bâton de parole pour les tours. Choisissez
+  un objet avec intention. Si vous comptez utiliser un objet qui a une
+  signification pour les peuples indigènes, comme une plume ou un bâton de
+  parole décoré, prenez le temps de faire des recherches sur son utilisation
+  et présentez le contexte de la pratique lorsque vous présentez
+  l'objet.</para>
+
+  <para>La fabrication d'un bâton de parole dans le cadre d'un projet
+  collectif peut renforcer le sentiment d'appartenance à une communauté. Voici
+  quelques exemples :</para>
+
+  <para>● Un bâton lisse que les enfants se passeront à tour de rôle.</para>
+
+  <para>● Une roche particulière trouvée par le groupe</para>
+
+  <para>● Un objet naturel tel qu'une carapace de tortue ou un os.</para>
+
+  <para>● Un bocal rempli de notes autocollantes contenant les intentions, les
+  souhaits, etc. de chaque membre du groupe (qui peuvent être complétées au
+  fur et à mesure de l'arrivée de nouveaux membres).</para>
+
+  <para>Accords de groupe</para>
+
+  <para>Lorsqu'on fonde un groupe, il est important de mettre en place des
+  accords sur les intentions concernant la façon dont vous allez traiter les
+  autres membres du groupe. Cela crée un sentiment de sécurité ainsi qu'une
+  fondation à laquelle on peut revenir en cas de conflit - et il y en aura !
+  Le principal point à l'ordre du jour de la première réunion est de dresser
+  une liste</para>
+
+  <para>Réunion 1 : Tours et accords 20</para>
+
+  <para>d'accords sur la manière dont chacun veut être traité et d'y
+  consentir. C'est essentiel, car sans accord, il n'y a pas de base commune
+  sur laquelle revenir lorsque les choses tournent mal.</para>
+
+  <para>Exemples d'accords :</para>
+
+  <para>● Demandez avant de toucher les autres</para>
+
+  <para>● Arrêtez-vous quand on vous le demande</para>
+
+  <para>● S'écouter les uns les autres</para>
+
+  <para>Quelque chose comme cela peut être suffisant pour votre groupe. Pour
+  les groupes plus importants, consultez l'annexe 3 : Exemples d'accords de
+  Pathfinder (page ) pour des accords réels dans une école.</para>
+
+  <para>Format de la réunion sociocratique</para>
+
+  <para>Le format des réunions sera toujours le même. Pour les groupes plus
+  jeunes, âgés de 5 à 7 ans, vous pouvez supprimer le tour d'accueil et de
+  clôture et limiter la réunion au point principal de l'ordre du jour.</para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>Tour d’accueil</para></entry>
+
+          <entry><para>Les “check-in”, ou tours d’accueil” sont un moment pour
+          se connecter en tant que groupe. Le tour de parole est l'occasion
+          d'entendre ce que chacun ressent au début de la réunion. Il peut
+          également s'agir d'un moment important de partage. Voici un exemple
+          d'invitation générale à faire le point : Comment allez-vous en ce
+          moment ? Si vous disposez d'un temps limité, je suggère de demander
+          à chaque personne de dire un mot ou de montrer sur son visage ce
+          qu'elle ressent.</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Durée de la réunion</para></entry>
+
+          <entry><para>Combien de temps la réunion durera-t-elle ? Je suggère
+          30 minutes maximum. Réglez un minuteur.</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Point à l'ordre du jour</para></entry>
+
+          <entry><para>Le sujet principal de la réunion.</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>Tour de clôture Comment s'est déroulée la réunion ? Qu'est-ce qui
+  s'est bien passé ? Que pouvez-vous apprendre pour faire mieux la prochaine
+  fois ? Si le temps est limité, faites des pouces en haut (j'ai aimé) / en
+  bas (il y avait un problème) / de côté (je n'ai pas de sentiment fort) pour
+  voir comment la réunion s'est déroulée, et ne demandez qu'à ceux qui ont des
+  pouces en bas de parler de ce qui pourrait être mieux.</para>
+
+  <para>Préparation de la réunion</para>
+
+  <para>● Apportez un bâton de parole à la réunion, ou apportez du matériel
+  pour fabriquer ensemble un bâton de parole.</para>
+
+  <para>21 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>● Créez une affiche ou un autre document public pour les accords, avec
+  un espace pour que les enfants puissent signer le document.</para>
+
+  <para>NOTE</para>
+
+  <para>Pour des fiches de travail imprimables au format PDF (pages bordées),
+  consultez le site
+  https://sociocracyforall.org/lets-decide-together-2021</para>
+
+  <para>Réunion 1 : Tours et accords 22<inlinemediaobject>
+      <imageobject>
+        <imagedata depth="8.4165inch" fileref="embedded:image10.png"
+                   width="6.5inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para>23 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>GABARIT DE RÉUNION 1</para>
+
+  <para>Ordre du jour de réunion 1 : Tours de parole et accords</para>
+
+  <para>1. Annoncer la durée de la réunion</para>
+
+  <para>La réunion sera de _____ minutes (mettre le minuteur).</para>
+
+  <para>2. Lire l’introduction</para>
+
+  <para>La sociocratie est un ensemble d’outils pour nous aider à décider
+  ensemble. Dans ce cercle, tu pourras décider sur [domaine].</para>
+
+  <para>Les tours de parole sont une façon de parler pour que tout le monde
+  soit entendu. Cette pratique vient de communautés de peuples indigènes
+  autour du monde. Les personnes parlent quand ils tiennent le bâton de
+  parole. Quand tu tiens le bâton, c’est à ton tour de parler. Quand quelqu’un
+  d’autre tient le bâton, c’est à toi d’écouter.</para>
+
+  <para>3. Tour d’accueil (check-in)</para>
+
+  <para>Comment vas-tu aujourd’hui?</para>
+
+  <para>4. Tour de question drôle</para>
+
+  <para>Pratiquons-nous à parler dans un cercle en répondant, à tour de rôle,
+  à une question drôle. Choisis une question ci-dessous ou imagine une
+  autre.</para>
+
+  <para>● Qu’est-ce que tu a pris comme petit déjeuner?</para>
+
+  <para>● Quel superpouvoir aimerais-tu avoir?</para>
+
+  <para>● Si tu pouvais te transformer en animal, lequel choisirais-tu?</para>
+
+  <para>5. Tour des accords de groupe</para>
+
+  <para>Comment veux-tu être traité dans ce groupe? Faisons une liste. Écris
+  sur une affiche pendant le tour.</para>
+
+  <para>6. Vérifie le consentement</para>
+
+  <para>Est-ce que cette liste d’accords te semble complète?</para>
+
+  <para>● Pouce en haut: J’aime</para>
+
+  <para>● Pouce latéral: C’est OK pour moi. / Je n’ai pas de sentiments forts
+  à ce propos.</para>
+
+  <para>● Pouce en bas: Objection. Je vois un problème.</para>
+
+  <para>7. Accords de signes</para>
+
+  <para>8. Tour de clôture (check-out)</para>
+
+  <para>Réunion 2 : Comment nous décidons ensemble 24</para>
+
+  <para>Réunion 2 : Comment nous décidons ensemble</para>
+
+  <para>Le principe de la prise de décision par consentement est un concept
+  fondamental de la sociocratie. Heureusement, les enfants semblent souvent
+  s'y adapter plus facilement que les adultes !</para>
+
+  <para>Cela vaut la peine de prendre le temps de bien comprendre le
+  consentement.</para>
+
+  <para>IMAGE:</para>
+
+  <para>Zone de tolérance (TOP)</para>
+
+  <para>Ne peut pas tolérer (FROM LEFT TO RIGHT)</para>
+
+  <para>Peut vivre avec</para>
+
+  <para>Préfère</para>
+
+  <para>Peut vivre avec</para>
+
+  <para>Ne peut pas tolérer</para>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata depth="3.2189inch" fileref="embedded:image11.png"
+                   width="6.8335inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para>Le consentement peut être considéré comme une zone de tolérance pour
+  une idée. Une zone de tolérance se situe entre les limites de ce que les
+  gens peuvent accepter. Ce qu'ils ne peuvent tolérer serait qualifié
+  d'objection. Au lieu de voter oui ou non pour une idée avec laquelle vous
+  êtes d'accord ou non, l'objectif est de trouver le consentement de
+  tous.</para>
+
+  <para>Consentement signifie : Je suis d'accord pour essayer ceci, au moins
+  pour un petit moment. C'est assez bien pour l’instant et assez sûr pour être
+  essayé.</para>
+
+  <para>Une objection signifie : Je vois quelque chose qui est un problème -
+  soit pas assez bien pour l’instant, soit pas assez sûr pour essayer.</para>
+
+  <para>25 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Une objection doit être étayée par une raison, telle que la mise en
+  évidence d'un danger lié à la prise de décision que le groupe n'a pas vu, ou
+  d'un élément qui empêchera le groupe d'atteindre son but..</para>
+
+  <para>Le consentement n'est pas une préférence. Par exemple, supposons que
+  plusieurs personnes décident de la régulation du thermostat dans une pièce.
+  Si chacun-e vote pour sa préférence, vous risquez d'obtenir des idées qui
+  partent dans tous les sens sans se recouper. Si chaque personne considère sa
+  zone de tolérance, ou ce qui lui convient, le consentement peut être trouvé
+  beaucoup plus rapidement.</para>
+
+  <para>Disons que je préfère avoir les fenêtres ouvertes s'il fait 27°C,
+  alors que mon colocataire préfère que la température soit de 23°C avec la
+  climatisation. Si nous votons chacun pour notre préférence, nous ne
+  trouverons pas de juste milieu. Disons que je peux tolérer une température
+  de 29°C à 25°C et que mon colocataire peut tolérer une température de 24°C à
+  25°C. Nous avons là un terrain d'entente auquel nous pouvons consentir à
+  25°C).</para>
+
+  <para>IMAGE ZONE DE TOLÉRANCE:</para>
+
+  <para>Zone de tolérance</para>
+
+  <para>Préférence</para>
+
+  <para>Consentement</para>
+
+  <para>Consultez la fiche de travail Consentement et objections (page ) pour
+  vous aider à pratiquer le consentement.</para>
+
+  <para>Que faire en cas d'objection</para>
+
+  <para>Une objection est un cadeau pour le groupe, car elle met en évidence
+  quelque chose que le groupe ne voit pas. Vous devrez probablement apprendre
+  aux enfants qu'une objection n'est pas une préférence personnelle. "Je
+  n'aime pas ça" n'est pas une objection valable, à moins qu'elle ne soit
+  étayée par une raison quelconque indiquant que la décision va à l'encontre
+  du but du groupe, qu'elle n'est pas assez bonne pour l’instant ou qu'elle
+  est assez sûre pour être essayée. Souvent, les gens ne sont pas disposés à
+  utiliser le mot "objection", mais ils peuvent partager une réaction ou une
+  préoccupation. Essayez de résoudre le problème de la même manière que vous
+  le feriez pour une objection. Il peut être nécessaire de poser des questions
+  complémentaires pour clarifier ce que quelqu'un n'aime pas dans une
+  proposition, mais il y a généralement quelque chose de valable.</para>
+
+  <para>Les moyens de résoudre les objections sont les suivants :</para>
+
+  <para>Amendement</para>
+
+  <para>Amendez la proposition pour répondre à l'objection ou à la
+  préoccupation.</para>
+
+  <para>Au cours de la réunion d'aujourd'hui, vous devrez décider d'un jeu qui
+  conviendra à tous. Si l'objection est que le jeu ne fonctionne pas pour une
+  raison ou une autre, faites un tour de parole pour trouver des idées qui
+  pourraient faire fonctionner le jeu.</para>
+
+  <para>Réunion 2 : Comment nous décidons ensemble 26</para>
+
+  <para>Par exemple :</para>
+
+  <para>Facilitateur : "On dirait que tu as peur que ce jeu ne soit pas
+  amusant pour tout le monde. Quels changements pouvons-nous apporter aux
+  règles pour que ce soit plus amusant pour toi ?"</para>
+
+  <para>Enfant : "Ce serait plus amusant si on était 'ça' à tour de
+  rôle."</para>
+
+  <para>Facilitateur : "Ok, pouvez-vous consentir à ce qu'on soit 'ça' à tour
+  de rôle ?"</para>
+
+  <para>Préoccupation</para>
+
+  <para>Faites de cette préoccupation une question à poser au moment du tour
+  d’accueil pour savoir : "Est-ce que X (la préoccupation) se produit
+  ?".</para>
+
+  <para>Par exemple, "Et si on vérifiait après un tour de jeu pour voir si
+  c'était amusant ?".</para>
+
+  <para>Échéance</para>
+
+  <para>Ajustez le temps avant de vérifier la décision.</para>
+
+  <para>Le fait de vérifier rapidement les décisions et de fixer une date  à
+  laquelle elles peuvent être revues aide les gens à se sentir en sécurité
+  lorsqu'ils essaient des choses. Par exemple : "Essayons le jeu pendant 5
+  minutes, puis arrêtons-nous pour vérifier si tout le monde est d'accord pour
+  continuer."</para>
+
+  <para>APE (Amendement, Préoccupation, Échéance)</para>
+
+  <para>L'acronyme APE et la fiche Aide-Mémoire "Résoudre les objections"
+  (page ) peuvent vous aider à vous rappeler comment résoudre les objections.
+  Vous pouvez avoir besoin d'une seule de ces stratégies, ou de toutes, pour
+  surmonter une objection.</para>
+
+  <para>Et si vous ne pouvez pas résoudre une objection ?</para>
+
+  <para>Dans la pratique, je ne pense avoir jamais vu d'objection qui ne
+  puisse être résolue. Valider la préoccupation de la personne et l'intégrer
+  dans la proposition, que ce soit sous forme d'amendement ou de question à
+  évaluer, est très efficace. Si rien d'autre ne fonctionne, raccourcissez
+  radicalement la durée, même à une heure ou un jour. Lorsque vous demandez le
+  consentement, demandez : "Est-ce suffisant pour le moment ? Est-ce que c'est
+  assez sûr pour être essayé ?" ou "Êtes-vous prêt à l'essayer pendant X
+  temps, puis à faire le point ?". Souvent, ces questions aideront une
+  personne à trouver son consentement.</para>
+
+  <para>Signes de main pour le consentement et les objections</para>
+
+  <para>27 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Dans ce livre, j'utilise :</para>
+
+  <para>● le pouce en l'air pour "J'aime ça".</para>
+
+  <para>● le pouce latéral pour "ça me va" ou "je n'ai pas de sentiment fort à
+  ce sujet".</para>
+
+  <para>● le pouce en bas pour "objection" ou "je vois un problème".</para>
+
+  <para>Un avantage de l'utilisation de signes de la main est que chacun-e
+  montre ce qu'il pense en même temps et il y a donc moins d’influence
+  mutuelle.</para>
+
+  <para>Célébrer les décisions de consentement</para>
+
+  <para>Une fois qu'une décision a été consentie, célébrez-la ! Un simple
+  "Yay, nous avons pris une décision !" suffit. Cela permet de se concentrer
+  sur le positif, de créer une cohésion de groupe et de s'amuser un
+  peu.</para>
+
+  <para>Processus de sélection sociocratique</para>
+
+  <para>Voici le processus à suivre pour prendre une décision entre plusieurs
+  options quant au jeu à jouer aujourd'hui. Voir l'annexe 1 : Jeux de
+  consentement (page ) pour d'autres exemples de décisions que vous pouvez
+  substituer au jeu - par exemple, quel film regarder, que manger pour le
+  dîner, ou comment nommer le groupe.</para>
+
+  <para>Le processus est le suivant :</para>
+
+  <para>1. Lire les propositions (s'il y a des propositions existantes)</para>
+
+  <para>2. Tour des nominations et des raisons : Quel jeu aimerais-tu jouer,
+  et pourquoi ? 3. Modifier les nominations : Après avoir entendu ce que tous
+  les autres ont dit, souhaitez-vous changer d'avis ? (mains levées)</para>
+
+  <para>4. Proposez une idée pour le consentement : Le facilitateur propose
+  une idée pour le consentement. Recueillir et résoudre les objections.</para>
+
+  <para>5. Célébrez la décision !</para>
+
+  <para>Vous guiderez les enfants tout au long du processus en lisant les
+  étapes de l'ordre du jour qui suit. Lorsque vous proposez une idée pour
+  obtenir un consentement, ne vous contentez pas de vous en tenir à ce que la
+  majorité du groupe a proposé. Réfléchissez aux raisons invoquées et donnez
+  un argument motivé pour la proposition que vous présentez.</para>
+
+  <para>La synthèse des idées dans une proposition et la résolution des
+  objections sont une forme d'art. Pour plus de conseils, consultez la fiche
+  aide-mémoire sur la synthèse des propositions (page ). Vous trouverez
+  également des idées de jeux de consentement amusants à l'annexe 1 : Jeux de
+  consentement (page ). Ils peuvent être une façon amusante d'enseigner la
+  prise de décision par consentement et le processus de sélection.</para>
+
+  <para>Transcription d'un processus de sélection</para>
+
+  <para>Dans cet exemple, il n'y a pas de propositions précédentes, nous les
+  générons donc dans la première étape.</para>
+
+  <para>Réunion 2 : Comment nous décidons ensemble 28</para>
+
+  <para>Étape 1 : Candidatures et tour de parole pour nommer les
+  raisons.</para>
+
+  <para>Facilitateur : "Décidons du film que tout le monde est prêt à regarder
+  aujourd'hui. Nous allons commencer par un tour de candidatures: quel film ou
+  quel type de film avez-vous envie de voir, et pourquoi ?"</para>
+
+  <para>Enfant 1 : "Tout ce qui est Disney, parce que c'est bête et
+  amusant."</para>
+
+  <para>Enfant 2 : "Rien de trop effrayant pour moi."</para>
+
+  <para>Enfant 3 : "J'aimerais regarder How to Train Your Dragon."</para>
+
+  <para>Enfant 4 : "Je veux regarder The Lego Movie."</para>
+
+  <para>Facilitateur : "Est-ce que quelqu'un veut changer son idée après avoir
+  entendu les autres ? Levez la main."</para>
+
+  <para>Enfant 1 : (lève la main) "J'aime l'idée de regarder How to Train Your
+  Dragon."</para>
+
+  <para>Étape 3 : Proposer une idée pour obtenir un consentement</para>
+
+  <para>Facilitateur : "Je propose How to Train Your Dragon pour le
+  consentement. Pouces en haut/en bas/latéraux ?"</para>
+
+  <para>Enfant 1 : (pouce en l'air)</para>
+
+  <para>Enfant 2 : (pouce en bas) "Je ne sais pas si c'est un film d'horreur
+  ou pas, donc je ne pense pas pouvoir dire oui à ce film."</para>
+
+  <para>Enfant 3 : (pouce en l'air)</para>
+
+  <para>Enfant 4 : (pouces de côté)</para>
+
+  <para>29 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Facilitateur : "Comment pouvons-nous résoudre cette objection
+  ?"</para>
+
+  <para>Enfant 1 : "Peut-être qu'on peut regarder le teaser et voir si ça fait
+  peur."</para>
+
+  <para>Enfant 2 : "Je serais d'accord pour qu'on mette en pause si ça me fait
+  peur, pour que je puisse partir et revenir quand la partie effrayante est
+  terminée".</para>
+
+  <para>Enfant 3 : "On pourrait regarder la classification et voir si c'est
+  PG."</para>
+
+  <para>Enfant 4 : "Je passe."</para>
+
+  <para>Facilitateur : "OK, pour résoudre cette objection, je propose qu'on
+  regarde le film pour s'assurer qu'il n’est pas interdit aux moins de 12 ans,
+  et s'il l'est, on mettra le film en pause s'il devient trop effrayant pour
+  Enfant 2. Pouces en l'air/en bas/de côté ?"</para>
+
+  <para>Tous les enfants : (pouce en l'air)</para>
+
+  <para>Étape 4 : Célébrer la décision</para>
+
+  <para>Facilitateur : "Yay ! Nous avons atteint le consentement ! Faisons une
+  petite danse !"</para>
+
+  <para>Préparation de la réunion</para>
+
+  <para>● Copiez la fiche de travail Consentement et objections (page ) si
+  vous souhaitez l'utiliser avec les enfants.</para>
+
+  <para>● Copiez la fiche Aide-Mémoire Résoudre les objections (page ) et la
+  fiche d'aide au processus de sélection (page ) pour vous-même si vous en
+  avez besoin.</para>
+
+  <para>● Imprimez, projetez ou dessinez sur un tableau blanc ou sur une
+  affiche le diagramme météorologique de l'ordre du jour de la réunion 2 (page
+  ), afin que chacun puisse s'en servir comme référence pendant la
+  réunion.</para>
+
+  <para>REMARQUE</para>
+
+  <para>Pour des fiches de travail imprimables au format PDF (pages bordées),
+  consultez le site</para>
+
+  <para>https://sociocracyforall.org/lets-decide-together-2021</para>
+
+  <para>Réunion 2 : Comment nous décidons ensemble 30</para>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata depth="8.6563inch" fileref="embedded:image18.png"
+                   width="6.5inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para>31 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Réunion 2 Ordre du jour: Comme nous décidons ensemble</para>
+
+  <para>1. Annoncez la durée de la réunion</para>
+
+  <para>La réunion durera ___ minutes. Mettez la minuterie.</para>
+
+  <para>2. Tour d’accueil - check-in</para>
+
+  <para>Comment vas-tu aujourd’hui?</para>
+
+  <para>3. Lisez l’introduction</para>
+
+  <para>Aujourd’hui nous apprenons comment prendre des décisions dans ce
+  groupe. Nous essayerons de décider à quel jeu nous allons jouer, et puis
+  nous allons y jouer!</para>
+
+  <para>Dans ce groupe, nous prenons des décisions par consentement. Consentir
+  signifie être d’accord avec quelque chose. Cela ne signifie pas que tu
+  l’aimes, ou que c’est ton idée préférée, uniquement que tu es OK
+  avec.</para>
+
+  <para>Nous utiliserons les pouces en haut pour “J’aime”, pouces latéraux
+  pour “C’est OK pour moi” et pouces en bas pour “J’ai une objection”. Une
+  objection signifie que ce n’est pas assez bon pour maintenant et pas assez
+  sûr pour l’essayer.</para>
+
+  <para>Regardons le consentement et les objections d’une personne pour la
+  question: “Est-ce que le temps est OK pour sortir aujourd’hui?”</para>
+
+  <para>Consentement FROM TOP TO BOTTOM</para>
+
+  <para>Ce que tu trouves OK</para>
+
+  <para>Ce que tu aimes</para>
+
+  <para>Météo ensoleillée 20°C</para>
+
+  <para>Pluie légère</para>
+
+  <para>Un peu chaud 15-25°C</para>
+
+  <para>Objection</para>
+
+  <para>Pas assez bien pour maintenant</para>
+
+  <para>Trop froid (&lt;14°C)</para>
+
+  <para>Trop chaud (&gt;26°C)</para>
+
+  <para>Pluie forte</para>
+
+  <para>Orage</para>
+
+  <para>Ouragan</para>
+
+  <para>Dans un feu ou un volcan</para>
+
+  <para>Gelé comme dans l’Arctique</para>
+
+  <para>Pas assez sûr pour essayer</para>
+
+  <para>Est-ce qu’il y a moyen de résoudre les objections?</para>
+
+  <para>Prendre une veste ou un manteau</para>
+
+  <para>Se réfugier dans une armoire (tornade)</para>
+
+  <para>Prendre un costume anti-feu (volcan)</para>
+
+  <para>Réunion 2 : Comment nous décidons ensemble 32</para>
+
+  <para>Mettre des vêtements spéciaux (Arctique)</para>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata depth="7.9689inch" fileref="embedded:image12.png"
+                   width="6.1563inch"/>
+      </imageobject>
+    </inlinemediaobject>4. Décider du jeu</para>
+
+  <para>33 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>OK, maintenant il est temps de décider à quel jeu on va jouer
+  aujourd’hui. Tout le monde aura son tour pour dire à quel jeu il ou elle
+  veut jouer. Après je vais proposer un jeu.</para>
+
+  <para>5. Tour de nominations appuyées par les raisons</para>
+
+  <para>À quel jeu veux-tu jouer, et pourquoi?</para>
+
+  <para>6. Tour de changement</para>
+
+  <para>Est-ce que tu as changé d’avis basé sur ce que d’autres ont dit?
+  (Demander les mains levées pour gagner du temps).</para>
+
+  <para>7. Vérifier s’il y a consentement</para>
+
+  <para>Je propose que nous jouions au [jeu proposé].</para>
+
+  <para>Est-ce que vous êtes OK pour essayer ce jeu? Est-ce que vous avez des
+  objections? Rappelez-vous que pouces vers le haut signifie “J’aime”, pouces
+  latéraux signifie “C’est OK pour moi” et pouces vers le bas signifie “J’ai
+  une raison pour laquelle ce n’est pas assez bon pour maintenant et assez sûr
+  pour essayer”.</para>
+
+  <para>(En cas d’objections, utilisez la fiche Aide-Mémoire Résoudre les
+  Objections). Ouiii, on consent!</para>
+
+  <para>8. Jouer le jeu</para>
+
+  <para>9. Tour de clôture</para>
+
+  <para>Comment as-tu trouvé la réunion d’aujourd’hui?</para>
+
+  <para>Réunion 2 : Comment nous décidons ensemble 34<inlinemediaobject>
+      <imageobject>
+        <imagedata depth="8.552inch" fileref="embedded:image13.png"
+                   width="6.6043inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para>35 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Fiche de travail Consentement &amp; objections</para>
+
+  <para>Nom:</para>
+
+  <para>Date:</para>
+
+  <para>Instructions</para>
+
+  <para>Choisis un des exemples suivants:</para>
+
+  <para>● Nourriture</para>
+
+  <para>● Film ou émission de télé</para>
+
+  <para>● Température intérieure</para>
+
+  <para>● Température extérieure</para>
+
+  <para>Puis remplis le diagramme ci-dessous avec consentement (ce que tu
+  aimes, ce que tu trouves OK) et objections (ce qui n’est ni assez bon pour
+  maintenant, ni assez sûr pour essayer).</para>
+
+  <para>Consentement (FROM TOP TO BOTTOM)</para>
+
+  <para>Ce que tu trouves OK</para>
+
+  <para>Ce que tu aimes</para>
+
+  <para>Objection</para>
+
+  <para>Pas assez bien pour maintenant</para>
+
+  <para>Pas assez sûr pour essayer</para>
+
+  <para>Est-ce qu’il y a moyen de résoudre les objections?</para>
+
+  <para>Réunion 3 : Qu'allons-nous faire ensemble ? 36</para>
+
+  <para>Réunion 3 : Qu'allons-nous faire ensemble ?</para>
+
+  <para>Les buts décrivent les activités qui rassemblent le groupe et les
+  types de décisions qui seront prises dans un domaine. Assurez-vous que le
+  domaine des enfants est clair à ce moment. Voir le domaine des enfants (page
+  ) et Buts du groupe (page ) pour plus de détails.</para>
+
+  <para>Avec les enfants, vous pouvez dire : "Tu as le pouvoir de décider de
+  X" pour le domaine, et "Nous ferons X ensemble" pour les buts. Vous n'êtes
+  pas obligé d'utiliser le vocabulaire spécifique des "domaines" et des "buts"
+  avec les enfants, mais c'est ce que l'on appelle en sociocratie
+  formelle.</para>
+
+  <para>Exemple 1 : Fonds partagés</para>
+
+  <para>Votre groupe collecte des fonds et décide ensemble de la manière de
+  les utiliser.</para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>Domaine</para></entry>
+
+          <entry><para>Buts</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Collecte de fonds et établissement du
+          budget</para></entry>
+
+          <entry><para>● Organiser des ventes de pâtisseries et d'autres
+          collectes de fonds</para><para>● Décider de l'utilisation des
+          fonds</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>Exemple 2 : Ressources partagées</para>
+
+  <para>Votre groupe décide de l'utilisation de ressources partagées, comme
+  d’une salle.</para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>Domaine</para></entry>
+
+          <entry><para>Buts</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Une salle partagée</para></entry>
+
+          <entry><para>● Garder l'espace en ordre</para><para>● Acheter de
+          nouveaux meubles</para><para>● Décorer les murs</para><para>●
+          Obtenir de nouveaux objets pour la pièce</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>Exemple 3 : Partage des responsabilités</para>
+
+  <para>Votre groupe est en train de décider comment répartir les tâches
+  ménagères.</para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>Domaine</para></entry>
+
+          <entry><para>Buts</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para>Les tâches ménagères dans notre maison</para>
+
+  <para>● Répartir les tâches de manière équitable ● S'assurer que les tâches
+  ménagères sont effectuées</para>
+
+  <para>37 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Exemple #4 : Expérience partagée</para>
+
+  <para>Votre groupe décide de quoi cuisiner pour le dîner de mercredi.</para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>Domaine</para></entry>
+
+          <entry><para>Buts</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Qu'est-ce qu'on mange le mercredi ?</para></entry>
+
+          <entry><para>● Choix un repas qui convient à tout le
+          monde</para><para>● Planification du repas</para><para>●
+          Budgétisation du coût du repas</para><para>● Achat de la
+          nourriture</para><para>● Préparation du repas</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>Choix des buts</para>
+
+  <para>Lors de la réunion d'aujourd'hui, vous allez contribuer aux buts du
+  groupe, à savoir apprendre la sociocratie ensemble et s'amuser. Avec un peu
+  de chance, vous trouverez des idées intéressantes sur ce qu'il faut faire
+  ensemble !</para>
+
+  <para>Le but de la séance de remue-méninges est de trouver des idées plus
+  générales, mais il n'y a pas de problème si les enfants proposent des idées
+  spécifiques. Par exemple, dans le domaine du dîner du mercredi, les enfants
+  peuvent proposer une pizza, un plat chinois ou une soupe. Toutes ces idées
+  s'inscrivent dans le but plus large et plus général du choix et de la
+  planification du repas, que vous pouvez synthétiser pour eux et noter. Vous
+  pouvez prendre le temps de répertorier ces idées pour les utiliser lors de
+  la prochaine réunion en tant que propositions. Notez-les sur des notes
+  autocollantes et gardez toutes les idées pour plus tard, mais précisez bien
+  que vous décidez aujourd'hui des catégories d'activités, et non des
+  activités spécifiques (ce sera pour la prochaine fois).</para>
+
+  <para>NOTE</para>
+
+  <para>Avec un groupe plus petit ou un groupe qui avance rapidement dans
+  l'ordre du jour, il est possible de combiner les réunions 3 et 4.</para>
+
+  <para>Si vous n'avez pas le temps de faire un tour de parole ou si vous
+  voulez laisser plus de temps pour le remue-méninges individuel, utilisez la
+  feuille de travail sur les buts (page ) pour rassembler des idées.</para>
+
+  <para>Vous pouvez utiliser la feuille de travail à un moment antérieur et
+  écrire les réponses des élèves sur un tableau blanc où ils pourront les voir
+  avant la réunion. Vous pouvez ensuite lire les idées et parvenir à un
+  accord.</para>
+
+  <para>L'objectif du processus de consentement pour cette réunion est de
+  répondre à la question : Cette liste est-elle complète ? Une raison
+  d'objecter serait que la liste n'est pas complète. Les objections à une
+  proposition peuvent aussi venir de la justification qu'une proposition est
+  en dehors du domaine, ou va à l'encontre des buts du groupe. Par exemple,
+  avec le domaine d'une salle d'art, il serait hors du domaine de proposer de
+  peindre une fresque sur le mur de la cuisine, parce que le domaine est
+  limité à la salle d'art, et n'inclut donc pas la cuisine.</para>
+
+  <para>Réunion 3 : Qu'allons-nous faire ensemble ? 38</para>
+
+  <para>Réunion préparation</para>
+
+  <para>● N'oubliez pas que si vous manquez de temps, vous pouvez utiliser la
+  feuille de travail sur les buts (page ) pour collecter des idées avant la
+  réunion et ensuite proposer toutes les idées pour consentement comme point
+  principal de l'ordre du jour.</para>
+
+  <para>● Préparez un tableau blanc ou un autre espace pour recueillir les
+  idées des enfants. REMARQUE</para>
+
+  <para>Pour des fiches de travail imprimables au format PDF (pages bordées),
+  consultez le site
+  https://sociocracyforall.org/lets-decide-together-2021</para>
+
+  <para>39 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Réunion 3 : Qu'allons-nous faire ensemble ? 40</para>
+
+  <para/>
+
+  <para>Ordre du jour réunion 3: Qu’allons-nous faire ensemble?</para>
+
+  <para>1. Annoncez la durée de la réunion</para>
+
+  <para>La réunion durera ___ minutes. Mettez la minuterie.</para>
+
+  <para>2. Tour d’accueil - check-in</para>
+
+  <para>Comment vas-tu aujourd’hui? (Question alternative: Si tes émotions
+  d’aujourd’hui étaient des conditions météorologiques, comment les
+  décrirais-tu? (p.ex. orageux, nuageux, ensoleillé,etc.)</para>
+
+  <para>3. Lisez l’introduction</para>
+
+  <para>Aujourd’hui nous collectons vos idées d’activités à faire en groupe.
+  Nous pouvons décider de toute activité ensemble relative à [votre
+  domaine].</para>
+
+  <para>4. Tour de feedback</para>
+
+  <para>Qu’est-ce que vous voulez faire ensemble? (p.ex. faire une vente de
+  pâtisseries, décorer les murs, etc.)</para>
+
+  <para>(Notez les réponses quelque part où tout le monde peut les voir, comme
+  par exemple sur un tableau blanc, une affiche ou un projecteur)</para>
+
+  <para>5. Vérifiez le consentement</para>
+
+  <para>(Lire les réponses à voix haute)</para>
+
+  <para>Est-ce que vous consentez à ces actions? Est-ce que la liste est
+  complète? Pouces en haut/latéralement/en bas.</para>
+
+  <para>(En cas d’objections, utilisez la fiche Résoudre les
+  Objections)</para>
+
+  <para>6. Tour de feedback</para>
+
+  <para>Est-ce que vous avez des idées détaillées de ce que l’on devrait faire
+  pour mener ces actions? (p.ex. si nous organisons une vente de pâtisseries,
+  qu’allons-nous cuisiner? Si nous décorons la salle, comment voulez-vous la
+  décorer? Nous allons noter ces idées pour la prochaine fois.</para>
+
+  <para>(Noter les idées pour la prochaine fois)</para>
+
+  <para>7. Tour de clôture</para>
+
+  <para>Comment s’est passée la réunion d’aujourd’hui?</para>
+
+  <para>41 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Réunion 4 : Passons à l'action 42</para>
+
+  <para>Fiche des buts</para>
+
+  <para>Nom:</para>
+
+  <para>Date:</para>
+
+  <para>Notre domaine: (la zone sur laquelle nous prenons des
+  décisions)</para>
+
+  <para>Buts</para>
+
+  <para>Quelles activités veux-tu faire ensemble en tant que groupe?</para>
+
+  <para>Activités</para>
+
+  <para>Quelles activités spécifiques veux-tu faire?</para>
+
+  <para>43 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Réunion 4 : Faisons en sorte que cela se produise</para>
+
+  <para>Avant cette réunion, rassemblez les idées de la dernière fois sur les
+  activités spécifiques que vous pourriez faire ensemble. Essayez de faire
+  tenir chaque idée sur une seule note autocollante.. Lisez maintenant ces
+  idées et identifiez celles qui impliquent des décisions budgétaires, car je
+  recommande un processus légèrement différent dans ces cas-là.</para>
+
+  <para>Si vous êtes dans une salle de classe, vous pouvez utiliser la fiche
+  de travail "Propositions rapides" (page ) pour proposer des idées d'action.
+  Cela donnera aux élèves le temps de réfléchir à ce qu'ils veulent, avant de
+  partager avec le grand groupe.</para>
+
+  <para>Propositions simples pour une activité</para>
+
+  <para>Jouer à des jeux, observer des insectes, faire une promenade et
+  peindre une fresque sont toutes des activités que vous pourriez faire
+  ensemble. Organisez-les ensemble en fonction de la facilité avec laquelle
+  l'activité peut être réalisée : combien de temps et de préparation cela
+  demanderait-il ? Expliquez cela afin que tout le monde sache clairement
+  quelles sont les propositions et ce que cela impliquerait.</para>
+
+  <para>1. Nominations et explication des raisons : Quelle activité
+  souhaiteriez-vous faire, et pourquoi ?</para>
+
+  <para>2. Modifier les nominations (mains levées) : Après avoir entendu ce
+  que les autres ont dit, souhaitez-vous changer d'avis ?</para>
+
+  <para>3. Proposer une idée pour obtenir le consentement : Levez toutes les
+  objections qui se présentent.</para>
+
+  <para>4. Célébrez la décision !</para>
+
+  <para>Lorsque vous proposez une idée en vue d’un consentement, essayez de
+  proposer quelque chose que vous pouvez faire ensemble dès que possible, puis
+  proposez quelque chose sur lequel vous pouvez travailler au fil du temps. Le
+  fait d'avoir la gratification instantanée de prendre une décision et de la
+  mettre en œuvre rapidement créera une dynamique positive pour le
+  groupe.</para>
+
+  <para>Lorsque vous proposez un consentement, demandez : ces activités
+  sont-elles suffisamment bonnes pour être essayées avec le groupe ? Certains
+  enfants voudront peut-être procéder à un vote à la majorité pour leurs
+  préférences personnelles, mais ce type de vote conduit les gens à prendre
+  parti et à créer des gagnants et des perdants. Au lieu de cela, proposez une
+  seule activité et demandez, êtes-vous d'accord pour l'essayer? Vous pouvez
+  généralement choisir plus d'une activité et trouver une solution qui réponde
+  aux besoins de chacun.</para>
+
+  <para>Pour les activités à plus long terme qui nécessitent un engagement
+  plus important, voir Réunion 7 : Propositions complexes (page ). Vous pouvez
+  déléguer à un ou plusieurs membres du groupe qui souhaitent régler les
+  détails. Par exemple, qui sera responsable de la réalisation de cette
+  activité pour la période X à venir ? Le facilitateur propose quelqu'un pour
+  le consentement.</para>
+
+  <para>Cette réunion sera répétée tant que le groupe continuera à décider de
+  ce qu'il convient de faire avec le temps et les ressources partagées.</para>
+
+  <para>Réunion 4 : Passons à l'action 44</para>
+
+  <para>Décisions budgétaires</para>
+
+  <para>Acheter un jeu de société, des fournitures artistiques, des billets
+  pour une sortie scolaire et des ingrédients pour préparer le dîner sont
+  toutes des activités qui impliquent des dépenses. Faire des choix concernant
+  des activités impliquant de l'argent nécessite un processus légèrement
+  différent. Afin d’aider les enfants à se préparer à prendre des décisions
+  budgétaires, faites des recherches sur les coûts avant de les rencontrer.
+  S'ils veulent acheter un jeu de société particulier, combien coûte-t-il ?
+  Pour une sortie scolaire, combien coûtent les billets ? Si vous achetiez des
+  articles pour un repas, vous considéreriez la liste complète des ingrédients
+  comme un seul article. Si vous voulez que les enfants fassent le calcul,
+  vous pouvez leur apporter les chiffres à additionner. Sinon, apportez
+  simplement à la réunion le coût total de chaque proposition.</para>
+
+  <para>Lisez à haute voix les articles et leurs coûts à tout le monde.
+  Expliquez que l'idée est d'acheter ce qui serait le mieux pour l'ensemble du
+  groupe, et non pour une seule personne. Vous pouvez ensuite demander aux
+  enfants de choisir les articles les plus prioritaires dans un tour de
+  nominations. Utilisez le même processus de sélection que pour les
+  Propositions simples pour une activité (page ). Proposez le consentement à
+  l'achat de l'article qui a les meilleures raisons de correspondre au but du
+  groupe, soustrayez le coût du budget total de votre nouvelle limite, puis
+  répétez le processus. Vous pouvez demander au groupe combien d'argent il
+  veut dépenser ce jour-là, ou s'il veut acheter tout ce qui figure sur la
+  liste, s'il en a les moyens.</para>
+
+  <para>Si le processus de sélection s'avère trop long avec votre groupe, ou
+  s'il perd patience pendant ce genre de réunion, vous pouvez utiliser un
+  système de vote rapide par notes autocollantes. Affichez toutes les
+  propositions sur des notes autocollantes et donnez à chacun la possibilité
+  de cocher ses trois premiers choix. Nommez celle qui a obtenu le plus de
+  votes pour le consentement, et parcourez la liste des éléments les plus
+  demandés pour le consentement. Cette solution n'est pas strictement
+  sociocratique, mais maintient le principe du consentement puisqu'il y a une
+  possibilité d'objection.</para>
+
+  <para>J'ai également vu des écoles utiliser le vote par choix classé9 pour
+  prendre des décisions budgétaires complexes, en particulier lorsqu'une somme
+  d'argent importante est en jeu. La proposition résultant du choix classé
+  passe ensuite par le processus de consentement complet.</para>
+
+  <para>Quel que soit le processus utilisé, il est important de dépenser
+  l'argent dès que possible afin que les enfants puissent voir rapidement les
+  résultats de leurs décisions. Cela renforce la confiance dans le processus
+  et le sentiment d'autonomie.</para>
+
+  <para>Préparation de la réunion</para>
+
+  <para>● Apportez les listes d'idées d'activités et de dépenses, que ce soit
+  sur des notes autocollantes de la dernière fois ou sur des fiches de
+  travail.</para>
+
+  <para>● Apportez le total du budget et les coûts estimés des éléments qui
+  ont fait l'objet d'un remue-méninges. Ensuite, reportez les totaux à un
+  endroit où tout le monde peut les voir.</para>
+
+  <para>9 https://en.wikipedia.org/wiki/Ranked_voting/</para>
+
+  <para>45 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>par exemple sur un tableau blanc, une affiche ou un projecteur.</para>
+
+  <para>REMARQUE</para>
+
+  <para>Pour des fiches de travail imprimables au format PDF (pages bordées),
+  consultez le site
+  https://sociocracyforall.org/lets-decide-together-2021</para>
+
+  <para>Réunion 4 : Passons à l'action 46</para>
+
+  <para>47 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Réunion 5 : Changement d'orientation 48</para>
+
+  <para>Ordre du jour Réunion 4: Faisons en sorte que cela se produise</para>
+
+  <para>1. Annoncez la durée de la réunion</para>
+
+  <para>La réunion durera ___ minutes. Mettez la minuterie.</para>
+
+  <para>2. Tour d’accueil - check-in</para>
+
+  <para>Montre avec ton visage: Comment vas-tu aujourd’hui?</para>
+
+  <para>3. Lisez l’introduction</para>
+
+  <para>Aujourd’hui nous allons décider par quelles activités on va commencer
+  et comment dépenser notre argent.</para>
+
+  <para>4. Tour de nominations d’activités</para>
+
+  <para>(Lisez les idées d’activités de la dernière fois)</para>
+
+  <para>Laquelle de ces idées te parle le plus pour essayer, et
+  pourquoi?</para>
+
+  <para>5. Vérifiez le consentement</para>
+
+  <para>(Proposez l’idée avec les meilleures raisons au consentement)</para>
+
+  <para>Est-ce que c’est OK pour toi d’essayer cette idée? Pouces en
+  haut/latéralement/en bas</para>
+
+  <para>(Répéter processus si le temps permet. Sauvegarder les idées restantes
+  pour une prochaine fois)</para>
+
+  <para>6. Tour de nominations de dépenses</para>
+
+  <para>Nous avons $____ à dépenser ensemble. Nous souhaitons dépenser
+  l’argent de façon à ce que tout le monde soit d’accord.</para>
+
+  <para>(Lire la liste des articles et combien coûte chaque article.)</para>
+
+  <para>Laquelle de ces idées te parle le plus pour acheter, et
+  pourquoi?</para>
+
+  <para>7. Vérifiez le consentement</para>
+
+  <para>(Proposez l’idée avec les meilleures raisons pour
+  consentement.)</para>
+
+  <para>Est-ce que vous êtes d’accord pour acheter ceci? Pouces en
+  haut/latéralement/en bas.</para>
+
+  <para>(Soustraire le coût de l’article du budget total. S’ils souhaitent
+  dépenser plus que le budget disponible, répétez le processus.)</para>
+
+  <para>8. Tour de clôture</para>
+
+  <para>49 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Comment s’est passée la réunion d’aujourd’hui?</para>
+
+  <para>Fiche de travail Propositions rapides</para>
+
+  <para>Nom:</para>
+
+  <para>Date:</para>
+
+  <para>Notre domaine: (la zone sur laquelle nous prenons des
+  décisions)</para>
+
+  <para>Activités</para>
+
+  <para>Quelle est la première activité que tu voudrais essayer?
+  Pourquoi?</para>
+
+  <para>Qu’est-ce que tu aimerais faire d’autre?</para>
+
+  <para>Budget</para>
+
+  <para>Qu’est-ce que tu penses que nous devrions acheter d’abord? Pourquoi?
+  Qu’est ce que tu aimerais aussi acheter?</para>
+
+  <para>Réunion 5 : Changement d'orientation 50</para>
+
+  <para>Réunion 5 : Changer le fonctionnement des choses</para>
+
+  <para>Des propositions rapides pour changer le fonctionnement des
+  choses</para>
+
+  <para>Une réunion de changement est un outil puissant pour résoudre les
+  problèmes ou saisir les opportunités. Ce processus peut déboucher sur des
+  propositions solides et efficaces qui abordent à la fois ce qui doit changer
+  et les raisons pour lesquelles vous procédez à ce changement. Ce format est
+  inspiré des outils agiles des Agile Learning Centers10 et de Sociocracy
+  3.011.</para>
+
+  <para>Les catégories sont les suivantes :</para>
+
+  <para>● Ce qui se passe : Est-ce un problème ou une opportunité ?</para>
+
+  <para>● Besoins : besoins collectifs et individuels</para>
+
+  <para>● Ce que nous essayons : les idées que vous proposez pour répondre à
+  ce qui se passe et aux besoins des gens</para>
+
+  <para>● Questions : pour aider à évaluer si la proposition résout le
+  problème ou répond aux besoins</para>
+
+  <para>J'aime utiliser une note autocollante pour chaque colonne, mais vous
+  pouvez empiler les notes si elles ne tiennent pas sur une seule note. Les
+  notes autocollantes permettent de rester bref et sont également faciles à
+  déplacer.</para>
+
+  <para>Vous vérifierez les propositions de Qu’est-ce qui se passe à plusieurs
+  reprises et les ferez avancer sur le tableau jusqu'à la prochaine colonne de
+  Check-in. Vous pouvez faire le point chaque semaine, chaque mois ou à la
+  fréquence qui convient le mieux à votre groupe. Si les choses se passent
+  bien et que les propositions fonctionnent, vous finirez par les intégrer
+  dans vos accords de groupe.</para>
+
+  <para>Processus de réunion pour changer le fonctionnement des choses</para>
+
+  <para>Étape 0 : Commencez par la gratitude</para>
+
+  <para>Nous aimons commencer par demander au groupe : "Qu'est-ce qui
+  fonctionne bien ? puis en utilisant les mains levées pour répondre. C'est
+  une bonne façon de commencer une réunion et cela permet de se concentrer sur
+  ce qui est positif avant d'aborder ce qui pourrait être amélioré. Si vous le
+  souhaitez, vous pouvez noter les gratitudes de chacun.</para>
+
+  <para>Étape 1 : Annoncer ce qui se passe</para>
+
+  <para>Qu'est-ce qui se passe dans notre groupe en ce moment ? Quelles idées
+  avez-vous pour de nouveaux projets ? Quels problèmes voyez-vous qui doivent
+  être résolus ? Je vous recommande d'utiliser la fiche de travail Changement
+  (page ) avant la réunion pour rassembler des idées, puis de les annoncer
+  lors de la réunion.</para>
+
+  <para>51 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Étape 2 : Faîtes le lien entre ce qui se passe et les besoins du
+  groupe</para>
+
+  <para>L'objectif des changements est de mieux répondre aux besoins des
+  individus. Définir les besoins vous donne un moyen d'évaluer les
+  propositions en vous demandant : "Ce besoin est-il satisfait ?" L'idée des
+  besoins peut être trop abstraite pour les enfants de 10 ans et moins, ils
+  peuvent donc avoir besoin d'aide pour identifier les besoins. Je vous
+  recommande de le faire vous-même, soit avant la réunion, soit pendant la
+  réunion.</para>
+
+  <para>Écouter les enfants et identifier leurs besoins est un art, car ils ne
+  peuvent généralement pas identifier et communiquer le besoin directement.
+  Voici quelques exemples concrets de besoins des enfants et de la manière
+  dont ils peuvent exprimer un besoin non satisfait.</para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>Exemple d'un besoin</para></entry>
+
+          <entry><para>Comment les enfants peuvent exprimer le besoin non
+          satisfait</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Connexion</para></entry>
+
+          <entry><para>"Les autres enfants me laissent de
+          côté."</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Sécurité</para></entry>
+
+          <entry><para>"J'ai peur."</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Comprendre</para></entry>
+
+          <entry><para>"Je ne comprends pas."</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Utilisation des
+          ressources</para><para>partagées</para></entry>
+
+          <entry><para>"Je veux un tour."</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Équité</para></entry>
+
+          <entry><para>"Ce n'est pas juste."</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Mouvement/exercice</para><para>Jouer</para><para>Liberté</para></entry>
+
+          <entry><para>(courant dans tous les sens)</para><para>"Ce n'est pas
+          amusant."</para><para>"Il y a trop de règles."</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Défi</para><para>Expression de soi</para><para>Beauté
+          et inspiration</para></entry>
+
+          <entry><para>"C'est ennuyeux."</para><para>(coloriage sur le
+          mur)</para><para>"C'est ennuyeux."</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Un environnement propre et sûr</para></entry>
+
+          <entry><para> "C'est dégueulasse ici."</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>N'oubliez pas que les enfants peuvent avoir du mal à identifier leurs
+  propres besoins. Vous devrez donc peut-être poser des questions
+  complémentaires pour identifier le besoin non satisfait à l'origine de leur
+  plainte ou de leur comportement. Il est préférable de le faire en
+  tête-à-tête, en dehors d'une réunion.</para>
+
+  <para>Je suis sûr que vous pouvez également penser à de nombreux autres
+  besoins ! Si vous avez du mal à identifier les besoins, vous pouvez trouver
+  d'autres listes de besoins dans les ressources de la Communication
+  NonViolente12.</para>
+
+  <para>12 https://www.cnvc.org/training/resource/needs-inventory/</para>
+
+  <para>Réunion 5 : Changement d'orientation 52</para>
+
+  <para>Étape 3 : Choisissez une question sur laquelle vous travaillerez en
+  groupe pendant 7 à 10 minutes.</para>
+
+  <para>Quel est le problème ? Comment pouvons-nous le résoudre ? Posez ces
+  questions en tours de cercle et dressez une liste d'idées de solutions. S'il
+  y a plus de 10 enfants présents ou si vous discutez de plusieurs problèmes,
+  il est utile de se séparer en petits groupes. À l'étape 4, ces groupes
+  élaboreront chacun leur propre proposition, en abordant un problème
+  différent. Les groupes de travail fonctionnent mieux si les enfants sont
+  autorisés à assister au groupe qui discute du problème qui les préoccupe le
+  plus.</para>
+
+  <para>Si vous vous divisez en petits groupes, je vous suggère également
+  d'envoyer un facilitateur pour aider à maintenir chaque groupe à sa tâche,
+  surtout avec des jeunes enfants. Réglez un minuteur pour dix minutes, puis
+  réunissez le grand groupe pour annoncer les propositions.</para>
+
+  <para>Étape 4 : Synthèse de la proposition</para>
+
+  <para>Examinez la liste des idées de solutions et synthétisez une
+  proposition. Combinez les idées du groupe et résolvez en même temps les
+  préoccupations que vous avez entendues. La proposition doit tenir sur
+  quelques notes autocollantes, soyez donc concis. Si une proposition dépasse
+  deux notes autocollantes, il est probablement préférable d'en discuter lors
+  d'une réunion ultérieure ou de la diviser en plusieurs propositions. Pour
+  les sujets très controversés, ou lorsque la discussion nécessite plus de 10
+  minutes, reportez-les également à une réunion ultérieure. Si la question est
+  particulièrement complexe, vous devrez peut-être utiliser le processus
+  décrit dans Réunion 7 : Propositions complexes (page ).</para>
+
+  <para>Conseils pour synthétiser une proposition :</para>
+
+  <para>● Écoutez attentivement ce que chacun a à dire. Si possible, prenez
+  des notes.</para>
+
+  <para>● Rassemblez ce qui a été dit en une seule proposition. Essayez de
+  n'omettre aucune idée. Demandez au groupe : "Ai-je bien compris tout ce que
+  vous avez dit ?"</para>
+
+  <para>● Répondez à toutes les questions posées. Choisissez simplement une
+  réponse qui semble raisonnable et voyez s'il y a des objections pendant le
+  tour de consentement.</para>
+
+  <para>● Si des préoccupations apparaissent, essayez de les intégrer dans la
+  proposition comme s'il s'agissait d'objections. Rappelez-vous que les
+  préoccupations et les objections sont des éléments positifs qui conduisent à
+  une meilleure proposition.</para>
+
+  <para>Vous pouvez apporter la Fiche Synthèse des propositions (page ) à la
+  réunion pour vous aider à synthétiser une proposition.</para>
+
+  <para>Étape 5 : Vérifier le consentement</para>
+
+  <para>Demandez le consentement à la proposition à pouce en
+  haut/latéralement/en bas. S'il y a des objections, consultez la fiche
+  Résoudre les objections (page ) pour vous aider à obtenir le consentement.
+  Recueillez les préoccupations et les questions pour évaluer les
+  propositions, puis inscrivez-les sur une note autocollante dans la colonne
+  Questions pour y revenir lors du prochain checkin (étape 6). Une fois le
+  consentement obtenu, n'oubliez pas de célébrer votre décision !</para>
+
+  <para>53 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Étape 6 : Check-in prochaine fois</para>
+
+  <para>Essayez les propositions jusqu'à la prochaine réunion. Après votre
+  première réunion, vous ferez le point sur les propositions précédentes après
+  les gratitudes, avant de poursuivre le reste du processus. Une réunion de
+  changement doit être organisée régulièrement, par exemple tous les jours,
+  toutes les semaines ou tous les mois. Pour les rassemblements de courte
+  durée, comme un camp d'été, des réunions de contrôle quotidiennes peuvent
+  fonctionner. Les réunions de changement hebdomadaires fonctionnent très bien
+  si vous êtes dans un groupe qui se réunit pour faire des activités
+  quotidiennement, par exemple dans une école ou une famille. Pour les groupes
+  qui se réunissent moins régulièrement, comme un club hebdomadaire, donnez du
+  temps entre les réunions de changement pour mettre en pratique les
+  propositions et voir comment elles fonctionnent en action.</para>
+
+  <para>Utilisez les préoccupations et les questions que vous avez recueillies
+  à l'étape 5 pour évaluer la mise en pratique de la proposition. Vous pouvez
+  également demander : "Cette proposition répond-elle au besoin que nous avons
+  identifié ?". Demandez les pouces en l'air/en bas/latéralement pour obtenir
+  le consentement à déplacer la proposition vers la prochaine colonne de
+  vérification. Si quelqu'un s'y oppose (pouce vers le bas), répétez le
+  processus de changement pour ce qui se passe actuellement.</para>
+
+  <para>Une fois qu'une proposition a passé deux check-ins sans objection,
+  elle peut être intégrée à la liste officielle des accords de groupe,
+  idéalement affichée à un endroit où tout le monde peut la voir, comme une
+  affiche dans une zone commune.</para>
+
+  <para>Transcription d'une réunion pour changer le fonctionnement des
+  choses</para>
+
+  <para>Facilitateur : "Bienvenue à la réunion de changement. Aujourd'hui,
+  nous allons parler du problème de la course à l'intérieur. Quels sont les
+  besoins des gens liés à la course à l'intérieur ?"</para>
+
+  <para>Enfant 1 : "J'ai peur des gens qui courent vite."</para>
+
+  <para>Enfant 2 : "Il y a trop de bruit !"</para>
+
+  <para>Enfant 3 : "J'aime courir très vite ! C'est amusant."</para>
+
+  <para>Facilitateur : "On dirait qu'on a besoin de calme, de mouvement et de
+  sécurité. Est-ce que ça correspond à ce dont vous avez besoin ? Pouces en
+  haut/en bas/de côté ?"</para>
+
+  <para>Des enfants : (pouce en l'air)</para>
+
+  <para>Réunion 5 : Changement d'orientation 54</para>
+
+  <para>Facilitateur : "Quelles idées avez-vous pour résoudre ce problème
+  ?"</para>
+
+  <para>Enfant 1 : "On devrait courir plus lentement."</para>
+
+  <para>Enfant 2 : "Nous devrions courir dehors."</para>
+
+  <para>Enfant 3 : "Nous pouvons être prudents et courir à
+  l'intérieur."</para>
+
+  <para>Facilitateur : "Je propose une nouvelle règle : on ne peut courir que
+  dehors. Pouces en l'air, en bas, sur le côté ?"</para>
+
+  <para>Enfant 1 : (pouces vers le bas)</para>
+
+  <para>Enfant 2 : (pouce en l'air)</para>
+
+  <para>Enfant 3 : (pouces vers le bas)</para>
+
+  <para>Facilitateur : "Quelle est votre objection, Enfant 1 ?"</para>
+
+  <para>Enfant 1 : "Je pensais qu'on était censé pouvoir changer les règles.
+  Ce n'est pas juste. Je pense qu'on devrait pouvoir courir à l'intérieur,
+  mais pas si vite."</para>
+
+  <para>Enfant 3 : "Je veux courir à l'intérieur aussi."</para>
+
+  <para>Facilitateur : "Je m'oppose à cette idée pour des raisons de sécurité.
+  J'ai peur que des gens se blessent. De plus, personne ne semble être capable
+  de ralentir s'il joue à la course-poursuite."</para>
+
+  <para>Enfant 1 : "Et si on disait pas de jeux de poursuite à l'intérieur ?
+  Peut-on l'essayer pendant une journée et vérifier demain si des gens ont été
+  blessés ?"</para>
+
+  <para>Facilitateur : "Je suppose que je pourrais y consentir pour une
+  journée. Je propose que l'on puisse courir tant que l'on fait attention,
+  mais toujours pas de jeux de poursuite à l'intérieur. Pouces en haut/en
+  bas/de côté ?"</para>
+
+  <para>55 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Des enfants : (pouce en l'air)</para>
+
+  <para>Facilitateur : "Yay, nous avons pris une décision ! Nous allons
+  essayer cela pendant une journée et demain nous vérifierons si cela
+  fonctionne en demandant à tout</para>
+
+  <para>   le monde : Vous sentez-vous en sécurité ? Avez-vous le sentiment  
+         </para>
+
+  <para>   d’obtenir la liberté dont vous avez besoin ?"</para>
+
+  <para>Tableau des changements décidés pendant cette réunion</para>
+
+  <para>Voici un exemple concret tiré de Pathfinder. À la grande surprise des
+  adultes, les enfants ont pu courir à l'intérieur sans que personne ne soit
+  blessé pendant toute la durée du programme jusqu'à présent.</para>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata depth="2.8228inch" fileref="embedded:image16.png"
+                   width="6.9791inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <informaltable frame="all">
+    <tgroup cols="4">
+      <colspec colname="c1" colnum="1"/>
+
+      <colspec colname="c2" colnum="2"/>
+
+      <colspec colname="c3" colnum="3"/>
+
+      <colspec colname="c4" colnum="4"/>
+
+      <colspec colname="c5" colnum="5"/>
+
+      <tbody>
+        <row>
+          <entry><para>Qu’est-ce qui se passe</para></entry>
+
+          <entry><para>Besoins</para></entry>
+
+          <entry><para>Ce qu’on essaie</para></entry>
+
+          <entry><para>Questions de vérification</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Les gens courent à</para><para>l’intérieur et jouent à
+          la course-poursuite</para></entry>
+
+          <entry><para>Sécurité</para><para/><para/><para>Mouvement</para><para/></entry>
+
+          <entry><para>Essayer de courir avecprudence à l’intérieur.Pas de
+          courses-poursuites</para></entry>
+
+          <entry><para>Est-ce que tout le monde se sent en sécurité? Est-ce
+          que tu peux bouger assez?</para><para>Est-ce que
+          quelqu’un</para><para>s’est blessé?</para><para/></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>Réunion 5 : Changement d'orientation 56</para>
+
+  <para>Exemples de résultats de réunions de changement</para>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata depth="2.8228inch" fileref="embedded:image15.png"
+                   width="6.9791inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para/>
+
+  <informaltable frame="all">
+    <tgroup cols="4">
+      <colspec colname="c1" colnum="1"/>
+
+      <colspec colname="c2" colnum="2"/>
+
+      <colspec colname="c3" colnum="3"/>
+
+      <colspec colname="c4" colnum="4"/>
+
+      <tbody>
+        <row>
+          <entry><para>Qu’est-ce qui se passe</para></entry>
+
+          <entry><para>Besoins</para></entry>
+
+          <entry><para> Ce qu’on essaie</para></entry>
+
+          <entry><para>Questions de vérification</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Les gens laissent de la nourriture dans leurs
+          cases.</para><para/><para/><para/></entry>
+
+          <entry><para>Un environnement propre et sécure (pas d’insectes et de
+          souris)</para><para/></entry>
+
+          <entry><para>Ajouter “Vérifier Cases” sur la liste des tâches, pour
+          rappeler aux gens d’enlever la nourriture</para><para/></entry>
+
+          <entry><para/><para>Est-ce que les cases sont
+          propres?</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata depth="2.8228inch" fileref="embedded:image5.png"
+                   width="6.9791inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para>57 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para/>
+
+  <informaltable frame="all">
+    <tgroup cols="4">
+      <tbody>
+        <row>
+          <entry><para>Qu’est-ce qui se passe</para></entry>
+
+          <entry><para>Besoins</para></entry>
+
+          <entry><para>Ce qu’on essaie</para></entry>
+
+          <entry><para>Questions de vérification</para><para/></entry>
+        </row>
+
+        <row>
+          <entry><para>Les garçons enlèvent leurs T-shirts
+          dans</para><para>l’arroseur. Les files</para><para>n’ont pas le
+          droit</para><para>d’enlever leur T-shirt</para></entry>
+
+          <entry><para>Justice</para></entry>
+
+          <entry><para>Tout le monde doit porter un T-shirt sous
+          l’arroseur.</para></entry>
+
+          <entry><para>Est-ce que c’est juste?</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata depth="2.8228inch" fileref="embedded:image6.png"
+                   width="6.9791inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>Qu’est-ce qui se passe</para></entry>
+
+          <entry><para>Besoins                             Ce qu’on essaie    
+                Questions de vérification</para></entry>
+        </row>
+
+        <row>
+          <entry><para>La vaisselle sale</para><para>s’accumule dans
+          le</para><para>lavabo.</para></entry>
+
+          <entry><para>Propreté et pouvoir          Tout le monde doit      
+           Est-ce que la vaisselle</para><para>utiliser l’espace              
+            faire sa vaisselle             s’accumule ? Est-ce
+          que</para><para>commun.                           Immédiatement.    
+                 le lavabo est propre
+          ?</para><para/><para/><para>  </para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>Lors de la vérification, vous aurez la possibilité de déplacer la
+  proposition (ce qu’on essaie de faire) vers la prochaine colonne
+  Vérification.</para>
+
+  <para>Réunion 5 : Changement d'orientation 58</para>
+
+  <para>Par exemple, le tableau de changement ci-dessous comporte le domaine
+  salle d'art, ainsi que les buts d'organisation et d'entretien du matériel et
+  de décoration de la salle. La proposition d'être formé au lavage des
+  pinceaux vient d'être acceptée. La semaine suivante, cette proposition peut
+  passer dans la colonne "Vérification 1" si les choses se passent
+  bien.</para>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata depth="2.2602inch" fileref="embedded:image8.png"
+                   width="6.9583inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>Qu’est-ce qui se passe</para></entry>
+
+          <entry><para>Besoins                             Ce qu’on essaie    
+                  Questions de vérification</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Les gens laissent de la peinture sur
+          les</para><para>pinceaux.</para></entry>
+
+          <entry><para>Tout le monde doit être     Si tu veux utiliser les    
+           Est-ce que les pinceaux</para><para>en mesure d’utiliser          
+           pinceaux, tu dois           restent propres ?</para><para>les
+          matériaux d’art              être
+          formé.</para><para>communs.</para><para/><para/><para/></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>Le tableau de changement ci-dessous concerne le domaine des jouets
+  partagés. La proposition est passée à l'étape de l'enregistrement 1 parce
+  qu'elle a été fructueuse pendant une semaine.</para>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata depth="2.2709inch" fileref="embedded:image9.png"
+                   width="6.9898inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para>59 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>Qu’est-ce qui se passe</para></entry>
+
+          <entry><para>Besoins                          Questions de
+          vérification          1ère Vérification</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Les projets de Lego</para><para>sont
+          détruits.</para></entry>
+
+          <entry><para>Partager nos briques        Est-ce que nous            
+             Mettre les projets de</para><para>légos. Respecter les        
+          partageons les legos?       légos dans des</para><para>projets des
+          autres.           Est-ce que les projets        caisses. Les
+          défaire</para><para>                                         de
+          légos sont                    chaque mois.</para><para>             
+                                   
+           respectés?</para><para/><para/><para/><para/></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>Voici un exemple de réunion de modification de la cuisine, qui peut
+  avoir lieu à la maison, à l'école ou au bureau. La pratique a été vérifiée à
+  plusieurs reprises et est maintenant intégrée dans la culture de la
+  communauté, de sorte qu'elle peut passer aux accords de groupe.</para>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata depth="2.2709inch" fileref="embedded:image19.png"
+                   width="6.9898inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>Qu’est-ce qui se passe</para></entry>
+
+          <entry><para>Besoins                            Questions de
+          vérification           2e Vérification</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>La table et les surfaces de la cuisine sont sales.</para>
+
+  <para>                                     </para>
+
+  <para>Un environnement</para>
+
+  <para>partagé utilisable et propre                             Est-ce que
+  les tables et les surfaces sont</para>
+
+  <para>propres?</para>
+
+  <para>Ajouter “Nettoyer la tables et les surfaces” à la liste des
+  tâches</para>
+
+  <para>Vous pouvez visionner une vidéo d'une réunion de changement complète à
+  l'adresse suivante :
+  https://sociocracyforall.org/lets-decide-together-2021</para>
+
+  <para>Préparation de la réunion 5 60</para>
+
+  <para>Préparation de la réunion</para>
+
+  <para>● Sur une affiche, un tableau blanc ou un projecteur, créez un tableau
+  avec les colonnes ci-dessus : Ce qui se passe, Besoins, Ce qu’on essaie,
+  Questions checkin, Checkin 1 et Checkin 2. Voir le modèle de tableau de
+  changement (page ) pour un exemple.</para>
+
+  <para>● Si vous avez du temps avant la réunion ou si vous êtes dans un
+  contexte de classe, vous pouvez distribuer la fiche de travail sur les
+  changements (page ) pour recueillir des idées à l'avance. Vous pouvez
+  transformer les idées en notes autocollantes et regrouper les idées
+  similaires. Vous pouvez également prendre des notes sur les idées, les
+  problèmes et les opportunités en dehors des réunions, au fur et à mesure des
+  conversations, puis apporter ces notes à la réunion de changement. N'oubliez
+  pas que vous, en tant qu'adulte, pouvez également présenter des problèmes et
+  des idées au groupe.</para>
+
+  <para>REMARQUE</para>
+
+  <para>Pour des fiches de travail imprimables au format PDF (pages bordées),
+  consultez le site
+  https://sociocracyforall.org/lets-decide-together-2021</para>
+
+  <para>61 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants<inlinemediaobject>
+      <imageobject>
+        <imagedata depth="8.7811inch" fileref="embedded:image14.png"
+                   width="6.7709inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para>Préparation de la réunion 5 62</para>
+
+  <para>Ordre du jour Réunion 5: Changement</para>
+
+  <para>1. Annoncez la durée de la réunion</para>
+
+  <para>La réunion durera ___ minutes. Mettez la minuterie.</para>
+
+  <para>2. Tour d’accueil - check-in</para>
+
+  <para>Comment vas-tu aujourd’hui?</para>
+
+  <para>3. Partagez les gratitudes</para>
+
+  <para>Qu’est-ce qui va bien dans notre groupe? (Main levée)</para>
+
+  <para>4. Vérifications des changements liés aux propositions (en commençant
+  par la 2e réunion)</para>
+
+  <para>Comment nos propositions fonctionnent depuis la dernière fois? (Poser
+  des questions d’évaluation) Pouces en haut/en bas/latéralement pour chaque
+  proposition.</para>
+
+  <para>(Propositions sans pouces en bas bougent vers la prochaine colonne.
+  Propositions pouces en bas retournent à “Qu’est-ce qui se passe”.</para>
+
+  <para>5. Lisez “Qu’est-ce qui se passe” et “Besoins”</para>
+
+  <para>(Lisez à haute voix les thèmes de la réunion. Connectez-les aux
+  besoins)</para>
+
+  <para>6. Tour de résolution de problèmes</para>
+
+  <para>(Dans des groupes plus larges, formez des groupes de 5-10
+  enfants)</para>
+
+  <para>(Mettez la minuterie. Travaillez sur une thématique pendant 10
+  minutes)</para>
+
+  <para>Comment pouvons-nous résoudre le problème ou saisir une opportunité?
+  7. Synthétisez la proposition</para>
+
+  <para>(Synthétisez la proposition, puis collectez des questions pour
+  l’évaluation. Essayez de raccourcir la proposition pour qu’elle tienne sur
+  quelques notes autocollantes).</para>
+
+  <para>8. Vérifiez le consentement</para>
+
+  <para>(Lisez la proposition). Pouces en haut/en bas/latéralement.</para>
+
+  <para>9. Annoncez les propositions</para>
+
+  <para>(Si vous étiez en petits groupes, revenez en plénière).</para>
+
+  <para>[Vos propositions consenties] sont les solutions que nous allons
+  essayer jusqu’à la prochaine fois.</para>
+
+  <para>10. Tour de clôture</para>
+
+  <para>63 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Comment s’est passée la réunion d’aujourd’hui?</para>
+
+  <para><inlinemediaobject>
+      <imageobject>
+        <imagedata depth="6.5inch" fileref="embedded:image17.png"
+                   width="5.0102inch"/>
+      </imageobject>
+    </inlinemediaobject>Fiche de travail Changement</para>
+
+  <para>Nom:</para>
+
+  <para>Date:</para>
+
+  <para>Qu’est-ce qui va bien?</para>
+
+  <para>Qu’est-ce que tu aimerais changer?</para>
+
+  <para>Pourquoi as-tu besoin de ce changement?</para>
+
+  <para>Comment pourrions-nous faire ce changement?</para>
+
+  <para>Préparation de la réunion 5 64 <inlinemediaobject>
+      <imageobject>
+        <imagedata depth="6.4374inch" fileref="embedded:image1.png"
+                   width="4.9689inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para>Tableau du changement</para>
+
+  <para>Qu’est-ce qui se passe</para>
+
+  <para>Besoins</para>
+
+  <para>Qu’est-ce qu’on essaie</para>
+
+  <para>Questions check-in</para>
+
+  <para>Checkin 1</para>
+
+  <para>Checkin 2</para>
+
+  <para>65 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Réunion 6 : Qui va faire quoi ?</para>
+
+  <para>Pour cette réunion, nous allons essayer un autre type de proposition,
+  non pas pour une action ou une activité, mais pour que quelqu'un dans le
+  groupe prenne un nouveau rôle. Pour ceux qui sont habitués aux élections à
+  la majorité, il s'agit d'une expérience très différente. Dans les élections
+  à la majorité, le groupe peut se diviser en factions et connaître des débats
+  litigieux, et comme les gens ne peuvent que s'auto-nominer, le bassin de
+  sélection est petit. La minorité peut se sentir mécontente d'être exclue du
+  résultat et les personnes qui correspondraient bien au rôle peuvent ne pas
+  se nominer. À l'inverse, la sélection sociocratique des rôles inclut toutes
+  les voix, et des personnes peuvent être nommées dans des rôles qu'elles
+  n'auraient pas choisis elles-mêmes, mais dans lesquels elles
+  s'épanouiraient. Dans ce processus, chacun a l'occasion de dire pourquoi il
+  pense qu'une personne serait bonne pour un rôle, ce qui conduit à des
+  sentiments positifs pour tous.</para>
+
+  <para>Il est difficile d'exprimer à quel point le processus peut être
+  profondément différent pour les participants. J'ai entendu des personnes
+  commenter par "changeant la vie" et "magique" pour décrire leur expérience.
+  Ils font également état d'un plus grand sentiment d'appartenance au groupe
+  et d'un plus grand investissement dans le résultat.</para>
+
+  <para/>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <colspec colname="c1" colnum="1"/>
+
+      <colspec colname="c2" colnum="2"/>
+
+      <colspec colname="c3" colnum="3"/>
+
+      <tbody>
+        <row>
+          <entry><para>Sélections sociocratiques basées sur
+          le</para><para>consentement</para></entry>
+
+          <entry><para>Élections démocratiques par
+          majorité</para><para/></entry>
+        </row>
+
+        <row>
+          <entry><para>Les rôles sont définis dans le cadre du processus de
+          sélection. Chacun a la possibilité de donner son avis sur le rôle et
+          les qualifications nécessaires.</para></entry>
+
+          <entry><para>Les rôles sont généralement définis du
+          haut</para><para>vers le bas par les personnes au pouvoir, et non en
+          communication avec le groupe</para><para>concerné, ce qui exclut
+          leur contribution.</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Les gens se nomment les uns les autres ainsi
+          qu'eux-mêmes, ce qui conduit à une diversité dans le
+          leadership.</para><para/></entry>
+
+          <entry><para>En général, les gens ne proposent que
+          leur</para><para>propre candidature, ce qui conduit à sélectionner
+          des personnes habituées au pouvoir.</para><para/></entry>
+        </row>
+
+        <row>
+          <entry><para>Chacun a la possibilité de prendre la parole et  de
+          proposer une nomination. Les sélections sont faites ouvertement et à
+          haute voix.</para></entry>
+
+          <entry><para>Habituellement, les mains levées sont utilisées pour
+          les nominations, de sorte que seuls certains parlent. Les élections
+          se font généralement à bulletin secret.</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Les sélections sont faites par consentement,
+          garantissant un résultat que tout le monde s'accorde à trouver
+          suffisamment bien pour l’instant et suffisamment sûr pour être
+          essayé. Augmente la cohésion du groupe, car chacun apprend à mieux
+          connaître les besoins et les préoccupations des
+          autres</para><para/></entry>
+
+          <entry><para>Les élections sont faites par la majorité, ignorant
+          souvent les besoins des groupes minoritaires. Les groupes
+          minoritaires se sentent exclus, leur voix n'ayant aucun impact sur
+          le résultat.</para><para/></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para/>
+
+  <para>Réunion 6 : Qui va faire quoi ? 66</para>
+
+  <para>Les sélections de rôles fonctionnent bien dans les projets à long
+  terme. Cependant, si vous ne disposez que d'un temps limité avec les
+  enfants, comme un camp d'été d'une semaine ou un programme extrascolaire de
+  quatre semaines, je ne recommande pas les sélections de rôles. Cela ne
+  laisse pas assez de temps pour que les gens apprennent vraiment leurs
+  rôles.</para>
+
+  <para>La sélection des rôles est différente du volontariat. Le volontariat
+  peut sembler être un processus plus facile, mais souvent la première
+  personne à se porter volontaire est choisie. Il se peut qu'une autre
+  personne soit au moins aussi qualifiée, ou qu'elle puisse bénéficier de
+  l'expérience de l'exercice du rôle, mais elle ne penserait pas à se
+  proposer.</para>
+
+  <para>Le processus de sélection des rôles peut être contre-intuitif au
+  départ, mais les gens sont souvent surpris de voir à quel point l'expérience
+  est positive. Le fait d'être nommé par quelqu'un d'autre témoigne d'une
+  profonde confiance dans ses capacités. Les enfants aiment souvent les
+  responsabilités qu'ils assument et se sentent valorisés par le fait d'être
+  choisis par leurs pairs.</para>
+
+  <para>Rôles que les enfants de peuvent remplir</para>
+
+  <para>Voici des rôles importants que les enfants peuvent assumer pendant les
+  réunions, même s'ils doivent d'abord être modélisés :</para>
+
+  <informaltable frame="all">
+    <tgroup cols="3">
+      <tbody>
+        <row>
+          <entry><para>Rôles des réunions</para></entry>
+
+          <entry><para>Fonctions</para></entry>
+
+          <entry><para>Ages</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Leader</para></entry>
+
+          <entry><para>● Veiller à ce que le cercle soit en phase avec ses
+          buts.</para><para>● Fixe l'ordre du jour des réunions</para><para>●
+          Peut prendre des nouvelles des membres entre les
+          réunions</para></entry>
+
+          <entry><para>11+</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Facilitateur</para></entry>
+
+          <entry><para>● Faciliter les réunions</para></entry>
+
+          <entry><para>9+</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Secrétaire</para></entry>
+
+          <entry><para>● Prend des notes lors des réunions</para><para>● Donne
+          des notes au leader après les réunions</para></entry>
+
+          <entry><para>8+</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Gardien du temps</para></entry>
+
+          <entry><para>● Règle la minuterie</para><para>● Donne des
+          avertissements de 5 minutes au facilitateur</para></entry>
+
+          <entry><para>5+</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>Les adultes - voire même un seul adulte - peuvent commencer à remplir
+  tous ces rôles. Cependant, il est préférable de les confier aux enfants dès
+  que possible pour les aider à assumer davantage de responsabilités. Ne
+  choisissez qu'un seul rôle par personne, dans la mesure du possible, afin
+  d'augmenter la participation de tous les membres du cercle et de répartir le
+  pouvoir.</para>
+
+  <para>Le chronomètre est le premier rôle que je recommande de confier aux
+  enfants, car il est le plus facile à comprendre. Ensuite, je vous suggère de
+  confier les rôles de facilitateur et de secrétaire. J'ai vu des réunions de
+  changement très réussies, en particulier, animées par des enfants.</para>
+
+  <para>67 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Le rôle de leader est le plus difficile à céder et peut finir par être
+  confié à un adulte à long terme. Diriger le groupe est une grande
+  responsabilité et les enfants veulent généralement assumer des rôles sans
+  responsabilité en dehors des réunions. J'ai vu des enfants et des jeunes
+  plus âgés occuper des postes de leader au sein des Parlements des enfants en
+  Inde, ainsi que dans des écoles sociocratiques plus établies, où les rôles
+  sont bien soutenus par une structure plus large.</para>
+
+  <para>Rôles en dehors des réunions</para>
+
+  <para>Vous pouvez également sélectionner des rôles à prendre en dehors des
+  réunions, par exemple :</para>
+
+  <informaltable frame="all">
+    <tgroup cols="2">
+      <tbody>
+        <row>
+          <entry><para>Rôles en dehors des réunions</para></entry>
+
+          <entry><para>Fonctions</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Vérificateur de tâches</para></entry>
+
+          <entry><para>● Vérifie que les tâches ménagères sont effectuées à la
+          fin de la journée.</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Trésorier</para></entry>
+
+          <entry><para>● Suivi du budget partagé</para></entry>
+        </row>
+
+        <row>
+          <entry><para>Chef de projet</para></entry>
+
+          <entry><para>● Diriger un projet avec une durée
+          définie</para></entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </informaltable>
+
+  <para/>
+
+  <para/>
+
+  <para>Processus de sélection pour un rôle</para>
+
+  <para>1. Décrivez le rôle : Définissez la fin de mandat et les
+  responsabilités du rôle avant la réunion. Une description rapide suffit.
+  Utilisez le modèle de sélection des rôles (page ).</para>
+
+  <para>2. Le tour des qualifications : Quelles sont les qualités que doit
+  posséder la personne qui occupera ce rôle ? Faites une liste.</para>
+
+  <para>3. Consentement aux qualifications : Cette liste est-elle complète
+  ?</para>
+
+  <para>4. Tour des nominations et des raisons : Qui nommeriez-vous pour ce
+  rôle et pourquoi ? 5. Modifier les nominations (mains levées) : Après avoir
+  entendu ce que tout le monde a dit, quelqu'un souhaite-t-il changer d'avis
+  ?</para>
+
+  <para>6. Proposer quelqu'un pour le rôle, pour le consentement : Le
+  facilitateur propose une idée pour obtenir le consentement. Recueillir et
+  résoudre les objections pour obtenir le consentement.</para>
+
+  <para>7. Célébrez la décision !</para>
+
+  <para>La personne qui a été nommée consent en dernier lieu. Il s'agit d'un
+  point important, car la personne nommée peut ne pas vouloir dire oui au
+  départ, mais peut changer d'avis et accepter le poste grâce à la confiance
+  de ses pairs qui pensent qu'elle peut bien faire le travail.</para>
+
+  <para>Consultez l'aide-mémoire sur le processus de sélection (page ) pour
+  vous guider dans le processus de sélection des rôles en direct.</para>
+
+  <para>Transcription d'un processus de sélection des rôles</para>
+
+  <para>Facilitateur : "Aujourd'hui, nous allons sélectionner le rôle de
+  vérificateur des tâches. Le vérificateur des tâches garde la trace de ceux
+  qui ont terminé leurs tâches de la journée en les cochant sur le tableau des
+  tâches. Le nouveau</para>
+
+  <para>Réunion 6 : Qui va faire quoi ? 68</para>
+
+  <para>vérificateur des tâches fera ce travail pendant deux semaines. A ton
+  avis, qu'est-ce qui fait un bon vérificateur des tâches ?"</para>
+
+  <para>Enfant 1 : "Ils m'aident avec mes corvées."</para>
+
+  <para>Enfant 2 : "Ils ne me bousculent pas."</para>
+
+  <para>Enfant 3 : "Ils sont bons pour dire si une corvée est faite."</para>
+
+  <para>Facilitateur : "Est-ce que ça semble être une bonne liste ? Pouces en
+  haut/en bas/en travers ?"</para>
+
+  <para>Des enfants : (pouce en l'air)</para>
+
+  <para>Facilitateur : "Écris qui, selon toi, serait un bon vérificateur des
+  tâches et pourquoi. Ensuite, nous partagerons ce que nous avons écrit dans
+  un tour de parole."</para>
+
+  <para>Enfant 1 : "Je pense que je serais bon pour la vérification des
+  tâches, parce que je suis petit et que je vois très bien les
+  saletés."</para>
+
+  <para>Enfant 2 : "Je pense que l'enfant 3 serait un bon vérificateur des
+  tâches parce qu'il a fait un bon travail la dernière fois et m'a aidé avec
+  mes corvées".</para>
+
+  <para>Enfant 3 : "Je pense que l'enfant 2 devrait être vérificateur des
+  tâches parce que ça leur donnerait une chance de l'essayer. Je suis un peu
+  fatigué de le faire."</para>
+
+  <para>Facilitateur : "Après avoir entendu ce que les autres ont dit,
+  changez-vous votre nomination ?"</para>
+
+  <para>Enfant 1 : "Je veux toujours le faire."</para>
+
+  <para>Enfant 2 : "Je pense que je pourrais faire un bon travail et
+  j'aimerais l'essayer. Je travaillerai dur pour aider les gens à faire leurs
+  corvées et aussi pour</para>
+
+  <para>m'assurer que tout est propre."</para>
+
+  <para>Enfant 3 : "Je pense toujours que l'enfant 2 ferait un bon
+  travail."</para>
+
+  <para>69 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants</para>
+
+  <para>Facilitateur : "Après avoir entendu ce que tout le monde a dit, je
+  désigne l'enfant 2 comme vérificateur des tâches pour les deux prochaines
+  semaines, avec l'enfant 1 comme remplaçant en cas d'absence de l'enfant 2.
+  Pouces en haut/en bas/de côté ?"</para>
+
+  <para>Des enfants : (pouce en l'air)</para>
+
+  <para>Lever les objections</para>
+
+  <para>Cherchez à comprendre une objection. Demandez à la personne qui
+  s’objecte de vous en dire plus sur son objection.</para>
+
+  <para>Une objection peut souvent être résolue avec ACT. La façon la plus
+  courante de résoudre une objection concernant le rôle est de raccourcir la
+  durée du poste, jusqu'à ce que tout le monde s'y sente suffisamment à
+  l'aise. Référez-vous à la fiche Résoudre les objections (page ) pour plus de
+  soutien.</para>
+
+  <para>Pour les enfants plus jeunes 70</para>
+
+  <para>Adaptations pour des jeunes enfants</para>
+
+  <para>Il est nécessaire de raccourcir la réunion pour les plus jeunes
+  enfants (5-7 ans). Pour eux, je simplifie le processus en trois étapes
+  seulement :</para>
+
+  <para>1. Le facilitateur présente le rôle [NOM DU RÔLE (ex: secrétaire)] et
+  demande les qualifications (mains levées, plutôt qu'un tour de parole).
+  "Qu'est-ce qui fait un bon [NOM DU RÔLE] ?"</para>
+
+  <para>2. Chaque main levée propose une nomination et explique
+  pourquoi.</para>
+
+  <para>3. L'animateur propose un candidat, en vérifiant l'accord avec les
+  pouces en haut/en bas/de côté.</para>
+
+  <para>Pour ce processus, vous pouvez sauter les tours d'ouverture et de
+  clôture, ou demander aux enfants de faire leur check-in avec un seul
+  mot.</para>
+
+  <para>Préparation de la réunion</para>
+
+  <para>● Inscrivez les responsabilités et le mandat du chronométreur sur une
+  affiche, un tableau blanc ou un projecteur.</para>
+
+  <para>● Imprimez des copies du modèle de fiche de nomination (page ) et
+  découpez-les (si le groupe sait lire et écrire).</para>
+
+  <para>REMARQUE</para>
+
+  <para>Pour des fiches de travail imprimables au format PDF (pages bordées),
+  consultez le site
+  https://sociocracyforall.org/lets-decide-together-2021</para>
+
+  <para>71 Décidons ensemble : Pratiquer la sociocratie avec les
+  enfants<inlinemediaobject>
+      <imageobject>
+        <imagedata depth="7.6665inch" fileref="embedded:image3.png"
+                   width="5.9165inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para>Pour les enfants plus jeunes 72</para>
+
+  <para>Ordre du jour Réunion 6: Qui fera quoi?</para>
+
+  <para>1. Annoncez la durée de la réunion</para>
+
+  <para>La réunion durera___ minutes. Mettez la minuterie.</para>
+
+  <para>2. Tour d’accueil - check-in</para>
+
+  <para>Comment vas-tu aujourd’hui?</para>
+
+  <para>3. Lire l’introduction</para>
+
+  <para>Aujourd’hui, nous allons sélectionner un gardien du temps dans un
+  processus de sélection. C’est différent d’une élection où la personne qui
+  obtient le plus de votes est élue. Nous cherchons le consentement, une
+  décision avec laquelle tout le monde peut vivre. Tout le monde donnera des
+  raisons qui sous-tendent son choix. Tu peux nommer toi-même ou quelqu’un
+  d’autre.</para>
+
+  <para>(Distribuer les fiches de nomination, lire le rôle, les
+  responsabilités et la durée de mandat à haute voix). Rôle: Gardien du
+  temps</para>
+
+  <para>Responsabilités: Gérer le temps et mettre la minuterie pendant les
+  réunions. Dire au facilitateur quand il reste 5 minutes.</para>
+
+  <para>Durée de mandat: Pour les prochaines ____ réunions.</para>
+
+  <para>4. Tour de collection des qualifications</para>
+
+  <para>Qu’est-ce qui fait un bon gardien du temps?</para>
+
+  <para>(Notez pour que tout le monde puisse voir.)</para>
+
+  <para>5. Vérifier s’il y a consentement pour les qualifications</para>
+
+  <para>Lire à haute voix la liste des qualifications.</para>
+
+  <para>Est-ce que cette liste est complète? Pouces en haut/latéralement/en
+  bas. 6. Tour de nominations</para>
+
+  <para>Chacun note silencieusement sa nomination sur sa fiche de
+  nomination.</para>
+
+  <para>(Attendez que tout le monde ait fini d’écrire ses nominations.)</para>
+
+  <para>Qui nominez-vous, et pourquoi?</para>
+
+  <para>7. Vérifiez pour des changements de nomination</para>
+
+  <para>Après avoir écouté les autres, avez-vous changé d’avis? (mains
+  levées).</para>
+
+  <para>8. Vérifiez le consentement</para>
+
+  <para>(Proposez la personne avec les meilleures raisons pour
+  consentement).</para>
+
+  <para>Est-ce que vous consentez à avoir [la personne proposée] comme gardien
+  du temps pour ____ réunion? Pouces en haut/en bas/latéralement.</para>
+
+  <para>9. Célébrez!</para>
+
+  <para>Nous avons un gardien du temps!</para>
+
+  <para>11. Tour de clôture</para>
+
+  <para>Comment s’est passée la réunion d’aujourd’hui?</para>
+
+  <para>Pour les enfants plus jeunes 74<inlinemediaobject>
+      <imageobject>
+        <imagedata depth="8.2291inch" fileref="embedded:image4.png"
+                   width="6.3543inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para>75 Décidons ensemble : Pratiquer la sociocratie avec les enfants
+  <inlinemediaobject>
+      <imageobject>
+        <imagedata depth="7.6252inch" fileref="embedded:image2.png"
+                   width="5.8854inch"/>
+      </imageobject>
+    </inlinemediaobject></para>
+
+  <para>Modèle des fiches de nomination</para>
+
+  <para>Je nomme</para>
+
+  <para>parce que:</para>
+</article>
