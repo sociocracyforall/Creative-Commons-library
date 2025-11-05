@@ -1,0 +1,68 @@
+dblatex = "#{ENV['HOME']}/development/dblatex/scripts/dblatex"
+
+def chdir_then(filename)
+  dirname, localname = File.split(filename)
+
+  Dir.chdir(dirname) do
+    rake_output_message "(in #{Dir.pwd})"
+    yield localname
+  end
+end
+
+def latexmk(filename)
+  chdir_then filename do |localname|
+    sh 'latexmk', '-xelatex', localname
+  end
+end
+
+desc 'Generate the English LaTeX source...'
+file 'en/WDWD.dbk.tex' => ['en/dblatex-config.xsl', 'en/WDWD.dbk'] do |t|
+  sh dblatex, '-p', t.prerequisites[0],
+     '-s', 'WDWD', '-t', 'tex', t.prerequisites[1], '-o', t.name
+end
+
+desc 'Process the English LaTeX into PDF...'
+file 'en/WDWD.dbk.pdf' => ['en/WDWD.dbk.tex'] do |t|
+  latexmk t.prerequisites[0]
+end
+
+desc 'Build the English book...'
+task build_en: %w[en/WDWD.dbk.tex en/WDWD.dbk.pdf]
+
+desc 'Generate the French LaTeX source...'
+file 'fr/QDQD.dbk.tex' => ['fr/dblatex-config.xsl', 'fr/QDQD.dbk'] do |t|
+  sh dblatex, '-p', t.prerequisites[0],
+     '-s', 'WDWD', '-t', 'tex', t.prerequisites[1], '-o', t.name
+end
+
+desc 'Process the French LaTeX into PDF...'
+file 'fr/QDQD.dbk.pdf' => ['fr/QDQD.dbk.tex'] do |t|
+  latexmk t.prerequisites[0]
+end
+
+desc 'Build the French book...'
+task build_fr: %w[fr/QDQD.dbk.tex fr/QDQD.dbk.pdf]
+
+### Old MVOS configuration below; @@TODO@@: finish migration
+desc 'Build the French epub book contents...'
+task generate_fr_ebook: %w[fr/Chaque-voix-compte.dbk] do |t|
+  chdir_then t.prerequisites[0] do |filename|
+    sh 'xsltproc', '--xinclude', '--nonet', 'epub-chunk-config.xsl', filename
+  end
+end
+
+desc 'Zip up the French epub book...'
+task :zip_fr_ebook do
+  chdir_then 'fr/epub/Chaque-voix-compte.epub' do |filename|
+    sh 'zip', '-r', '-X', '-u', filename, 'mimetype', 'META-INF', 'OEBPS'
+  end
+end
+
+desc 'Build everything...'
+task build: %i[build_fr build_en]
+
+desc 'Dummy...'
+task :dummy do
+  sh 'echo' \
+  , 'hello'
+end
