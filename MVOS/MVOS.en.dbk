@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<book version="5.1" xmlns="http://docbook.org/ns/docbook"
-      xmlns:ns7="http://docbook.org/ns/transclusion"
-      xmlns:ns6="http://www.w3.org/2000/svg"
-      xmlns:ns5="http://www.w3.org/1999/xhtml"
-      xmlns:ns4="http://www.w3.org/1998/Math/MathML"
-      xmlns:ns2="http://www.w3.org/1999/xlink"
-      xmlns:ns="http://docbook.org/ns/docbook">
+<book version="5.2" xmlns="http://docbook.org/ns/docbook">
   <info>
     <title>Many Voices One Song</title>
 
@@ -1710,14 +1704,13 @@ based on mutual giving from the heart.</literallayout>
 
         <para>What do you want to see in the next edition?</para>
 
-        <para>On the website <uri>www.manyvoicesonesong.com</uri><remark> Is
-        this actually available?</remark>, readers can give us feedback on
-        this book. That would be our preferred way of receiving feedback.
-        Readers will find the following questions – we say it now so readers
-        can think about it as they read through the next chapters. (Of course,
-        the survey is subject to change as we learn about what we can improve
-        about the survey!) We invite readers to fill out the survey at any
-        time. Thank you in advance!</para>
+        <para>On the website <uri>www.manyvoicesonesong.com</uri>, readers can
+        give us feedback on this book. That would be our preferred way of
+        receiving feedback. Readers will find the following questions – we say
+        it now so readers can think about it as they read through the next
+        chapters. (Of course, the survey is subject to change as we learn
+        about what we can improve about the survey!) We invite readers to fill
+        out the survey at any time. Thank you in advance!</para>
 
         <figure>
           <title>Give us feedback about this book at
