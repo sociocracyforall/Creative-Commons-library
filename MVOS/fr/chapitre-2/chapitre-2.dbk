@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter version="5.1" xml:id="organizational-structure"
-         xmlns="http://docbook.org/ns/docbook"
-         xmlns:xlink="http://www.w3.org/1999/xlink"
-         xmlns:ns6="http://docbook.org/ns/transclusion"
-         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
-         xmlns:ns4="http://www.w3.org/2000/svg"
-         xmlns:ns3="http://www.w3.org/1999/xhtml"
-         xmlns:ns="http://docbook.org/ns/docbook">
+         xmlns="http://docbook.org/ns/docbook">
   <info>
     <title>Structure organisationnelle</title>
   </info>
@@ -899,7 +893,7 @@
 
           <para>Dans une entreprise, le Cercle Informatique peut décider
           quelle application va être utilisée à <emphasis>l'échelle de
-          l'organisation</emphasis> pour la communication interne. </para>
+          l'organisation</emphasis> pour la communication interne.</para>
         </informalexample>
 
         <para>Les domaines sont au cœur de l'ensemble du système de

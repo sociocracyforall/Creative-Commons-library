@@ -45,24 +45,18 @@ task :zip_fr_ebook do
 end
 
 desc 'Generate the English LaTeX source...'
-file 'MVOS.en.dbk.tex' => ['en/dblatex-config.xsl', 'MVOS.en.dbk'] do |t|
+file 'en/MVOS.dbk.tex' => ['en/dblatex-config.xsl', 'en/MVOS.dbk'] do |t|
   sh dblatex, '-p', t.prerequisites[0],
      '-s', 'MVOS', '-t', 'tex', t.prerequisites[1], '-o', t.name
 end
 
 desc 'Process the English LaTeX into PDF...'
-file 'MVOS.en.dbk.pdf' => ['MVOS.en.dbk.tex'] do |t|
+file 'en/MVOS.dbk.pdf' => ['en/MVOS.dbk.tex'] do |t|
   latexmk t.prerequisites[0]
 end
 
 desc 'Build the English book...'
-task build_en: %w[MVOS.en.dbk.tex MVOS.en.dbk.pdf]
+task build_en: %w[en/MVOS.dbk.tex en/MVOS.dbk.pdf]
 
 desc 'Build everything...'
 task build: %i[build_fr build_en]
-
-desc 'Dummy...'
-task :dummy do
-  sh 'echo' \
-  , 'hello'
-end

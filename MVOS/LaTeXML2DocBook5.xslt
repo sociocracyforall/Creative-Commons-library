@@ -148,7 +148,7 @@
       <xsl:otherwise>
         <xsl:comment>
           <xsl:text
-            >Warning: unprocessed text element with attributes: </xsl:text>
+            >Warning: text element with unused attributes: </xsl:text>
           <xsl:apply-templates select="@*"/>
         </xsl:comment>
 
@@ -162,6 +162,10 @@
     <xsl:text>="</xsl:text>
     <xsl:value-of select="."/>
     <xsl:text>" </xsl:text>
+  </xsl:template>
+
+  <xsl:template match="l5l:break">
+    <xsl:text>&#x0A;</xsl:text>
   </xsl:template>
 
   <xsl:template match="l5l:indexmark">
@@ -237,6 +241,13 @@
   </xsl:template>
 
   <xsl:template match="l5l:block|l5l:inline-block">
+    <!-- This is currently quite brittle; we would do well to better understand
+    the LaTexML document model in order to provide a more robust transformation. -->
+
+    <!-- Is this correct? I admit that I don't really understand the LaTeXML
+    schema around "blocks" (including the `block`, `inline-block`, and
+    `logical-block` elements). I'm moving towards mostly just walking into
+    them, as here. -->
     <xsl:choose>
       <xsl:when test="l5l:quote and count(*) = 1">
         <blockquote><para>
@@ -244,9 +255,26 @@
         </para></blockquote>
       </xsl:when>
       <xsl:otherwise>
-        <xsl:message terminate="yes">Unhandled `block`</xsl:message>
+        <xsl:apply-templates/>
       </xsl:otherwise>
+      <!--xsl:when test="l5l:p">
+        <xsl:apply-templates select="l5l:p"/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:message terminate="yes">
+          <xsl:text>Unhandled </xsl:text>
+          <xsl:value-of select="local-name()"/>
+        </xsl:message>
+      </xsl:otherwise-->
     </xsl:choose>
+  </xsl:template>
+
+  <xsl:template match="l5l:logical-block|l5l:sectional-block">
+    <!-- Is this correct? I admit that I don't really understand the LaTeXML
+    schema around "blocks" (including the `block`, `inline-block`, and
+    `logical-block` elements). I'm moving towards mostly just walking into
+    them, as here. -->
+    <xsl:apply-templates/>
   </xsl:template>
 
   <xsl:template match="l5l:ref">
@@ -298,7 +326,7 @@
   </xsl:template>
 
   <!-- Elements that we currently ignore -->
-  <xsl:template match="l5l:resource|l5l:break|l5l:pagination|l5l:tags|l5l:tag
+  <xsl:template match="l5l:resource|l5l:pagination|l5l:tags|l5l:tag
                        |l5l:toccaption|l5l:toctitle|l5l:index">
     <xsl:message
       >Ignored element: <xsl:value-of select="name()"/></xsl:message>

@@ -7,7 +7,7 @@
       <informalfigure>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="book_cover_front.jpg"/>
+            <imagedata fileref="illustrations/book_cover_front.jpg"/>
           </imageobject>
         </mediaobject>
       </informalfigure>
@@ -36,7 +36,7 @@
       <informalfigure>
         <mediaobject>
           <imageobject>
-            <imagedata fileref="logoSoFAbw.png"/>
+            <imagedata fileref="illustrations/logoSoFAbw.png"/>
           </imageobject>
         </mediaobject>
       </informalfigure>
@@ -54,7 +54,7 @@
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="creativecommons.png"/>
+          <imagedata fileref="illustrations/creativecommons.png"/>
         </imageobject>
       </mediaobject>
 
@@ -563,7 +563,8 @@ based on mutual giving from the heart.</literallayout>
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="alternativeterminology.jpg" width="100%"/>
+          <imagedata fileref="illustrations/alternativeterminology.jpg"
+                     width="100%"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -951,7 +952,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="valuesJH2.jpg" width="100%"/>
+              <imagedata fileref="illustrations/valuesJH2.jpg" width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1023,7 +1024,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="1-definitionequivalenceJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/1-definitionequivalenceJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1054,7 +1056,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="1-definitioneffectivenessJH.jpg"
+              <imagedata fileref="illustrations/1-definitioneffectivenessJH.jpg"
                          width="100%"/>
             </imageobject>
           </mediaobject>
@@ -1310,7 +1312,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="sociocracyphoneticsJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/sociocracyphoneticsJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1502,7 +1505,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="1-quotesJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/1-quotesJH.jpg" width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -1667,7 +1670,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="onlinecontent.jpg" width="100%"/>
+              <imagedata fileref="illustrations/onlinecontent.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1718,7 +1722,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="survey.jpg" width="100%"/>
+              <imagedata fileref="illustrations/survey.jpg" width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -1870,7 +1874,8 @@ based on mutual giving from the heart.</literallayout>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="2-circlesubcircleJH.jpg" width="100%"/>
+            <imagedata fileref="illustrations/2-circlesubcircleJH.jpg"
+                       width="100%"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -1898,7 +1903,8 @@ based on mutual giving from the heart.</literallayout>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="2-distributepowerJH.jpg" width="100%"/>
+            <imagedata fileref="illustrations/2-distributepowerJH.jpg"
+                       width="100%"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -1995,7 +2001,8 @@ based on mutual giving from the heart.</literallayout>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="2-aimsdomainsmembers.jpg" width="100%"/>
+            <imagedata fileref="illustrations/2-aimsdomainsmembers.jpg"
+                       width="100%"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -2065,7 +2072,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-samemissiondifferentaimsJH.jpg"
+                <imagedata fileref="illustrations/2-samemissiondifferentaimsJH.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -2123,7 +2130,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="VMA.jpg" width="100%"/>
+                <imagedata fileref="illustrations/VMA.jpg" width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -2143,7 +2150,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="1-VMASoFA.jpg" width="100%"/>
+                <imagedata fileref="illustrations/1-VMASoFA.jpg" width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -2170,7 +2177,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="ASoFA.jpg" width="100%"/>
+                <imagedata fileref="illustrations/ASoFA.jpg" width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -2233,7 +2240,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-circleaimsTableJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-circleaimsTableJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -2381,7 +2389,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-welldefineddomainJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-welldefineddomainJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -2427,7 +2436,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-ExampleaimsdomainscoopJH.jpg"
+                <imagedata fileref="illustrations/2-ExampleaimsdomainscoopJH.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -2439,7 +2448,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-ExampleaimsdomainscohoJH.jpg"
+                <imagedata fileref="illustrations/2-ExampleaimsdomainscohoJH.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -2508,7 +2517,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-alldecisionsaboutpastryJH.jpg"
+                <imagedata fileref="illustrations/2-alldecisionsaboutpastryJH.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -2671,7 +2680,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-fulldomain-subdomainJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-fulldomain-subdomainJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -2745,7 +2755,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="overlapgapcomplaints.jpg" width="100%"/>
+                <imagedata fileref="illustrations/overlapgapcomplaints.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -2771,7 +2782,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-CHcircledomains.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-CHcircledomains.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -2785,7 +2797,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject xml:id="CHcircledomainsstairs">
               <imageobject>
-                <imagedata fileref="2-CHcircledomainsstairs.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-CHcircledomainsstairs.jpg"
+                           width="100%"/>
               </imageobject>
 
               <caption>
@@ -2795,7 +2808,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject xml:id="CHcircledomainsstairsclear">
               <imageobject>
-                <imagedata fileref="2-CHcircledomainsstairsclear.jpg"
+                <imagedata fileref="illustrations/2-CHcircledomainsstairsclear.jpg"
                            width="100%"/>
               </imageobject>
 
@@ -2989,7 +3002,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-broadfocusspecificfocusJH.jpg"
+                <imagedata fileref="illustrations/2-broadfocusspecificfocusJH.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -3035,7 +3048,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-circlestructureangle1JH.jpg"
+                <imagedata fileref="illustrations/2-circlestructureangle1JH.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -3228,7 +3241,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="5-newmember.jpg" width="100%"/>
+                <imagedata fileref="illustrations/5-newmember.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -3634,7 +3648,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-functionalrolesJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-functionalrolesJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -3695,7 +3710,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="3-leaderchecklistJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/3-leaderchecklistJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -3812,7 +3828,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="3-selectionleader.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/3-selectionleader.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -3916,7 +3933,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="3-delegatechecklistJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/3-delegatechecklistJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -3943,7 +3961,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="3-selectiondelegateJH.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/3-selectiondelegateJH.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -3979,7 +3998,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="bubble-withdrawconsentGCJH.jpg"
+                  <imagedata fileref="illustrations/bubble-withdrawconsentGCJH.jpg"
                              width="100%"/>
                 </imageobject>
               </mediaobject>
@@ -4033,7 +4052,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="3-secretarychecklistJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/3-secretarychecklistJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -4085,7 +4105,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="3-facilitatorchecklistJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/3-facilitatorchecklistJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -4138,7 +4159,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="facilitatorleaderskills.jpg"
+                  <imagedata fileref="illustrations/facilitatorleaderskills.jpg"
                              width="100%"/>
                 </imageobject>
               </mediaobject>
@@ -4197,7 +4218,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="logbookexample.jpg" width="100%"/>
+                <imagedata fileref="illustrations/logbookexample.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -4207,7 +4229,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="logbookkeepertasks.jpg" width="100%"/>
+                <imagedata fileref="illustrations/logbookkeepertasks.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -4258,7 +4281,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-operationalrolesJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-operationalrolesJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4379,7 +4403,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="oprolechecklist.jpg" width="100%"/>
+              <imagedata fileref="illustrations/oprolechecklist.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4404,7 +4429,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="bookingsystem.jpg" width="100%"/>
+              <imagedata fileref="illustrations/bookingsystem.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4608,7 +4634,8 @@ based on mutual giving from the heart.</literallayout>
         <informalfigure>
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-unlinkedcirclesJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-unlinkedcirclesJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </informalfigure>
@@ -4616,7 +4643,8 @@ based on mutual giving from the heart.</literallayout>
         <informalfigure>
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-linkedcirclesJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-linkedcirclesJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </informalfigure>
@@ -4657,7 +4685,8 @@ based on mutual giving from the heart.</literallayout>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="2-leaderdelegateJH.jpg" width="100%"/>
+            <imagedata fileref="illustrations/2-leaderdelegateJH.jpg"
+                       width="100%"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -4681,7 +4710,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-circularhierarchyJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-circularhierarchyJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4723,7 +4753,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-filtersystemJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-filtersystemJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -4944,7 +4975,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-basicstructureJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-basicstructureJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5055,7 +5087,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-generalcircleJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-generalcircleJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5148,7 +5181,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-MCandGCdifferenceJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-MCandGCdifferenceJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -5209,7 +5243,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-influencetopbottomJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-influencetopbottomJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -5338,7 +5373,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-GCintoMCdoubleJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-GCintoMCdoubleJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -5367,7 +5403,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-upcyclingdelegateJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-upcyclingdelegateJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -5498,7 +5535,8 @@ based on mutual giving from the heart.</literallayout>
           <informalfigure>
             <mediaobject>
               <imageobject>
-                <imagedata fileref="ExpertboxLeif2.jpg" width="100%"/>
+                <imagedata fileref="illustrations/ExpertboxLeif2.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </informalfigure>
@@ -5580,7 +5618,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-topcircleforprofitJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-topcircleforprofitJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -5597,7 +5636,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-topcircleownersJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-topcircleownersJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -5660,7 +5700,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="2-topcirclecommunityJH.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/2-topcirclecommunityJH.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -5670,7 +5711,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="2-topcirclenonprofitJH.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/2-topcirclenonprofitJH.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -5837,7 +5879,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-helpingcircleJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-helpingcircleJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -5929,7 +5972,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="bubble-retreatJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/bubble-retreatJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -5954,7 +5998,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-helpingcirclechecklistJH.jpg"
+                <imagedata fileref="illustrations/2-helpingcirclechecklistJH.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -5987,7 +6031,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-fullfledgedJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-fullfledgedJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -6124,7 +6169,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="ExpertboxLeif1.jpg" width="100%"/>
+              <imagedata fileref="illustrations/ExpertboxLeif1.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -6138,7 +6184,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-subcirclechecklistJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-subcirclechecklistJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -6191,7 +6238,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-foldingacircleintooperationalroleJH.jpg"
+              <imagedata fileref="illustrations/2-foldingacircleintooperationalroleJH.jpg"
                          width="100%"/>
             </imageobject>
           </mediaobject>
@@ -6243,7 +6290,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="branchexample1JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/branchexample1JH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -6309,7 +6357,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="2-changeinmembershipfeeJH.jpg"
+                  <imagedata fileref="illustrations/2-changeinmembershipfeeJH.jpg"
                              width="100%"/>
                 </imageobject>
               </mediaobject>
@@ -6344,7 +6392,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-changeinmembershipJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-changeinmembershipJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -6393,7 +6442,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="handoffhandover.jpg" width="100%"/>
+                <imagedata fileref="illustrations/handoffhandover.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -6524,7 +6574,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="networkvscircle.jpg" width="100%"/>
+              <imagedata fileref="illustrations/networkvscircle.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -6535,7 +6586,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-networkinternalJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-networkinternalJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -6639,7 +6691,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="orgvsnetwork.jpg" width="100%"/>
+              <imagedata fileref="illustrations/orgvsnetwork.jpg" width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -6658,7 +6710,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-topcircleslinkedJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-topcircleslinkedJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -6696,7 +6749,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-topcircleclusteredJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-topcircleclusteredJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -6754,7 +6808,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-collectiveimpactJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-collectiveimpactJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -6847,7 +6902,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-orgasworkcirclesJH2.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-orgasworkcirclesJH2.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -6866,7 +6922,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-orgsassubcircleJH2.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-orgsassubcircleJH2.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -6964,7 +7021,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-geographicaltopicalJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-geographicaltopicalJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -6974,7 +7032,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="2-geographicaltopical2JH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/2-geographicaltopical2JH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -7151,7 +7210,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="JuttaStandup.jpg" width="100%"/>
+              <imagedata fileref="illustrations/JuttaStandup.jpg" width="100%"/>
             </imageobject>
           </mediaobject>
 
@@ -7215,7 +7274,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="operationalmeetingJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/operationalmeetingJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -7249,7 +7309,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="3-exampleoperationalmeeting.jpg"
+              <imagedata fileref="illustrations/3-exampleoperationalmeeting.jpg"
                          width="100%"/>
             </imageobject>
           </mediaobject>
@@ -7311,7 +7371,8 @@ based on mutual giving from the heart.</literallayout>
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="operationalpolicy.jpg" width="100%"/>
+          <imagedata fileref="illustrations/operationalpolicy.jpg"
+                     width="100%"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -7660,7 +7721,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="5-examplediscussion.jpg" width="100%"/>
+              <imagedata fileref="illustrations/5-examplediscussion.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -7759,7 +7821,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="5-rangeoftoleranceJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/5-rangeoftoleranceJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -7828,7 +7891,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="overlapofrangeoftolerancesJH.jpg"
+              <imagedata fileref="illustrations/overlapofrangeoftolerancesJH.jpg"
                          width="100%"/>
             </imageobject>
           </mediaobject>
@@ -7961,7 +8024,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="5-consentobjectionaimJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/5-consentobjectionaimJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -8375,7 +8439,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="ExpertboxJuttaJohn2.jpg" width="100%"/>
+                <imagedata fileref="illustrations/ExpertboxJuttaJohn2.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -8609,7 +8674,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="4-inputtransformationoutputJH.jpg"
+                <imagedata fileref="illustrations/4-inputtransformationoutputJH.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -8640,7 +8705,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="4-backpackLDM.jpg" width="100%"/>
+                <imagedata fileref="illustrations/4-backpackLDM.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -8687,7 +8753,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="4-LDMoverallJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/4-LDMoverallJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -8733,7 +8800,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="4-inputtransformationoutputLDM.jpg"
+                <imagedata fileref="illustrations/4-inputtransformationoutputLDM.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -8751,7 +8818,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="3-cookamealJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/3-cookamealJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -8898,7 +8966,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="MDFJHdecisionmaking.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/MDFJHdecisionmaking.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -8921,7 +8990,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="MDFJHdecisionmakinginbetween.jpg"
+                  <imagedata fileref="illustrations/MDFJHdecisionmakinginbetween.jpg"
                              width="100%"/>
                 </imageobject>
               </mediaobject>
@@ -8979,7 +9048,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="MDFJHdecisionmakinginbetweenabstract.jpg"
+                  <imagedata fileref="illustrations/MDFJHdecisionmakinginbetweenabstract.jpg"
                              width="100%"/>
                 </imageobject>
               </mediaobject>
@@ -9028,7 +9097,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="4-understandexploredecide.jpg" width="100%"/>
+              <imagedata fileref="illustrations/4-understandexploredecide.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -9065,7 +9135,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="4-understandexploredecidewithstepsA.jpg"
+                <imagedata fileref="illustrations/4-understandexploredecidewithstepsA.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -9118,7 +9188,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example1.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example1.jpg" width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -9180,7 +9250,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example2.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example2.jpg" width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -9269,7 +9339,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example3.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example3.jpg" width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -9376,7 +9446,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="4-understandexploredecidewithstepsB.jpg"
+                <imagedata fileref="illustrations/4-understandexploredecidewithstepsB.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -9484,7 +9554,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example4.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example4.jpg" width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -9644,7 +9714,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example5.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example5.jpg" width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -9663,7 +9733,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="dogpolicy.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/dogpolicy.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -9680,7 +9751,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="screenpolicy.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/screenpolicy.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -9827,7 +9899,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example6.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example6.jpg" width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -9917,7 +9989,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="4-understandexploredecidewithstepsCA.jpg"
+                <imagedata fileref="illustrations/4-understandexploredecidewithstepsCA.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -9938,7 +10010,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="4-understandexploredecidewithstepsCA2.jpg"
+                  <imagedata fileref="illustrations/4-understandexploredecidewithstepsCA2.jpg"
                              width="100%"/>
                 </imageobject>
               </mediaobject>
@@ -10055,7 +10127,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example7a.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example7a.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -10188,7 +10261,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="ExpertboxBarbara.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/ExpertboxBarbara.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -10224,7 +10298,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example7b.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example7b.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -10235,7 +10310,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example7bo.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example7bo.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -10424,7 +10500,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example7c.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example7c.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -10455,7 +10532,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="4-understandexploredecidewithstepsCB.jpg"
+                  <imagedata fileref="illustrations/4-understandexploredecidewithstepsCB.jpg"
                              width="100%"/>
                 </imageobject>
               </mediaobject>
@@ -10506,7 +10583,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example8a.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example8a.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -10605,7 +10683,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example8b.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example8b.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -10653,7 +10732,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="example8c.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/example8c.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -10672,7 +10752,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="4-understandexploredecidewithstepsCC.jpg"
+                  <imagedata fileref="illustrations/4-understandexploredecidewithstepsCC.jpg"
                              width="100%"/>
                 </imageobject>
               </mediaobject>
@@ -10734,7 +10814,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="exampleoutputpreparepolicy.jpg"
+                  <imagedata fileref="illustrations/exampleoutputpreparepolicy.jpg"
                              width="100%"/>
                 </imageobject>
               </mediaobject>
@@ -10745,7 +10825,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="4-completepolicyJH.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/4-completepolicyJH.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -10848,7 +10929,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="4-decision-makingwithmeasureALLJH.jpg"
+                <imagedata fileref="illustrations/4-decision-makingwithmeasureALLJH.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -11032,7 +11113,7 @@ based on mutual giving from the heart.</literallayout>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="4-understandexploredecidewithstepsCwithobjectionJH.jpg"
+            <imagedata fileref="illustrations/4-understandexploredecidewithstepsCwithobjectionJH.jpg"
                        width="100%"/>
           </imageobject>
         </mediaobject>
@@ -11046,7 +11127,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="4-objectionstepsAA.jpg" width="100%"/>
+              <imagedata fileref="illustrations/4-objectionstepsAA.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -11196,7 +11278,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="4-objectionstepsBBJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/4-objectionstepsBBJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -11206,7 +11289,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="exampleO1.jpg" width="100%"/>
+              <imagedata fileref="illustrations/exampleO1.jpg" width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -11313,7 +11396,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="exampleO2.jpg" width="100%"/>
+                <imagedata fileref="illustrations/exampleO2.jpg" width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -11350,7 +11433,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="5-modifytheproposal.jpg" width="100%"/>
+              <imagedata fileref="illustrations/5-modifytheproposal.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -11485,7 +11569,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="5-measuretheconcern.jpg" width="100%"/>
+                <imagedata fileref="illustrations/5-measuretheconcern.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -11669,7 +11754,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="dimensionsroles.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/dimensionsroles.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -11788,7 +11874,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="4-understandexploredecideelectionsoverview.jpg"
+              <imagedata fileref="illustrations/4-understandexploredecideelectionsoverview.jpg"
                          width="100%"/>
             </imageobject>
           </mediaobject>
@@ -11837,7 +11923,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="4-understandexploredecideelections.jpg"
+                <imagedata fileref="illustrations/4-understandexploredecideelections.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -12033,7 +12119,7 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="3-facilitatorleaderqualificationsJH.jpg"
+                  <imagedata fileref="illustrations/3-facilitatorleaderqualificationsJH.jpg"
                              width="100%"/>
                 </imageobject>
               </mediaobject>
@@ -12136,7 +12222,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="4-understandexploredecideelections2.jpg"
+                <imagedata fileref="illustrations/4-understandexploredecideelections2.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -12200,7 +12286,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="roundnominationgrid0.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/roundnominationgrid0.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -12285,7 +12372,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="roundnominationgrid1.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/roundnominationgrid1.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -12398,7 +12486,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="bubble-selectionJH.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/bubble-selectionJH.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -12451,7 +12540,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="roundnominationgrid2.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/roundnominationgrid2.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
             </figure>
@@ -12476,7 +12566,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="4-understandexploredecideelections3.jpg"
+                <imagedata fileref="illustrations/4-understandexploredecideelections3.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -12694,7 +12784,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="complexselection.jpg" width="100%"/>
+                <imagedata fileref="illustrations/complexselection.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -13171,7 +13262,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="3-votingvsconsentJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/3-votingvsconsentJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -13220,7 +13312,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="3-votingvsconsenttie.jpg" width="100%"/>
+                <imagedata fileref="illustrations/3-votingvsconsenttie.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -13230,7 +13323,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="3-votingvsconsenttie2.jpg" width="100%"/>
+                <imagedata fileref="illustrations/3-votingvsconsenttie2.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -13547,7 +13641,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="Stephaneexpertbox.jpg" width="100%"/>
+              <imagedata fileref="illustrations/Stephaneexpertbox.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -13654,7 +13749,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="6-feelingsneedsJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/6-feelingsneedsJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -13673,7 +13769,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="needslist.jpg" width="100%"/>
+              <imagedata fileref="illustrations/needslist.jpg" width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -13796,7 +13892,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="6-feelingsneedsmessagesJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/6-feelingsneedsmessagesJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -13947,7 +14044,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="6-textcallJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/6-textcallJH.jpg" width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -14043,7 +14140,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="6-effectivefeedbackJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/6-effectivefeedbackJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -14125,7 +14223,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="6-feedbackform2JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/6-feedbackform2JH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -14228,7 +14327,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="requestsproposalsJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/requestsproposalsJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -14324,7 +14424,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="6-textmembershipJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/6-textmembershipJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -14334,7 +14435,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="6-textmembership2JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/6-textmembership2JH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -14439,7 +14541,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="6-LDMexamplesJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/6-LDMexamplesJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -14450,7 +14553,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="foreverloop.jpg" width="100%"/>
+              <imagedata fileref="illustrations/foreverloop.jpg" width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -14481,7 +14584,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="6-reviewlayers.jpg" width="100%"/>
+              <imagedata fileref="illustrations/6-reviewlayers.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -14724,7 +14828,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="supportsystem.jpg" width="100%"/>
+              <imagedata fileref="illustrations/supportsystem.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -14770,7 +14875,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="6-gettinginputfromoutsideJH.jpg"
+              <imagedata fileref="illustrations/6-gettinginputfromoutsideJH.jpg"
                          width="100%"/>
             </imageobject>
           </mediaobject>
@@ -15042,7 +15147,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="reviewsteps.jpg" width="100%"/>
+                <imagedata fileref="illustrations/reviewsteps.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -15279,7 +15385,8 @@ based on mutual giving from the heart.</literallayout>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="6-performancereviewArc.jpg" width="100%"/>
+            <imagedata fileref="illustrations/6-performancereviewArc.jpg"
+                       width="100%"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -15369,7 +15476,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="6-performancereview.jpg" width="100%"/>
+              <imagedata fileref="illustrations/6-performancereview.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -15926,7 +16034,7 @@ based on mutual giving from the heart.</literallayout>
 
       <mediaobject>
         <imageobject>
-          <imagedata fileref="meetingtemplate.jpg" width="100%"/>
+          <imagedata fileref="illustrations/meetingtemplate.jpg" width="100%"/>
         </imageobject>
       </mediaobject>
     </figure>
@@ -16152,7 +16260,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="5-exampleattendance.jpg" width="100%"/>
+                <imagedata fileref="illustrations/5-exampleattendance.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -16339,7 +16448,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="5-exampleALERT.jpg" width="100%"/>
+                <imagedata fileref="illustrations/5-exampleALERT.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -16462,7 +16572,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="5-agendachecklistJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/5-agendachecklistJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -16495,7 +16606,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="3-example_consenttoagenda.jpg" width="100%"/>
+              <imagedata fileref="illustrations/3-example_consenttoagenda.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -16614,7 +16726,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="4-buildingblocksJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/4-buildingblocksJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -16836,7 +16949,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="3-exampleoperationalagendaitem.jpg"
+              <imagedata fileref="illustrations/3-exampleoperationalagendaitem.jpg"
                          width="100%"/>
             </imageobject>
           </mediaobject>
@@ -16869,7 +16982,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="3-examplepolicyflaringup.jpg" width="100%"/>
+              <imagedata fileref="illustrations/3-examplepolicyflaringup.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -16900,7 +17014,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="4-reviewpolicy.jpg" width="100%"/>
+              <imagedata fileref="illustrations/4-reviewpolicy.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -16990,7 +17105,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-examplemeasureconten.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-examplemeasureconten.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -17080,7 +17196,8 @@ based on mutual giving from the heart.</literallayout>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="4-meetingevaluation.jpg" width="100%"/>
+            <imagedata fileref="illustrations/4-meetingevaluation.jpg"
+                       width="100%"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -17171,7 +17288,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="samplebacklog.jpg" width="100%"/>
+              <imagedata fileref="illustrations/samplebacklog.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -17248,7 +17366,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="4-whomakesagendaldfJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/4-whomakesagendaldfJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -17328,7 +17447,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="3-meetingagendamakingJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/3-meetingagendamakingJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -17444,7 +17564,8 @@ based on mutual giving from the heart.</literallayout>
 
               <mediaobject>
                 <imageobject>
-                  <imagedata fileref="agendaexample.jpg" width="100%"/>
+                  <imagedata fileref="illustrations/agendaexample.jpg"
+                             width="100%"/>
                 </imageobject>
               </mediaobject>
 
@@ -17497,7 +17618,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="3-whatgoesintotheminutesJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/3-whatgoesintotheminutesJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -17507,7 +17629,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="4-exampleminutes.jpg" width="100%"/>
+              <imagedata fileref="illustrations/4-exampleminutes.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -17550,7 +17673,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="ExpertboxJutta4.jpg" width="100%"/>
+              <imagedata fileref="illustrations/ExpertboxJutta4.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -17624,7 +17748,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="minutesapprove.jpg" width="100%"/>
+              <imagedata fileref="illustrations/minutesapprove.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -17634,7 +17759,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="ExpertboxJuttaJohn3.jpg" width="100%"/>
+              <imagedata fileref="illustrations/ExpertboxJuttaJohn3.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -17930,7 +18056,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="tablerounds.jpg" width="100%"/>
+              <imagedata fileref="illustrations/tablerounds.jpg" width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -17940,7 +18066,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="allrounds.jpg" width="100%"/>
+              <imagedata fileref="illustrations/allrounds.jpg" width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -18387,7 +18513,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="7-strategieswhenstuck.jpg" width="100%"/>
+                <imagedata fileref="illustrations/7-strategieswhenstuck.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -18456,7 +18583,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="bubble-processroundJH.jpg" width="100%"/>
+                <imagedata fileref="illustrations/bubble-processroundJH.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -18510,7 +18638,7 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="5-examplecallingaprocessround.jpg"
+                <imagedata fileref="illustrations/5-examplecallingaprocessround.jpg"
                            width="100%"/>
               </imageobject>
             </mediaobject>
@@ -18552,7 +18680,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="examplesomeoneUpset.jpg" width="100%"/>
+                <imagedata fileref="illustrations/examplesomeoneUpset.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -19934,7 +20063,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-metamorphosis1JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-metamorphosis1JH.jpg"
+                         width="100%"/>
             </imageobject>
 
             <caption>
@@ -19945,7 +20075,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-metamorphosis2JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-metamorphosis2JH.jpg"
+                         width="100%"/>
             </imageobject>
 
             <caption>
@@ -19956,7 +20087,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-metamorphosisJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-metamorphosisJH.jpg"
+                         width="100%"/>
             </imageobject>
 
             <caption>
@@ -20068,7 +20200,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="aimstocircle.jpg" width="100%"/>
+              <imagedata fileref="illustrations/aimstocircle.jpg" width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -20297,7 +20429,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject xml:id="TCGCpatterns1">
             <imageobject>
-              <imagedata fileref="2-TCGCpatterns1JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-TCGCpatterns1JH.jpg"
+                         width="100%"/>
             </imageobject>
 
             <caption>
@@ -20307,7 +20440,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject xml:id="TCGCpatterns2">
             <imageobject>
-              <imagedata fileref="2-TCGCpatterns2JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-TCGCpatterns2JH.jpg"
+                         width="100%"/>
             </imageobject>
 
             <caption>
@@ -20322,7 +20456,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject xml:id="TCGCpatterns3">
             <imageobject>
-              <imagedata fileref="2-TCGCpatterns3JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-TCGCpatterns3JH.jpg"
+                         width="100%"/>
             </imageobject>
 
             <caption>
@@ -20332,7 +20467,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="2-TCGCpatterns4JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-TCGCpatterns4JH.jpg"
+                         width="100%"/>
             </imageobject>
 
             <caption>
@@ -20369,7 +20505,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="ExpertboxJuttaJohn1.jpg" width="100%"/>
+              <imagedata fileref="illustrations/ExpertboxJuttaJohn1.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -20380,7 +20517,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject xml:id="metamorphosisTopDown1">
             <imageobject>
-              <imagedata fileref="2-metamorphosisTopDown1JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-metamorphosisTopDown1JH.jpg"
+                         width="100%"/>
             </imageobject>
 
             <caption>
@@ -20390,7 +20528,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject xml:id="metamorphosisTopDown2">
             <imageobject>
-              <imagedata fileref="2-metamorphosisTopDown2JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-metamorphosisTopDown2JH.jpg"
+                         width="100%"/>
             </imageobject>
 
             <caption>
@@ -20401,7 +20540,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject xml:id="metamorphosisTopDown">
             <imageobject>
-              <imagedata fileref="2-metamorphosisTopDown3JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/2-metamorphosisTopDown3JH.jpg"
+                         width="100%"/>
             </imageobject>
 
             <caption>
@@ -20528,7 +20668,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="7-flowchartJH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/7-flowchartJH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -20730,7 +20871,7 @@ based on mutual giving from the heart.</literallayout>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="2-tinyorgJH.jpg" width="100%"/>
+            <imagedata fileref="illustrations/2-tinyorgJH.jpg" width="100%"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -20792,7 +20933,8 @@ based on mutual giving from the heart.</literallayout>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="2-circleofoneJH.jpg" width="100%"/>
+            <imagedata fileref="illustrations/2-circleofoneJH.jpg"
+                       width="100%"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -22186,7 +22328,8 @@ based on mutual giving from the heart.</literallayout>
 
             <mediaobject>
               <imageobject>
-                <imagedata fileref="7-toolittletoomuch.jpg" width="100%"/>
+                <imagedata fileref="illustrations/7-toolittletoomuch.jpg"
+                           width="100%"/>
               </imageobject>
             </mediaobject>
           </figure>
@@ -22460,7 +22603,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="7-livecommentary.jpg" width="100%"/>
+              <imagedata fileref="illustrations/7-livecommentary.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -22705,7 +22849,7 @@ based on mutual giving from the heart.</literallayout>
 
         <mediaobject>
           <imageobject>
-            <imagedata fileref="SoFAcircles.jpg" width="100%"/>
+            <imagedata fileref="illustrations/SoFAcircles.jpg" width="100%"/>
           </imageobject>
         </mediaobject>
       </figure>
@@ -23069,7 +23213,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="feelingsneedslist.jpg" width="100%"/>
+              <imagedata fileref="illustrations/feelingsneedslist.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -23082,7 +23227,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="feedbackformsheet.jpg" width="100%"/>
+              <imagedata fileref="illustrations/feedbackformsheet.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -23095,7 +23241,7 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="meetingsheet.jpg" width="100%"/>
+              <imagedata fileref="illustrations/meetingsheet.jpg" width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -23112,7 +23258,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="3-selectionprocess3x3.jpg" width="100%"/>
+              <imagedata fileref="illustrations/3-selectionprocess3x3.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -23139,7 +23286,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="selectionskit3x3.jpg" width="100%"/>
+              <imagedata fileref="illustrations/selectionskit3x3.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
 
@@ -23160,7 +23308,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="3-policyprocess3x3.jpg" width="100%"/>
+              <imagedata fileref="illustrations/3-policyprocess3x3.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -23181,7 +23330,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="3-consentprocess3x3JH.jpg" width="100%"/>
+              <imagedata fileref="illustrations/3-consentprocess3x3JH.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -23202,7 +23352,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="generatingproposalskit3x3.jpg" width="100%"/>
+              <imagedata fileref="illustrations/generatingproposalskit3x3.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -23218,7 +23369,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="consentskit3x3.jpg" width="100%"/>
+              <imagedata fileref="illustrations/consentskit3x3.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -23228,7 +23380,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="3-objectionsprocess3x3.jpg" width="100%"/>
+              <imagedata fileref="illustrations/3-objectionsprocess3x3.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
@@ -23244,7 +23397,8 @@ based on mutual giving from the heart.</literallayout>
 
           <mediaobject>
             <imageobject>
-              <imagedata fileref="3-reviewprocess3x3.jpg" width="100%"/>
+              <imagedata fileref="illustrations/3-reviewprocess3x3.jpg"
+                         width="100%"/>
             </imageobject>
           </mediaobject>
         </figure>
