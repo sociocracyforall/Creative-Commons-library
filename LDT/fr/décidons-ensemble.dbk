@@ -19,6 +19,12 @@
   <acknowledgements role="testimonials">
     <title>Témoignages</title>
 
+    <mediaobject>
+      <imageobject>
+        <imagedata fileref="illustrations/child1.jpg" width="1in"/>
+      </imageobject>
+    </mediaobject>
+
     <blockquote>
       <attribution>Erik Gillespie, parent</attribution>
 
@@ -38,7 +44,8 @@
 
     <blockquote>
       <attribution>Will Gowen, directeur des programmes de la communauté de
-      co-apprentissage School Around Us.</attribution>
+      co-apprentissage <foreignphrase>School Around
+      Us</foreignphrase>.</attribution>
 
       <para>Avec ce livre, Hope a fourni un guide accessible pour mettre en
       œuvre concrètement, étape par étape, le pouvoir partagé avec les
@@ -51,16 +58,17 @@
     </blockquote>
 
     <blockquote>
-      <attribution>Gina Simm, auteur de Heart to Heart : 3 Systems for Staying
-      Connected.</attribution>
+      <attribution>Gina Simm, auteur de <foreignphrase>Heart to Heart: 3
+      Systems for Staying Connected</foreignphrase>.</attribution>
 
       <para>Il est la clé du coffre aux trésors pour un nouveau paradigme à
       l'école et en famille !</para>
     </blockquote>
 
     <blockquote>
-      <attribution>Marianne Osorio, directrice du film School Circles et
-      fondatrice de Wondering School.</attribution>
+      <attribution>Marianne Osorio, directrice du film <foreignphrase>School
+      Circles</foreignphrase> et fondatrice de <foreignphrase>Wondering
+      School</foreignphrase>.</attribution>
 
       <para>C'est un livre qui fait chaud au cœur ! Il fournit des conseils
       pratiques et de l'inspiration sur la façon d'utiliser la sociocratie
@@ -74,6 +82,14 @@
 
   <part>
     <title>Introduction</title>
+
+    <partintro>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="illustrations/child2.jpg" width="1in"/>
+        </imageobject>
+      </mediaobject>
+    </partintro>
 
     <chapter>
       <title>Pourquoi pratiquer la sociocratie avec les enfants ?</title>
@@ -106,23 +122,23 @@
       personnel en leur demandant : « Qu'est-ce qui vous aiderait à vous
       sentir en sécurité avec les enfants qui utilisent internet ? » Les
       parents voulaient des directives sur la façon de s'engager dans les
-      plateformes de chat et sur la sécurité avec les étrangers sur Internet.
-      Les enfants voulaient pouvoir regarder YouTube « normal » plutôt que la
-      version réservée aux enfants. Le personnel voulait pouvoir demander à
-      regarder les écrans des enfants pour s'assurer que les accords de
-      sécurité étaient respectés. Des discussions ont eu lieu pour définir ce
-      qui constitue un contenu approprié, en prenant en compte des sujets
-      allant de la pornographie aux vidéos de conspiration ou aux contenus
-      violents. Le processus de décision par consentement a permis de trouver
-      une solution qui répondait aux besoins de chacun en matière de sécurité
-      et de liberté. Les enfants ont accepté d'assister à un atelier mensuel
-      sur le sujet de la sécurité des enfants sur Internet, où des thèmes
-      seraient approfondis, ainsi que de signer un accord sur la manière
-      d'utiliser Internet. Nous l'avons créé ensemble, après avoir pris soin
-      d’entendre chaque voix. Avec cet accord mis en place, notre communauté a
-      pu avancer ensemble, en équipe. Ce n'est qu'un des nombreux exemples où
-      l'utilisation de la sociocratie avec les enfants a renforcé notre
-      communauté.</para>
+      plateformes de <foreignphrase>chat</foreignphrase> et sur la sécurité
+      avec les étrangers sur Internet. Les enfants voulaient pouvoir regarder
+      YouTube « normal » plutôt que la version réservée aux enfants. Le
+      personnel voulait pouvoir demander à regarder les écrans des enfants
+      pour s'assurer que les accords de sécurité étaient respectés. Des
+      discussions ont eu lieu pour définir ce qui constitue un contenu
+      approprié, en prenant en compte des sujets allant de la pornographie aux
+      vidéos de conspiration ou aux contenus violents. Le processus de
+      décision par consentement a permis de trouver une solution qui répondait
+      aux besoins de chacun en matière de sécurité et de liberté. Les enfants
+      ont accepté d'assister à un atelier mensuel sur le sujet de la sécurité
+      des enfants sur Internet, où des thèmes seraient approfondis, ainsi que
+      de signer un accord sur la manière d'utiliser Internet. Nous l'avons
+      créé ensemble, après avoir pris soin d’entendre chaque voix. Avec cet
+      accord mis en place, notre communauté a pu avancer ensemble, en équipe.
+      Ce n'est qu'un des nombreux exemples où l'utilisation de la sociocratie
+      avec les enfants a renforcé notre communauté.</para>
 
       <para>En utilisant la sociocratie avec les enfants, je les ai vus
       grandir dans leur pouvoir, empli de fierté à mesure qu'ils prenaient des
@@ -138,10 +154,11 @@
       introduit la prise de décision par consentement à la maison et résolu
       des désaccords familiaux auparavant insurmontables en cherchant un
       terrain d'entente acceptable pour tous et toutes. Une étude formelle
-      menée à la Rainbow Community School d'Asheville, en Caroline du Nord,
-      aux États-Unis, a révélé que les élèves qui pratiquent la sociocratie
-      sont beaucoup plus aptes à adopter le point de vue des autres que leurs
-      camarades des écoles conventionnelles.<footnote>
+      menée à la <foreignphrase>Rainbow Community School</foreignphrase>
+      d'Asheville, en Caroline du Nord, aux États-Unis, a révélé que les
+      élèves qui pratiquent la sociocratie sont beaucoup plus aptes à adopter
+      le point de vue des autres que leurs camarades des écoles
+      conventionnelles.<footnote>
           <para>Renee L. Owen &amp; John A. Buck (2020): Creating the
           conditions for reflective team practices: examining sociocracy as a
           self-organizing governance model that promotes transformative
@@ -157,7 +174,7 @@
       sociocratique de groupes de quartier, chacun ayant des
       représentants-enfants au niveau local et national. Ces enfants discutent
       de problèmes réels et consentent à des mesures qu'ils peuvent prendre
-      pour les résoudre. Les parlements d'enfants ont réussi à améliorer
+      pour les résoudre. Les Parlements des enfants ont réussi à améliorer
       l'assainissement des écoles et des lieux publics, à faire pression pour
       l'inclusion des élèves handicapés dans les écoles, à fonder des aires de
       jeux et des bibliothèques publiques, et à œuvrer pour mettre fin au
@@ -182,6 +199,12 @@
       la sociocratie crée également un but partagé et une appartenance au
       groupe. Je crois fermement que l'utilisation d'outils sociocratiques
       avec les enfants peut contribuer à créer un monde plus humain.</para>
+
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="illustrations/books-bw.jpg" width="100%"/>
+        </imageobject>
+      </mediaobject>
     </chapter>
 
     <chapter>
@@ -196,14 +219,13 @@
       <section>
         <title>Majorité ou consensus versus sociocratie</title>
 
-        <para>Dans une hiérarchie verticale<remark>STOP</remark>, les
-        décisions peuvent être prises rapidement et l'on sait clairement qui
-        est responsable. En revanche, les personnes situées « en bas de
-        l'échelle » peuvent être complètement exclues du processus
-        décisionnel. C'est fondamentalement inégalitaire. En famille, à
-        l’école et au sein d’organisations, de nombreuses personnes sont
-        mécontentes d'une structure autoritaire, or il est difficile de savoir
-        quelle alternative mettre en place.</para>
+        <para>Dans une hiérarchie verticale, les décisions peuvent être prises
+        rapidement et l'on sait clairement qui est responsable. En revanche,
+        les personnes situées « en bas de l'échelle » peuvent être
+        complètement exclues du processus décisionnel. C'est fondamentalement
+        inégalitaire. En famille, à l’école et au sein d’organisations, de
+        nombreuses personnes sont mécontentes d'une structure autoritaire, or
+        il est difficile de savoir quelle alternative mettre en place.</para>
 
         <para><emphasis role="strong">La prise de décision à la
         majorité</emphasis>, où les décisions sont prises par un vote
@@ -238,26 +260,26 @@
     </chapter>
 
     <chapter>
-      <title>A propos de ce livre</title>
+      <title>À propos de ce livre</title>
 
       <section>
-        <title>A propos de l'auteure et les origines de ce livre</title>
+        <title>À propos de l'auteure et les origines de ce livre</title>
 
-        <para>J'ai fondé la Pathfinder Community School, une communauté
-        d'apprentissage autogérée pour les enfants de 5 à 14 ans à Durham, NC,
-        USA. Dès le début, le programme a été conçu pour utiliser la
-        sociocratie avec les enfants. Après plusieurs années de mise en œuvre,
-        nous avons découvert que certaines des pratiques de la sociocratie
-        étaient compliquées et difficiles à apprendre pour les enfants. En
-        gardant le cœur de la sociocratie (consentement, inclusion et
-        amélioration continue par le biais de la rétroaction), nous avons
-        simplifié le processus en le divisant en petites étapes qui semblaient
-        mieux fonctionner, surtout pour les enfants plus jeunes. La
-        rétroaction des familles qui utilisent la sociocratie à la maison a
-        également servi à améliorer ce livre pour le public familial. Ce
-        manuel vous aidera à faire participer les enfants à la prise de
-        décision d'une manière qui fonctionne aussi bien pour les enfants que
-        pour les adultes.</para>
+        <para>J'ai fondé la <foreignphrase>Pathfinder Community
+        School</foreignphrase>, une communauté d'apprentissage autogérée pour
+        les enfants de 5 à 14 ans à Durham, NC, USA. Dès le début, le
+        programme a été conçu pour utiliser la sociocratie avec les enfants.
+        Après plusieurs années de mise en œuvre, nous avons découvert que
+        certaines des pratiques de la sociocratie étaient compliquées et
+        difficiles à apprendre pour les enfants. En gardant le cœur de la
+        sociocratie (consentement, inclusion et amélioration continue par le
+        biais de la rétroaction), nous avons simplifié le processus en le
+        divisant en petites étapes qui semblaient mieux fonctionner, surtout
+        pour les enfants plus jeunes. La rétroaction des familles qui
+        utilisent la sociocratie à la maison a également servi à améliorer ce
+        livre pour le public familial. Ce manuel vous aidera à faire
+        participer les enfants à la prise de décision d'une manière qui
+        fonctionne aussi bien pour les enfants que pour les adultes.</para>
       </section>
 
       <section>
@@ -296,13 +318,13 @@
         cercles à double lien sont l'une de ces structures qui permettent à la
         sociocratie de fonctionner à l'échelle d'une école ou avec des
         centaines d'enfants participant à de plus petits cercles
-        interconnectés. Les Parlements d'Enfants en Inde en sont un excellent
-        exemple, reliant plusieurs milliers d'enfants en utilisant la
-        sociocratie<footnote>
+        interconnectés. Les Parlements des enfants en Inde en sont un
+        excellent exemple, reliant plusieurs milliers d'enfants en utilisant
+        la sociocratie<footnote>
             <para><uri xlink:href="https://www.powertothechildren-film.com/"
             xmlns:xlink="http://www.w3.org/1999/xlink">https://www.powertothechildren-film.com/</uri>
-            — Power to the Children, un documentaire sur les parlements des
-            enfants en Inde.</para>
+            — <foreignphrase>Power to the Children</foreignphrase>, un
+            documentaire sur les Parlements des enfants en Inde.</para>
           </footnote>.</para>
 
         <note>
@@ -316,8 +338,10 @@
         </note>
 
         <para>D'autres ressources permettant d'approfondir la sociocratie sont
-        énumérées à <remark>TODO: insert reference to appendix 4 here ||
-        l'annexe 4 : Ressources supplémentaires (page )</remark>.</para>
+        énumérées à <xref linkend="Ressources_supplémentaires"
+        xrefstyle="select: label title page"/><remark>TODO: insert reference
+        to appendix 4 here || l'annexe 4 : Ressources supplémentaires (page
+        )</remark>.</para>
       </section>
 
       <section>
@@ -332,9 +356,9 @@
         (et les adultes !) aiment toujours se connecter et jouer à des
         jeux.</para>
 
-        <informaltable frame="all">
+        <informaltable frame="all" rowheader="firstcol">
           <tgroup cols="2">
-            <tbody>
+            <tbody valign="top">
               <row>
                 <entry><para>5-7 ans</para></entry>
 
@@ -375,6 +399,12 @@
             </tbody>
           </tgroup>
         </informaltable>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="illustrations/table2-bw.jpg" width="100%"/>
+          </imageobject>
+        </mediaobject>
       </section>
 
       <section>
@@ -399,10 +429,11 @@
                 tant dans les familles que dans les grands groupes d'enfants,
                 d'avoir un processus de résolution des conflits qui soit clair
                 et consenti. La CNV et les pratiques restauratives apportent
-                un soutien à ces conversations importantes. Voir <remark>TODO:
-                add reference || Tours de parole pour la résolution des
-                conflits (page )</remark> pour un exemple de processus qui
-                fonctionne.</para>
+                un soutien à ces conversations importantes. Voir <xref
+                linkend="tdt-résolution_des_conflits"
+                xrefstyle="select: title page"/><remark>TODO: add reference ||
+                Tours de parole pour la résolution des conflits (page
+                )</remark> pour un exemple de processus qui fonctionne.</para>
 
                 <para>L'aspect le plus important pour le succès est une
                 attitude qui consiste à accepter de faire des erreurs, à être
@@ -482,7 +513,8 @@
 
               <answer>
                 <para>Commencez petit, puis développez ! Il existe un livre
-                intitulé Hello, Neighbourocracy<footnote>
+                intitulé <foreignphrase>Hello,
+                Neighbourocracy</foreignphrase><footnote>
                     <para><uri
                     xlink:href="https://www.leanpub.com/helloneighbourocracy/"
                     xmlns:xlink="http://www.w3.org/1999/xlink">https://www.leanpub.com/helloneighbourocracy/</uri></para>
@@ -507,7 +539,7 @@
       <section>
         <title>Qu’allez-vous décider ensemble ?</title>
 
-        <section>
+        <section xml:id="Domaine_des_enfants">
           <title>Domaine des enfants</title>
 
           <para>Dans notre monde, il est normal que les adultes détiennent
@@ -562,13 +594,13 @@
           <para>Sachez quels domaines vous voulez réserver aux adultes et sur
           quoi vous voulez décider par consentement. Dans les communautés qui
           utilisent la sociocratie avec les enfants, un grand nombre de
-          décisions sont confiées aux enfants. À Pathfinder, l'école que j'ai
-          fondée, nous réservions les décisions relatives à la santé et à la
-          sécurité aux adultes. Une erreur que j'ai apprise à éviter est de
-          donner du pouvoir aux enfants puis de le leur retirer, par exemple
-          en laissant les enfants décider de la destination d'une sortie
-          scolaire, puis d'aller dans un endroit complètement différent sans
-          demander.</para>
+          décisions sont confiées aux enfants. À
+          <foreignphrase>Pathfinder</foreignphrase>, l'école que j'ai fondée,
+          nous réservions les décisions relatives à la santé et à la sécurité
+          aux adultes. Une erreur que j'ai apprise à éviter est de donner du
+          pouvoir aux enfants puis de le leur retirer, par exemple en laissant
+          les enfants décider de la destination d'une sortie scolaire, puis
+          d'aller dans un endroit complètement différent sans demander.</para>
 
           <para>Il est important de savoir s'il existe des limites à la prise
           de décision imposées par les structures de pouvoir existantes, par
@@ -581,13 +613,13 @@
           les élèves l'aient décidé, ce qui était très décourageant. Ce genre
           d'incohérence érode la confiance et sape le processus.</para>
 
-          <para>À Pathfinder, nous avons eu recours à la sociocratie pour
-          décider du règlement de l'école, de la manière de dépenser le budget
-          discrétionnaire des enfants, des cours et des ateliers proposés, et
-          de la destination des excursions. Bonus : donner aux enfants une
-          somme d'argent fixe et les laisser décider comment la dépenser est
-          un exercice de mathématiques, de budgétisation et de collaboration
-          intéressant.</para>
+          <para>À <foreignphrase>Pathfinder</foreignphrase>, nous avons eu
+          recours à la sociocratie pour décider du règlement de l'école, de la
+          manière de dépenser le budget discrétionnaire des enfants, des cours
+          et des ateliers proposés, et de la destination des excursions. Bonus
+          : donner aux enfants une somme d'argent fixe et les laisser décider
+          comment la dépenser est un exercice de mathématiques, de
+          budgétisation et de collaboration intéressant.</para>
 
           <para>Quel que soit le domaine sur lequel les enfants ont un
           contrôle, donnez-le-leur entièrement. Il est important de ne pas
@@ -595,20 +627,20 @@
           en prenant des décisions à leur place, aussi tentant que cela puisse
           être. L'autonomisation qui en résulte vaut la perte de contrôle que
           vous pourriez ressentir. Je me souviens avoir eu peur de laisser les
-          enfants de Pathfinder décider des règles concernant des sujets
-          polémiques comme le temps d'écran et les jurons, mais ils se sont
-          montrés à la hauteur et ce fut beau à voir. Laissez-vous aller et
-          n'oubliez pas que vous aidez les enfants à grandir en les laissant
-          décider par eux-mêmes. Pour garantir le partage du pouvoir, il est
-          préférable de former un jeune animateur dès que les processus ont
-          été suffisamment modélisés et de laisser les enfants participer
-          autant que possible au processus d'élaboration de propositions. En
-          même temps, veillez à modéliser l'animation et l'élaboration des
-          propositions suffisamment longtemps pour que les enfants puissent
-          apprendre de vous.</para>
+          enfants de <foreignphrase>Pathfinder</foreignphrase> décider des
+          règles concernant des sujets polémiques comme le temps d'écran et
+          les jurons, mais ils se sont montrés à la hauteur et ce fut beau à
+          voir. Laissez-vous aller et n'oubliez pas que vous aidez les enfants
+          à grandir en les laissant décider par eux-mêmes. Pour garantir le
+          partage du pouvoir, il est préférable de former un jeune animateur
+          dès que les processus ont été suffisamment modélisés et de laisser
+          les enfants participer autant que possible au processus
+          d'élaboration de propositions. En même temps, veillez à modéliser
+          l'animation et l'élaboration des propositions suffisamment longtemps
+          pour que les enfants puissent apprendre de vous.</para>
         </section>
 
-        <section>
+        <section xml:id="Buts_du_groupe">
           <title>Buts du groupe</title>
 
           <para>Les buts décrivent les activités qui rassemblent le groupe et
@@ -617,14 +649,16 @@
           et de pratiquer la sociocratie ensemble en utilisant ce manuel. Vous
           travaillerez ensemble sur d'autres buts de manière plus approfondie
           avec les enfants lors de la <remark>TODO: add reference || réunion 3
-          : Qu'allons-nous faire ensemble (page )</remark>.</para>
+          : Qu'allons-nous faire ensemble (page )</remark><xref
+          linkend="Qu_allons_nous_faire_ensemble"
+          xrefstyle="select: title page"/>.</para>
 
           <para>Voici quelques exemples pour vous aider à commencer le
           remue-méninges :</para>
 
           <informaltable frame="all">
             <tgroup cols="2">
-              <thead>
+              <thead valign="top">
                 <row>
                   <entry><para>Exemples de domaines</para></entry>
 
@@ -632,7 +666,7 @@
                 </row>
               </thead>
 
-              <tbody>
+              <tbody valign="top">
                 <row>
                   <entry><para>Une pièce ou un espace commun dans une école ou
                   une maison.</para></entry>
@@ -802,7 +836,9 @@
 
             <para>La plupart de ces décisions ont été prises lors de la
             <remark>TODO: add reference || réunion 4 : Faisons en sorte que
-            cela arrive (page )</remark>.</para>
+            cela arrive (page )</remark><xref
+            linkend="Faisons_en_sorte_que_cela_se_produise"
+            xrefstyle="select: title page"/>.</para>
           </section>
 
           <section>
@@ -917,31 +953,37 @@
             <itemizedlist>
               <listitem>
                 <para><emphasis role="strong">Changer l'emploi du temps de
-                l'école.</emphasis> Au lycée Morey Flextech, les pauses entre
-                les cours ne duraient que trois minutes. Les élèves ont réussi
-                à faire pression pour obtenir des pauses plus longues et la
-                décision a été approuvée par l'ensemble de l'école.</para>
+                l'école.</emphasis> Au lycée <foreignphrase>Morey
+                Flextech</foreignphrase>, les pauses entre les cours ne
+                duraient que trois minutes. Les élèves ont réussi à faire
+                pression pour obtenir des pauses plus longues et la décision a
+                été approuvée par l'ensemble de l'école.</para>
               </listitem>
 
               <listitem>
                 <para><emphasis role="strong">Changer les règles de
-                l'école.</emphasis> À Pathfinder, nous avons organisé des
-                réunions hebdomadaires pour changer les règles en utilisant la
-                réunion 5 : changer les choses (page ). Les élèves ont décidé
-                de changer les règles sur des sujets tels que les niveaux de
+                l'école.</emphasis> À
+                <foreignphrase>Pathfinder</foreignphrase>, nous avons organisé
+                des réunions hebdomadaires pour changer les règles en
+                utilisant <remark>TODO: add reference || la réunion 5 :
+                changer les choses (page )</remark><xref
+                linkend="Changer_le_fonctionnement_des_choses"
+                xrefstyle="select: title page"/>. Les élèves ont décidé de
+                changer les règles sur des sujets tels que les niveaux de
                 bruit, l'utilité de certaines salles, la manière de prendre
                 soin des ressources partagées et les lieux de sortie.</para>
               </listitem>
 
               <listitem>
                 <para><emphasis role="strong">Compléter les infrastructures
-                scolaires.</emphasis> À la Rainbow Community School, en
-                Caroline du Nord, certains élèves voulaient une scène en bois
-                pour leur spectacle de danse. L'administration de l'école a
-                rétorqué que le budget était très limité. Les élèves ont
-                proposé d'obtenir des dons de matériaux et de main-d'œuvre
-                pour construire une nouvelle scène à faible coût, et ils ont
-                donné un récital de danse la même année.</para>
+                scolaires.</emphasis> À la <foreignphrase>Rainbow Community
+                School</foreignphrase>, en Caroline du Nord, certains élèves
+                voulaient une scène en bois pour leur spectacle de danse.
+                L'administration de l'école a rétorqué que le budget était
+                très limité. Les élèves ont proposé d'obtenir des dons de
+                matériaux et de main-d'œuvre pour construire une nouvelle
+                scène à faible coût, et ils ont donné un récital de danse la
+                même année.</para>
               </listitem>
             </itemizedlist>
           </section>
@@ -1018,26 +1060,31 @@
                 </itemizedlist>
               </listitem>
             </itemizedlist>
-          </section>
 
-          <section>
-            <title>Prise de décision versus faire des choses ensemble</title>
-
-            <para>Les réunions de ce livre relèvent des réunions de prise de
-            décision pour décider comment faire les choses ensemble en tant
-            que groupe. Je vous recommande vivement d'alterner chaque réunion
-            de prise de décision avec un moment où vous vous réunissez et
-            faites réellement quelque chose. Si c'est un groupe de
-            pâtisseries, essayez des recettes. Si c'est un club artistique,
-            faites de l'art. S'il s'agit d'un groupe d'action politique,
-            contactez des représentants ou protestez. Il est important de se
-            rappeler que le but de prendre des décisions ensemble est
-            d'organiser la façon dont vous atteignez les buts du groupe. Après
-            avoir fait des choses ensemble, vous pouvez utiliser ces réunions
-            pour évaluer comment les choses se passent, apporter des
-            changements et continuer à vous améliorer continuellement grâce au
-            feedback.</para>
+            <mediaobject>
+              <imageobject>
+                <imagedata fileref="illustrations/pool-bw.jpg" width="100%"/>
+              </imageobject>
+            </mediaobject>
           </section>
+        </section>
+
+        <section>
+          <title>Prise de décision versus faire des choses ensemble</title>
+
+          <para>Les réunions de ce livre relèvent des réunions de prise de
+          décision pour décider comment faire les choses ensemble en tant que
+          groupe. Je vous recommande vivement d'alterner chaque réunion de
+          prise de décision avec un moment où vous vous réunissez et faites
+          réellement quelque chose. Si c'est un groupe de pâtisseries, essayez
+          des recettes. Si c'est un club artistique, faites de l'art. S'il
+          s'agit d'un groupe d'action politique, contactez des représentants
+          ou protestez. Il est important de se rappeler que le but de prendre
+          des décisions ensemble est d'organiser la façon dont vous atteignez
+          les buts du groupe. Après avoir fait des choses ensemble, vous
+          pouvez utiliser ces réunions pour évaluer comment les choses se
+          passent, apporter des changements et continuer à vous améliorer
+          continuellement grâce au feedback.</para>
         </section>
       </section>
     </chapter>
@@ -1047,6 +1094,12 @@
     <title>Réunions</title>
 
     <partintro>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="illustrations/child4.jpg" width="1in"/>
+        </imageobject>
+      </mediaobject>
+
       <para>Tout au long du reste du livre, nous présenterons des trames de
       réunions pour vous aider à prendre des décisions avec les enfants en
       utilisant des processus sociocratiques. Nous commençons par des conseils
@@ -1059,9 +1112,12 @@
       des processus qui se renforcent mutuellement.</para>
 
       <para>D'autres ressources sont également fournies plus loin dans le
-      livre, notamment <remark>TODO: add reference || les fiches Aide-Mémoire
-      pour les animateurs (page )</remark> et <remark>TODO: add reference ||
-      les annexes (page )</remark>.</para>
+      livre, notamment les <remark>TODO: add reference || les fiches
+      Aide-Mémoire pour les animateurs (page )</remark><xref
+      linkend="Aide-mémoire_pour_les_animateurs"
+      xrefstyle="select: title page"/> et les <remark>TODO: add reference ||
+      les annexes (page )</remark><xref linkend="Annexes"
+      xrefstyle="select: title page"/>.</para>
     </partintro>
 
     <chapter>
@@ -1180,6 +1236,12 @@
         personne qui a le bâton de parole est la seule à parler. Le travail de
         tous les autres est d'écouter en silence et de prêter
         attention.</para>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="illustrations/blocks-bw.jpg" width="100%"/>
+          </imageobject>
+        </mediaobject>
       </section>
 
       <section>
@@ -1188,7 +1250,7 @@
         <para>En cas de doute sur la manière de procéder sur un sujet donné,
         demandez aux enfants de vous faire part de leurs réactions. Posez des
         questions telles que : « Quels sont les problèmes que vous voyez en ce
-        moment ? » « Quelles nouvelles choses voudriez-vous essayer ? » ou
+        moment ? », « Quelles nouvelles choses voudriez-vous essayer ? », ou
         même « Comment pouvons-nous être une communauté plus gentille ensemble
         ? ». Vous pouvez récolter la sagesse du groupe à tout moment.</para>
       </section>
@@ -1198,23 +1260,26 @@
 
         <para>Il est important de se concentrer sur les aspects positifs de la
         vie en groupe, ainsi que sur la réalisation de buts communs. À
-        Pathfinder, nous avons pour tradition de commencer notre réunion
-        hebdomadaire en demandant à chacun de partager ce qui va bien, ou
-        quelque chose dont il est reconnaissant. Nous enregistrons les
-        déclarations de gratitude sur une affiche que tout le monde peut voir.
-        En outre, nous terminons chaque décision de consentement par une
-        célébration : « Ouiii ! Nous avons pris une décision ! »</para>
+        <foreignphrase>Pathfinder</foreignphrase>, nous avons pour tradition
+        de commencer notre réunion hebdomadaire en demandant à chacun de
+        partager ce qui va bien, ou quelque chose dont il est reconnaissant.
+        Nous enregistrons les déclarations de gratitude sur une affiche que
+        tout le monde peut voir. En outre, nous terminons chaque décision de
+        consentement par une célébration : « Ouiii ! Nous avons pris une
+        décision ! »</para>
 
         <para>Apprendre la sociocratie ensemble peut être amusant. Voir
-        <remark>TODO: add reference || l'annexe 1 : Jeux de consentement (page
-        )</remark> pour des exemples de scénarios que vous pouvez étudier en
-        groupe de manière ludique pour pratiquer la prise de décision par
-        consentement. Il existe également un jeu de société pour apprendre la
-        sociocratie avec les enfants appelé Keep The Balance<footnote>
+        l'<remark>TODO: add reference || l'annexe 1 : Jeux de consentement
+        (page )</remark><xref linkend="Jeux_de_consentement"
+        xrefstyle="select: label title page"/> pour des exemples de scénarios
+        que vous pouvez étudier en groupe de manière ludique pour pratiquer la
+        prise de décision par consentement. Il existe également un jeu de
+        société pour apprendre la sociocratie avec les enfants appelé
+        <foreignphrase>Keep The Balance</foreignphrase><footnote>
             <para><uri xlink:href="https://keepthebalance.games/"
             xmlns:xlink="http://www.w3.org/1999/xlink">https://keepthebalance.games/</uri></para>
-          </footnote> qui sera publié en 2022 en anglais par le Sociocratic
-        Center en Autriche.</para>
+          </footnote> qui sera publié en 2022 en anglais par le
+        <foreignphrase>Sociocratic Center</foreignphrase> en Autriche.</para>
       </section>
 
       <section>
@@ -1280,9 +1345,11 @@
             <para><emphasis role="strong">Enseigner en parlant plutôt qu'en
             faisant.</emphasis> Pratiquer ensemble est la meilleure façon
             d'apprendre. Utilisez les jeux de prise de décision par
-            consentement de <remark>TODO: add reference || l'Annexe 1 : Jeux
-            de consentement (page )</remark> pour vous entraîner de manière
-            amusante.</para>
+            consentement de l'<remark>TODO: add reference || l'Annexe 1 : Jeux
+            de consentement (page )</remark><xref
+            linkend="Jeux_de_consentement"
+            xrefstyle="select: label title page"/> pour vous entraîner de
+            manière amusante.</para>
           </listitem>
         </itemizedlist>
       </section>
@@ -1295,8 +1362,9 @@
         <title>Clarté du domaine</title>
 
         <para>Vous devrez arriver à cette réunion en ayant une idée claire du
-        domaine sur lequel les enfants ont un pouvoir. Voir <remark>TODO: add
-        reference || le domaine des enfants (page )</remark> dans
+        domaine sur lequel les enfants ont un pouvoir. Voir le <remark>TODO:
+        add reference || le domaine des enfants (page )</remark><xref
+        linkend="Domaine_des_enfants" xrefstyle="select: title page"/> dans
         l'introduction pour obtenir des informations sur la création d'un
         domaine. Il est essentiel que vous vous en teniez à ce domaine pour le
         reste du temps passé ensemble, afin que les enfants aient confiance
@@ -1318,13 +1386,19 @@
 
         <para>Vous pourriez organiser un nombre infini de réunions axées
         uniquement sur les discussions en cercle. L'annexe contient des idées
-        de tours de parole, notamment <remark>TODO: add reference || des tours
-        de parole pour créer des liens et s'amuser (page )</remark>,
-        <remark>TODO: add reference || des tours de parole pour la rétroaction
-        (page )</remark>, <remark>TODO: add reference || les tours de parole
-        ou réunions pour l'empathie et l'intelligence émotionnelle (page
-        )</remark>, et <remark>TODO: add reference || les tours de parole pour
-        la résolution des conflits (page )</remark>.</para>
+        de tours de parole, notamment des <remark>TODO: add reference || des
+        tours de parole pour créer des liens et s'amuser (page )</remark><xref
+        linkend="tdt-connexion_et_le_plaisir"
+        xrefstyle="select: title page"/>, des <remark>TODO: add reference ||
+        des tours de parole pour la rétroaction (page )</remark><xref
+        linkend="tdt-feedback" xrefstyle="select: title page"/>, les
+        <remark>TODO: add reference || les tours de parole ou réunions pour
+        l'empathie et l'intelligence émotionnelle (page )</remark><xref
+        linkend="tdt-réunions_pour_empathie_et_intelligence_émotionnelle"
+        xrefstyle="select: title page"/>, et les <remark>TODO: add reference
+        || les tours de parole pour la résolution des conflits (page
+        )</remark><xref linkend="tdt-résolution_des_conflits"
+        xrefstyle="select: title page"/>.</para>
 
         <para>N'oubliez pas d'utiliser un <glossterm>bâton de
         parole</glossterm> pour les tours. Choisissez un objet avec intention.
@@ -1392,9 +1466,11 @@
         </itemizedlist>
 
         <para>Quelque chose comme cela peut être suffisant pour votre groupe.
-        Pour les groupes plus importants, consultez <remark>TODO: add
+        Pour les groupes plus importants, consultez l'<remark>TODO: add
         reference || l'annexe 3 : Exemples d'accords de Pathfinder (page
-        )</remark> pour des accords réels dans une école.</para>
+        )</remark><xref linkend="Exemples_accords_de_Pathfinder"
+        xrefstyle="select: label title page"/> pour des accords réels dans une
+        école.</para>
       </section>
 
       <section>
@@ -1402,16 +1478,20 @@
 
         <para>Le format des réunions sera toujours le même. Pour les groupes
         plus jeunes, âgés de 5 à 7 ans, vous pouvez supprimer le tour
-        d'accueil et de clôture et limiter la réunion au point principal de
+        d'ouverture et de clôture et limiter la réunion au point principal de
         l'ordre du jour.</para>
 
-        <informaltable frame="all">
+        <informaltable frame="all" rowheader="firstcol">
           <tgroup cols="2">
-            <tbody>
-              <row>
-                <entry><para>Tour d’accueil</para></entry>
+            <colspec colwidth="1*"/>
 
-                <entry><para>Les « check-in », ou tours d’accueil sont un
+            <colspec colwidth="3*"/>
+
+            <tbody valign="top">
+              <row>
+                <entry><para>Tours d'ouverture</para></entry>
+
+                <entry><para>Les « check-in », ou tours d'ouverture sont un
                 moment pour se connecter en tant que groupe. Le tour de parole
                 est l'occasion d'entendre ce que chacun ressent au début de la
                 réunion. Il peut également s'agir d'un moment important de
@@ -1450,6 +1530,12 @@
             </tbody>
           </tgroup>
         </informaltable>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="illustrations/table1-bw.jpg" width="100%"/>
+          </imageobject>
+        </mediaobject>
       </section>
 
       <section>
@@ -1475,7 +1561,7 @@
           xmlns:xlink="http://www.w3.org/1999/xlink">https://sociocracyforall.org/lets-decide-together-2021</uri></para>
         </note>
 
-        <figure dbf:role="script"
+        <figure xml:id="odj-Tours_de_parole_et_accords" dbf:role="script"
                 xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
           <title>Ordre du jour de réunion 1 : Tours de parole et
           accords</title>
@@ -1504,7 +1590,7 @@
             </listitem>
 
             <listitem>
-              <para>Tour d’accueil (check-in)</para>
+              <para>Tour d'ouverture (check-in)</para>
 
               <para>Comment vas-tu aujourd’hui ?</para>
             </listitem>
@@ -1611,7 +1697,7 @@
 
       <para>Une objection doit être étayée par une raison, telle que la mise
       en évidence d'un danger lié à la prise de décision que le groupe n'a pas
-      vu, ou d'un élément qui empêchera le groupe d'atteindre son but..</para>
+      vu, ou d'un élément qui empêchera le groupe d'atteindre son but.</para>
 
       <para>Le consentement n'est pas une préférence. Par exemple, supposons
       que plusieurs personnes décident de la régulation du thermostat dans une
@@ -1620,13 +1706,13 @@
       personne considère sa zone de tolérance, ou ce qui lui convient, le
       consentement peut être trouvé beaucoup plus rapidement.</para>
 
-      <para>Disons que je préfère avoir les fenêtres ouvertes s'il fait 27 ℃,
-      alors que mon colocataire préfère que la température soit de 23 ℃ avec
+      <para>Disons que je préfère avoir les fenêtres ouvertes s'il fait 27 °C,
+      alors que mon colocataire préfère que la température soit de 23 °C avec
       la climatisation. Si nous votons chacun pour notre préférence, nous ne
       trouverons pas de juste milieu. Disons que je peux tolérer une
-      température de 29 ℃ à 25 ℃ et que mon colocataire peut tolérer une
-      température de 21 ℃ à 25 ℃. Nous avons là un terrain d'entente auquel
-      nous pouvons consentir à 25 ℃).</para>
+      température de 29 °C à 25 °C et que mon colocataire peut tolérer une
+      température de 21 °C à 25 °C. Nous avons là un terrain d'entente auquel
+      nous pouvons consentir à 25 °C).</para>
 
       <informalfigure>
         <mediaobject>
@@ -1637,8 +1723,10 @@
       </informalfigure>
 
       <para>Consultez la <remark>TODO: add reference || fiche de travail
-      Consentement et objections (page )</remark> pour vous aider à pratiquer
-      le consentement.</para>
+      Consentement et objections (page )</remark><xref
+      linkend="fdt-Consentement_et_objections"
+      xrefstyle="select: title page"/> pour vous aider à pratiquer le
+      consentement.</para>
 
       <section>
         <title>Que faire en cas d'objection</title>
@@ -1649,7 +1737,7 @@
         préférence personnelle. « Je n'aime pas ça » n'est pas une objection
         valable, à moins qu'elle ne soit étayée par une raison quelconque
         indiquant que la décision va à l'encontre du but du groupe, qu'elle
-        n'est pas assez bonne pour l’instant ou qu'elle est assez sûre pour
+        n'est pas assez bien pour l’instant ou qu'elle est assez sûre pour
         être essayée. Souvent, les gens ne sont pas disposés à utiliser le mot
         « objection », mais ils peuvent partager une réaction ou une
         préoccupation. Essayez de résoudre le problème de la même manière que
@@ -1674,24 +1762,47 @@
 
           <para>Par exemple :</para>
 
-          <para>Facilitateur : « On dirait que tu as peur que ce jeu ne soit
-          pas amusant pour tout le monde. Quels changements pouvons-nous
-          apporter aux règles pour que ce soit plus amusant pour toi
-          ? »</para>
+          <informaltable colsep="0" frame="none" rowheader="firstcol"
+                         rowsep="0">
+            <tgroup cols="2">
+              <colspec align="right" colwidth="1*"/>
 
-          <para>Enfant : « Ce serait plus amusant si on était 'ça' à tour de
-          rôle. »</para>
+              <colspec colwidth="4*"/>
 
-          <para>Facilitateur : « Ok, pouvez-vous consentir à ce qu'on soit
-          'ça' à tour de rôle ? »</para>
+              <tbody valign="top">
+                <row>
+                  <entry>Facilitateur : </entry>
+
+                  <entry><para>« On dirait que tu as peur que ce jeu ne soit
+                  pas amusant pour tout le monde. Quels changements
+                  pouvons-nous apporter aux règles pour que ce soit plus
+                  amusant pour toi ? »</para></entry>
+                </row>
+
+                <row>
+                  <entry>Enfant : </entry>
+
+                  <entry><para>« Ce serait plus amusant si on était le
+                  chasseur à tour de rôle. »</para></entry>
+                </row>
+
+                <row>
+                  <entry>Facilitateur : </entry>
+
+                  <entry><para>« Ok, pouvez-vous consentir à ce qu'on soit le
+                  chasseur à tour de rôle ? »</para></entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </informaltable>
         </section>
 
         <section>
           <title>Préoccupation</title>
 
           <para><emphasis role="strong">Faites de cette préoccupation une
-          question</emphasis> à poser au moment du tour d’accueil pour savoir
-          : « Est-ce que X (la préoccupation) se produit ? ».</para>
+          question</emphasis> à poser au moment du tour d'ouverture pour
+          savoir : « Est-ce que X (la préoccupation) se produit ? ».</para>
 
           <para>Par exemple, « Et si on vérifiait après un tour de jeu pour
           voir si c'était amusant ? ».</para>
@@ -1713,10 +1824,12 @@
         <section>
           <title>APE (Amendement, Préoccupation, Échéance)</title>
 
-          <para>L'acronyme APE et la fiche Aide-Mémoire « Résoudre les
-          objections » (page ) peuvent vous aider à vous rappeler comment
-          résoudre les objections. Vous pouvez avoir besoin d'une seule de ces
-          stratégies, ou de toutes, pour surmonter une objection.</para>
+          <para>L'acronyme APE et la <remark>TODO: add reference || la fiche
+          Aide-Mémoire « Résoudre les objections » (page )</remark><xref
+          linkend="fam-lever_des_objections" xrefstyle="select: title page"/>
+          peuvent vous aider à vous rappeler comment résoudre les objections.
+          Vous pouvez avoir besoin d'une seule de ces stratégies, ou de
+          toutes, pour surmonter une objection.</para>
         </section>
       </section>
 
@@ -1729,16 +1842,22 @@
         de question à évaluer, est très efficace. Si rien d'autre ne
         fonctionne, raccourcissez radicalement la durée, même à une heure ou
         un jour. Lorsque vous demandez le consentement, demandez : « Est-ce
-        suffisant pour le moment ? Est-ce que c'est assez sûr pour être essayé
-        ? » ou « Êtes-vous prêt à l'essayer pendant X temps, puis à faire le
-        point ? ». Souvent, ces questions aideront une personne à trouver son
-        consentement.</para>
+        assez bien pour l'instant ? Est-ce que c'est assez sûr pour être
+        essayé ? » ou « Êtes-vous prêt à l'essayer pendant X temps, puis à
+        faire le point ? ». Souvent, ces questions aideront une personne à
+        trouver son consentement.</para>
       </section>
 
       <section>
         <title>Signes de main pour le consentement et les objections</title>
 
         <remark>TODO: add hand signs picture here</remark>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="illustrations/handsigns2.png" width="100%"/>
+          </imageobject>
+        </mediaobject>
 
         <para>Dans ce livre, j'utilise :</para>
 
@@ -1778,11 +1897,13 @@
         <title>Processus de sélection sociocratique</title>
 
         <para>Voici le processus à suivre pour prendre une décision entre
-        plusieurs options quant au jeu à jouer aujourd'hui. Voir <remark>TODO:
-        add reference || l'annexe 1 : Jeux de consentement (page )</remark>
-        pour d'autres exemples de décisions que vous pouvez substituer au jeu
-        - par exemple, quel film regarder, que manger pour le dîner, ou
-        comment nommer le groupe.</para>
+        plusieurs options quant au jeu à jouer aujourd'hui. Voir
+        l'<remark>TODO: add reference || l'annexe 1 : Jeux de consentement
+        (page )</remark><xref linkend="Jeux_de_consentement"
+        xrefstyle="select: label title page"/> pour d'autres exemples de
+        décisions que vous pouvez substituer au jeu - par exemple, quel film
+        regarder, que manger pour le dîner, ou comment nommer le
+        groupe.</para>
 
         <para>Le processus est le suivant :</para>
 
@@ -1805,13 +1926,13 @@
           </listitem>
 
           <listitem>
-            <para><emphasis role="strong">Proposez une idée pour le
+            <para><emphasis role="strong">Proposer une idée pour le
             consentement</emphasis> : Le facilitateur propose une idée pour le
             consentement. Recueillir et résoudre les objections.</para>
           </listitem>
 
           <listitem>
-            <para><emphasis role="strong">Célébrez la décision
+            <para><emphasis role="strong">Célébrer la décision
             !</emphasis></para>
           </listitem>
         </orderedlist>
@@ -1824,13 +1945,16 @@
         présentez.</para>
 
         <para>La synthèse des idées dans une proposition et la résolution des
-        objections sont une forme d'art. Pour plus de conseils, consultez
+        objections sont une forme d'art. Pour plus de conseils, consultez la
         <remark>TODO: add reference || la fiche aide-mémoire sur la synthèse
-        des propositions (page )</remark>. Vous trouverez également des idées
-        de jeux de consentement amusants <remark>TODO: add reference || à
-        l'annexe 1 : Jeux de consentement (page )</remark>. Ils peuvent être
-        une façon amusante d'enseigner la prise de décision par consentement
-        et le processus de sélection.</para>
+        des propositions (page )</remark><xref
+        linkend="fam-Synthèse_de_proposition"
+        xrefstyle="select: title page"/>. Vous trouverez également des idées
+        de jeux de consentement amusants à l'<remark>TODO: add reference || à
+        l'annexe 1 : Jeux de consentement (page )</remark><xref
+        linkend="Jeux_de_consentement" xrefstyle="select: label title page"/>.
+        Ils peuvent être une façon amusante d'enseigner la prise de décision
+        par consentement et le processus de sélection.</para>
       </section>
 
       <section>
@@ -1839,23 +1963,23 @@
         <para>Dans cet exemple, il n'y a pas de propositions précédentes, nous
         les générons donc dans la première étape.</para>
 
-        <informaltable rowheader="firstcol">
+        <informaltable colsep="0" frame="none" rowheader="firstcol" rowsep="0">
           <tgroup cols="2">
-            <colspec align="right" colname="speaker"/>
+            <colspec align="right" colname="speaker" colwidth="1*"/>
 
-            <colspec colname="quote"/>
+            <colspec colname="quote" colwidth="4*"/>
 
             <spanspec align="left" nameend="quote" namest="speaker"
                       spanname="label"/>
 
-            <tbody>
+            <tbody valign="top">
               <row>
-                <entry spanname="label">Étape 1 : Candidatures et tour de
-                parole pour nommer les raisons.</entry>
+                <entry spanname="label">Étape 1 : Tour des nominations et des
+                raisons</entry>
               </row>
 
               <row>
-                <entry>Facilitateur : </entry>
+                <entry>Facilitateur :</entry>
 
                 <entry>« Décidons du film que tout le monde est prêt à
                 regarder aujourd'hui. Nous allons commencer par un tour de
@@ -1879,19 +2003,20 @@
               <row>
                 <entry>Enfant 3 :</entry>
 
-                <entry>« J'aimerais regarder How to Train Your
-                Dragon. »</entry>
+                <entry>« J'aimerais regarder <foreignphrase>How to Train Your
+                Dragon</foreignphrase>. »</entry>
               </row>
 
               <row>
                 <entry>Enfant 4 :</entry>
 
-                <entry>« Je veux regarder The Lego Movie. »</entry>
+                <entry>« Je veux regarder <foreignphrase>The Lego
+                Movie</foreignphrase>. »</entry>
               </row>
 
               <row>
-                <entry spanname="label"><remark>TODO: translate this</remark>
-                Step 2: Change nominations</entry>
+                <entry spanname="label">Étape 2 : Modifier les
+                nominations</entry>
               </row>
 
               <row>
@@ -1905,7 +2030,8 @@
                 <entry>Enfant 1 :</entry>
 
                 <entry><emphasis>(lève la main)</emphasis> « J'aime l'idée de
-                regarder How to Train Your Dragon. »</entry>
+                regarder <foreignphrase>How to Train Your
+                Dragon</foreignphrase>. »</entry>
               </row>
 
               <row>
@@ -1916,8 +2042,9 @@
               <row>
                 <entry>Facilitateur :</entry>
 
-                <entry>« Je propose How to Train Your Dragon pour le
-                consentement. Pouces en haut/en bas/latéraux ? »</entry>
+                <entry>« Je propose <foreignphrase>How to Train Your
+                Dragon</foreignphrase> pour le consentement. Pouces en haut/en
+                bas/latéraux ? »</entry>
               </row>
 
               <row>
@@ -1943,7 +2070,7 @@
               <row>
                 <entry>Enfant 4 :</entry>
 
-                <entry>(pouces de côté)</entry>
+                <entry><emphasis>(pouce de côté)</emphasis></entry>
               </row>
 
               <row>
@@ -1956,8 +2083,8 @@
               <row>
                 <entry>Enfant 1 :</entry>
 
-                <entry>« Peut-être qu'on peut regarder le teaser et voir si ça
-                fait peur. »</entry>
+                <entry>« Peut-être qu'on peut regarder la bande-annonce et
+                voir si ça fait peur. »</entry>
               </row>
 
               <row>
@@ -1972,7 +2099,7 @@
                 <entry>Enfant 3 :</entry>
 
                 <entry>« On pourrait regarder la classification et voir si
-                c'est PG. »</entry>
+                c'est TP. »</entry>
               </row>
 
               <row>
@@ -2018,23 +2145,30 @@
         <itemizedlist>
           <listitem>
             <para>Copiez la <remark>TODO: add reference || fiche de travail
-            Consentement et objections (page )</remark> si vous souhaitez
-            l'utiliser avec les enfants.</para>
+            Consentement et objections (page )</remark><xref
+            linkend="fdt-Consentement_et_objections"
+            xrefstyle="select: title page"/> si vous souhaitez l'utiliser avec
+            les enfants.</para>
           </listitem>
 
           <listitem>
             <para>Copiez la <remark>TODO: add reference || fiche Aide-Mémoire
-            Résoudre les objections (page )</remark> et la <remark>TODO: add
-            reference || fiche d'aide au processus de sélection (page
-            )</remark> pour vous-même si vous en avez besoin.</para>
+            Résoudre les objections (page )</remark><xref
+            linkend="fam-lever_des_objections"
+            xrefstyle="select: title page"/> et la <remark>TODO: add reference
+            || fiche d'aide au processus de sélection (page )</remark><xref
+            linkend="fam-Processus_de_sélection"
+            xrefstyle="select: title page"/> pour vous-même si vous en avez
+            besoin.</para>
           </listitem>
 
           <listitem>
             <para>Imprimez, projetez ou dessinez sur un tableau blanc ou sur
-            une affiche le diagramme météorologique de <remark>TODO: add
-            reference || l'ordre du jour de la réunion 2 (page )</remark>,
-            afin que chacun puisse s'en servir comme référence pendant la
-            réunion.</para>
+            une affiche le diagramme météorologique de la <remark>TODO: add
+            reference || l'ordre du jour de la réunion 2 (page )</remark><xref
+            linkend="odj-Comme_nous_décidons_ensemble"
+            xrefstyle="select: title page"/>, afin que chacun puisse s'en
+            servir comme référence pendant la réunion.</para>
           </listitem>
         </itemizedlist>
 
@@ -2045,26 +2179,27 @@
           xmlns:xlink="http://www.w3.org/1999/xlink">https://sociocracyforall.org/lets-decide-together-2021</uri></para>
         </note>
 
-        <figure dbf:role="script"
+        <figure xml:id="odj-Comme_nous_décidons_ensemble" dbf:role="script"
                 xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
-          <title>Réunion 2 Ordre du jour: Comme nous décidons ensemble</title>
+          <title>Réunion 2 Ordre du jour: Comment nous décidons
+          ensemble</title>
 
           <orderedlist>
             <listitem>
-              <para>Annoncez la durée de la réunion</para>
+              <para>Annoncer la durée de la réunion</para>
 
               <para>La réunion durera <replaceable dbf:shortfield="3ex"/>
               minutes. Mettez la minuterie.</para>
             </listitem>
 
             <listitem>
-              <para>Tour d’accueil - check-in</para>
+              <para>Tour d'ouverture - check-in</para>
 
               <para>Comment vas-tu aujourd’hui ?</para>
             </listitem>
 
             <listitem>
-              <para>Lisez l’introduction</para>
+              <para>Lire l’introduction</para>
 
               <para>Aujourd’hui nous apprenons comment prendre des décisions
               dans ce groupe. Nous essayerons de décider à quel jeu nous
@@ -2078,8 +2213,7 @@
               <para>Nous utiliserons les pouces en haut pour « J’aime »,
               pouces latéraux pour « C’est OK pour moi » et pouces en bas pour
               « J’ai une objection ». Une objection signifie que ce n’est pas
-              assez bon pour maintenant et pas assez sûr pour
-              l’essayer.</para>
+              assez bien pour l'instant et pas assez sûr pour essayer.</para>
 
               <para>Regardons le consentement et les objections d’une personne
               pour la question: « Est-ce que le temps est OK pour sortir
@@ -2106,13 +2240,13 @@
             </listitem>
 
             <listitem>
-              <para>Tour de nominations appuyées par les raisons</para>
+              <para>Tour des nominations et des raisons</para>
 
               <para>À quel jeu veux-tu jouer, et pourquoi ?</para>
             </listitem>
 
             <listitem>
-              <para>Tour de changement</para>
+              <para>Tour de confirmation</para>
 
               <para>Est-ce que tu as changé d’avis basé sur ce que d’autres
               ont dit ? (Demander les mains levées pour gagner du
@@ -2128,7 +2262,7 @@
               vous avez des objections ? Rappelez-vous que pouces vers le haut
               signifie « J’aime », pouces latéraux signifie « C’est OK pour
               moi » et pouces vers le bas signifie « J’ai une raison pour
-              laquelle ce n’est pas assez bon pour maintenant et assez sûr
+              laquelle ce n’est pas assez bien pour l'instant et assez sûr
               pour essayer ».</para>
 
               <para>(En cas d’objections, utilisez la fiche Aide-Mémoire
@@ -2147,17 +2281,17 @@
           </orderedlist>
         </informalfigure>
 
-        <figure dbf:role="worksheet"
+        <figure xml:id="fdt-Consentement_et_objections" dbf:role="worksheet"
                 xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
           <title>Fiche de travail Consentement &amp; objections</title>
 
           <itemizedlist>
-            <listitem dbf:input="short">
-              <para>Nom</para>
+            <listitem>
+              <para dbf:input="short">Nom</para>
             </listitem>
 
-            <listitem dbf:input="short">
-              <para>Date</para>
+            <listitem>
+              <para dbf:input="short">Date</para>
             </listitem>
 
             <listitem>
@@ -2185,7 +2319,7 @@
 
               <para>Puis remplis le diagramme ci-dessous avec consentement (ce
               que tu aimes, ce que tu trouves OK) et objections (ce qui n’est
-              ni assez bon pour maintenant, ni assez sûr pour essayer).</para>
+              ni assez bien pour l'instant, ni assez sûr pour essayer).</para>
             </listitem>
           </itemizedlist>
 
@@ -2198,13 +2332,17 @@
       </section>
     </chapter>
 
-    <chapter>
+    <chapter xml:id="Qu_allons_nous_faire_ensemble">
       <title>Réunion 3 : Qu'allons-nous faire ensemble ?</title>
 
       <para>Les buts décrivent les activités qui rassemblent le groupe et les
       types de décisions qui seront prises dans un domaine. Assurez-vous que
-      le domaine des enfants est clair à ce moment. Voir le domaine des
-      enfants (page ) et Buts du groupe (page ) pour plus de détails.</para>
+      le domaine des enfants est clair à ce moment. Voir le <remark>TODO: add
+      reference || le domaine des enfants (page )</remark><xref
+      linkend="Domaine_des_enfants" xrefstyle="select: title page"/> et
+      <remark>TODO: add reference || Buts du groupe (page )</remark><xref
+      linkend="Buts_du_groupe" xrefstyle="select: title page"/> pour plus de
+      détails.</para>
 
       <para>Avec les enfants, vous pouvez dire : « Tu as le pouvoir de décider
       de X » pour le domaine, et « Nous ferons X ensemble » pour les buts.
@@ -2220,7 +2358,11 @@
 
         <informaltable frame="all">
           <tgroup cols="2">
-            <thead>
+            <colspec colwidth="2*"/>
+
+            <colspec colwidth="3*"/>
+
+            <thead valign="top">
               <row>
                 <entry><para>Domaine</para></entry>
 
@@ -2228,7 +2370,7 @@
               </row>
             </thead>
 
-            <tbody>
+            <tbody valign="top">
               <row>
                 <entry><para>Collecte de fonds et établissement du
                 budget</para></entry>
@@ -2247,6 +2389,12 @@
             </tbody>
           </tgroup>
         </informaltable>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="illustrations/group-bw.jpg" width="100%"/>
+          </imageobject>
+        </mediaobject>
       </section>
 
       <section>
@@ -2257,7 +2405,11 @@
 
         <informaltable frame="all">
           <tgroup cols="2">
-            <thead>
+            <colspec colwidth="2*"/>
+
+            <colspec colwidth="3*"/>
+
+            <thead valign="top">
               <row>
                 <entry><para>Domaine</para></entry>
 
@@ -2265,7 +2417,7 @@
               </row>
             </thead>
 
-            <tbody>
+            <tbody valign="top">
               <row>
                 <entry><para>Une salle partagée</para></entry>
 
@@ -2300,7 +2452,11 @@
 
         <informaltable frame="all">
           <tgroup cols="2">
-            <thead>
+            <colspec colwidth="2*"/>
+
+            <colspec colwidth="3*"/>
+
+            <thead valign="top">
               <row>
                 <entry><para>Domaine</para></entry>
 
@@ -2308,7 +2464,7 @@
               </row>
             </thead>
 
-            <tbody>
+            <tbody valign="top">
               <row>
                 <entry><para>Les tâches ménagères dans notre
                 maison</para></entry>
@@ -2330,14 +2486,18 @@
       </section>
 
       <section>
-        <title>Exemple #4 : Expérience partagée</title>
+        <title>Exemple 4 : Expérience partagée</title>
 
         <para>Votre groupe décide de quoi cuisiner pour le dîner de
         mercredi.</para>
 
         <informaltable frame="all">
           <tgroup cols="2">
-            <thead>
+            <colspec colwidth="2*"/>
+
+            <colspec colwidth="3*"/>
+
+            <thead valign="top">
               <row>
                 <entry><para>Domaine</para></entry>
 
@@ -2345,14 +2505,15 @@
               </row>
             </thead>
 
-            <tbody>
+            <tbody valign="top">
               <row>
                 <entry><para>Qu'est-ce qu'on mange le mercredi
                 ?</para></entry>
 
                 <entry><itemizedlist>
                     <listitem>
-                      <para>Choix un repas qui convient à tout le monde</para>
+                      <para>Choix d'un repas qui convient à tout le
+                      monde</para>
                     </listitem>
 
                     <listitem>
@@ -2406,8 +2567,9 @@
 
         <para>Si vous n'avez pas le temps de faire un tour de parole ou si
         vous voulez laisser plus de temps pour le remue-méninges individuel,
-        utilisez la feuille de travail sur les buts (page ) pour rassembler
-        des idées.</para>
+        utilisez la <remark>TODO: add reference || la feuille de travail sur
+        les buts (page )</remark><xref linkend="Fiche_des_buts"
+        xrefstyle="select: title page"/> pour rassembler des idées.</para>
 
         <para>Vous pouvez utiliser la feuille de travail à un moment antérieur
         et écrire les réponses des élèves sur un tableau blanc où ils pourront
@@ -2431,9 +2593,11 @@
         <itemizedlist>
           <listitem>
             <para>N'oubliez pas que si vous manquez de temps, vous pouvez
-            utiliser la feuille de travail sur les buts (page ) pour collecter
-            des idées avant la réunion et ensuite proposer toutes les idées
-            pour consentement comme point principal de l'ordre du jour.</para>
+            utiliser la <remark>TODO: add reference || la feuille de travail
+            sur les buts (page )</remark><xref linkend="Fiche_des_buts"
+            xrefstyle="select: title page"/> pour collecter des idées avant la
+            réunion et ensuite proposer toutes les idées pour consentement
+            comme point principal de l'ordre du jour.</para>
           </listitem>
 
           <listitem>
@@ -2449,21 +2613,21 @@
           xmlns:xlink="http://www.w3.org/1999/xlink">https://sociocracyforall.org/lets-decide-together-2021</uri></para>
         </note>
 
-        <figure dbf:role="script"
+        <figure xml:id="odj-Quallons-nous_faire_ensemble" dbf:role="script"
                 xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
-          <title>Ordre du jour réunion 3: Qu’allons-nous faire
+          <title>Ordre du jour Réunion 3: Qu’allons-nous faire
           ensemble ?</title>
 
           <orderedlist>
             <listitem>
-              <para>Annoncez la durée de la réunion</para>
+              <para>Annoncer la durée de la réunion</para>
 
               <para>La réunion durera <replaceable dbf:shortfield="3ex"/>
               minutes. Mettez la minuterie.</para>
             </listitem>
 
             <listitem>
-              <para>Tour d’accueil - check-in</para>
+              <para>Tour d'ouverture - check-in</para>
 
               <para>Comment vas-tu aujourd’hui ? (Question alternative: Si tes
               émotions d’aujourd’hui étaient des conditions météorologiques,
@@ -2472,7 +2636,7 @@
             </listitem>
 
             <listitem>
-              <para>Lisez l’introduction</para>
+              <para>Lire l’introduction</para>
 
               <para>Aujourd’hui nous collectons vos idées d’activités à faire
               en groupe. Nous pouvons décider de toute activité ensemble
@@ -2480,7 +2644,7 @@
             </listitem>
 
             <listitem>
-              <para>Tour de feedback</para>
+              <para>Tour de feedback / rétroactions</para>
 
               <para>Qu’est-ce que vous voulez faire ensemble ? (p.ex. faire
               une vente de pâtisseries, décorer les murs, etc.)</para>
@@ -2491,24 +2655,24 @@
             </listitem>
 
             <listitem>
-              <para>Vérifiez le consentement</para>
+              <para>Vérifier le consentement</para>
 
               <para>(Lire les réponses à voix haute)</para>
 
               <para>Est-ce que vous consentez à ces actions ? Est-ce que la
-              liste est complète ? Pouces en haut/latéralement/en bas.</para>
+              liste est complète ? Pouces en haut / latéraux / en bas.</para>
 
               <para>(En cas d’objections, utilisez la fiche Résoudre les
               Objections)</para>
             </listitem>
 
             <listitem>
-              <para>Tour de feedback</para>
+              <para>Tour de feedback / rétroactions</para>
 
               <para>Est-ce que vous avez des idées détaillées de ce que l’on
               devrait faire pour mener ces actions ? (p.ex. si nous organisons
               une vente de pâtisseries, qu’allons-nous cuisiner ? Si nous
-              décorons la salle, comment voulez-vous la décorer ? Nous allons
+              décorons la salle, comment voulez-vous la décorer ?) Nous allons
               noter ces idées pour la prochaine fois.</para>
 
               <para>(Noter les idées pour la prochaine fois)</para>
@@ -2522,59 +2686,61 @@
           </orderedlist>
         </figure>
 
-        <figure dbf:role="worksheet"
+        <figure xml:id="Fiche_des_buts" dbf:role="worksheet"
                 xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
           <title>Fiche des buts</title>
 
           <itemizedlist>
-            <listitem dbf:input="short">
-              <para>Nom</para>
-            </listitem>
-
-            <listitem dbf:input="short">
-              <para>Date</para>
+            <listitem>
+              <para dbf:input="short">Nom</para>
             </listitem>
 
             <listitem>
-              <para>Notre domaine: <replaceable dbf:input="underneath">(la
+              <para dbf:input="short">Date</para>
+            </listitem>
+
+            <listitem>
+              <para>Notre domaine: <replaceable dbf:input="description">(la
               zone sur laquelle nous prenons des
               décisions)</replaceable></para>
             </listitem>
 
-            <listitem dbf:input="long">
+            <listitem>
               <para>Buts</para>
 
-              <para>Quelles activités veux-tu faire ensemble en tant que
-              groupe ?</para>
+              <para dbf:input="long">Quelles activités veux-tu faire ensemble
+              en tant que groupe ?</para>
             </listitem>
 
-            <listitem dbf:input="long">
+            <listitem>
               <para>Activités</para>
 
-              <para>Quelles activités spécifiques veux-tu faire ?</para>
+              <para dbf:input="long">Quelles activités spécifiques veux-tu
+              faire ?</para>
             </listitem>
           </itemizedlist>
         </figure>
       </section>
     </chapter>
 
-    <chapter>
+    <chapter xml:id="Faisons_en_sorte_que_cela_se_produise">
       <title>Réunion 4 : Faisons en sorte que cela se produise</title>
 
       <para>Avant cette réunion, rassemblez les idées de la dernière fois sur
       les activités spécifiques que vous pourriez faire ensemble. Essayez de
-      faire tenir chaque idée sur une seule note autocollante.. Lisez
+      faire tenir chaque idée sur une seule note autocollante. Lisez
       maintenant ces idées et identifiez celles qui impliquent des décisions
       budgétaires, car je recommande un processus légèrement différent dans
       ces cas-là.</para>
 
-      <para>Si vous êtes dans une salle de classe, vous pouvez utiliser
+      <para>Si vous êtes dans une salle de classe, vous pouvez utiliser la
       <remark>TODO: add reference || la fiche de travail "Propositions
-      rapides" (page )</remark> pour proposer des idées d'action. Cela donnera
-      aux élèves le temps de réfléchir à ce qu'ils veulent, avant de partager
-      avec le grand groupe.</para>
+      rapides" (page )</remark><xref linkend="fdt-Propositions_rapides"
+      xrefstyle="select: title page"/> pour proposer des idées d'action. Cela
+      donnera aux élèves le temps de réfléchir à ce qu'ils veulent, avant de
+      partager avec le grand groupe.</para>
 
-      <section>
+      <section xml:id="Propositions_simples_pour_une_activité">
         <title>Propositions simples pour une activité</title>
 
         <para><emphasis>Jouer à des jeux</emphasis>, <emphasis>observer des
@@ -2620,7 +2786,7 @@
         groupe.</para>
 
         <para>Lorsque vous proposez un consentement, demandez : ces activités
-        sont-elles suffisamment bonnes pour être essayées avec le groupe ?
+        sont-elles suffisamment sûres pour être essayées avec le groupe ?
         Certains enfants voudront peut-être procéder à un vote à la majorité
         pour leurs préférences personnelles, mais ce type de vote conduit les
         gens à prendre parti et à créer des gagnants et des perdants. Au lieu
@@ -2630,15 +2796,22 @@
 
         <para>Pour les activités à plus long terme qui nécessitent un
         engagement plus important, voir <remark>TODO: add reference || Réunion
-        7 : Propositions complexes (page )</remark>. Vous pouvez déléguer à un
-        ou plusieurs membres du groupe qui souhaitent régler les détails. Par
-        exemple, qui sera responsable de la réalisation de cette activité pour
-        la période X à venir ? Le facilitateur propose quelqu'un pour le
-        consentement.</para>
+        7 : Propositions complexes (page )</remark><xref
+        linkend="Propositions_complexes" xrefstyle="select: title page"/>.
+        Vous pouvez déléguer à un ou plusieurs membres du groupe qui
+        souhaitent régler les détails. Par exemple, qui sera responsable de la
+        réalisation de cette activité pour la période X à venir ? Le
+        facilitateur propose quelqu'un pour le consentement.</para>
 
         <para>Cette réunion sera répétée tant que le groupe continuera à
         décider de ce qu'il convient de faire avec le temps et les ressources
         partagées.</para>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="illustrations/chat-bw.jpg" width="100%"/>
+          </imageobject>
+        </mediaobject>
       </section>
 
       <section>
@@ -2665,13 +2838,15 @@
         l'ensemble du groupe, et non pour une seule personne. Vous pouvez
         ensuite demander aux enfants de choisir les articles les plus
         prioritaires dans un tour de nominations. Utilisez le même processus
-        de sélection que pour <remark>TODO: add reference || les Propositions
-        simples pour une activité (page )</remark>. Proposez le consentement à
-        l'achat de l'article qui a les meilleures raisons de correspondre au
-        but du groupe, soustrayez le coût du budget total de votre nouvelle
-        limite, puis répétez le processus. Vous pouvez demander au groupe
-        combien d'argent il veut dépenser ce jour-là, ou s'il veut acheter
-        tout ce qui figure sur la liste, s'il en a les moyens.</para>
+        de sélection que pour les <remark>TODO: add reference || les
+        Propositions simples pour une activité (page )</remark><xref
+        linkend="Propositions_simples_pour_une_activité"
+        xrefstyle="select: title page"/>. Proposez le consentement à l'achat
+        de l'article qui a les meilleures raisons de correspondre au but du
+        groupe, soustrayez le coût du budget total de votre nouvelle limite,
+        puis répétez le processus. Vous pouvez demander au groupe combien
+        d'argent il veut dépenser ce jour-là, ou s'il veut acheter tout ce qui
+        figure sur la liste, s'il en a les moyens.</para>
 
         <para>Si le processus de sélection s'avère trop long avec votre
         groupe, ou s'il perd patience pendant ce genre de réunion, vous pouvez
@@ -2725,7 +2900,8 @@
           xmlns:xlink="http://www.w3.org/1999/xlink">https://sociocracyforall.org/lets-decide-together-2021</uri></para>
         </note>
 
-        <figure dbf:role="script"
+        <figure xml:id="odj-Faisons_en_sorte_que_cela_se_produise"
+                dbf:role="script"
                 xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
           <title>Ordre du jour Réunion 4: Faisons en sorte que cela se
           produise</title>
@@ -2739,7 +2915,7 @@
             </listitem>
 
             <listitem>
-              <para>Tour d’accueil - check-in</para>
+              <para>Tour d'ouverture - check-in</para>
 
               <para>Montre avec ton visage: Comment vas-tu
               aujourd’hui ?</para>
@@ -2810,21 +2986,21 @@
           </orderedlist>
         </figure>
 
-        <figure dbf:role="worksheet"
+        <figure xml:id="fdt-Propositions_rapides" dbf:role="worksheet"
                 xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
           <title>Fiche de travail Propositions rapides</title>
 
           <itemizedlist>
-            <listitem dbf:input="short">
-              <para>Nom</para>
-            </listitem>
-
-            <listitem dbf:input="short">
-              <para>Date</para>
+            <listitem>
+              <para dbf:input="short">Nom</para>
             </listitem>
 
             <listitem>
-              <para>Notre domaine: <replaceable dbf:input="underneath">(la
+              <para dbf:input="short">Date</para>
+            </listitem>
+
+            <listitem>
+              <para>Notre domaine: <replaceable dbf:input="description">(la
               zone sur laquelle nous prenons des
               décisions)</replaceable></para>
             </listitem>
@@ -2845,7 +3021,7 @@
               <para dbf:input="long">Qu’est-ce que tu penses que nous devrions
               acheter d’abord ? Pourquoi ?</para>
 
-              <para dbf:input="long">Qu’est ce que tu aimerais aussi
+              <para dbf:input="long">Qu'est-ce que tu aimerais aussi
               acheter ?</para>
             </listitem>
           </itemizedlist>
@@ -2853,7 +3029,7 @@
       </section>
     </chapter>
 
-    <chapter>
+    <chapter xml:id="Changer_le_fonctionnement_des_choses">
       <title>Réunion 5 : Changer le fonctionnement des choses</title>
 
       <section>
@@ -2864,11 +3040,12 @@
         les problèmes ou saisir les opportunités. Ce processus peut déboucher
         sur des propositions solides et efficaces qui abordent à la fois ce
         qui doit changer et les raisons pour lesquelles vous procédez à ce
-        changement. Ce format est inspiré des outils agiles des Agile Learning
-        Centers<footnote>
+        changement. Ce format est inspiré des outils agiles des
+        <foreignphrase>Agile Learning Centers</foreignphrase><footnote>
             <para><uri xlink:href="https://agilelearningcenters.org/"
             xmlns:xlink="http://www.w3.org/1999/xlink">https://agilelearningcenters.org/</uri></para>
-          </footnote> et de Sociocracy 3.0<footnote>
+          </footnote> et de <foreignphrase>Sociocracy
+        3.0</foreignphrase><footnote>
             <para><uri xlink:href="https://sociocracy30.org/"
             xmlns:xlink="http://www.w3.org/1999/xlink">https://sociocracy30.org/</uri></para>
           </footnote>.</para>
@@ -2904,13 +3081,19 @@
         note. Les notes autocollantes permettent de rester bref et sont
         également faciles à déplacer.</para>
 
-        <para>Vous vérifierez les propositions de Qu’est-ce qui se passe à
+        <para>Vous vérifierez les propositions de « Qu'est-ce qui se passe » à
         plusieurs reprises et les ferez avancer sur le tableau jusqu'à la
-        prochaine colonne de Check-in. Vous pouvez faire le point chaque
+        prochaine colonne de Vérification. Vous pouvez faire le point chaque
         semaine, chaque mois ou à la fréquence qui convient le mieux à votre
         groupe. Si les choses se passent bien et que les propositions
         fonctionnent, vous finirez par les intégrer dans vos accords de
         groupe.</para>
+
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="illustrations/juice-bw.jpg" width="100%"/>
+          </imageobject>
+        </mediaobject>
       </section>
 
       <section>
@@ -2921,11 +3104,11 @@
           <title>Étape 0 : Commencez par la gratitude</title>
 
           <para>Nous aimons commencer par demander au groupe : « Qu'est-ce qui
-          fonctionne bien ? puis en utilisant les mains levées pour répondre.
-          C'est une bonne façon de commencer une réunion et cela permet de se
-          concentrer sur ce qui est positif avant d'aborder ce qui pourrait
-          être amélioré. Si vous le souhaitez, vous pouvez noter les
-          gratitudes de chacun.</para>
+          fonctionne bien ? » puis en utilisant les mains levées pour
+          répondre. C'est une bonne façon de commencer une réunion et cela
+          permet de se concentrer sur ce qui est positif avant d'aborder ce
+          qui pourrait être amélioré. Si vous le souhaitez, vous pouvez noter
+          les gratitudes de chacun.</para>
         </section>
 
         <section>
@@ -2935,8 +3118,9 @@
           Quelles idées avez-vous pour de nouveaux projets ? Quels problèmes
           voyez-vous qui doivent être résolus ? Je vous recommande d'utiliser
           la <remark>TODO: add reference || fiche de travail Changement (page
-          )</remark> avant la réunion pour rassembler des idées, puis de les
-          annoncer lors de la réunion.</para>
+          )</remark><xref linkend="fdt-Changement"
+          xrefstyle="select: title page"/> avant la réunion pour rassembler
+          des idées, puis de les annoncer lors de la réunion.</para>
         </section>
 
         <section>
@@ -2945,7 +3129,7 @@
 
           <para>L'objectif des changements est de mieux répondre aux besoins
           des individus. Définir les besoins vous donne un moyen d'évaluer les
-          propositions en vous demandant : « Ce besoin est-il satisfait ? »
+          propositions en vous demandant : « Ce besoin est-il satisfait ? ».
           L'idée des besoins peut être trop abstraite pour les enfants de 10
           ans et moins, ils peuvent donc avoir besoin d'aide pour identifier
           les besoins. Je vous recommande de le faire vous-même, soit avant la
@@ -2959,7 +3143,11 @@
 
           <informaltable frame="all">
             <tgroup cols="2">
-              <thead>
+              <colspec colwidth="2*"/>
+
+              <colspec colwidth="3*"/>
+
+              <thead valign="top">
                 <row>
                   <entry><para>Exemple d'un besoin</para></entry>
 
@@ -2968,7 +3156,7 @@
                 </row>
               </thead>
 
-              <tbody>
+              <tbody valign="top">
                 <row>
                   <entry><para>Connexion</para></entry>
 
@@ -3070,7 +3258,7 @@
           travaillerez en groupe pendant 7 à 10 minutes.</title>
 
           <para>Quel est le problème ? Comment pouvons-nous le résoudre ?
-          Posez ces questions en tours de cercle et dressez une liste d'idées
+          Posez ces questions en tours de parole et dressez une liste d'idées
           de solutions. S'il y a plus de 10 enfants présents ou si vous
           discutez de plusieurs problèmes, il est utile de se séparer en
           petits groupes. À l'étape 4, ces groupes élaboreront chacun leur
@@ -3100,7 +3288,9 @@
           reportez-les également à une réunion ultérieure. Si la question est
           particulièrement complexe, vous devrez peut-être utiliser le
           processus décrit dans <remark>TODO: add reference || Réunion 7 :
-          Propositions complexes (page )</remark>.</para>
+          Propositions complexes (page )</remark><xref
+          linkend="Propositions_complexes"
+          xrefstyle="select: title page"/>.</para>
 
           <para>Conseils pour synthétiser une proposition :</para>
 
@@ -3113,7 +3303,7 @@
             <listitem>
               <para>Rassemblez ce qui a été dit en une seule proposition.
               Essayez de n'omettre aucune idée. Demandez au groupe : « Ai-je
-              bien compris tout ce que vous avez dit ? »</para>
+              bien compris tout ce que vous avez dit ? ».</para>
             </listitem>
 
             <listitem>
@@ -3132,8 +3322,10 @@
           </itemizedlist>
 
           <para>Vous pouvez apporter la <remark>TODO: add reference || Fiche
-          Synthèse des propositions (page )</remark> à la réunion pour vous
-          aider à synthétiser une proposition.</para>
+          Synthèse des propositions (page )</remark><xref
+          linkend="fam-Synthèse_de_proposition"
+          xrefstyle="select: title page"/> à la réunion pour vous aider à
+          synthétiser une proposition.</para>
         </section>
 
         <section>
@@ -3142,16 +3334,17 @@
           <para>Demandez le consentement à la proposition à pouce en
           haut/latéralement/en bas. S'il y a des objections, consultez la
           <remark>TODO: add reference || fiche Résoudre les objections (page
-          )</remark> pour vous aider à obtenir le consentement. Recueillez les
-          préoccupations et les questions pour évaluer les propositions, puis
-          inscrivez-les sur une note autocollante dans la colonne Questions
-          pour y revenir lors du prochain checkin (étape 6). Une fois le
-          consentement obtenu, n'oubliez pas de célébrer votre décision
-          !</para>
+          )</remark><xref linkend="fam-lever_des_objections"
+          xrefstyle="select: title page"/> pour vous aider à obtenir le
+          consentement. Recueillez les préoccupations et les questions pour
+          évaluer les propositions, puis inscrivez-les sur une note
+          autocollante dans la colonne Questions pour y revenir lors de la
+          prochaine vérification (étape 6). Une fois le consentement obtenu,
+          n'oubliez pas de célébrer votre décision !</para>
         </section>
 
         <section>
-          <title>Étape 6 : Check-in prochaine fois</title>
+          <title>Étape 6 : Vérification pour la prochaine fois</title>
 
           <para>Essayez les propositions jusqu'à la prochaine réunion. Après
           votre première réunion, vous ferez le point sur les propositions
@@ -3178,7 +3371,7 @@
           vers le bas), répétez le processus de changement pour ce qui se
           passe actuellement.</para>
 
-          <para>Une fois qu'une proposition a passé deux check-ins sans
+          <para>Une fois qu'une proposition a passé deux vérifications sans
           objection, elle peut être intégrée à la liste officielle des accords
           de groupe, idéalement affichée à un endroit où tout le monde peut la
           voir, comme une affiche dans une zone commune.</para>
@@ -3189,88 +3382,193 @@
         <title>Transcription d'une réunion pour changer le fonctionnement des
         choses</title>
 
-        <para>Facilitateur : « Bienvenue à la réunion de changement.
-        Aujourd'hui, nous allons parler du problème de la course à
-        l'intérieur. Quels sont les besoins des gens liés à la course à
-        l'intérieur ? »</para>
+        <informaltable colsep="0" frame="none" rowheader="firstcol" rowsep="0">
+          <tgroup cols="2">
+            <colspec align="right" colwidth="1*"/>
 
-        <para>Enfant 1 : « J'ai peur des gens qui courent vite. »</para>
+            <colspec colwidth="4*"/>
 
-        <para>Enfant 2 : « Il y a trop de bruit ! »</para>
+            <tbody valign="top">
+              <row>
+                <entry>Facilitateur : </entry>
 
-        <para>Enfant 3 : « J'aime courir très vite ! C'est amusant. »</para>
+                <entry><para>« Bienvenue à la réunion de changement.
+                Aujourd'hui, nous allons parler du problème de la course à
+                l'intérieur. Quels sont les besoins des gens liés à la course
+                à l'intérieur ? »</para></entry>
+              </row>
 
-        <para>Facilitateur : « On dirait qu'on a besoin de calme, de mouvement
-        et de sécurité. Est-ce que ça correspond à ce dont vous avez besoin ?
-        Pouces en haut/en bas/de côté ? »</para>
+              <row>
+                <entry>Enfant 1 : </entry>
 
-        <para>Des enfants : <emphasis>(pouce en l'air)</emphasis></para>
+                <entry><para>« J'ai peur des gens qui courent
+                vite. »</para></entry>
+              </row>
 
-        <para>Réunion 5 : Changement d'orientation 54</para>
+              <row>
+                <entry>Enfant 2 : </entry>
 
-        <para>Facilitateur : « Quelles idées avez-vous pour résoudre ce
-        problème ? »</para>
+                <entry><para>« Il y a trop de bruit ! »</para></entry>
+              </row>
 
-        <para>Enfant 1 : « On devrait courir plus lentement. »</para>
+              <row>
+                <entry>Enfant 3 : </entry>
 
-        <para>Enfant 2 : « Nous devrions courir dehors. »</para>
+                <entry><para>« J'aime courir très vite ! C'est
+                amusant. »</para></entry>
+              </row>
 
-        <para>Enfant 3 : « Nous pouvons être prudents et courir à
-        l'intérieur. »</para>
+              <row>
+                <entry>Facilitateur : </entry>
 
-        <para>Facilitateur : « Je propose une nouvelle règle : on ne peut
-        courir que dehors. Pouces en l'air, en bas, sur le côté ? »</para>
+                <entry><para>« On dirait qu'on a besoin de calme, de mouvement
+                et de sécurité. Est-ce que ça correspond à ce dont vous avez
+                besoin ? Pouces en haut/en bas/de côté ? »</para></entry>
+              </row>
 
-        <para>Enfant 1 : <emphasis>(pouces vers le bas)</emphasis></para>
+              <row>
+                <entry>Des enfants : </entry>
 
-        <para>Enfant 2 : <emphasis>(pouce en l'air)</emphasis></para>
+                <entry><para><emphasis>(pouce en
+                l'air)</emphasis></para></entry>
+              </row>
 
-        <para>Enfant 3 : <emphasis>(pouces vers le bas)</emphasis></para>
+              <row>
+                <entry>Facilitateur : </entry>
 
-        <para>Facilitateur : « Quelle est votre objection, Enfant 1 ? »</para>
+                <entry><para>« Quelles idées avez-vous pour résoudre ce
+                problème ? »</para></entry>
+              </row>
 
-        <para>Enfant 1 : « Je pensais qu'on était censé pouvoir changer les
-        règles. Ce n'est pas juste. Je pense qu'on devrait pouvoir courir à
-        l'intérieur, mais pas si vite. »</para>
+              <row>
+                <entry>Enfant 1 : </entry>
 
-        <para>Enfant 3 : « Je veux courir à l'intérieur aussi. »</para>
+                <entry><para>« On devrait courir plus
+                lentement. »</para></entry>
+              </row>
 
-        <para>Facilitateur : « Je m'oppose à cette idée pour des raisons de
-        sécurité. J'ai peur que des gens se blessent. De plus, personne ne
-        semble être capable de ralentir s'il joue à la
-        course-poursuite. »</para>
+              <row>
+                <entry>Enfant 2 : </entry>
 
-        <para>Enfant 1 : « Et si on disait pas de jeux de poursuite à
-        l'intérieur ? Peut-on l'essayer pendant une journée et vérifier demain
-        si des gens ont été blessés ? »</para>
+                <entry><para>« Nous devrions courir dehors. »</para></entry>
+              </row>
 
-        <para>Facilitateur : « Je suppose que je pourrais y consentir pour une
-        journée. Je propose que l'on puisse courir tant que l'on fait
-        attention, mais toujours pas de jeux de poursuite à l'intérieur.
-        Pouces en haut/en bas/de côté ? »</para>
+              <row>
+                <entry>Enfant 3 : </entry>
 
-        <para>55 Décidons ensemble : Pratiquer la sociocratie avec les
-        enfants</para>
+                <entry><para>« Nous pouvons être prudents et courir à
+                l'intérieur. »</para></entry>
+              </row>
 
-        <para>Des enfants : <emphasis>(pouce en l'air)</emphasis></para>
+              <row>
+                <entry>Facilitateur : </entry>
 
-        <para>Facilitateur : « Yay, nous avons pris une décision ! Nous allons
-        essayer cela pendant une journée et demain nous vérifierons si cela
-        fonctionne en demandant à tout le monde : Vous sentez-vous en sécurité
-        ? Avez-vous le sentiment d’obtenir la liberté dont vous avez besoin
-        ? »</para>
+                <entry><para>« Je propose une nouvelle règle : on ne peut
+                courir que dehors. Pouces en l'air, en bas, sur le côté
+                ? »</para></entry>
+              </row>
+
+              <row>
+                <entry>Enfant 1 : </entry>
+
+                <entry><para><emphasis>(pouces vers le
+                bas)</emphasis></para></entry>
+              </row>
+
+              <row>
+                <entry>Enfant 2 : </entry>
+
+                <entry><para><emphasis>(pouce en
+                l'air)</emphasis></para></entry>
+              </row>
+
+              <row>
+                <entry>Enfant 3 : </entry>
+
+                <entry><para><emphasis>(pouces vers le
+                bas)</emphasis></para></entry>
+              </row>
+
+              <row>
+                <entry>Facilitateur : </entry>
+
+                <entry><para>« Quelle est votre objection, Enfant 1
+                ? »</para></entry>
+              </row>
+
+              <row>
+                <entry>Enfant 1 : </entry>
+
+                <entry><para>« Je pensais qu'on était censé pouvoir changer
+                les règles. Ce n'est pas juste. Je pense qu'on devrait pouvoir
+                courir à l'intérieur, mais pas si vite. »</para></entry>
+              </row>
+
+              <row>
+                <entry>Enfant 3 : </entry>
+
+                <entry><para>« Je veux courir à l'intérieur
+                aussi. »</para></entry>
+              </row>
+
+              <row>
+                <entry>Facilitateur : </entry>
+
+                <entry><para>« Je m'oppose à cette idée pour des raisons de
+                sécurité. J'ai peur que des gens se blessent. De plus,
+                personne ne semble être capable de ralentir s'il joue à la
+                course-poursuite. »</para></entry>
+              </row>
+
+              <row>
+                <entry>Enfant 1 : </entry>
+
+                <entry><para>« Et si on disait pas de jeux de poursuite à
+                l'intérieur ? Peut-on l'essayer pendant une journée et
+                vérifier demain si des gens ont été blessés ? »</para></entry>
+              </row>
+
+              <row>
+                <entry>Facilitateur : </entry>
+
+                <entry><para>« Je suppose que je pourrais y consentir pour une
+                journée. Je propose que l'on puisse courir tant que l'on fait
+                attention, mais toujours pas de jeux de poursuite à
+                l'intérieur. Pouces en haut/en bas/de côté ? »</para></entry>
+              </row>
+
+              <row>
+                <entry>Des enfants : </entry>
+
+                <entry><para><emphasis>(pouce en
+                l'air)</emphasis></para></entry>
+              </row>
+
+              <row>
+                <entry>Facilitateur : </entry>
+
+                <entry><para>« Yay, nous avons pris une décision ! Nous allons
+                essayer cela pendant une journée et demain nous vérifierons si
+                cela fonctionne en demandant à tout le monde : Vous
+                sentez-vous en sécurité ? Avez-vous le sentiment d’obtenir la
+                liberté dont vous avez besoin ? »</para></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
 
         <section>
           <title>Tableau des changements décidés pendant cette réunion</title>
 
-          <para>Voici un exemple concret tiré de Pathfinder. À la grande
-          surprise des adultes, les enfants ont pu courir à l'intérieur sans
-          que personne ne soit blessé pendant toute la durée du programme
-          jusqu'à présent.</para>
+          <para>Voici un exemple concret tiré de
+          <foreignphrase>Pathfinder</foreignphrase>. À la grande surprise des
+          adultes, les enfants ont pu courir à l'intérieur sans que personne
+          ne soit blessé pendant toute la durée du programme jusqu'à
+          présent.</para>
 
           <informaltable frame="all">
             <tgroup cols="4">
-              <thead>
+              <thead valign="top">
                 <row>
                   <entry><para>Qu’est-ce qui se passe</para></entry>
 
@@ -3282,14 +3580,14 @@
                 </row>
               </thead>
 
-              <tbody>
+              <tbody valign="top">
                 <row>
                   <entry><para>Les gens courent à l’intérieur et jouent à la
                   course-poursuite</para></entry>
 
                   <entry><para>Sécurité et mouvement</para></entry>
 
-                  <entry><para>Essayer de courir avecprudence à l’intérieur.
+                  <entry><para>Essayer de courir avec prudence à l’intérieur.
                   Pas de courses-poursuites.</para></entry>
 
                   <entry><para>Est-ce que tout le monde se sent en sécurité ?
@@ -3307,7 +3605,7 @@
 
         <informaltable frame="all">
           <tgroup cols="4">
-            <thead>
+            <thead valign="top">
               <row>
                 <entry><para>Qu’est-ce qui se passe</para></entry>
 
@@ -3319,7 +3617,7 @@
               </row>
             </thead>
 
-            <tbody>
+            <tbody valign="top">
               <row>
                 <entry><para>Les gens laissent de la nourriture dans leurs
                 cases.</para></entry>
@@ -3340,7 +3638,7 @@
 
         <informaltable frame="all">
           <tgroup cols="4">
-            <thead>
+            <thead valign="top">
               <row>
                 <entry><para>Qu’est-ce qui se passe</para></entry>
 
@@ -3352,10 +3650,10 @@
               </row>
             </thead>
 
-            <tbody>
+            <tbody valign="top">
               <row>
                 <entry><para>Les garçons enlèvent leurs T-shirts dans
-                l’arroseur. Les files n’ont pas le droit d’enlever leur
+                l’arroseur. Les filles n’ont pas le droit d’enlever leur
                 T-shirt.</para></entry>
 
                 <entry><para>Justice</para></entry>
@@ -3371,7 +3669,7 @@
 
         <informaltable frame="all">
           <tgroup cols="4">
-            <thead>
+            <thead valign="top">
               <row>
                 <entry><para>Qu’est-ce qui se passe</para></entry>
 
@@ -3383,19 +3681,19 @@
               </row>
             </thead>
 
-            <tbody>
+            <tbody valign="top">
               <row>
                 <entry><para>La vaisselle sale s’accumule dans le
                 lavabo.</para></entry>
 
-                <entry><para>Propreté et pouvoir utiliser l’espace que
+                <entry><para>Propreté et pouvoir utiliser l’espace
                 commun.</para></entry>
 
                 <entry>Tout le monde doit faire sa vaisselle
                 immédiatement.</entry>
 
-                <entry>Est-ce que la vaisselle s’accumule ? Est-ce le lavabo
-                est propre ?</entry>
+                <entry>Est-ce que la vaisselle s’accumule ? Est-ce que le
+                lavabo est propre ?</entry>
               </row>
             </tbody>
           </tgroup>
@@ -3414,7 +3712,7 @@
 
         <informaltable frame="all">
           <tgroup cols="6">
-            <thead>
+            <thead valign="top">
               <row>
                 <entry><para>Qu’est-ce qui se passe</para></entry>
 
@@ -3430,18 +3728,18 @@
               </row>
             </thead>
 
-            <tbody>
+            <tbody valign="top">
               <row>
                 <entry><para>Les gens laissent de la peinture sur les
                 pinceaux.</para></entry>
 
-                <entry><para>Tout le monde doit être pinceaux en mesure
-                d’utiliser les matériaux d’art communs.</para></entry>
+                <entry><para>Tout le monde doit être en mesure d’utiliser les
+                matériaux d’art communs.</para></entry>
 
                 <entry>Si tu veux utiliser les pinceaux, tu dois être
                 formé.</entry>
 
-                <entry>Est-ce que les restent propres ?</entry>
+                <entry>Est-ce que les pinceaux restent propres ?</entry>
 
                 <entry/>
 
@@ -3452,13 +3750,12 @@
         </informaltable>
 
         <para>Le tableau de changement ci-dessous concerne le domaine des
-        jouets partagés. La proposition est passée à l'étape de
-        l'enregistrement 1 parce qu'elle a été fructueuse pendant une
-        semaine.</para>
+        jouets partagés. La proposition est passée à l'étape de « Vérification
+        1 » parce qu'elle a été fructueuse pendant une semaine.</para>
 
         <informaltable frame="all">
           <tgroup cols="6">
-            <thead>
+            <thead valign="top">
               <row>
                 <entry><para>Qu’est-ce qui se passe</para></entry>
 
@@ -3474,19 +3771,24 @@
               </row>
             </thead>
 
-            <tbody>
+            <tbody valign="top">
               <row>
-                <entry><para>Les projets de Lego sont détruits.</para></entry>
+                <entry><para>Les projets de
+                <foreignphrase>Lego</foreignphrase> sont
+                détruits.</para></entry>
 
-                <entry><para>Partager nos briques légos. Respecter les projets
-                des autres.</para></entry>
+                <entry><para>Partager nos briques
+                <foreignphrase>Lego</foreignphrase>. Respecter les projets des
+                autres.</para></entry>
 
                 <entry/>
 
-                <entry>Est-ce que nous partageons les legos ? Est-ce que les
-                projets de légos sont respectés ?</entry>
+                <entry>Est-ce que nous partageons les briques ? Est-ce que les
+                projets de <foreignphrase>Lego</foreignphrase> sont
+                respectés ?</entry>
 
-                <entry>Mettre les projets de légos dans des caisses. Les
+                <entry>Mettre les projets de
+                <foreignphrase>Lego</foreignphrase> dans des caisses. Les
                 défaire chaque mois.</entry>
 
                 <entry/>
@@ -3503,7 +3805,7 @@
 
         <informaltable frame="all">
           <tgroup cols="6">
-            <thead>
+            <thead valign="top">
               <row>
                 <entry><para>Qu’est-ce qui se passe</para></entry>
 
@@ -3519,12 +3821,12 @@
               </row>
             </thead>
 
-            <tbody>
+            <tbody valign="top">
               <row>
                 <entry>La table et les surfaces de la cuisine sont
                 sales.</entry>
 
-                <entry>Un environnement partagé utilisable et propre</entry>
+                <entry>Un environnement partagé utilisable et propre.</entry>
 
                 <entry/>
 
@@ -3533,7 +3835,7 @@
 
                 <entry/>
 
-                <entry>Ajouter « Nettoyer la tables et les surfaces » à la
+                <entry>Ajouter « Nettoyer les tables et les surfaces » à la
                 liste des tâches.</entry>
               </row>
             </tbody>
@@ -3553,24 +3855,26 @@
           <listitem>
             <para>Sur une affiche, un tableau blanc ou un projecteur, créez un
             tableau avec les colonnes ci-dessus : <emphasis>Ce qui se passe,
-            Besoins, Ce qu’on essaie, Questions <remark>TODO: ask about
-            translation of "checkin" here: </remark>checkin, Checkin 1 et
-            Checkin 2</emphasis>. Voir le modèle de <remark>TODO: add
-            reference || tableau de changement (page )</remark> pour un
-            exemple.</para>
+            Besoins, Ce qu’on essaie, </emphasis>Questions de vérification,
+            Vérification 1 et Vérification 2. Voir le modèle de <remark>TODO:
+            add reference || tableau de changement (page )</remark><xref
+            linkend="Tableau_du_changement" xrefstyle="select: title page"/>
+            pour un exemple.</para>
           </listitem>
 
           <listitem>
             <para>Si vous avez du temps avant la réunion ou si vous êtes dans
             un contexte de classe, vous pouvez distribuer la <remark>TODO: add
-            reference || fiche de travail sur les changements (page )</remark>
-            pour recueillir des idées à l'avance. Vous pouvez transformer les
-            idées en notes autocollantes et regrouper les idées similaires.
-            Vous pouvez également prendre des notes sur les idées, les
-            problèmes et les opportunités en dehors des réunions, au fur et à
-            mesure des conversations, puis apporter ces notes à la réunion de
-            changement. N'oubliez pas que vous, en tant qu'adulte, pouvez
-            également présenter des problèmes et des idées au groupe.</para>
+            reference || fiche de travail sur les changements (page
+            )</remark><xref linkend="fdt-Changement"
+            xrefstyle="select: title page"/> pour recueillir des idées à
+            l'avance. Vous pouvez transformer les idées en notes autocollantes
+            et regrouper les idées similaires. Vous pouvez également prendre
+            des notes sur les idées, les problèmes et les opportunités en
+            dehors des réunions, au fur et à mesure des conversations, puis
+            apporter ces notes à la réunion de changement. N'oubliez pas que
+            vous, en tant qu'adulte, pouvez également présenter des problèmes
+            et des idées au groupe.</para>
           </listitem>
         </itemizedlist>
 
@@ -3581,7 +3885,7 @@
           xmlns:xlink="http://www.w3.org/1999/xlink">https://sociocracyforall.org/lets-decide-together-2021</uri></para>
         </note>
 
-        <figure dbf:role="script"
+        <figure xml:id="odj-Changement" dbf:role="script"
                 xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
           <title>Ordre du jour Réunion 5: Changement</title>
 
@@ -3594,7 +3898,7 @@
             </listitem>
 
             <listitem>
-              <para>Tour d’accueil - check-in</para>
+              <para>Tour d'ouverture - check-in</para>
 
               <para>Comment vas-tu aujourd’hui ?</para>
             </listitem>
@@ -3675,17 +3979,17 @@
           </orderedlist>
         </figure>
 
-        <figure dbf:role="worksheet"
+        <figure xml:id="fdt-Changement" dbf:role="worksheet"
                 xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
-          <title>Fiche de travail Propositions rapides</title>
+          <title>Fiche de travail Changement</title>
 
           <itemizedlist>
-            <listitem dbf:input="short">
-              <para>Nom</para>
+            <listitem>
+              <para dbf:input="short">Nom</para>
             </listitem>
 
-            <listitem dbf:input="short">
-              <para>Date</para>
+            <listitem>
+              <para dbf:input="short">Date</para>
             </listitem>
 
             <listitem>
@@ -3709,11 +4013,11 @@
           </itemizedlist>
         </figure>
 
-        <table role="template">
+        <table role="template" xml:id="Tableau_du_changement">
           <title>Tableau du changement</title>
 
           <tgroup cols="6">
-            <thead>
+            <thead valign="top">
               <row>
                 <entry><para>Qu’est-ce qui se passe</para></entry>
 
@@ -3729,7 +4033,7 @@
               </row>
             </thead>
 
-            <tbody>
+            <tbody valign="top">
               <row>
                 <entry/>
 
@@ -3777,7 +4081,7 @@
 
       <informaltable frame="all">
         <tgroup cols="2">
-          <thead>
+          <thead valign="top">
             <row>
               <entry><para>Sélections sociocratiques basées sur le
               consentement</para></entry>
@@ -3786,11 +4090,11 @@
             </row>
           </thead>
 
-          <tbody>
+          <tbody valign="top">
             <row>
               <entry><para>Les rôles sont définis dans le cadre du processus
               de sélection. Chacun a la possibilité de donner son avis sur le
-              rôle et les qualifications nécessaires.</para></entry>
+              rôle et les critères de choix nécessaires.</para></entry>
 
               <entry><para>Les rôles sont généralement définis du haut vers le
               bas par les personnes au pouvoir, et non en communication avec
@@ -3868,8 +4172,14 @@
       souvent les responsabilités qu'ils assument et se sentent valorisés par
       le fait d'être choisis par leurs pairs.</para>
 
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="illustrations/dance-bw.jpg" width="100%"/>
+        </imageobject>
+      </mediaobject>
+
       <section>
-        <title>Rôles que les enfants de peuvent remplir</title>
+        <title>Rôles que les enfants peuvent remplir</title>
 
         <para>Voici des rôles importants que les enfants peuvent assumer
         pendant les réunions, même s'ils doivent d'abord être modélisés
@@ -3877,7 +4187,13 @@
 
         <informaltable frame="all">
           <tgroup cols="3">
-            <thead>
+            <colspec colwidth="2*"/>
+
+            <colspec colwidth="5*"/>
+
+            <colspec colwidth="1*"/>
+
+            <thead valign="top">
               <row>
                 <entry><para>Rôles des réunions</para></entry>
 
@@ -3887,13 +4203,13 @@
               </row>
             </thead>
 
-            <tbody>
+            <tbody valign="top">
               <row>
                 <entry><para>Leader</para></entry>
 
                 <entry><itemizedlist>
                     <listitem>
-                      <para>Veiller à ce que le cercle soit en phase avec ses
+                      <para>Veiller à ce que le cercle soit aligné avec ses
                       buts.</para>
                     </listitem>
 
@@ -3989,7 +4305,11 @@
 
           <informaltable frame="all">
             <tgroup cols="2">
-              <thead>
+              <colspec colwidth="2*"/>
+
+              <colspec colwidth="3*"/>
+
+              <thead valign="top">
                 <row>
                   <entry><para>Rôles en dehors des réunions</para></entry>
 
@@ -3997,7 +4317,7 @@
                 </row>
               </thead>
 
-              <tbody>
+              <tbody valign="top">
                 <row>
                   <entry><para>Vérificateur de tâches</para></entry>
 
@@ -4041,20 +4361,21 @@
           <listitem>
             <para><emphasis role="strong">Décrivez le rôle</emphasis> :
             Définissez la fin de mandat et les responsabilités du rôle avant
-            la réunion. Une description rapide suffit. Utilisez le modèle de
-            sélection des rôles (page ).</para>
+            la réunion. Une description rapide suffit. Utilisez le
+            <remark>TODO: add reference || le modèle de sélection des rôles
+            (page )</remark><xref linkend="Modèle_de_sélection_un_rôle"
+            xrefstyle="select: title page"/>.</para>
           </listitem>
 
           <listitem>
-            <para><emphasis role="strong">Le tour des
-            qualifications</emphasis> : Quelles sont les qualités que doit
-            posséder la personne qui occupera ce rôle ? Faites une
-            liste.</para>
+            <para><emphasis role="strong">Le tour des critères de
+            choix</emphasis> : Quelles sont les qualités que doit posséder la
+            personne qui occupera ce rôle ? Faites une liste.</para>
           </listitem>
 
           <listitem>
-            <para><emphasis role="strong">Consentement aux
-            qualifications</emphasis> : Cette liste est-elle complète ?</para>
+            <para><emphasis role="strong">Consentement aux critères de
+            choix</emphasis> : Cette liste est-elle complète ?</para>
           </listitem>
 
           <listitem>
@@ -4088,81 +4409,165 @@
         changer d'avis et accepter le poste grâce à la confiance de ses pairs
         qui pensent qu'elle peut bien faire le travail.</para>
 
-        <para>Consultez <remark>TODO: add reference || l'aide-mémoire sur le
-        processus de sélection (page )</remark> pour vous guider dans le
-        processus de sélection des rôles en direct.</para>
+        <para>Consultez l'<remark>TODO: add reference || l'aide-mémoire sur le
+        processus de sélection (page )</remark><xref
+        linkend="fam-Processus_de_sélection" xrefstyle="select: title page"/>
+        pour vous guider dans le processus de sélection des rôles en
+        direct.</para>
       </section>
 
       <section>
         <title>Transcription d'un processus de sélection des rôles</title>
 
-        <para>Facilitateur : « Aujourd'hui, nous allons sélectionner le rôle
-        de vérificateur des tâches. Le vérificateur des tâches garde la trace
-        de ceux qui ont terminé leurs tâches de la journée en les cochant sur
-        le tableau des tâches. Le nouveau vérificateur des tâches fera ce
-        travail pendant deux semaines. A ton avis, qu'est-ce qui fait un bon
-        vérificateur des tâches ? »</para>
+        <informaltable colsep="0" frame="none" rowheader="firstcol" rowsep="0">
+          <tgroup cols="2">
+            <colspec align="right" colwidth="1*"/>
 
-        <para>Enfant 1 : « Ils m'aident avec mes corvées. »</para>
+            <colspec colwidth="4*"/>
 
-        <para>Enfant 2 : « Ils ne me bousculent pas. »</para>
+            <tbody valign="top">
+              <row>
+                <entry>Facilitateur : </entry>
 
-        <para>Enfant 3 : « Ils sont bons pour dire si une corvée est
-        faite. »</para>
+                <entry><para>« Aujourd'hui, nous allons sélectionner le rôle
+                de vérificateur des tâches. Le vérificateur des tâches garde
+                la trace de ceux qui ont terminé leurs tâches de la journée en
+                les cochant sur le tableau des tâches. Le nouveau vérificateur
+                des tâches fera ce travail pendant deux semaines. A ton avis,
+                qu'est-ce qui fait un bon vérificateur des tâches
+                ? »</para></entry>
+              </row>
 
-        <para>Facilitateur : « Est-ce que ça semble être une bonne liste ?
-        Pouces en haut/en bas/en travers ? »</para>
+              <row>
+                <entry>Enfant 1 : </entry>
 
-        <para>Des enfants : <emphasis>(pouce en l'air)</emphasis></para>
+                <entry><para>« Ils m'aident avec mes corvées. »</para></entry>
+              </row>
 
-        <para>Facilitateur : « Écris qui, selon toi, serait un bon
-        vérificateur des tâches et pourquoi. Ensuite, nous partagerons ce que
-        nous avons écrit dans un tour de parole. »</para>
+              <row>
+                <entry>Enfant 2 : </entry>
 
-        <para>Enfant 1 : « Je pense que je serais bon pour la vérification des
-        tâches, parce que je suis petit et que je vois très bien les
-        saletés. »</para>
+                <entry><para>« Ils ne me bousculent pas. »</para></entry>
+              </row>
 
-        <para>Enfant 2 : « Je pense que l'enfant 3 serait un bon vérificateur
-        des tâches parce qu'il a fait un bon travail la dernière fois et m'a
-        aidé avec mes corvées ».</para>
+              <row>
+                <entry>Enfant 3 : </entry>
 
-        <para>Enfant 3 : « Je pense que l'enfant 2 devrait être vérificateur
-        des tâches parce que ça leur donnerait une chance de l'essayer. Je
-        suis un peu fatigué de le faire. »</para>
+                <entry><para>« Ils sont bons pour dire si une corvée est
+                faite. »</para></entry>
+              </row>
 
-        <para>Facilitateur : « Après avoir entendu ce que les autres ont dit,
-        changez-vous votre nomination ? »</para>
+              <row>
+                <entry>Facilitateur : </entry>
 
-        <para>Enfant 1 : « Je veux toujours le faire. »</para>
+                <entry><para>« Est-ce que ça semble être une bonne liste ?
+                Pouces en haut/en bas/en travers ? »</para></entry>
+              </row>
 
-        <para>Enfant 2 : « Je pense que je pourrais faire un bon travail et
-        j'aimerais l'essayer. Je travaillerai dur pour aider les gens à faire
-        leurs corvées et aussi pour m'assurer que tout est propre. »</para>
+              <row>
+                <entry>Des enfants : </entry>
 
-        <para>Enfant 3 : « Je pense toujours que l'enfant 2 ferait un bon
-        travail. »</para>
+                <entry><para><emphasis>(pouce en
+                l'air)</emphasis></para></entry>
+              </row>
 
-        <para>Facilitateur : « Après avoir entendu ce que tout le monde a dit,
-        je désigne l'enfant 2 comme vérificateur des tâches pour les deux
-        prochaines semaines, avec l'enfant 1 comme remplaçant en cas d'absence
-        de l'enfant 2. Pouces en haut/en bas/de côté ? »</para>
+              <row>
+                <entry>Facilitateur : </entry>
 
-        <para>Des enfants : <emphasis>(pouce en l'air)</emphasis></para>
+                <entry><para>« Écris qui, selon toi, serait un bon
+                vérificateur des tâches et pourquoi. Ensuite, nous partagerons
+                ce que nous avons écrit dans un tour de
+                parole. »</para></entry>
+              </row>
+
+              <row>
+                <entry>Enfant 1 : </entry>
+
+                <entry><para>« Je pense que je serais bon pour la vérification
+                des tâches, parce que je suis petit et que je vois très bien
+                les saletés. »</para></entry>
+              </row>
+
+              <row>
+                <entry>Enfant 2 : </entry>
+
+                <entry><para>« Je pense que l'enfant 3 serait un bon
+                vérificateur des tâches parce qu'il a fait un bon travail la
+                dernière fois et m'a aidé avec mes corvées ».</para></entry>
+              </row>
+
+              <row>
+                <entry>Enfant 3 : </entry>
+
+                <entry><para>« Je pense que l'enfant 2 devrait être
+                vérificateur des tâches parce que ça leur donnerait une chance
+                de l'essayer. Je suis un peu fatigué de le
+                faire. »</para></entry>
+              </row>
+
+              <row>
+                <entry>Facilitateur : </entry>
+
+                <entry><para>« Après avoir entendu ce que les autres ont dit,
+                changez-vous votre nomination ? »</para></entry>
+              </row>
+
+              <row>
+                <entry>Enfant 1 : </entry>
+
+                <entry><para>« Je veux toujours le faire. »</para></entry>
+              </row>
+
+              <row>
+                <entry>Enfant 2 : </entry>
+
+                <entry><para>« Je pense que je pourrais faire un bon travail
+                et j'aimerais l'essayer. Je travaillerai dur pour aider les
+                gens à faire leurs corvées et aussi pour m'assurer que tout
+                est propre. »</para></entry>
+              </row>
+
+              <row>
+                <entry>Enfant 3 : </entry>
+
+                <entry><para>« Je pense toujours que l'enfant 2 ferait un bon
+                travail. »</para></entry>
+              </row>
+
+              <row>
+                <entry>Facilitateur : </entry>
+
+                <entry><para>« Après avoir entendu ce que tout le monde a dit,
+                je désigne l'enfant 2 comme vérificateur des tâches pour les
+                deux prochaines semaines, avec l'enfant 1 comme remplaçant en
+                cas d'absence de l'enfant 2. Pouces en haut/en bas/de côté
+                ? »</para></entry>
+              </row>
+
+              <row>
+                <entry>Des enfants : </entry>
+
+                <entry><para><emphasis>(pouce en
+                l'air)</emphasis></para></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
       </section>
 
       <section>
-        <title>Lever les objections</title>
+        <title>Intégration des objections</title>
 
         <para>Cherchez à comprendre une objection. Demandez à la personne qui
         s’objecte de vous en dire plus sur son objection.</para>
 
-        <para>Une objection peut souvent être résolue avec <remark>TODO:
-        different acronym in French: </remark>ACT. La façon la plus courante
-        de résoudre une objection concernant le rôle est de raccourcir la
-        durée du poste, jusqu'à ce que tout le monde s'y sente suffisamment à
-        l'aise. Référez-vous à <remark>TODO: add reference || la fiche
-        Résoudre les objections (page )</remark> pour plus de soutien.</para>
+        <para>Une objection peut souvent être résolue avec APE. La façon la
+        plus courante de résoudre une objection concernant le rôle est de
+        raccourcir la durée du poste, jusqu'à ce que tout le monde s'y sente
+        suffisamment à l'aise. Référez-vous à la <remark>TODO: add reference
+        || la fiche Résoudre les objections (page )</remark><xref
+        linkend="fam-lever_des_objections" xrefstyle="select: title page"/>
+        pour plus de soutien.</para>
       </section>
 
       <section>
@@ -4175,9 +4580,9 @@
         <orderedlist>
           <listitem>
             <para>Le facilitateur présente le rôle [<replaceable>NOM DU
-            RÔLE</replaceable> (ex: secrétaire)] et demande les qualifications
-            (mains levées, plutôt qu'un tour de parole). « Qu'est-ce qui fait
-            un bon [<replaceable>NOM DU RÔLE</replaceable>] ? »</para>
+            RÔLE</replaceable> (ex: secrétaire)] et demande les critères de
+            choix (mains levées, plutôt qu'un tour de parole). « Qu'est-ce qui
+            fait un bon [<replaceable>NOM DU RÔLE</replaceable>] ? »</para>
           </listitem>
 
           <listitem>
@@ -4207,8 +4612,10 @@
 
           <listitem>
             <para>Imprimez des copies du <remark>TODO: add reference || modèle
-            de fiche de nomination (page )</remark> et découpez-les (si le
-            groupe sait lire et écrire).</para>
+            de fiche de nomination (page )</remark><xref
+            linkend="Modèle_des_fiches_de_nomination"
+            xrefstyle="select: title page"/> et découpez-les (si le groupe
+            sait lire et écrire).</para>
           </listitem>
         </itemizedlist>
 
@@ -4219,7 +4626,7 @@
           xmlns:xlink="http://www.w3.org/1999/xlink">https://sociocracyforall.org/lets-decide-together-2021</uri></para>
         </note>
 
-        <figure dbf:role="script"
+        <figure xml:id="odj-Qui_fera_quoi" dbf:role="script"
                 xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
           <title>Ordre du jour Réunion 6: Qui fera quoi ?</title>
 
@@ -4232,7 +4639,7 @@
             </listitem>
 
             <listitem>
-              <para>Tour d’accueil - check-in</para>
+              <para>Tour d'ouverture - check-in</para>
 
               <para>Comment vas-tu aujourd’hui ?</para>
             </listitem>
@@ -4264,7 +4671,7 @@
             </listitem>
 
             <listitem>
-              <para>Tour de collection des qualifications</para>
+              <para>Tour de collection des critères de choix</para>
 
               <para>Qu’est-ce qui fait un bon gardien du temps ?</para>
 
@@ -4272,10 +4679,10 @@
             </listitem>
 
             <listitem>
-              <para>Vérifier s’il y a consentement pour les
-              qualifications</para>
+              <para>Vérifier s’il y a consentement pour les critères de
+              choix</para>
 
-              <para>Lire à haute voix la liste des qualifications.</para>
+              <para>Lire à haute voix la liste des critères de choix.</para>
 
               <para>Est-ce que cette liste est complète ? Pouces en
               haut/latéralement/en bas.</para>
@@ -4313,7 +4720,7 @@
 
               <para>Est-ce que vous consentez à avoir [<replaceable>la
               personne proposée</replaceable>] comme gardien du temps pour
-              <replaceable dbf:shortfield="3ex"/> réunion ? Pouces en haut/en
+              <replaceable dbf:shortfield="3ex"/> réunions ? Pouces en haut/en
               bas/latéralement.</para>
             </listitem>
 
@@ -4331,7 +4738,7 @@
           </orderedlist>
         </informalfigure>
 
-        <figure dbf:role="worksheet"
+        <figure xml:id="Modèle_des_fiches_de_nomination" dbf:role="worksheet"
                 xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
           <title>Modèle des fiches de nomination</title>
 
@@ -4346,209 +4753,1767 @@
           </itemizedlist>
         </figure>
 
-        <figure dbf:role="worksheet"
+        <figure xml:id="Modèle_de_sélection_un_rôle" dbf:role="worksheet"
                 xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
-          <title>Fiche de travail Consentement &amp; objections</title>
+          <title>Modèle de sélection d’un rôle</title>
 
-          <itemizedlist>
-            <listitem dbf:input="short">
-              <para>Nom</para>
-            </listitem>
+          <para>Écrivez ceci où tout le monde peut le voir pendant le
+          processus de sélection.</para>
 
-            <listitem dbf:input="short">
-              <para>Date</para>
+          <orderedlist>
+            <listitem>
+              <para>Décrivez le rôle</para>
+
+              <para dbf:input="short">Titre</para>
+
+              <para dbf:input="short">Durée</para>
+
+              <para dbf:input="long">Responsabilités :</para>
             </listitem>
 
             <listitem>
-              <para>Instructions</para>
+              <para>Tour des critères de choix</para>
 
-              <para>Choisis un des exemples suivants:</para>
-
-              <itemizedlist>
-                <listitem>
-                  <para>Nourriture</para>
-                </listitem>
-
-                <listitem>
-                  <para>Film ou émission de télé</para>
-                </listitem>
-
-                <listitem>
-                  <para>Température intérieure</para>
-                </listitem>
-
-                <listitem>
-                  <para>Température extérieure</para>
-                </listitem>
-              </itemizedlist>
-
-              <para>Puis remplis le diagramme ci-dessous avec consentement (ce
-              que tu aimes, ce que tu trouves OK) et objections (ce qui n’est
-              ni assez bon pour maintenant, ni assez sûr pour essayer).</para>
+              <para>« Quelles sont les qualité d’un bon [<replaceable>titre du
+              rôle</replaceable>]? »</para>
             </listitem>
-          </itemizedlist>
 
-          <remark>TODO: add translated general consent venn diagram graphic
-          here</remark>
+            <listitem>
+              <para>Consentement aux critères de choix</para>
+
+              <para>« Est-ce que cette liste est complète? »</para>
+            </listitem>
+
+            <listitem>
+              <para>Tour des nominations avec les raisons</para>
+
+              <para>« Je nomme [<replaceable>personne</replaceable>], parce
+              que [<replaceable>raisons</replaceable>]. »</para>
+            </listitem>
+
+            <listitem>
+              <para>Changement des nominations (mains levées)</para>
+
+              <para>« Après avoir écouté les autres, avez-vous changé
+              d’avis? »</para>
+            </listitem>
+
+            <listitem>
+              <para>Proposition de quelqu’un pour le rôle par
+              consentement</para>
+
+              <para>« Je propose de sélectionner
+              [<replaceable>personne</replaceable>] pour le rôle. Pouces en
+              haut/en bas/latéralement. »</para>
+            </listitem>
+
+            <listitem>
+              <para>Célébrer la décision!</para>
+            </listitem>
+          </orderedlist>
         </figure>
       </section>
     </chapter>
 
-    <chapter>
-      <title>Meeting 7: Complex Proposals</title>
+    <chapter xml:id="Propositions_complexes">
+      <title>Réunion 7 : Propositions complexes</title>
+
+      <para>Les propositions formelles comportant de nombreux détails
+      nécessitent plus qu'un simple pouce en l'air/en bas/latéralement pour
+      obtenir le consentement. Pour qu'il y ait vraiment consentement, le
+      groupe doit comprendre pleinement la proposition, puis avoir la
+      possibilité d'apporter des améliorations et de donner son avis sous
+      forme de réactions et d'objections avant que la proposition puisse être
+      mise en œuvre.</para>
+
+      <para>J'ai rarement vu ce processus mis en pratique avec des enfants,
+      mais il peut être un outil puissant. Dans la plupart des situations, des
+      propositions rapides et des réunions de changement sont sufﬁsantes. Le
+      moment d'utiliser ce processus plus complexe est lorsque les gens ont
+      des sentiments très partagés sur un sujet, ou si c'est tout simplement
+      trop compliqué pour être résolu en une brève réunion. Chez
+      <foreignphrase>Pathﬁnder</foreignphrase>, nous n'avons eu besoin de ce
+      processus environ qu'une fois par an.</para>
+
+      <para>Voici quelques exemples concrets de décisions pour lesquelles j'ai
+      vu cette méthode utilisée:</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>Décider de la répartition des chambres dans une nouvelle
+          maison</para>
+        </listitem>
+
+        <listitem>
+          <para>Décider des règles d'utilisation des écrans et
+          d'internet</para>
+        </listitem>
+
+        <listitem>
+          <para>Décider des règles de la profanité et de la liberté
+          d'expression</para>
+        </listitem>
+      </itemizedlist>
 
       <section>
-        <title/>
+        <title>Étape 1 : Recueillez du feedback</title>
 
-        <para><?latex \the\paperheight
-?></para>
+        <para>Lorsqu'une situation difﬁcile se présente, la première étape
+        consiste à recueillir les rétroactions de toutes les personnes
+        concernées. Présentez le problème et demandez à chacun quelles idées
+        il a pour le résoudre.</para>
+      </section>
 
-        <figure dbf:role="script"
-                xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
-          <title>Meeting 7 agenda: Complex proposals</title>
+      <section>
+        <title>Étape 2 : Synthétisez une proposition</title>
+
+        <para>Tout comme pour les propositions sur les notes autocollantes,
+        vous voudrez synthétiser une proposition, peut-être en utilisant le
+        <remark>TODO: add reference || modèle de proposition complexe (page
+        )</remark><xref linkend="Modèle_Proposition_complexe"
+        xrefstyle="select: title page"/>. Cela peut se faire en dehors des
+        réunions. Pour un exemple de proposition complète que nous avons
+        travaillé à <foreignphrase>Pathﬁnder</foreignphrase>, voir
+        <remark>TODO: add reference || Exemple de processus de proposition
+        complexe (page )</remark><xref
+        linkend="Exemple_processus_de_proposition_complexe"
+        xrefstyle="select: title page"/>.</para>
+
+        <para>La ﬁche de travail présente des étapes plus complètes pour la
+        synthèse, mais en guise d'aperçu, vous :</para>
+
+        <orderedlist>
+          <listitem>
+            <para>Intégrez toutes les idées</para>
+          </listitem>
+
+          <listitem>
+            <para>Offrez des réponses à toutes les questions soulevées</para>
+          </listitem>
+
+          <listitem>
+            <para>Résolvez les préoccupations</para>
+          </listitem>
+        </orderedlist>
+
+        <para>Voir la <remark>TODO: add reference || l'aide-mémoire sur la
+        synthèse des propositions (page )</remark><xref
+        linkend="fam-Synthèse_de_proposition" xrefstyle="select: title page"/>
+        pour en savoir plus sur l'organisation des propositions. Vous pouvez
+        présenter toutes les idées, même celles qui se contredisent. Pendant
+        le processus d'objection, vous rayerez les idées auxquelles les gens
+        s'opposent ou qu'ils ne comprennent pas.</para>
+      </section>
+
+      <section>
+        <title>Étape 3 : Proposer une idée pour obtenir un
+        consentement</title>
+
+        <para>Lisez la proposition à haute voix.</para>
+
+        <orderedlist>
+          <listitem>
+            <para><emphasis role="bold">Questions de clariﬁcation</emphasis> :
+            Comprenez-vous la proposition ?</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Vous pouvez rassembler toutes les questions et y
+                répondre en une seule fois après le tour, ou vous pouvez y
+                répondre une à une comme elles émergent.</para>
+              </listitem>
+
+              <listitem>
+                <para>Continuez jusqu'à ce que tout le monde comprenne la
+                proposition.</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+
+          <listitem>
+            <para><emphasis role="bold">Réactions rapides</emphasis> :
+            Brièvement, que pensez-vous de la proposition ?</para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis role="bold">Vériﬁcation du consentement</emphasis>
+            : Est-ce assez bien pour l'instant et assez sûr pour essayer
+            ?</para>
+          </listitem>
+        </orderedlist>
+
+        <para>N'oubliez pas que vous pouvez utiliser la <remark>TODO: add
+        reference || l’aide-mémoire Résoudre les objections (page
+        )</remark><xref linkend="fam-lever_des_objections"
+        xrefstyle="select: title page"/> si vous avez besoin d'aide sur le
+        moment.</para>
+      </section>
+
+      <section>
+        <title>Étape 4 : Célébrer la décision</title>
+
+        <para>N'oubliez pas un moment de célébration, surtout pour une
+        proposition complexe qui prend plus de temps. Une simple acclamation
+        sufﬁt.</para>
+      </section>
+
+      <section xml:id="Exemple_processus_de_proposition_complexe">
+        <title>Exemple processus de proposition complexe</title>
+
+        <section>
+          <title>Idée initiale</title>
+
+          <para>Acheter un téléviseur dans le cadre du budget partagé.</para>
+        </section>
+
+        <section>
+          <title>Étape 1 : Recueillir du feedback</title>
+
+          <para>Avant de formuler la proposition, l'idée a été présentée au
+          groupe et les réactions ont été recueillies. Ce feedback a permis
+          d'étoffer la proposition en termes des besoins et des idées pour les
+          solutions.</para>
+
+          <para>Préoccupations issues des tours de rétroactions :</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Les gens ne feront rien d'autre que regarder la télévision
+              toute la journée.</para>
+            </listitem>
+
+            <listitem>
+              <para>La télévision sera trop bruyante et l'administrateur du
+              bureau voisin ne pourra pas travailler.</para>
+            </listitem>
+          </itemizedlist>
+
+          <para>Idées à prendre en compte à partir des tours de rétroactions
+          :</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Nous avons des enfants de 5 à 14 ans. Tout ce qui passe à
+              la télé devrait pouvoir être regardé par les plus jeunes.</para>
+            </listitem>
+
+            <listitem>
+              <para>Comment choisirons-nous ce que nous regarderons ?</para>
+            </listitem>
+
+            <listitem>
+              <para>Où et quand verrons-nous le ﬁlm ?</para>
+            </listitem>
+
+            <listitem>
+              <para>L’émission ou le ﬁlm coûteront-ils de l'argent ? Nous
+              voulons garder notre budget commun pour d'autres choses.</para>
+            </listitem>
+
+            <listitem>
+              <para>Nous avons déjà des ordinateurs portables et un projecteur
+              numérique que nous utilisons pour les journées portes
+              ouvertes.</para>
+            </listitem>
+
+            <listitem>
+              <para>Essayons de regarder un ﬁlm plutôt que des séries
+              télévisées en continu.</para>
+            </listitem>
+          </itemizedlist>
+        </section>
+
+        <section>
+          <title>Étape 2 : Synthèse d'une proposition</title>
+
+          <para>Cette proposition a été formulée par un petit groupe d'enfants
+          qui avaient des opinions bien arrêtées à ce sujet, plus un adulte
+          qui a facilité la réunion.</para>
+
+          <para>Étapes utilisées pour synthétiser l'exemple de proposition
+          :</para>
 
           <orderedlist>
             <listitem>
-              <para>Announce the meeting time</para>
-
-              <para>The meeting will be ____ minutes. (Set the timer.)</para>
+              <para>Intégrer toutes les idées : sur la tranche d'âge, les
+              économies et l'utilisation du projecteur.</para>
             </listitem>
 
             <listitem>
-              <para>Check-in round</para>
+              <para>Offrir des réponses aux questions qui sont soulevées
+              :</para>
 
-              <para>How are you doing today ?</para>
+              <itemizedlist>
+                <listitem>
+                  <para>Répondre à la question « Quelle classification le ﬁlm
+                  aura-t-il ? Comment choisirons-nous ce que nous allons
+                  regarder ? »</para>
+                </listitem>
+              </itemizedlist>
             </listitem>
 
             <listitem>
-              <para>Read the proposal</para>
-            </listitem>
+              <para>Résoudre les problèmes en :</para>
 
-            <listitem>
-              <para>Clarifying questions round</para>
+              <itemizedlist>
+                <listitem>
+                  <para>Durée : Faire en sorte que ce soit un durée très court
+                  d'un jour.</para>
+                </listitem>
 
-              <para>Do you have any questions about the proposal ?</para>
-
-              <para>(Write down questions, then answer all at once.)</para>
-            </listitem>
-
-            <listitem>
-              <para>Quick reactions round</para>
-
-              <para>What do you think of the proposal ?</para>
-            </listitem>
-
-            <listitem>
-              <para>Check for consent</para>
-
-              <para>Thumbs up/down/sideways.</para>
-            </listitem>
-
-            <listitem>
-              <para>Closing round</para>
-
-              <para>How did today’s meeting go ?</para>
+                <listitem>
+                  <para>Préoccupations : Intégration des préoccupations
+                  relatives à l'intensité sonore et à la question de savoir si
+                  les gens vont « simplement regarder la télévision toute la
+                  journée » dans les questions de mesure et la section sur les
+                  besoins.</para>
+                </listitem>
+              </itemizedlist>
             </listitem>
           </orderedlist>
-        </figure>
+        </section>
 
-        <figure dbf:role="worksheet"
-                xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
-          <title>Complex proposal worksheet</title>
+        <section>
+          <title>Proposition ﬁnalisée</title>
+
+          <section>
+            <title>Contexte</title>
+
+            <para>Que se passe-t-il pour que cette proposition soit nécessaire
+            ? Problème ou opportunité. L'idée d'acheter une télévision a été
+            évoquée lors d'une réunion budgétaire, mais certains membres de
+            <foreignphrase>Pathﬁnder</foreignphrase> ne veulent pas d'une
+            télévision permanente. Certains veulent regarder des ﬁlms ou des
+            émissions avec leurs amis.</para>
+          </section>
+
+          <section>
+            <title>Besoins</title>
+
+            <para>Quels sont les besoins du groupe concernant cette
+            proposition ?</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>S'amuser entre amis</para>
+              </listitem>
+
+              <listitem>
+                <para>La paix et la tranquillité</para>
+              </listitem>
+            </itemizedlist>
+          </section>
+
+          <section>
+            <title>Durée</title>
+
+            <para>Un jour</para>
+          </section>
+
+          <section>
+            <title>Proposition</title>
+
+            <para>Le Cercle des membres souhaite mettre à l'essai un ciné-club
+            à <foreignphrase>Pathﬁnder</foreignphrase> pour une heure
+            seulement aujourd'hui et voir comment cela se passe. La projection
+            du ﬁlm aura lieu de 12 h 30 à 14 h 30 dans la salle de conférence.
+            Le ciné-club se réunira après la réunion du matin pour choisir le
+            ﬁlm du jour par un processus de nomination et de sélection.</para>
+
+            <para>Le ﬁlm doit être :</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Classé PG ou G</para>
+              </listitem>
+
+              <listitem>
+                <para>Disponible en streaming sur <foreignphrase>Amazon
+                Prime</foreignphrase> ou
+                <foreignphrase>Netﬂix</foreignphrase>.</para>
+              </listitem>
+            </itemizedlist>
+
+            <para>L'administrateur du bureau peut contrôler le volume. Si le
+            volume est trop élevé, il peut demander au ciné-club d'arrêter le
+            ﬁlm. Si tout se passe bien aujourd'hui, nous pourrons réessayer le
+            ciné-club à l'avenir.</para>
+          </section>
+
+          <section>
+            <title>Questions pour l'évaluation</title>
+
+            <itemizedlist>
+              <listitem>
+                <para>Est-ce que le volume est trop fort ?</para>
+              </listitem>
+
+              <listitem>
+                <para>Est-ce que tout le monde a regardé un ﬁlm au lieu de
+                faire d'autres choses ?</para>
+              </listitem>
+
+              <listitem>
+                <para>Est-ce que c’était amusant ?</para>
+              </listitem>
+            </itemizedlist>
+          </section>
+        </section>
+
+        <section>
+          <title>Étape 3 : Proposer l’idée pour obtenir le
+          consentement</title>
+
+          <para>Lisez la proposition à haute voix.</para>
+
+          <informaltable colsep="0" frame="none" rowheader="firstcol"
+                         rowsep="0">
+            <tgroup cols="2">
+              <colspec align="right" colname="speaker" colwidth="1*"/>
+
+              <colspec colname="quote" colwidth="4*"/>
+
+              <spanspec align="left" nameend="quote" namest="speaker"
+                        spanname="label"/>
+
+              <tbody valign="top">
+                <row>
+                  <entry spanname="label">1. Questions de
+                  clariﬁcation:</entry>
+                </row>
+
+                <row>
+                  <entry>Facilitateur :</entry>
+
+                  <entry>« Comprenez-vous la proposition ? »</entry>
+                </row>
+
+                <row>
+                  <entry>Enfant :</entry>
+
+                  <entry>« Um... qui décide du volume ? »</entry>
+                </row>
+
+                <row>
+                  <entry>Facilitateur :</entry>
+
+                  <entry>« C'est l'administrateur qui décide du volume.
+                  »</entry>
+                </row>
+
+                <row>
+                  <entry>Enfant :</entry>
+
+                  <entry>« Et si je trouve que c'est trop fort ? »</entry>
+                </row>
+
+                <row>
+                  <entry>Facilitateur :</entry>
+
+                  <entry>« Et si nous amendions la proposition pour dire que
+                  n'importe qui peut frapper à la porte et dire que c'est trop
+                  fort ? Cela vous conviendrait-il ? »</entry>
+                </row>
+
+                <row>
+                  <entry>Enfant :</entry>
+
+                  <entry><emphasis>(pouce en l'air)</emphasis></entry>
+                </row>
+
+                <row>
+                  <entry spanname="label">2. Réactions rapides :</entry>
+                </row>
+
+                <row>
+                  <entry>Facilitateur :</entry>
+
+                  <entry>« Que pensez-vous de la proposition ? »</entry>
+                </row>
+
+                <row>
+                  <entry>Enfant 1 :</entry>
+
+                  <entry>« J'aime bien. Je veux regarder des ﬁlms. »</entry>
+                </row>
+
+                <row>
+                  <entry>Enfant 2 :</entry>
+
+                  <entry>« Moi aussi. »</entry>
+                </row>
+
+                <row>
+                  <entry>Enfant 3 :</entry>
+
+                  <entry>« J'ai peur que les gens ne fassent pas d'autres
+                  choses et que tout le monde ne regarde que le ﬁlm et que je
+                  n'aie personne avec qui jouer. »</entry>
+                </row>
+
+                <row>
+                  <entry>Facilitateur :</entry>
+
+                  <entry>« Ce serait une déception ! Et si on vériﬁait demain
+                  pour voir si ça se passe. Est-ce que ça vous convient ?
+                  »</entry>
+                </row>
+
+                <row>
+                  <entry>Enfant 3 :</entry>
+
+                  <entry>« Bien sûr, je suppose que c'est OK. »</entry>
+                </row>
+
+                <row>
+                  <entry spanname="label">3. Vériﬁcation s’il y a consentement
+                  à la proposition: Facilitateur :</entry>
+                </row>
+
+                <row>
+                  <entry>Facilitateur :</entry>
+
+                  <entry>« Est-ce que c'est assez bien pour l’instant et assez
+                  sûr pour essayer ? »</entry>
+                </row>
+
+                <row>
+                  <entry>Des enfants :</entry>
+
+                  <entry><emphasis>(pouce en l'air ou de
+                  côté)</emphasis></entry>
+                </row>
+
+                <row>
+                  <entry spanname="label">4. Célébrer la décision</entry>
+                </row>
+
+                <row>
+                  <entry>Facilitateur :</entry>
+
+                  <entry>« Yay ! C’est fait ! »</entry>
+                </row>
+
+                <row>
+                  <entry>Des enfants :</entry>
+
+                  <entry>« Woohoo ! »</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </informaltable>
+        </section>
+
+        <section>
+          <title>Préparation de la réunion</title>
 
           <itemizedlist>
-            <listitem dbf:input="short">
-              <para>Name</para>
+            <listitem>
+              <para>Recueillez des rétroactions sur la question, soit lors
+              d'une réunion, soit moyennant la <remark>TODO: add reference ||
+              ﬁche de travail sur les propositions complexes (page
+              )</remark><xref linkend="fdt-Propositions_complexes"
+              xrefstyle="select: title page"/>.</para>
             </listitem>
 
-            <listitem dbf:input="short">
-              <para>Date</para>
-            </listitem>
-
-            <listitem dbf:input="long">
-              <para>What are your feelings about this problem or
-              opportunity ?</para>
-            </listitem>
-
-            <listitem dbf:input="long">
-              <para>What needs does the group have ?</para>
-            </listitem>
-
-            <listitem dbf:input="long">
-              <para>What might go wrong ?</para>
-            </listitem>
-
-            <listitem dbf:input="long">
-              <para>What do you think we should do next ?</para>
+            <listitem>
+              <para>Formulez une proposition toute faite à présenter à la
+              réunion, en utilisant le <remark>TODO: add reference || modèle
+              de proposition complexe (page )</remark><xref
+              linkend="Modèle_Proposition_complexe"
+              xrefstyle="select: title page"/>.</para>
             </listitem>
           </itemizedlist>
-        </figure>
+
+          <note>
+            <para>Pour des ﬁches de travail imprimables au format PDF (pages
+            bordées), consultez le sitec <uri
+            xlink:href="https://sociocracyforall.org/lets-decide-together-2021"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://sociocracyforall.org/lets-decide-together-2021</uri></para>
+          </note>
+
+          <figure xml:id="odj-Propositions_complexes" dbf:role="script"
+                  xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
+            <title>Ordre du jour Réunion 7: Propositions complexes</title>
+
+            <orderedlist>
+              <listitem>
+                <para>Annoncez la durée de la réunion</para>
+
+                <para>La réunion sera <replaceable dbf:shortfield="3ex"/>
+                minutes. Mettez la minuterie.</para>
+              </listitem>
+
+              <listitem>
+                <para>Tour d'ouverture - check-in</para>
+
+                <para>Comment vas-tu aujourd’hui ?</para>
+              </listitem>
+
+              <listitem>
+                <para>Lire la proposition</para>
+              </listitem>
+
+              <listitem>
+                <para>Tour de questions de clariﬁcation</para>
+
+                <para>Est-ce que vous avez des questions sur la
+                proposition?</para>
+
+                <para>(Notez toutes les questions d’abord, répondez-y
+                ensuite.)</para>
+              </listitem>
+
+              <listitem>
+                <para>Tour de réactions rapides</para>
+
+                <para>Qu’est-ce que tu penses de la proposition?</para>
+              </listitem>
+
+              <listitem>
+                <para>Vériﬁez le consentement</para>
+
+                <para>Pouces en haut/en bas/latéralement.</para>
+              </listitem>
+
+              <listitem>
+                <para>Célébrez!</para>
+              </listitem>
+
+              <listitem>
+                <para>Tour de clôture</para>
+
+                <para>Comment s’est passée la réunion d’aujourd’hui?</para>
+              </listitem>
+            </orderedlist>
+          </figure>
+
+          <figure xml:id="fdt-Propositions_complexes" dbf:role="worksheet"
+                  xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
+            <title>Fiche de travail Propositions complexes</title>
+
+            <itemizedlist>
+              <listitem dbf:input="short">
+                <para dbf:input="short">Nom</para>
+              </listitem>
+
+              <listitem dbf:input="short">
+                <para dbf:input="short">Date</para>
+              </listitem>
+
+              <listitem>
+                <para dbf:input="long">Quels sont tes sentiments par rapport à
+                ce problème ou cette opportunité?</para>
+              </listitem>
+
+              <listitem>
+                <para dbf:input="long">Quels sont les besoins du
+                groupe?</para>
+              </listitem>
+
+              <listitem>
+                <para dbf:input="long">Qu’est-ce qui pourrait mal se
+                passer?</para>
+              </listitem>
+
+              <listitem>
+                <para dbf:input="long">Que penses-tu qu’il faudrait faire
+                comme prochaine étape/prochain pas?</para>
+              </listitem>
+            </itemizedlist>
+          </figure>
+
+          <figure xml:id="Modèle_Proposition_complexe" dbf:role="worksheet"
+                  xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
+            <title>Modèle Proposition complexe</title>
+
+            <itemizedlist>
+              <listitem>
+                <para dbf:input="short">Titre</para>
+              </listitem>
+
+              <listitem>
+                <para>Contexte</para>
+
+                <para dbf:input="long">Pourquoi a-t-on besoin de cette
+                proposition? Quel problème ou opportunité est-ce qu’il y a
+                ?</para>
+              </listitem>
+
+              <listitem>
+                <para>Besoins</para>
+
+                <para dbf:input="long">Quels besoins le groupe a-t-il par
+                rapport à cette proposition ?</para>
+              </listitem>
+
+              <listitem>
+                <para dbf:input="short">Durée</para>
+              </listitem>
+
+              <listitem>
+                <para dbf:input="long">Proposition</para>
+              </listitem>
+
+              <listitem>
+                <para dbf:input="long">Questions d’évaluation</para>
+              </listitem>
+            </itemizedlist>
+          </figure>
+        </section>
       </section>
     </chapter>
   </part>
 
-  <part>
-    <title>Cheat Sheets for Facilitators</title>
+  <part xml:id="Aide-mémoire_pour_les_animateurs">
+    <title>Aide-mémoire pour les animateurs</title>
 
-    <chapter dbf:role="info"
+    <partintro>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="illustrations/child5.jpg" width="1in"/>
+        </imageobject>
+      </mediaobject>
+    </partintro>
+
+    <chapter xml:id="fam-lever_des_objections" dbf:role="info"
              xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
-      <title>Resolving Objections Cheat Sheet</title>
+      <title>Fiche aide-mémoire pour intégrer des objections</title>
 
-      <section>
-        <title>Amend</title>
-
-        <para>Change the proposal to address the objection or concern. For
-        example:</para>
-
-        <itemizedlist>
-          <listitem>
-            <para>« It sounds like you have concerns. What can we change to
-            help you feel better?”</para>
-          </listitem>
+      <variablelist>
+        <varlistentry>
+          <term>Amendement</term>
 
           <listitem>
-            <para>« Let's do a round on how to solve this problem.”</para>
+            <para>Changez la proposition pour adresser l’objection ou la
+            préoccupation. Par exemple :</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>« Tu sembles avoir des préoccupations. Que peut-on faire
+                pour t’aider à mieux te sentir ? »</para>
+              </listitem>
+
+              <listitem>
+                <para>« Faisons un tour de parole sur comment résoudre ce
+                problème. »</para>
+              </listitem>
+            </itemizedlist>
           </listitem>
-        </itemizedlist>
-      </section>
+        </varlistentry>
 
-      <section>
-        <title>Concern</title>
+        <varlistentry>
+          <term>Préoccupation</term>
 
-        <para>Make the concern into a question to ask at check-in. For
-        example:</para>
-
-        <itemizedlist>
           <listitem>
-            <para>« Is [<replaceable>the concern</replaceable>]
-            happening?”</para>
+            <para>Transformez la préoccupation en question à poser pendant le
+            tour d’ouverture. Par exemple :</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>« Est-ce que [<replaceable>la
+                préoccupation</replaceable>] est en train de se passer
+                ? »</para>
+              </listitem>
+
+              <listitem>
+                <para>« Est-ce que [<replaceable>la
+                préoccupation</replaceable>] cause les problèmes dont on avait
+                peur ? »</para>
+              </listitem>
+            </itemizedlist>
           </listitem>
+        </varlistentry>
+
+        <varlistentry>
+          <term>Durée</term>
 
           <listitem>
-            <para>« Did [<replaceable>the concern</replaceable>] cause the
-            problems we feared it might?”</para>
+            <para>Changez le temps de check-in sur la décision. Par exemple:
+            « Et si on vérifiait pour voir comment ça va dans
+            [<replaceable>nouveau durée raccourci</replaceable>]. »</para>
           </listitem>
-        </itemizedlist>
-      </section>
+        </varlistentry>
 
-      <section>
-        <title>Term</title>
+        <varlistentry dbf:style="separated">
+          <term>Suivi</term>
 
-        <para>Change the time to check in on the decision. For example, « What
-        if we check in to see how it‘s going in [<replaceable>new time
-        frame</replaceable>].”</para>
-      </section>
+          <listitem>
+            <para>Après avoir offert une solution, demandez à la personne qui
+            avait une objection: « Est-ce que ceci fonctionne pour toi ?
+            Est-ce que c’est OK pour toi d’avancer comme cela maintenant
+            ? »</para>
 
-      <section>
-        <title>Follow up</title>
-
-        <para>After offering a solution, ask the person who made the
-        objection, « Does this work for you? Are you OK with moving forward
-        for now?”</para>
-
-        <para>Repeat the process until consent is found, then
-        celebrate!</para>
-      </section>
+            <para>Répétez le processus jusqu’à ce qu' un consentement ait été
+            trouvé, puis célébrez !</para>
+          </listitem>
+        </varlistentry>
+      </variablelist>
     </chapter>
+
+    <chapter xml:id="fam-Processus_de_sélection" dbf:role="info"
+             xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
+      <title>Fiche aide-mémoire Processus de sélection</title>
+
+      <orderedlist>
+        <listitem>
+          <para><emphasis role="bold">Lisez les propositions</emphasis> (sauf
+          si vous générez des proposition en étape 2)</para>
+        </listitem>
+
+        <listitem>
+          <para>Faites un tour de nominations et raisons</para>
+
+          <para>Qui choisis-tu, et pourquoi ?</para>
+        </listitem>
+
+        <listitem>
+          <para><emphasis role="bold">Changez les nominations</emphasis>
+          (mains levées)</para>
+
+          <para>Après avoir entendu ce que tout le monde a dit, est-ce que
+          quelqu’un souhaite changer d’avis ?</para>
+        </listitem>
+
+        <listitem>
+          <para>Proposez une idée pour consentement</para>
+
+          <para>Je propose [<replaceable>idée</replaceable>]. Pouces en haut /
+          en bas / latéralement ?</para>
+        </listitem>
+
+        <listitem>
+          <para>Célébrez la décision !</para>
+        </listitem>
+      </orderedlist>
+    </chapter>
+
+    <chapter xml:id="fam-Synthèse_de_proposition" dbf:role="info"
+             xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms">
+      <title>Fiche aide-mémoire Synthèse de proposition</title>
+
+      <orderedlist>
+        <listitem>
+          <para>Recueillez du feedback</para>
+
+          <para>Écoutez attentivement et prenez des notes.</para>
+        </listitem>
+
+        <listitem>
+          <para>Synthétisez une proposition</para>
+
+          <para>Synthétisez ce qui a été dit en une seule proposition. Essayez
+          de ne pas omettre des idées. Demandez « Est-ce que j’ai saisi tout
+          ce que vous avez dit ? » Répondez à toute question
+          éventuelle.</para>
+        </listitem>
+
+        <listitem>
+          <para>Proposez l’idée pour consentement</para>
+
+          <para>Choisissez une idée qui semble raisonnable et voyez s’il y a
+          des objections. Lisez la proposition à haute voix et résolvez toute
+          objection.</para>
+        </listitem>
+
+        <listitem>
+          <para>Célébrez la décision</para>
+        </listitem>
+      </orderedlist>
+    </chapter>
+  </part>
+
+  <part xml:id="Annexes">
+    <title>Annexes</title>
+
+    <partintro>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="illustrations/child6.jpg" width="1in"/>
+        </imageobject>
+      </mediaobject>
+    </partintro>
+
+    <appendix xml:id="Jeux_de_consentement">
+      <title>Jeux de consentement</title>
+
+      <para>La première liste concerne les choses que vous pourriez vraiment
+      vouloir décider et faire ! La deuxième liste contient des scénarios
+      imaginaires amusants à tester. L'objectif à mesurer est que tout le
+      monde soit satisfait du résultat.</para>
+
+      <para>Commencez par des discussions ouvertes sur le problème ou l'idée.
+      Ensuite, utilisez le processus de sélection :</para>
+
+      <orderedlist>
+        <listitem>
+          <para>Nommer et donner des raisons</para>
+        </listitem>
+
+        <listitem>
+          <para>Tour de changement d’avis</para>
+        </listitem>
+
+        <listitem>
+          <para>Le facilitateur propose une nomination pour le processus de
+          consentement</para>
+        </listitem>
+      </orderedlist>
+
+      <para>Pour plus de détails, voir la <remark>TODO: check this
+      reference</remark><xref linkend="fam-Processus_de_sélection"
+      xrefstyle="select: title page"/>.</para>
+
+      <section>
+        <title>Scénarios pour le monde réel</title>
+
+        <para>Imaginons que nous décidions de :</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Quel ﬁlm regarder ensemble</para>
+          </listitem>
+
+          <listitem>
+            <para>Que manger pour le dîner</para>
+          </listitem>
+
+          <listitem>
+            <para>Quel restaurant choisir</para>
+          </listitem>
+
+          <listitem>
+            <para>Quel terrain de jeu choisir</para>
+          </listitem>
+
+          <listitem>
+            <para>Où aller lors d'une sortie éducative</para>
+          </listitem>
+
+          <listitem>
+            <para>Quel type d'animal de compagnie choisir (pour notre classe,
+            pour notre famille, etc.)</para>
+          </listitem>
+
+          <listitem>
+            <para>Comment nommer un animal de compagnie</para>
+          </listitem>
+
+          <listitem>
+            <para>Qui va s'occuper de l'animal</para>
+          </listitem>
+
+          <listitem>
+            <para>Comment nommer un groupe, une équipe ou une bande</para>
+          </listitem>
+
+          <listitem>
+            <para>Sur quoi régler le thermostat aujourd'hui</para>
+          </listitem>
+
+          <listitem>
+            <para>Si l’on sort à l’extérieur sous différentes conditions
+            météorologiques</para>
+          </listitem>
+
+          <listitem>
+            <para>Quel jeu jouer tout de suite</para>
+          </listitem>
+
+          <listitem>
+            <para>Quel projet de groupe faire ensemble</para>
+          </listitem>
+
+          <listitem>
+            <para>Quel friandise à obtenir</para>
+          </listitem>
+
+          <listitem>
+            <para>Quel parfum de glace à partager</para>
+          </listitem>
+
+          <listitem>
+            <para>Comment partager les bonbons recueillis lors de la chasse
+            aux bonbons ou d'une piñata</para>
+          </listitem>
+
+          <listitem>
+            <para>Quelle représentation théâtrale mettre en place
+            ensemble</para>
+          </listitem>
+
+          <listitem>
+            <para>Que planter dans votre jardin partagé</para>
+          </listitem>
+
+          <listitem>
+            <para>Quel type d'équipement de terrain de jeu est désiré pour un
+            espace partagé</para>
+          </listitem>
+
+          <listitem>
+            <para>Comment calculer l’argent de poche pour un enfant</para>
+          </listitem>
+
+          <listitem>
+            <para>Les normes de propreté des espaces communs</para>
+          </listitem>
+
+          <listitem>
+            <para>Comment construire un fort à partir de couvertures et
+            d’oreillers ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Comment partager le temps avec les systèmes de jeux (ou
+            autres jouets) ?</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section>
+        <title>Scénarios imaginaires</title>
+
+        <section>
+          <title>Île déserte</title>
+
+          <para>Votre bateau de pirates a sombré et vous avez échoué sur une
+          île déserte. Vous avez des cocotiers, un couteau et des allumettes,
+          mais pas de bateau. Que faites-vous ensemble pour survivre le
+          premier jour et la première nuit ? Le groupe doit se mettre d'accord
+          sur un plan.</para>
+        </section>
+
+        <section>
+          <title>Glissement de terrain</title>
+
+          <para>Il y a eu un glissement de terrain et vous êtes coincé dans la
+          pièce où vous vous trouvez pour les 24 heures qui suivent, jusqu'à
+          ce que les équipes de secours puissent vous rejoindre. Regardez
+          autour de vous les matériaux dont vous disposez. Comment votre
+          équipe peut-elle survivre ? Quels sont les cinq principaux objets
+          que vous utiliserez et comment les utiliserez-vous ? Mettez-vous
+          d'accord sur vos cinq articles et sur leur classement par ordre
+          d'importance.</para>
+        </section>
+
+        <section>
+          <title>Inondation</title>
+
+          <para>Vous êtes sur une île dans une rivière en crue. Vous disposez
+          d'un radeau, mais il ne peut accueillir que deux personnes et il est
+          si fragile qu'il s'effondrera après avoir traversé la rivière une
+          seule fois. Vous avez aussi une corde solide (moitié moins longue
+          que la largeur de la rivière) et tout ce que chacun a dans sa poche
+          ou son sac à dos en ce moment. Comment allez-vous quitter l'île ?
+          Mettez-vous d'accord sur un plan.</para>
+        </section>
+
+        <section>
+          <title>Vacances de rêve</title>
+
+          <para>Votre groupe a gagné un voyage tous frais payés n'importe où
+          dans le monde. Vous devez décider d'un endroit où tout le monde est
+          d'accord pour partir ensemble ou les billets iront à quelqu'un
+          d'autre. Où irez-vous ?</para>
+        </section>
+
+        <section>
+          <title>100 $ d'améliorations</title>
+
+          <para>Votre groupe dispose de 100 dollars à dépenser pour améliorer
+          l’école ou la maison. À quoi allez-vous consacrer cet argent
+          ?</para>
+        </section>
+
+        <section>
+          <title>Conception de parcs à thème</title>
+
+          <para>Vous êtes tous partenaires d'une société de conception de
+          parcs à thème et vous avez remporté un nouveau contrat. Le parc à
+          thème ne peut comporter que trois caractéristiques. Proposez une
+          conception qui conviendra à toutes et tous.</para>
+        </section>
+
+        <section>
+          <title>Super pouvoirs</title>
+
+          <para>Chaque membre de votre groupe a le super pouvoir de son choix.
+          Quelles sont les règles pour utiliser vos super pouvoirs les uns
+          avec les autres ?</para>
+
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="illustrations/circle.png" width="100%"/>
+            </imageobject>
+          </mediaobject>
+        </section>
+      </section>
+    </appendix>
+
+    <appendix xml:id="Invitations_aux_tour_de_table">
+      <title>Invitations aux tour de parole</title>
+
+      <section xml:id="tdt-connexion_et_le_plaisir">
+        <title>Tours de parole pour la connexion et le plaisir</title>
+
+        <itemizedlist>
+          <listitem>
+            <para>Quel est votre ﬁlm ou émission préféré(e) ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Quelle est votre couleur préférée, et pourquoi ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Quel aliment avez-vous le plus hâte de manger ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Si tu étais un animal, quel animal serais-tu ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Si tu pouvais voler ou devenir invisible, lequel
+            choisirais-tu ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Si tu ne pouvais avoir qu'un seul super pouvoir, lequel ce
+            serait ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Si tu pouvais voyager dans le temps, à quelle époque
+            irais-tu ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Si tu pouvais être une créature mythique, que serais-tu
+            ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Quelle est ta blague préférée à partager ? (limitez-vous à
+            une par jour, car les blagues peuvent être longues à
+            raconter).</para>
+          </listitem>
+
+          <listitem>
+            <para>Quelle est l'une de tes activités préférées ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Si tu pouvais aller n'importe où dans le monde, où irais-tu
+            ?</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section xml:id="tdt-feedback">
+        <title>Tours de parole pour feedback / rétroactions</title>
+
+        <itemizedlist>
+          <listitem>
+            <para>Qu'est-ce qui te plaît dans le fait de faire partie de ce
+            groupe ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Comment penses-tu que nous pourrions améliorer les choses
+            ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Quel genre d'activités aimerais-tu faire ensemble ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Que voudrais-tu acheter avec notre budget discrétionnaire
+            ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Si on pouvait faire une sortie éducative, où irais-tu
+            ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Que pouvons-nous faire pour rendre notre communauté plus
+            inclusive ou plus bienveillante ?</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section xml:id="tdt-réunions_pour_empathie_et_intelligence_émotionnelle">
+        <title>Tours de parole ou réunions pour l'empathie et l'intelligence
+        émotionnelle</title>
+
+        <itemizedlist>
+          <listitem>
+            <para>Comment ça se manifeste à l'extérieur lorsque vous êtes en
+            colère / triste / heureux / effrayé / etc. ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Qu'est-ce qui vous met en colère, vous rend triste, vous
+            rend heureux, vous fait peur, etc. ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Si vos émotions d'aujourd'hui étaient une sorte de météo,
+            que seraient-elles ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Si ce que tu ressens en ce moment était un certain endroit
+            dans le monde, ce serait quoi ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Levez les doigts pour montrer comment vous vous sentez ce
+            matin (1 signiﬁe « je passe un mauvais moment » et 5 signiﬁe « je
+            me sens vraiment bien »).</para>
+          </listitem>
+
+          <listitem>
+            <para>A ton avis, qu'est-ce qui fait un bon ami ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Décrivez un moment où vous vous êtes senti en colère,
+            triste, heureux, effrayé, etc.</para>
+          </listitem>
+
+          <listitem>
+            <para>Qu'est-ce qu'on ressent quand on est exclu ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Qu'est-ce que ça fait d'être inclus ?</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section xml:id="tdt-résolution_des_conflits">
+        <title>Tours de parole pour la résolution des conflits</title>
+
+        <para>Celles-ci fonctionnent dans cet ordre pour les parties en conﬂit
+        et s'inspirent des pratiques réparatrices.</para>
+
+        <orderedlist>
+          <listitem>
+            <para>Que s'est-il passé ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Qu'est-ce que vous en pensez ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Qu'est-ce qui améliorerait la situation le plus possible, en
+            ce moment même ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Que voulez-vous faire différemment la prochaine fois ? Que
+            voulez-vous demander à l'autre personne ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Pouvez-vous accepter cette demande ?</para>
+          </listitem>
+        </orderedlist>
+      </section>
+
+      <section xml:id="Tours_de_clôture">
+        <title>Tours de clôture</title>
+
+        <itemizedlist>
+          <listitem>
+            <para>Rose, bourgeon, épine : une rose est quelque chose que vous
+            avez apprécié aujourd'hui, un bourgeon est quelque chose que vous
+            attendez avec impatience, et une épine est quelque chose qui a été
+            difﬁcile.</para>
+          </listitem>
+
+          <listitem>
+            <para>En trois mots, comment s'est passée la journée ?</para>
+          </listitem>
+
+          <listitem>
+            <para>Montrez avec votre visage ce que vous ressentez
+            aujourd'hui.</para>
+          </listitem>
+        </itemizedlist>
+
+        <para>Pour plus d'incitations aux tours de parole, voir le livre
+        <citetitle>Circle Forward : Building a Restorative School
+        Community</citetitle> de Carolyn Boyes-Watson et Kay Pranis.</para>
+      </section>
+    </appendix>
+
+    <appendix xml:id="Exemples_accords_de_Pathfinder">
+      <title>Exemples d'accords de
+      <foreignphrase>Pathfinder</foreignphrase></title>
+
+      <para>Il s'agit d'un exemple de document vivant de
+      <foreignphrase>Pathﬁnder</foreignphrase>, ce qui signiﬁe qu'il évolue et
+      change en continu. Des mots comme « respect » et « approprié » sont
+      continuellement afﬁnés par des discussions de groupe et de nouveaux
+      accords lors de réunions de changement, si nécessaire. Il peut être
+      tentant de faire tout ce travail dès le départ et d'essayer de tout
+      comprendre en tant qu'adulte dans la pièce. Non seulement c'est inutile,
+      mais cela exclut les enfants du processus. Rappelez-vous qu'il est
+      important de commencer petit avec quelque chose qui est facile à
+      accepter comme « assez bien pour l’instant et assez sûr pour essayer »,
+      puis vous pouvez toujours le changer et le développer plus tard.</para>
+
+      <section>
+        <title>Respectez les autres</title>
+
+        <para>Les personnes présentes à
+        <foreignphrase>Pathﬁnder</foreignphrase> ont le droit d'être traitées
+        avec respect. J'accepte de traiter les autres avec respect, qu'ils
+        soient membres, bénévoles, employés ou parents.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">Arrêtez-vous lorsque quelqu’un vous
+            demande de le faire</emphasis></para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis role="bold">Pas de violence</emphasis> contre les
+            autres, y compris par :</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>vos mots : cris, insultes, etc.</para>
+              </listitem>
+
+              <listitem>
+                <para>votre corps : pousser, frapper, donner des coups de
+                pied, etc.</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section>
+        <title>Prenez soin des objets</title>
+
+        <para>Les personnes accueillies à
+        <foreignphrase>Pathﬁnder</foreignphrase> ont droit à un environnement
+        propre et sûr. Je m'engage à protéger et à entretenir l'espace
+        partagé.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">Prenez soin</emphasis> des biens
+            communs de <foreignphrase>Pathﬁnder</foreignphrase></para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis role="bold">Nettoyez</emphasis> après vous</para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis role="bold">Ne touchez</emphasis> pas aux affaires
+            des autres</para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis role="bold">Respectez le règlement de la salle et
+            les règles de sécurité</emphasis></para>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section>
+        <title>Prenez soin des personnes</title>
+
+        <para>Les personnes présentes à
+        <foreignphrase>Pathﬁnder</foreignphrase> ont le droit d'exister en
+        paix. Je m'engage à me comporter de manière appropriée aﬁn de ne pas
+        perturber les autres.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Faites attention en <emphasis role="bold">courant</emphasis>
+            :</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Pas de jeux de poursuite à l'intérieur</para>
+              </listitem>
+
+              <listitem>
+                <para>Dégagez les couloirs des activités bruyantes/railleuses
+                lorsqu'on vous le demande.</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+
+          <listitem>
+            <para>Soyez prudent lorsque vous faites une <emphasis
+            role="bold">bagarre amicale</emphasis> :</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Bagarrer amicalement dans la salle de jeux
+                uniquement</para>
+              </listitem>
+
+              <listitem>
+                <para>Ne jetez pas d'objets (sauf dans la salle de jeux, et
+                seulement des objets mous).</para>
+              </listitem>
+
+              <listitem>
+                <para>Ne grimpez ou sautez pas sur les meubles</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+
+          <listitem>
+            <para>Faites attention au <emphasis role="bold">volume</emphasis>
+            :</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Pas de cris à l'intérieur : utilisez des voix
+                d’intérieur</para>
+              </listitem>
+
+              <listitem>
+                <para>Utilisez des écouteurs ou des casques d'écoute lorsqu'on
+                vous le demande</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+
+          <listitem>
+            <para>Faites attention aux <emphasis role="bold">insultes et au
+            contenu</emphasis> :</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Comportez-vous de manière appropriée dans un
+                environnement d'âge mixtes</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section>
+        <title>Participez</title>
+
+        <para>Les personnes présentes à
+        <foreignphrase>Pathﬁnder</foreignphrase> ont le droit de se faire
+        entendre et de voir leurs besoins satisfaits. J'accepte de participer
+        à l'élaboration, au respect et à l'application des règles de la
+        communauté.</para>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">La participation est obligatoire
+            dans</emphasis> :</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Réunions du matin</para>
+              </listitem>
+
+              <listitem>
+                <para>Réunions de changement</para>
+              </listitem>
+
+              <listitem>
+                <para>Le Comité Culture (à tour de rôle en tant que membre et
+                quand on est impliqué dans un cas)</para>
+              </listitem>
+
+              <listitem>
+                <para>Temps de nettoyage</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section>
+        <title>Aidez à résoudre les conflits</title>
+
+        <para>Les personnes présentes à
+        <foreignphrase>Pathﬁnder</foreignphrase> ont le droit d'exister en
+        paix. J'accepte d'aider à résoudre les conﬂits lorsqu'ils
+        surviennent.</para>
+      </section>
+    </appendix>
+
+    <appendix xml:id="Ressources_supplémentaires">
+      <title>Ressources supplémentaires</title>
+
+      <section>
+        <title>Livres</title>
+
+        <itemizedlist>
+          <listitem>
+            <para>Boyes-Watson, Carolyn &amp; Pranis, Kay (2015)
+            <foreignphrase>Circle Forward : Building a Restorative School
+            Community</foreignphrase>, Living Justice Press - Un manuel pour
+            l'utilisation des pratiques réparatrices dans les écoles avec
+            beaucoup d'incitations à la conversation dans les cercles.</para>
+          </listitem>
+
+          <listitem>
+            <para>Buck, John &amp; Villness, Sharon (2007) <foreignphrase>We
+            The People : Consenting to a Deeper Democracy</foreignphrase>,
+            Sociocracy.info Press - L'histoire de la sociocratie et l'histoire
+            de Gerhard Endenberg, un ancien élève de Werkplaats
+            Kindergemeenschap qui a formalisé la méthode du cercle
+            sociocratique.</para>
+          </listitem>
+
+          <listitem>
+            <para>Endenberg, Gerhard (1998) <foreignphrase>Sociocracy: The
+            organization of decision-making</foreignphrase>, Eburon - Une
+            traduction du néerlandais du texte déﬁnitif de l'initiateur de la
+            sociocratie.</para>
+          </listitem>
+
+          <listitem>
+            <para>John, Edwin M. (2021) <foreignphrase>Hello,
+            Neighbourocracy!, Neighbourhood Community Network</foreignphrase>
+            - Manuel et histoire des parlements de quartier.</para>
+          </listitem>
+
+          <listitem>
+            <para>Joseph, Fiona (2011) BEATRICE <foreignphrase>The Cadbury
+            Heiress Who Gave Away Her Fortune</foreignphrase>, Foxwell Press —
+            L'histoire de Kees Boeke et Beatrice Cadbury, qui ont fondé le
+            Werkplaats Kindergemeenschap aux Pays-Bas, une école dont la
+            sociocratie est issue.</para>
+          </listitem>
+
+          <listitem>
+            <para>Rau, Ted J. (2021) <foreignphrase>Who Decides Who Decides ?
+            How to start a group so everyone has a voice</foreignphrase>,
+            Sociocracy For All — Un petit livret pour appliquer la sociocratie
+            dans les entreprises en démarrage. Simple et bref.</para>
+          </listitem>
+
+          <listitem>
+            <para>Rau, Ted. J &amp; Koch-Gonzales, Jerry (2018)
+            <foreignphrase>Many Voices One Song — Shared power with
+            sociocracy</foreignphrase>, Sociocracy for All. Le manuel pratique
+            déﬁnitif pour la sociocratie (traduit en français)</para>
+          </listitem>
+
+          <listitem>
+            <para>Rawlston, Wyatt (1956) <foreignphrase>The Werkplaats
+            Adventure</foreignphrase> - épuisé mais disponible en ligne à
+            l'adresse suivante : <uri
+            xlink:href="https://archive.org/details/werkplaats-adventure"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://archive.org/details/werkplaats-adventure</uri>,
+            consulté le 30 juin 2021 — L'histoire de la Werkplaats
+            Kindergemeenschap dans les années 1950, une fois qu'elle était
+            bien établie. Un récit à la première personne.</para>
+          </listitem>
+
+          <listitem>
+            <para>Simm, Gina (2019) <foreignphrase>Heart to Heart: Three
+            Systems for Staying Connected: A Manual for Parents and
+            Teachers</foreignphrase>, Small Batch Books — Un excellent manuel
+            pratique pour la communication nonviolente avec les enfants en
+            famille et en milieu scolaire.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section>
+        <title>Articles</title>
+
+        <itemizedlist>
+          <listitem>
+            <para>Renee L. Owen &amp; John A. Buck (2020) :
+            <foreignphrase>Creating the conditions for reﬂective team
+            practices: examining sociocracy as a self-organizing governance
+            model that promotes transformative learning</foreignphrase>,
+            Reﬂective Practice.</para>
+          </listitem>
+
+          <listitem>
+            <para>John A. Buck et Gerard Endenberg (2012) : <foreignphrase>The
+            Creative Forces of Self-Organization</foreignphrase>, Sociocratic
+            Center, Rotterdam, Netherlands. À consulter en ligne:</para>
+
+            <para><uri
+            xlink:href="https://sociocracyconsulting.com/wp-content/uploads/2016/04/CreativeForces-updated2012.pdf"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://sociocracyconsulting.com/wp-content/uploads/2016/04
+            /CreativeForces-updated2012.pdf<remark>TODO: explore better ways
+            to break long URIs (sigh: I've done this before; I should really
+            write a note about it.)</remark></uri></para>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section>
+        <title>Sites web</title>
+
+        <itemizedlist>
+          <listitem>
+            <para><uri xlink:href="https://wonderingschool.org/"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://wonderingschool.org/</uri>
+            — Ressources et formations approfondies et conseils sur les écoles
+            utilisant la sociocratie. Comprend le merveilleux ﬁlm, School
+            Circles, qui est un ﬁlm incontournable pour quiconque souhaite
+            utiliser la sociocratie dans les écoles.</para>
+          </listitem>
+
+          <listitem>
+            <para><uri xlink:href="https://sociocracy30.org/"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://sociocracy30.org/</uri>
+            — Organisée par patterns (motifs), cette ressource peut aider à
+            identiﬁer les éléments de la sociocratie à mettre en œuvre un par
+            un. Notre réunion de changement est inspirée par le concept de
+            <foreignphrase>drivers</foreignphrase> ou « conducteurs » de
+            Sociocratie 3.0.</para>
+          </listitem>
+
+          <listitem>
+            <para><uri xlink:href="https://sociocracyforall.org/"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://sociocracyforall.org/</uri>
+            — La source déﬁnitive d'articles, livres, vidéos, formations et
+            plus encore sur la sociocratie.</para>
+          </listitem>
+
+          <listitem>
+            <para><uri xlink:href="https://agilelearningcenters.org/"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://agilelearningcenters.org/</uri>
+            — La réunion de changement provient directement des outils de
+            l'<foreignphrase>Agile Learning Center</foreignphrase>. Dans ce
+            livre, nous l'avons modiﬁé pour inclure la prise de décision par
+            consentement.</para>
+          </listitem>
+
+          <listitem>
+            <para><uri xlink:href="https://cnvc.org/"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://cnvc.org/</uri>
+            — Centre pour la communication nonviolente. Des listes très utiles
+            d'inventaire des sentiments et des besoins sont disponibles
+            gratuitement sur le site.</para>
+          </listitem>
+
+          <listitem>
+            <para><uri xlink:href="https://hopewildertraining.com/"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://hopewildertraining.com/</uri>
+            — Site web professionnel de l’auteure pour la formation et le
+            conseil en sociocratie dans les écoles.</para>
+          </listitem>
+
+          <listitem>
+            <para><uri xlink:href="https://www.childrenparliament.in/"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://www.childrenparliament.in/</uri>
+            — La page ofﬁcielle des Parlements des enfants.</para>
+          </listitem>
+
+          <listitem>
+            <para><uri
+            xlink:href="https://www.facebook.com/worldchildrenparliament/"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://www.facebook.com/worldchildrenparliament/</uri>
+            — Page Facebook de l'initiative mondiale du Parlement des
+            enfants.</para>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section>
+        <title>Films</title>
+
+        <itemizedlist>
+          <listitem>
+            <para><foreignphrase>School Circles: Every Voice
+            Matters</foreignphrase>. Réalisé par Charlie Shread et Marianne
+            Osorio, Wondering School, 2018 — Un documentaire offrant une vue
+            approfondie des écoles utilisant la sociocratie aux Pays-Bas par
+            le projet <foreignphrase>Wondering School</foreignphrase>.
+            Visionnez-le en ligne à l'adresse suivante : <uri
+            xlink:href="https://schoolcirclesﬁlm.com/"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://schoolcirclesﬁlm.com/</uri></para>
+          </listitem>
+
+          <listitem>
+            <para><foreignphrase>Power to the Children</foreignphrase>.
+            Réalisé par Anna Kersting. Anna Kersting Filmproduktion, 2020. —
+            Un documentaire sur les Parlements des enfants en Inde. Visionner
+            en ligne à l'adresse suivante : <uri
+            xlink:href="https://www.powertothechildren-ﬁlm.com/"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://www.powertothechildren-ﬁlm.com/Games</uri></para>
+          </listitem>
+        </itemizedlist>
+      </section>
+
+      <section>
+        <title>Jeux</title>
+
+        <itemizedlist>
+          <listitem>
+            <para><foreignphrase>Keep the Balance</foreignphrase>. Anja
+            Ritter, 2021. Un jeu sur le consentement réalisé par le Centre de
+            sociocratie en Autriche. Voir en ligne : <uri
+            xlink:href="https://keepthebalance.games/"
+            xmlns:xlink="http://www.w3.org/1999/xlink">https://keepthebalance.games/</uri></para>
+          </listitem>
+        </itemizedlist>
+      </section>
+    </appendix>
+
+    <acknowledgements>
+      <title>Remerciements</title>
+
+      <para>À mon partenaire, Chris, merci de m'avoir aidée à surmonter les
+      blocages émotionnels de l'écriture, qui étaient bien plus difﬁciles que
+      le processus d'écriture lui-même. Merci de m'avoir mis le pied à
+      l'étrier lors des révisions ﬁnales, le livre est bien meilleur grâce à
+      tes commentaires, même s'ils ont été difﬁciles à entendre pour moi.
+      Enﬁn, merci pour la mise en page et le travail graphique ! Je n'aurais
+      pas pu le faire sans ton soutien.</para>
+
+      <para>À mes amis, merci de m'avoir encouragé tout au long du
+      chemin.</para>
+
+      <para>À Ted Rau, merci de m'avoir demandé d'écrire ce livre, de m'avoir
+      encadré et inspiré par tes propres écrits, et de m'avoir soutenu à
+      chaque étape du processus, de la rédaction à la publication en passant
+      par l’édition.</para>
+
+      <para>À CJ O'Reilly, merci d'avoir fourni une caisse de résonance pour
+      la vue d'ensemble du livre, et de m'avoir aidé à améliorer
+      considérablement la structure et le contenu du livre.</para>
+
+      <para>À Russell Baldwin, merci d'avoir passé l'ensemble du manuscrit au
+      peigne ﬁn ensemble. J'ai apprécié nos rencontres et la clarté que tu
+      m'as aidée à apporter au livre en me disant quand les choses n'avaient
+      pas de sens pour vous. Le livre est tellement meilleur grâce à votre
+      contribution réﬂéchie.</para>
+
+      <para>À Shala Massey, merci de m'avoir aidé à réﬂéchir à la conception
+      de la couverture, et d'avoir rendu amusant et agréable un processus que
+      je trouvais intimidant au départ.</para>
+
+      <para>À <foreignphrase>Sociocracy For All</foreignphrase>, merci de
+      m'avoir donné un toit pour mon travail. J'ai beaucoup appris en
+      participant à SoFA sur la sociocratie ainsi que sur la façon de gérer
+      une organisation avec compassion et de faire avancer les choses tout en
+      respectant profondément les personnes impliquées. J'apprécie
+      l'opportunité de publier à un public plus large, et j'espère aider les
+      enfants du monde entier à faire l'expérience de la sociocratie et de la
+      prise de décision participative.</para>
+    </acknowledgements>
   </part>
 </book>

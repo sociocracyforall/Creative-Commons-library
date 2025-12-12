@@ -8,12 +8,6 @@
     version='1.0'>
   <xsl:include href="../dblatex-config.xsl"/>
 
-  <!-- These are both intentionally empty, as we start our page formatting
-  with a comma, so we don't want any space before it. (The default is a
-  single space for each.) -->
-  <xsl:param name="xref.title-page.separator"></xsl:param>
-  <xsl:param name="xref.label-page.separator"></xsl:param>
-
   <xsl:param name="toc.contentsname">Matières</xsl:param>
 
   <xsl:param name="local.l10n.xml" select="document('')"/>
@@ -23,9 +17,6 @@
         <l:template name="chapter" text="chapitre&#160;%n"/>
         <l:template name="figure" text="figure&#160;%n"/>
         <l:template name="section" text="la section&#160;%n"/>
-      </l:context>
-      <l:context name="xref">
-        <l:template name="page" text=", page %p"/>
       </l:context>
     </l:l10n>
   </l:i18n>

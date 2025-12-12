@@ -5,6 +5,7 @@
     xmlns:lhd="tag:publishing.house.circle@sociocracyforall.org,2025:LaTeX_hints_in_DocBook"
     xmlns:dbf="tag:publishing.house.circle@sociocracyforall.org,2025:DocBook_forms"
     lhd:prefix="lhd"
+    dbf:prefix="dbf"
     version='1.0'>
   <!-- Don't show any list of titled items: -->
   <xsl:param name="doc.lot.show"></xsl:param>
@@ -15,12 +16,18 @@
   <xsl:param name="latex.class.options">openany,12pt</xsl:param>
 
   <!--xsl:param name="page.width">8in</xsl:param-->
-  <xsl:param name="geometry.options">paperheight=10in, height=8in,
+  <!--xsl:param name="geometry.options">paperheight=10in, height=8in,
   paperwidth=7in, textwidth=5in,
 	marginratio={2:3,1:1},
 	bindingoffset=0.3in,
 	includeheadfoot,
-	dvips=false,pdftex=false,vtex=false</xsl:param>
+	dvips=false,pdftex=false,vtex=false</xsl:param-->
+
+  <xsl:param name="paper.type">a4paper</xsl:param>
+  <xsl:param name="page.margin.top">1in</xsl:param>
+  <xsl:param name="page.margin.bottom">1in</xsl:param>
+  <xsl:param name="page.margin.inner">1in</xsl:param>
+  <xsl:param name="page.margin.outer">1in</xsl:param>
 
   <xsl:param name="latex.encoding">utf8</xsl:param>
 
@@ -36,8 +43,8 @@
 
   <xsl:param name="index.numbered">0</xsl:param>
 
-  <xsl:param name="toc.section.depth">1</xsl:param>
-  <xsl:param name="doc.section.depth">0</xsl:param>
+  <xsl:param name="toc.section.depth">0</xsl:param>
+  <xsl:param name="doc.section.depth">-1</xsl:param>
 
   <xsl:param name="figure.default.position">[htbp]</xsl:param>
 
@@ -52,8 +59,11 @@
   <!-- This is working around a strange bug: -->
   <xsl:param name="show.comments">0</xsl:param>
 
+  <xsl:param name="qanda.defaultlabel">none</xsl:param>
+
   <xsl:template match="*[@dbf:role]">
     <xsl:text>\begin{tcolorbox}[enhanced,%
+                                left=0mm,top=0mm,right=0mm,bottom=0mm,%
                                 spread=-0.5in,%
                                 height fill,text fill,%
                                 colback=white,%
@@ -62,11 +72,14 @@
                                 boxsep=0.5in,%
                                ]&#10;</xsl:text>
     <xsl:text>%\pagebreak&#10;\thispagestyle{empty}&#10;</xsl:text>
+    <xsl:call-template name="label.id"/>
     <xsl:text>\textbf{</xsl:text>
     <xsl:apply-templates select="title/node()"/>
     <xsl:text>}&#10;</xsl:text>
     <xsl:apply-templates select="node()[not(self::title)]"/>
-    <xsl:text>&#10;\vfill&#10;</xsl:text>
+    <xsl:if test="not(.//*[@dbf:input = 'long'])">
+      <xsl:text>&#10;\vfill&#10;</xsl:text>
+    </xsl:if>
     <xsl:variable name="form-role">
       <xsl:choose>
         <xsl:when test="@dbf:role = 'continuation'">
@@ -89,6 +102,34 @@
       </xsl:otherwise>
     </xsl:choose>
     <xsl:text>\end{tcolorbox}&#10;</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="replaceable[@dbf:shortfield]">
+    <xsl:text>\rule{</xsl:text>
+    <xsl:value-of select="@dbf:shortfield"/>
+    <xsl:text>}{0.5pt}</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="para[@dbf:input = 'short']">
+    <xsl:text>&#10;</xsl:text>
+    <xsl:call-template name="label.id"/>
+    <xsl:apply-templates/>
+    <xsl:text> : \rule{27ex}{0.5pt}&#10;</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="para[@dbf:input = 'long']">
+    <xsl:text>&#10;</xsl:text>
+    <xsl:call-template name="label.id"/>
+    <xsl:apply-templates/>
+    <xsl:text>&#10;\vfill&#10;</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="*[@dbf:input = 'description']">
+    <!--xsl:text>\tcbox[tcbox raise=-1ex,boxrule=0em,toprule=0.5pt,colback=white]{\small{}</xsl:text-->
+    <xsl:text>\begin{tcolorbox}[enhanced,width=\linewidth/2,box align=top,frame hidden,borderline north={0.5pt}{0pt}{black},colback=white,nobeforeafter,halign=flush center]</xsl:text>
+    <xsl:apply-imports/>
+    <xsl:text>\end{tcolorbox}</xsl:text>
+    <!--xsl:text>}</xsl:text-->
   </xsl:template>
 
   <xsl:template name="lang.setup">
@@ -201,23 +242,28 @@
 
   <xsl:template match="acknowledgements[@role = 'testimonials']">
     <xsl:text>\newpage&#10;\markboth{}{}&#10;</xsl:text>
-    <xsl:apply-templates/>
+    <xsl:text>\begin{minipage}[b]{\linewidth-1in}&#10;
+    \Large\headfamily </xsl:text>
+    <xsl:value-of select="title"/>
+    <xsl:text>\end{minipage}\includegraphics[width=1in,keepaspectratio=true]{</xsl:text>
+    <xsl:value-of select="mediaobject/imageobject/imagedata/@fileref"/>
+    <xsl:text>}&#10;&#10;\bigskip&#10;</xsl:text>
+    <xsl:apply-templates select="blockquote"/>
     <xsl:text>\newpage&#10;</xsl:text>
   </xsl:template>
 
   <xsl:template match="acknowledgements[@role = 'testimonials']/blockquote">
-    <xsl:text>\color{teal}\textit{\small </xsl:text>
+    <xsl:text>&#10;</xsl:text>
     <xsl:apply-templates select="*[not(self::attribution)]"/>
-    <xsl:text>}&#10;&#10;</xsl:text>
+    <xsl:text>&#10;</xsl:text>
     <xsl:apply-templates select="attribution"/>
-    <xsl:text>\\&#10;&#10;</xsl:text>
   </xsl:template>
 
   <xsl:template match="acknowledgements[@role = 'testimonials']
                        /blockquote/attribution">
-    <xsl:text>\color{black}\small </xsl:text>
+    <xsl:text>&#10;\qquad ---\parbox[t]{4in}{</xsl:text>
     <xsl:apply-templates/>
-    <xsl:text>&#10;</xsl:text>
+    <xsl:text>}\bigskip&#10;</xsl:text>
   </xsl:template>
 
   <xsl:template match="colophon">
@@ -406,6 +452,8 @@
 
     <xsl:apply-templates select="dedication"/>
 
+    <xsl:apply-templates select="acknowledgements[@role = 'testimonials']"/>
+
     <!-- Print the TOC/LOTs -->
     <xsl:if test="contains($layout, 'toc ')">
       <xsl:if test="$toc.contentsname != ''">
@@ -421,22 +469,23 @@
     out of document order. How would we want to handle this robustly
     for the general case? -->
     <xsl:apply-templates select="(abstract|$info/abstract)[1]"/>
-    <xsl:apply-templates select="preface|glossary|acknowledgements"/>
+    <xsl:apply-templates select="preface|glossary
+                                 |acknowledgements[@role != 'testimonials']"/>
 
     <!-- This is all in the style file, as well, but doesn't seem to work there for
     some reason. (The symptom is that only odd-numbered pages are displayed.) -->
     <xsl:text>
-      \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-      \renewcommand{\sectionmark}[1]{\markright{#1}}
-      \pagestyle{fancy}
-      \fancyhf{}
-      \fancyhead[RO]{\color{teal}\leftmark}
-      \fancyhead[LE]{\color{teal}\scshape\nouppercase{\DBKtitle}}
+      %\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+      %\renewcommand{\sectionmark}[1]{\markright{#1}}
+      %\pagestyle{fancy}
+      %\fancyhf{}
+      %\fancyhead[RO]{\color{teal}\leftmark}
+      %\fancyhead[LE]{\color{teal}\scshape\nouppercase{\DBKtitle}}
       %\fancyhead[RE,CO]{\textbf\thepage}
       %\fancyfoot[CE,CO]{\textbf\thepage}
-      \fancyfoot[LE,RO]{\thepage}
+      %\fancyfoot[LE,RO]{\thepage}
       %HIERHE
-      \fancyhfoffset[]{2em}
+      %\fancyhfoffset[]{2em}
     </xsl:text>
 
     <!-- Body content -->
@@ -471,6 +520,39 @@
 
     <xsl:value-of select="$latex.enddocument"/>
   </xsl:template>
+
+  <!-- In this book, part titles can have an image, which we save in a lrbox in
+  order to align to the right. -->
+  <xsl:template match="part">
+    <xsl:text>%&#10;</xsl:text>
+    <xsl:text>% PART&#10;</xsl:text>
+    <xsl:text>%&#10;</xsl:text>
+    <xsl:variable name="partgraphic" select="partintro/*[1][self::mediaobject]"/>
+    <xsl:if test="$partgraphic">
+      <xsl:text>\begin{lrbox}{\partgraphic}&#10;</xsl:text>
+      <xsl:text>\includegraphics[width=1in,keepaspectratio=true]{</xsl:text>
+      <xsl:value-of select="$partgraphic/imageobject/imagedata/@fileref"/>
+      <xsl:text>}&#10;</xsl:text>
+      <!--xsl:apply-templates select="$partgraphic"/-->
+      <xsl:text>\end{lrbox}&#10;</xsl:text>
+    </xsl:if>
+    <xsl:apply-templates select="." mode="endnotes"/>
+    <xsl:call-template name="mapheading"/>
+    <xsl:apply-templates mode="skip-partgraphic"/>
+    <!-- Force exiting the part. It assumes the bookmark package available -->
+    <xsl:if test="not(following-sibling::part)">
+      <xsl:text>\bookmarksetup{startatroot}&#10;</xsl:text>
+    </xsl:if>
+  </xsl:template>
+
+  <xsl:template match="*" mode="skip-partgraphic">
+    <xsl:apply-templates select="."/>
+  </xsl:template>
+  <xsl:template match="partintro" mode="skip-partgraphic">
+    <xsl:apply-templates select="*" mode="skip-partgraphic"/>
+  </xsl:template>
+  <!-- This is handled specially in the customized template above. -->
+  <xsl:template match="partintro/*[1][self::mediaobject]" mode="skip-partgraphic"/>
 
   <!-- Format a glosslist as a table. This involves the templates through the
   `glossdef` template. -->
@@ -729,6 +811,15 @@
   <!-- For this book, we wrap contents of any entry containing a list in a
   minipage environment. Do we want to promote this behavior upstream? -->
   <xsl:template match="entry" mode="output">
+    <!-- This should perhaps be in a different place, such as in the `mode="newtbl"`
+    template matching `entry`, but currently nothing upstream deals with the
+    `@rowheader` attribute at all: -->
+    <xsl:variable name="rowheader-modifier">
+      <xsl:if test="../../self::tbody and ../../../../@rowheader = 'firstcol'
+                    and count(preceding-sibling::entry) = 0">
+        <xsl:text>\bfseries&#10;</xsl:text>
+      </xsl:if>
+    </xsl:variable>
     <xsl:call-template name="normalize-border">
       <xsl:with-param name="string">
         <xsl:choose>
@@ -743,11 +834,13 @@
             </xsl:variable>
             <xsl:text>\begin{minipage}[</xsl:text>
             <xsl:value-of select="$chosen-vertical-alignment"/>
-            <xsl:text>]{\linewidth}&#10;</xsl:text>
+            <xsl:text>]{\linewidth}\raggedright&#10;</xsl:text>
+            <xsl:value-of select="$rowheader-modifier"/>
             <xsl:apply-templates/>
             <xsl:text>\vspace{\arrayrulewidth}&#10;\end{minipage}&#10;</xsl:text>
           </xsl:when>
           <xsl:otherwise>
+            <xsl:value-of select="$rowheader-modifier"/>
             <xsl:apply-templates/>
           </xsl:otherwise>
         </xsl:choose>
@@ -757,6 +850,103 @@
 
   <xsl:template match="@numeration[. = 'loweralpha']" mode="enumitem">
     <xsl:text>(a)</xsl:text>
+  </xsl:template>
+
+  <!-- The source templates don't break paragraphs in these contexts. I'm not sure
+  why, but we do want the breaking behavior. Should we upstream this? -->
+  <xsl:template match="question/para|answer/para">
+    <xsl:text>&#10;</xsl:text>
+    <xsl:call-template name="label.id"/>
+    <xsl:apply-templates/>
+    <xsl:text>&#10;</xsl:text>
+  </xsl:template>
+
+  <!-- Format questions in bold rather than italics. -->
+  <xsl:template match="question" mode="wp">
+    <xsl:param name="defaultlabel"/>
+
+    <xsl:choose>
+      <xsl:when test="$defaultlabel='number'">
+        <xsl:text>\item</xsl:text>
+        <xsl:if test="label">
+          <!-- label has priority on defaultlabel -->
+          <xsl:text>[\textbf{</xsl:text>
+          <xsl:value-of select="label"/>
+          <xsl:text>}]</xsl:text>
+        </xsl:if>
+        <xsl:text>{}</xsl:text>
+      </xsl:when>
+      <xsl:when test="label">
+        <xsl:text>\textbf{</xsl:text>
+        <xsl:value-of select="label"/>
+        <xsl:text>}~</xsl:text>
+      </xsl:when>
+      <xsl:when test="$defaultlabel='qanda'">
+        <xsl:text>\textbf{</xsl:text>
+        <xsl:call-template name="gentext">
+          <xsl:with-param name="key" select="'question'"/>
+        </xsl:call-template>
+        <xsl:text>}~</xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text>&#10;</xsl:text>
+      </xsl:otherwise>
+    </xsl:choose>
+
+    <!-- don't use textbf since we can have several paragraphs -->
+    <xsl:text>{\bf </xsl:text>
+    <xsl:apply-templates/>
+    <xsl:text>}&#10;</xsl:text>
+  </xsl:template>
+
+  <!-- Format terms in bold rather than italics. -->
+  <xsl:template match="firstterm|glossterm">
+    <xsl:variable name="termtext">
+      <xsl:call-template name="inline.boldseq"/>
+    </xsl:variable>
+
+    <xsl:choose>
+    <xsl:when test="@linkend">
+      <xsl:call-template name="hyperlink.markup">
+        <xsl:with-param name="linkend" select="@linkend"/>
+        <xsl:with-param name="text" select="$termtext"/>
+      </xsl:call-template>
+    </xsl:when>
+    <xsl:when test="$glossterm.auto.link != 0">
+      <xsl:variable name="term">
+        <xsl:choose>
+          <xsl:when test="@baseform">
+            <xsl:value-of select="normalize-space(@baseform)"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:value-of select="normalize-space(.)"/>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:variable>
+      <xsl:variable name="glossentry"
+         select="(//glossentry[normalize-space(glossterm)=$term or
+                               normalize-space(glossterm/@baseform)=$term][@id])[1]"/>
+      <xsl:choose>
+      <xsl:when test="$glossentry">
+        <xsl:call-template name="hyperlink.markup">
+          <xsl:with-param name="linkend" select="$glossentry/@id"/>
+          <xsl:with-param name="text" select="$termtext"/>
+        </xsl:call-template>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:message>
+          <xsl:text>Error: no ID glossentry for glossterm: </xsl:text>
+          <xsl:value-of select="."/>
+          <xsl:text>.</xsl:text>
+        </xsl:message>
+        <xsl:value-of select="$termtext"/>
+      </xsl:otherwise>
+      </xsl:choose>
+    </xsl:when>
+    <xsl:otherwise>
+      <xsl:value-of select="$termtext"/>
+    </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
   <!-- These are elements for which no link text exists, so an xref to one
