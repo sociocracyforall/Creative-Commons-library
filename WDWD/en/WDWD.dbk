@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<book version="5.2" xmlns="http://docbook.org/ns/docbook"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      xmlns:ns6="http://www.w3.org/2000/svg"
-      xmlns:ns52="http://www.w3.org/1999/xhtml"
-      xmlns:ns5="http://docbook.org/ns/transclusion"
-      xmlns:ns4="http://www.w3.org/1998/Math/MathML"
-      xmlns:ns="http://docbook.org/ns/docbook">
+<book version="5.2" xmlns="http://docbook.org/ns/docbook">
   <info>
     <title>Who Decides Who Decides?</title>
 
@@ -78,123 +72,128 @@
       Ian Massey</para>
 
       <para><!--Warning: text element with unused attributes: class="ltx_phantom" fontsize="90%" -->blabla<!--Warning: text element with unused attributes: fontsize="90%" --></para>
-
-      <para><emphasis role="from-text">“Humanity is undergoing a species level
-      rite of passage. We can choose to disagree on how to address the
-      problems of climate change, cascading ecosystems collapse, obscene
-      levels of inequality, etc., or we can manifest our evolutionary
-      potential and mature into new ways of collaboration for the common good
-      of people and planet. This will happen place by place, community by
-      community, bioregion by bioregion. It requires paying attention to the
-      biocultural uniqueness of places and people. We are capable of moving
-      from a culturally dominant story of competitive scarcity to co-creating
-      a world of collaborative abundance and in the process heal the Earth and
-      her people. In order to do so we need to work on inclusion,
-      participation and collaborative decision making. Sociocracy offers
-      effective ways to accomplish just that. Ted Rau’s book makes its
-      practice and processes easy to understand and apply for any group ready
-      to step into the adventure of co-creating diverse regenerative cultures
-      everywhere.”<!--Warning: text element with unused attributes: color="#000000" font="upright" --></emphasis></para>
-
-      <para><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->Daniel
-      Christian Wahl, Author, Speaker, Advisor</para>
-
-      <para><emphasis role="from-text">“Powerful, tangible, and empowering
-      organizing has never been more needed. Here is a gentle, stepwise guide
-      for how to begin. Drawing on many years of experience and teaching, Ted
-      Rau takes the mystery out of forming effective groups.”<!--Warning: text element with unused attributes: color="#000000" font="upright" --></emphasis></para>
-
-      <para><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->Nathan
-      Schneider, University of Colorado Boulder</para>
-
-      <para><emphasis role="from-text">“Ted Rau has written another invaluable
-      survival guide for groups interested in distributing power and working
-      towards a shared purpose. He demystifies common and frustrating pain
-      points of governance and offers practical, down-to-earth tips for
-      running effective meetings and clearing the path for meaningful
-      collaboration.”<!--Warning: text element with unused attributes: color="#000000" font="upright" --></emphasis></para>
-
-      <para><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->Lisa
-      Gill, founder of Reimaginaire and self-management coach</para>
-
-      <para><emphasis role="from-text">“Ted Rau applies his Sociocratic
-      brilliance to the perennial “chicken-and-egg” conundrum for emerging
-      groups: “who decides who decides”? Having just navigated this very issue
-      in an emerging group with Ted, I can attest two things: first, Ted’s
-      strategies work; and second, this book will be a required resource the
-      next time I’m in such a position without Ted there! Read, enjoy, emerge,
-      decide!”<!--Warning: text element with unused attributes: color="#000000" font="upright" --></emphasis></para>
-
-      <para><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->Bill
-      Baue, Systems Transformation Catalyst, Senior Director r3.0</para>
-
-      <para><emphasis role="from-text">“Ted Rau has done an outstanding job of
-      tackling how to avoid the sneaky slide into a power struggle amongst
-      well-meaning people who really want to cooperate and collaborate but
-      need better tools. A practical, accessible approach to decision-making,
-      this book is an excellent handbook for groups wanting to fulfill a
-      mission and not spend their time stuck in a decision-making
-      quandary.”<!--Warning: text element with unused attributes: color="#000000" font="upright" --></emphasis></para>
-
-      <para><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->Dawna
-      Jones, author, Decision Making for Dummies</para>
-
-      <para><emphasis role="from-text">“How does one start a completely
-      self-governed group? Ted Rau is one of the most appropriate people to
-      answer this question, because it is something he works on every day, not
-      only in the organization of which he is the operational leader and
-      co-founder, Sociocracy For All, but also accompanying groups and
-      organizations (for profit and non-profit) that seek self-management and
-      sharing of power. For those of us who work with him, he is a constant
-      guide and reference due to his great knowledge, multiple experiences and
-      the ability to explain things with clear, simple and with replicable
-      materials. This book brings great clarity to those who accompany groups
-      and who are part of them, since there are always common situations.
-      Here, we will find concrete ways to be able to navigate and overcome
-      them.”<!--Warning: text element with unused attributes: color="#000000" font="upright" --></emphasis></para>
-
-      <para><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->Nora
-      Plaza, Consultant, leader of Sociocracia Práctica</para>
-
-      <para><emphasis role="from-text">“What I love about Ted’s writing is
-      that he speaks from the heart and from experience. Everything Ted
-      discusses in this book he has tried and tested; and everything works!
-      Our world seems to be moving through a phase of increasing division and
-      rampant self-interest. Forming small groups that embody cultures of
-      caring, empathy and ‘power-with’ rather than ‘power-over’ is a way for
-      each of us to practice the skills that the world needs to move toward
-      greater harmony. Well functioning small groups are a powerful piece of
-      the more networked world we are creating. Ted is a gift to the world,
-      and this book is a fantastic, practical guide to creating groups with
-      the culture we need.”<!--Warning: text element with unused attributes: color="#000000" font="upright" --></emphasis></para>
-
-      <para><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->Paul
-      Atkins, Prosocial.world</para>
     </legalnotice>
   </info>
+
+  <acknowledgements role="testimonials">
+    <blockquote>
+      <attribution>Daniel Christian Wahl, Author, Speaker,
+      Advisor</attribution>
+
+      <para>Humanity is undergoing a species level rite of passage. We can
+      choose to disagree on how to address the problems of climate change,
+      cascading ecosystems collapse, obscene levels of inequality, etc., or we
+      can manifest our evolutionary potential and mature into new ways of
+      collaboration for the common good of people and planet. This will happen
+      place by place, community by community, bioregion by bioregion. It
+      requires paying attention to the biocultural uniqueness of places and
+      people. We are capable of moving from a culturally dominant story of
+      competitive scarcity to co-creating a world of collaborative abundance
+      and in the process heal the Earth and her people. In order to do so we
+      need to work on inclusion, participation and collaborative decision
+      making. Sociocracy offers effective ways to accomplish just that. Ted
+      Rau’s book makes its practice and processes easy to understand and apply
+      for any group ready to step into the adventure of co-creating diverse
+      regenerative cultures everywhere.</para>
+    </blockquote>
+
+    <blockquote>
+      <attribution>Nathan Schneider, University of Colorado
+      Boulder</attribution>
+
+      <para>Powerful, tangible, and empowering organizing has never been more
+      needed. Here is a gentle, stepwise guide for how to begin. Drawing on
+      many years of experience and teaching, Ted Rau takes the mystery out of
+      forming effective groups.</para>
+    </blockquote>
+
+    <blockquote>
+      <attribution>Lisa Gill, founder of Reimaginaire and self-management
+      coach</attribution>
+
+      <para>Ted Rau has written another invaluable survival guide for groups
+      interested in distributing power and working towards a shared purpose.
+      He demystifies common and frustrating pain points of governance and
+      offers practical, down-to-earth tips for running effective meetings and
+      clearing the path for meaningful collaboration.</para>
+    </blockquote>
+
+    <blockquote>
+      <attribution>Bill Baue, Systems Transformation Catalyst, Senior Director
+      r3.0</attribution>
+
+      <para>Ted Rau applies his Sociocratic brilliance to the perennial
+      “chicken-and-egg” conundrum for emerging groups: “who decides who
+      decides”? Having just navigated this very issue in an emerging group
+      with Ted, I can attest two things: first, Ted’s strategies work; and
+      second, this book will be a required resource the next time I’m in such
+      a position without Ted there! Read, enjoy, emerge, decide!</para>
+    </blockquote>
+
+    <blockquote>
+      <attribution>Dawna Jones, author, Decision Making for
+      Dummies</attribution>
+
+      <para>Ted Rau has done an outstanding job of tackling how to avoid the
+      sneaky slide into a power struggle amongst well-meaning people who
+      really want to cooperate and collaborate but need better tools. A
+      practical, accessible approach to decision-making, this book is an
+      excellent handbook for groups wanting to fulfill a mission and not spend
+      their time stuck in a decision-making quandary.</para>
+    </blockquote>
+
+    <blockquote>
+      <attribution>Nora Plaza, Consultant, leader of Sociocracia
+      Práctica</attribution>
+
+      <para>How does one start a completely self-governed group? Ted Rau is
+      one of the most appropriate people to answer this question, because it
+      is something he works on every day, not only in the organization of
+      which he is the operational leader and co-founder, Sociocracy For All,
+      but also accompanying groups and organizations (for profit and
+      non-profit) that seek self-management and sharing of power. For those of
+      us who work with him, he is a constant guide and reference due to his
+      great knowledge, multiple experiences and the ability to explain things
+      with clear, simple and with replicable materials. This book brings great
+      clarity to those who accompany groups and who are part of them, since
+      there are always common situations. Here, we will find concrete ways to
+      be able to navigate and overcome them.</para>
+    </blockquote>
+
+    <blockquote>
+      <attribution>Paul Atkins, Prosocial.world</attribution>
+
+      <para>What I love about Ted’s writing is that he speaks from the heart
+      and from experience. Everything Ted discusses in this book he has tried
+      and tested; and everything works! Our world seems to be moving through a
+      phase of increasing division and rampant self-interest. Forming small
+      groups that embody cultures of caring, empathy and ‘power-with’ rather
+      than ‘power-over’ is a way for each of us to practice the skills that
+      the world needs to move toward greater harmony. Well functioning small
+      groups are a powerful piece of the more networked world we are creating.
+      Ted is a gift to the world, and this book is a fantastic, practical
+      guide to creating groups with the culture we need.</para>
+    </blockquote>
+  </acknowledgements>
 
   <acknowledgements>
     <title>Gratitude</title>
 
-    <para><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->I
-    am feeling gratitude to my fellow travelers in Content Circle, in
+    <para>I am feeling gratitude to my fellow travelers in Content Circle, in
     particular, Rodger Mattlage and Eric Tolson. Joe Brewer gave the impulse
     that made me sit down and write. Mark Petz made substantial early
     edits.</para>
 
-    <para><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->I
-    am grateful to the Publishing Circle of Shala Massey, Russell Baldwin,
-    Sara Rodriguez for connection, action, and companionship. I still don’t
-    quite understand how the universe connected us right at the perfect
+    <para>I am grateful to the Publishing Circle of Shala Massey, Russell
+    Baldwin, Sara Rodriguez for connection, action, and companionship. I still
+    don’t quite understand how the universe connected us right at the perfect
     moment. I guess it was meant to happen!</para>
 
-    <para><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->Sociocracy
-    For All for the countless interactions that have led to an understanding
-    of the issues forming groups face.</para>
+    <para>Sociocracy For All for the countless interactions that have led to
+    an understanding of the issues forming groups face.</para>
 
-    <para><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->My
-    partner Jerry Koch-Gonzalez takes for granted what is evident to him. Yet,
-    he taught me so much just by being who he is.</para>
+    <para>My partner Jerry Koch-Gonzalez takes for granted what is evident to
+    him. Yet, he taught me so much just by being who he is.</para>
   </acknowledgements>
 
   <chapter>
@@ -6407,21 +6406,29 @@ Should these kind of dashes be em dashes??> by consent, of course – that we
             shareable resources in support of this book.</para>
 
             <para><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->See
-            <xref xlink:href="WDWDmeeting1a.pdf"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
+            <xref xlink:href="WDWDmeeting1a.pdf"
+            xmlns:xlink="http://www.w3.org/1999/xlink"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
             <!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->See
-            <xref xlink:href="WDWDmeeting1b.pdf"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
+            <xref xlink:href="WDWDmeeting1b.pdf"
+            xmlns:xlink="http://www.w3.org/1999/xlink"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
             <!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->See
-            <xref xlink:href="WDWDmeeting2a.pdf"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
+            <xref xlink:href="WDWDmeeting2a.pdf"
+            xmlns:xlink="http://www.w3.org/1999/xlink"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
             <!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->See
-            <xref xlink:href="WDWDmeeting2b.pdf"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
+            <xref xlink:href="WDWDmeeting2b.pdf"
+            xmlns:xlink="http://www.w3.org/1999/xlink"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
             <!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->See
-            <xref xlink:href="WDWDmeeting3a.pdf"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
+            <xref xlink:href="WDWDmeeting3a.pdf"
+            xmlns:xlink="http://www.w3.org/1999/xlink"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
             <!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->See
-            <xref xlink:href="WDWDmeeting3b.pdf"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
+            <xref xlink:href="WDWDmeeting3b.pdf"
+            xmlns:xlink="http://www.w3.org/1999/xlink"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
             <!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->See
-            <xref xlink:href="WDWDmeeting4a.pdf"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
+            <xref xlink:href="WDWDmeeting4a.pdf"
+            xmlns:xlink="http://www.w3.org/1999/xlink"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->
             <!--Warning: text element with unused attributes: color="#000000" fontsize="90%" -->See
-            <xref xlink:href="WDWDmeeting4b.pdf"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" --></para>
+            <xref xlink:href="WDWDmeeting4b.pdf"
+            xmlns:xlink="http://www.w3.org/1999/xlink"/><!--Warning: text element with unused attributes: color="#000000" fontsize="90%" --></para>
           </section>
         </section>
       </section>
