@@ -1,10 +1,10 @@
 # The workflow for translating SoFAN books
 
-What do you need to do in order to translate one of the books that SoFAN authors have released under a Creative Commons license? (For any of these topics, please contact Publishing House Circle or submit an issue report on GitHub if you have questions or requests.)
+Books in this repository are written for publication by SoFAN under a Creative Commons license. This document provides an overview of the tools and processes for translating these books. Publishing House Circle holds the domain for maintaining this document and organizing this repository. Before you get started on a translation project, please see the Publishing House policy handbook and contact Publishing House Circle for support in organizing your project.
 
 ## Considerations while translating
 
-There are a few things that you may want to consider before you get started with the translation work. In general, you should try to stay focused on the **content** of the book, without too much concern for how it will ultimately be formatted. (Formatting, and, ultimately, publishing your translation is our side of the work.) Some of these suggestions do help to ensure that the formatting will go smoothly, however.
+There are a few things that you may want to consider before you get started with translation work. In general, you should try to stay focused on the **content** of the book, without too much concern for how it will ultimately be formatted. (Formatting, and, ultimately, publishing the text is our side of the work.) Some of these suggestions do help to ensure that the formatting will go smoothly, however.
 
 If you are working with a team, your whole team should discuss how you want to stay **consistent**, particularly with respect to how you want to translate important words, phrases, and idioms from the source text. One strategy that has been successful for other teams is to create a **translation glossary** before starting your translation that can serve as a reference as you do that work. (Francine Proulx-Kenzle, the language authority for French translation projects, has said that “the creation of a glossary is crucial: it's *the* point of reference when translating words in a “sociocratic” context. It's hard for me to emphasize how much my team and I appreciated having this common language (which we adopted by consent in a circle meeting)! We put many hours into this, and it was well worth it!”)
 
